@@ -8,8 +8,10 @@ Dünyadaki güvenilir kaynaklardan son haberleri oku. Kripto piyasasını (özel
 
 ## Adımlar
 
-1. Haberleri topla: `python3 haber/topla.py 12`
-   (son 12 saat; Reuters, Bloomberg, FT, WSJ, CNBC, CoinDesk, The Block, Cointelegraph, Decrypt.)
+1. Haberleri al:
+   - `git pull -q origin main`
+   - **`haber/ham.json`** dosyasını oku. Bu dosyayı GitHub Actions her saat (xx:40) toplar: son 12 saat; Reuters, Bloomberg, FT, WSJ, CNBC, CoinDesk, The Block, Cointelegraph, Decrypt.
+   - Dosyanın içindeki en yeni haber 3 saatten eskiyse ya da dosya yoksa `python3 haber/topla.py 12` ile kendin toplamayı dene.
 2. Çıktıdan kripto fiyatlarını etkileyebilecek **8–12 haber** seç:
    - Bitcoin fiyat hareketi, ETF giriş/çıkışları, büyük şirket alımları
    - Fed, faiz, enflasyon, dolar, tahvil faizleri, büyük jeopolitik olaylar (makro)
@@ -18,17 +20,11 @@ Dünyadaki güvenilir kaynaklardan son haberleri oku. Kripto piyasasını (özel
    - Aynı olayı anlatan birden fazla haber varsa birini al. Kriptoyla ilgisi olmayan haberleri (spor, magazin, şirket birleşmeleri vb.) alma.
 3. `haberler.json` dosyasını aşağıdaki biçimde **baştan yaz**.
 4. Dosyanın geçerli JSON olduğunu kontrol et: `python3 -c "import json;json.load(open('haberler.json'))"`
-5. Sadece `haberler.json` dosyasını commit'le ve `main` dalına push'la. Commit mesajı: `Haber özeti: <saat UTC>`. Başka dosyaya dokunma.
+5. Sadece `haberler.json` dosyasını commit'le (`ham.json`'a dokunma) ve `main` dalına push'la. Commit mesajı: `Haber özeti: <saat UTC>`. Başka dosyaya dokunma.
 
-### Betik ağ hatası verirse (ör. "Tunnel connection failed: 403")
+### Hiç haber alınamazsa
 
-Bulut ortamı bazı sitelere doğrudan erişemeyebilir. O zaman haberleri **WebFetch** aracıyla oku:
-
-- `topla.py` içindeki FEEDS listesindeki RSS adreslerini WebFetch ile aç (en az CoinDesk, Cointelegraph, The Block, Decrypt ve iki Google News adresi). Her birinden son 12 saatin haberlerini başlık, tarih, link ve kısa açıklamayla iste.
-- Bunlar da yetersiz kalırsa **WebSearch** ile "bitcoin crypto market news today" ve "Fed dollar Treasury yields today" gibi aramalar yap. Sadece Reuters, Bloomberg, FT, WSJ, CNBC, CoinDesk, The Block, Cointelegraph, Decrypt kaynaklı ve son 24 saate ait sonuçları kullan.
-- Sonra 2-5. adımlarla devam et.
-
-Hiçbir yoldan haber alınamazsa dosyayı değiştirme ve commit atma.
+`ham.json` yoksa ya da eskiyse ve `topla.py` ağ hatası veriyorsa (ör. "Tunnel connection failed: 403"), dosyayı değiştirme ve commit atma. Telefona bildirim gönderme.
 
 ## Biçim
 

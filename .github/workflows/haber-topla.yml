@@ -1,0 +1,34 @@
+# Her saat haber kaynaklarının RSS akışlarını toplayıp haber/ham.json'a yazar.
+# Saatlik Claude görevi (haber/GOREV.md) bu dosyayı okuyup Türkçe özet çıkarır.
+# (Claude'un bulut ortamı haber sitelerine doğrudan erişemiyor, GitHub Actions erişebiliyor.)
+name: Haberleri topla
+
+on:
+  schedule:
+    - cron: "40 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: haber-topla
+  cancel-in-progress: false
+
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: RSS akışlarını topla
+        run: python3 haber/topla.py 12 > /tmp/ham.json
+      - name: Boş değilse kaydet
+        run: |
+          python3 -c "import json,sys; d=json.load(open('/tmp/ham.json')); sys.exit(0 if d['adet'] > 0 else 1)"
+          cp /tmp/ham.json haber/ham.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add haber/ham.json
+          git commit -q -m "Ham haberler: $(date -u +%H:%M) UTC" || exit 0
+          git pull -q --rebase origin main
+          git push -q
