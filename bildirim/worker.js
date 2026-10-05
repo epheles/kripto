@@ -1,16 +1,21 @@
 // Kripto Çizelge: BTC bildirim worker'ı (Cloudflare Workers)
 //
 // Her dakika BTC fiyatına bakar. Son bildirimden bu yana fiyat ESIK (%) kadar
-// değiştiyse ntfy üzerinden telefona bildirim yollar ve referansı yeni fiyata çeker.
+// değiştiyse telefona bildirim yollar ve referansı yeni fiyata çeker.
+// Bildirim Telegram botu üzerinden gider (TELEGRAM_TOKEN varsa), yoksa ntfy denenir.
 //
-// Gerekli ayarlar (Cloudflare panelinde, kurulum: bildirim/KURULUM.md):
-//   KV         : KV namespace bağlantısı (referans fiyatı saklar)
-//   NTFY_TOPIC : ntfy konu adı (gizli tut, tahmin edilemeyen bir isim)
-//   NTFY_TOKEN : ntfy hesabının erişim anahtarı (tk_…). Olmazsa ntfy, Cloudflare'in
-//                paylaşılan IP'si yüzünden "daily message quota reached" (429) verir.
-//   ESIK       : isteğe bağlı, varsayılan 0.5
-//   SITE_URL   : isteğe bağlı, bildirime dokununca açılacak adres
-//   Cron       : * * * * *
+// Gerekli ayarlar (Cloudflare panelinde, kurulum: KURULUM.md):
+//   KV             : KV namespace bağlantısı (referans fiyatı ve Telegram sohbetini saklar)
+//   TELEGRAM_TOKEN : @BotFather'dan alınan bot anahtarı (Secret)
+//   ESIK           : isteğe bağlı, varsayılan 0.5
+//   SITE_URL       : isteğe bağlı, mesajın altına eklenen site adresi
+//   Cron           : * * * * *
+// Telegram sohbeti bir kez bağlanır: bota mesaj yaz, sonra worker adresini ?baglan=1 ile aç.
+//
+// ntfy (yedek): NTFY_TOPIC (+ NTFY_TOKEN). Ücretsiz planda Cloudflare'in paylaşılan IP'si
+// yüzünden çoğu zaman "daily message quota reached" (429) verir.
+
+const KOD_SURUMU = 3;
 
 const FIYAT_KAYNAKLARI = [
   async () => {
@@ -38,9 +43,36 @@ async function btcFiyati() {
 
 const fmt = p => Math.round(p).toLocaleString('en-US');
 
+/* ---------- Telegram ---------- */
+const tgApi = (env, metot) => `https://api.telegram.org/bot${env.TELEGRAM_TOKEN}/${metot}`;
+
+async function telegram(env, metin) {
+  const chat = await env.KV.get('tg_chat');
+  if (!chat) throw new Error('Telegram sohbeti bağlı değil. Telegram\'da botuna bir mesaj yaz, sonra bu adresi ?baglan=1 ile aç.');
+  const r = await fetch(tgApi(env, 'sendMessage'), {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ chat_id: chat, text: metin, disable_web_page_preview: true }),
+  });
+  if (!r.ok) throw new Error('telegram ' + r.status + ' ' + (await r.text()));
+}
+
+// Bota en son mesaj yazan sohbeti bulur ve KV'ye kaydeder
+async function telegramBagla(env) {
+  if (!env.TELEGRAM_TOKEN) throw new Error('TELEGRAM_TOKEN ayarlanmamış');
+  const r = await fetch(tgApi(env, 'getUpdates'));
+  const j = await r.json();
+  if (!j.ok) throw new Error('telegram: ' + j.description);
+  const son = [...j.result].reverse().find(u => u.message && u.message.chat);
+  if (!son) throw new Error('Bota henüz mesaj gelmemiş. Telegram\'da botunu aç, "merhaba" yaz, sonra bu sayfayı yenile.');
+  await env.KV.put('tg_chat', String(son.message.chat.id));
+  await telegram(env, '✅ Kripto Çizelge bağlandı.\nBTC %' + (env.ESIK || '0.5') + ' hareket edince buraya mesaj gelecek.');
+  return { baglandi: true, sohbet: son.message.chat.first_name || son.message.chat.title || 'tamam' };
+}
+
+/* ---------- ntfy (yedek) ---------- */
 async function ntfy(env, baslik, mesaj, yukari) {
   const headers = { 'Content-Type': 'application/json' };
-  // Hesapla gönderim: kota Cloudflare'in paylaşılan IP'sine değil, ntfy hesabına sayılır
   if (env.NTFY_TOKEN) headers.Authorization = 'Bearer ' + env.NTFY_TOKEN;
   const r = await fetch('https://ntfy.sh/', {
     method: 'POST',
@@ -57,8 +89,17 @@ async function ntfy(env, baslik, mesaj, yukari) {
   if (!r.ok) throw new Error('ntfy ' + r.status + ' ' + (await r.text()));
 }
 
+async function bildir(env, baslik, mesaj, yukari) {
+  if (env.TELEGRAM_TOKEN) {
+    return telegram(env, `${yukari ? '📈' : '📉'} ${baslik}\n${mesaj}${env.SITE_URL ? '\n' + env.SITE_URL : ''}`);
+  }
+  if (env.NTFY_TOPIC) return ntfy(env, baslik, mesaj, yukari);
+  throw new Error('Bildirim kanalı ayarlanmamış (TELEGRAM_TOKEN)');
+}
+
+/* ---------- fiyat kontrolü ---------- */
 async function kontrol(env) {
-  if (!env.KV || !env.NTFY_TOPIC) throw new Error('KV veya NTFY_TOPIC ayarlanmamış');
+  if (!env.KV) throw new Error('KV bağlantısı ayarlanmamış');
   const esik = parseFloat(env.ESIK || '0.5');
   const p = await btcFiyati();
   const ref = await env.KV.get('ref', 'json');
@@ -72,7 +113,7 @@ async function kontrol(env) {
   let bildirim = false;
   if (Math.abs(degisim) >= esik) {
     const yukari = degisim > 0;
-    await ntfy(env,
+    await bildir(env,
       `BTC ${yukari ? 'yükseldi' : 'düştü'} ${yukari ? '+' : '−'}%${Math.abs(degisim).toFixed(2)}`,
       `${fmt(ref.p)} → ${fmt(p)} $`,
       yukari);
@@ -87,12 +128,15 @@ export default {
     ctx.waitUntil(kontrol(env));
   },
 
-  // Tarayıcıdan açınca durumu gösterir. ?test=1 telefona deneme bildirimi yollar.
+  // Tarayıcıdan açınca durumu gösterir.
+  //   ?baglan=1  Telegram sohbetini bağlar (önce bota mesaj yaz)
+  //   ?test=1    telefona deneme bildirimi yollar
   async fetch(req, env) {
     const url = new URL(req.url);
     try {
+      if (url.searchParams.get('baglan') === '1') return Response.json(await telegramBagla(env));
       if (url.searchParams.get('test') === '1') {
-        await ntfy(env, 'Kripto Çizelge bağlandı', 'BTC %' + (env.ESIK || '0.5') + ' hareket edince buraya bildirim gelecek.', true);
+        await bildir(env, 'Kripto Çizelge test', 'BTC %' + (env.ESIK || '0.5') + ' hareket edince bildirim gelecek.', true);
         return Response.json({ test: 'gönderildi' });
       }
       return Response.json(await kontrol(env));
@@ -100,7 +144,12 @@ export default {
       // Teşhis için hangi ayarların tanımlı olduğunu da göster (değerleri değil)
       return Response.json({
         hata: e.message,
-        ayarlar: { KV: !!env.KV, NTFY_TOPIC: !!env.NTFY_TOPIC, NTFY_TOKEN: !!env.NTFY_TOKEN, kod_surumu: 2 },
+        ayarlar: {
+          KV: !!env.KV,
+          TELEGRAM_TOKEN: !!env.TELEGRAM_TOKEN,
+          telegram_bagli: env.KV ? !!(await env.KV.get('tg_chat')) : false,
+          kod_surumu: KOD_SURUMU,
+        },
       }, { status: 500 });
     }
   },
