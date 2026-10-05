@@ -97,7 +97,11 @@ export default {
       }
       return Response.json(await kontrol(env));
     } catch (e) {
-      return Response.json({ hata: e.message }, { status: 500 });
+      // Teşhis için hangi ayarların tanımlı olduğunu da göster (değerleri değil)
+      return Response.json({
+        hata: e.message,
+        ayarlar: { KV: !!env.KV, NTFY_TOPIC: !!env.NTFY_TOPIC, NTFY_TOKEN: !!env.NTFY_TOKEN, kod_surumu: 2 },
+      }, { status: 500 });
     }
   },
 };
