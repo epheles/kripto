@@ -20,7 +20,15 @@ Dünyadaki güvenilir kaynaklardan son haberleri oku. Kripto piyasasını (özel
 4. Dosyanın geçerli JSON olduğunu kontrol et: `python3 -c "import json;json.load(open('haberler.json'))"`
 5. Sadece `haberler.json` dosyasını commit'le ve `main` dalına push'la. Commit mesajı: `Haber özeti: <saat UTC>`. Başka dosyaya dokunma.
 
-Topla betiği hiç haber getiremezse (ağ hatası) dosyayı değiştirme ve commit atma.
+### Betik ağ hatası verirse (ör. "Tunnel connection failed: 403")
+
+Bulut ortamı bazı sitelere doğrudan erişemeyebilir. O zaman haberleri **WebFetch** aracıyla oku:
+
+- `topla.py` içindeki FEEDS listesindeki RSS adreslerini WebFetch ile aç (en az CoinDesk, Cointelegraph, The Block, Decrypt ve iki Google News adresi). Her birinden son 12 saatin haberlerini başlık, tarih, link ve kısa açıklamayla iste.
+- Bunlar da yetersiz kalırsa **WebSearch** ile "bitcoin crypto market news today" ve "Fed dollar Treasury yields today" gibi aramalar yap. Sadece Reuters, Bloomberg, FT, WSJ, CNBC, CoinDesk, The Block, Cointelegraph, Decrypt kaynaklı ve son 24 saate ait sonuçları kullan.
+- Sonra 2-5. adımlarla devam et.
+
+Hiçbir yoldan haber alınamazsa dosyayı değiştirme ve commit atma.
 
 ## Biçim
 
