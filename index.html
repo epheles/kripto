@@ -1,0 +1,1265 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Kripto Çizelge</title>
+<meta name="theme-color" content="#0D1520">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Kripto">
+<link rel="apple-touch-icon" href="icon.png">
+<link rel="icon" href="icon.png">
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/lightweight-charts@4.2.0/dist/lightweight-charts.standalone.production.js"></script>
+<style>
+  :root{
+    --bg:#0D1520; --surface:#132031; --raised:#1A2A3D; --float:#22364D;
+    --line:#22344A; --line-soft:rgba(140,157,178,.12);
+    --text:#EAF0F6; --muted:#8FA1B6; --faint:#5F7189;
+    --sup:#45D39C; --sup-bg:rgba(69,211,156,.09); --sup-strong:rgba(69,211,156,.2);
+    --res:#F47C73; --res-bg:rgba(244,124,115,.09); --res-strong:rgba(244,124,115,.2);
+    --btc:#F4B744; --btc-bg:rgba(244,183,68,.1);
+    --spring:cubic-bezier(.34,1.56,.64,1);
+    --s1:4px; --s2:8px; --s3:12px; --s4:16px; --s5:24px; --s6:32px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:
+      radial-gradient(1200px 500px at 85% -10%, rgba(244,183,68,.07), transparent 60%),
+      radial-gradient(900px 600px at -10% 110%, rgba(69,211,156,.05), transparent 60%),
+      var(--bg);
+    color:var(--text);
+    font-family:"IBM Plex Sans",system-ui,sans-serif;
+    font-size:15px; line-height:1.6;
+    font-variant-numeric:tabular-nums;
+    min-height:100vh;
+  }
+  body::before{ /* grain */
+    content:""; position:fixed; inset:0; pointer-events:none; opacity:.05; z-index:0;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  .wrap{position:relative; z-index:1; max-width:1500px; margin:0 auto; padding:max(var(--s5), env(safe-area-inset-top)) max(var(--s4), env(safe-area-inset-right)) max(var(--s6), env(safe-area-inset-bottom)) max(var(--s4), env(safe-area-inset-left))}
+  h1,h2,.display{font-family:"Bricolage Grotesque",sans-serif; letter-spacing:-.03em}
+  .wrap h1{font-size:28px; font-weight:700; margin:0; line-height:1.1}
+  .wrap h2, dialog h2{font-size:20px; font-weight:700; margin:0; line-height:1.2}
+
+  /* ---------- buttons ---------- */
+  .btn{
+    display:inline-flex; align-items:center; gap:6px;
+    font:500 14px/1 "IBM Plex Sans",sans-serif; color:var(--text);
+    background:var(--raised); border:1px solid var(--line); border-radius:10px;
+    padding:10px 14px; cursor:pointer;
+    transition:transform .25s var(--spring), opacity .2s;
+  }
+  .btn:hover{background:var(--float)}
+  .btn:active{transform:scale(.96)}
+  .btn:focus-visible,.focusable:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--btc); outline-offset:2px}
+  .btn-btc{background:var(--btc); color:#1D1405; border-color:transparent; font-weight:600}
+  .btn-btc:hover{background:#FFC960}
+  .btn-ghost{background:transparent}
+  .btn-ghost:hover{background:var(--raised)}
+  .icon-btn{width:34px; height:34px; padding:0; justify-content:center; border-radius:8px}
+  .btn[disabled]{opacity:.35; pointer-events:none}
+
+  /* ---------- top bar ---------- */
+  .top{display:grid; gap:var(--s4); grid-template-columns:1fr; margin-bottom:var(--s5)}
+  @media (min-width:1100px){ .top{grid-template-columns:auto 1fr auto; align-items:stretch} }
+  .brand{display:flex; flex-direction:column; justify-content:center; gap:var(--s1)}
+  .brand p{margin:0; color:var(--muted); font-size:13px}
+  .btc-panel{
+    background:linear-gradient(180deg, rgba(244,183,68,.08), rgba(244,183,68,.03)), var(--surface);
+    border:1px solid rgba(244,183,68,.25); border-radius:16px; padding:var(--s3) var(--s4);
+    display:grid; gap:var(--s3) var(--s5); grid-template-columns:1fr; align-items:center;
+    box-shadow:0 1px 0 rgba(255,255,255,.04) inset, 0 10px 30px -12px rgba(244,183,68,.18), 0 2px 6px rgba(0,0,0,.25);
+  }
+  @media (min-width:720px){ .btc-panel{grid-template-columns:auto 1fr auto} }
+  .btc-price{font-family:"Bricolage Grotesque",sans-serif; font-size:34px; font-weight:700; letter-spacing:-.03em; line-height:1}
+  .btc-label{color:var(--btc); font-weight:600; font-size:13px}
+  .meter{position:relative; height:10px; border-radius:99px; background:var(--raised); overflow:hidden}
+  .meter .mid{position:absolute; left:50%; top:-2px; bottom:-2px; width:2px; background:var(--faint)}
+  .meter .fill{position:absolute; top:0; bottom:0; left:50%; width:50%; transform-origin:left center; transform:scaleX(0); transition:transform .5s var(--spring)}
+  .meter .fill.neg{left:0; transform-origin:right center}
+  .meter-legend{display:flex; justify-content:space-between; font-size:12px; color:var(--faint); margin-top:4px}
+  .side{display:flex; flex-wrap:wrap; gap:var(--s2); align-items:center; justify-content:flex-start}
+  @media (min-width:1100px){ .side{flex-direction:column; align-items:stretch; justify-content:center} }
+  .fng{font-size:13px; color:var(--muted); padding:0 4px}
+  .fng b{color:var(--text); font-weight:600}
+
+  /* ---------- table ---------- */
+  .table-card{
+    background:var(--surface); border:1px solid var(--line); border-radius:16px;
+    box-shadow:0 1px 0 rgba(255,255,255,.035) inset, 0 18px 40px -20px rgba(3,10,20,.8), 0 2px 8px rgba(0,0,0,.2);
+    overflow:hidden;
+  }
+  .table-scroll{overflow-x:auto}
+  table{border-collapse:separate; border-spacing:0; width:100%; min-width:1180px}
+  thead th{
+    position:sticky; top:0; background:var(--raised); z-index:2;
+    font:600 13px/1.3 "IBM Plex Sans",sans-serif; color:var(--muted); text-align:left;
+    padding:var(--s3) var(--s4); border-bottom:2px solid var(--line); white-space:nowrap;
+  }
+  thead th.sup{color:var(--sup)} thead th.res{color:var(--res)}
+  thead th.buy,thead th.sell{color:var(--text)}
+  tbody td{padding:var(--s3) var(--s4); border-bottom:1px solid var(--line); vertical-align:middle; white-space:nowrap}
+  tbody tr.row{cursor:pointer}
+  tbody tr.row:hover td{background:rgba(255,255,255,.025)}
+  tbody tr.row:active td{background:rgba(255,255,255,.04)}
+  tbody tr.row:focus-visible{outline:2px solid var(--btc); outline-offset:-2px}
+  tbody tr.row.is-open td{background:rgba(244,183,68,.05)}
+  th:first-child, td:first-child{position:sticky; left:0; z-index:1; background:var(--surface); border-right:2px solid var(--line)}
+  thead th:first-child{z-index:3; background:var(--raised)}
+  th.col-price, td.col-price{border-right:2px solid var(--line)}
+  th.split, td.split{border-left:2px solid var(--line)}
+  th.buy, td.buy{border-left:4px solid var(--line)}
+  td.buy{background:var(--sup-bg)} td.sell{background:var(--res-bg)}
+  tr.row:hover td.buy{background:rgba(69,211,156,.13)} tr.row:hover td.sell{background:rgba(244,124,115,.13)}
+
+  .coin{display:flex; align-items:center; gap:var(--s3)}
+  .coin-sym{font-family:"Bricolage Grotesque",sans-serif; font-size:20px; font-weight:700; letter-spacing:-.02em; line-height:1.1}
+  .coin-name{font-size:12px; color:var(--muted)}
+  .chev{color:var(--faint); transition:transform .3s var(--spring); flex:none}
+  tr.is-open .chev{transform:rotate(90deg); color:var(--btc)}
+  .chips{display:flex; flex-wrap:wrap; gap:6px; margin-top:4px}
+  .chip{white-space:nowrap; font-size:11.5px; font-weight:500; line-height:1; padding:4px 7px; border-radius:6px; background:var(--raised); color:var(--muted)}
+  .chip.up{color:var(--sup); background:var(--sup-bg)} .chip.down{color:var(--res); background:var(--res-bg)}
+
+  .px{font-size:18px; font-weight:600; line-height:1.2}
+  .px-big{font-size:21px; font-weight:600; letter-spacing:-.01em}
+  .sub{font-size:12.5px; color:var(--muted); line-height:1.3; margin-top:2px; display:flex; align-items:center; gap:6px}
+  .pos{color:var(--sup)} .neg{color:var(--res)}
+  .dots{display:inline-flex; gap:3px}
+  .dots i{width:5px; height:5px; border-radius:50%; background:var(--line)}
+  .sup-cell .dots i.on{background:var(--sup)} .res-cell .dots i.on{background:var(--res)}
+  .sup-cell .px{color:#D9F5EA} .res-cell .px{color:#FBE0DD}
+  .broken .px{text-decoration:line-through; text-decoration-color:var(--faint); color:var(--faint)}
+  .zone{font-size:11.5px; font-weight:600; padding:3px 7px; border-radius:6px}
+  td.buy .px{color:var(--sup)} td.sell .px{color:var(--res)}
+  td.buy.hot{background:var(--sup-strong)} td.sell.hot{background:var(--res-strong)}
+  td.buy.hot .zone{background:var(--sup); color:#04261A} td.sell.hot .zone{background:var(--res); color:#2E0906}
+  .flash-up{animation:fu .9s ease-out} .flash-down{animation:fd .9s ease-out}
+  @keyframes fu{from{opacity:.55}to{opacity:1}} @keyframes fd{from{opacity:.55}to{opacity:1}}
+  .skel{display:inline-block; height:14px; width:70px; border-radius:6px; background:var(--raised); animation:sk 1.2s ease-in-out infinite alternate}
+  @keyframes sk{from{opacity:.4}to{opacity:1}}
+
+  /* ---------- telefon: her coin bir kart ---------- */
+  @media (max-width:719px){
+    table{min-width:0}
+    thead{display:none}
+    tbody tr.row{display:grid; grid-template-columns:repeat(6,1fr); border-bottom:2px solid var(--line)}
+    tbody tr.row td{border:0; padding:8px 12px; position:static; white-space:normal}
+    tbody tr.row td:first-child{grid-column:span 4; border-right:0; background:transparent; padding-top:14px}
+    tbody tr.row td.col-price{grid-column:span 2; border-right:0; text-align:right; padding-top:14px}
+    tbody tr.row td.col-price .sub{justify-content:flex-end}
+    tbody tr.row td.sup-cell, tbody tr.row td.res-cell{grid-column:span 2}
+    tbody tr.row td.split, tbody tr.row td.buy{border-left:0}
+    tbody tr.row td.buy, tbody tr.row td.sell{grid-column:span 3; margin:6px 0 12px; border-radius:10px}
+    tbody tr.row td.buy{margin-left:12px; margin-right:4px} tbody tr.row td.sell{margin-right:12px; margin-left:4px}
+    tbody tr.row td[colspan]{grid-column:1 / -1}
+    tbody tr.row td[data-l]::before{content:attr(data-l); display:block; font-size:11.5px; font-weight:600; color:var(--faint); line-height:1.2; margin-bottom:2px}
+    tbody tr.row td.sup-cell::before{color:var(--sup); opacity:.75} tbody tr.row td.res-cell::before{color:var(--res); opacity:.75}
+    tbody tr.row td.buy::before, tbody tr.row td.sell::before{color:var(--text)}
+    .px{font-size:16px} .px-big{font-size:22px}
+    tr.detail{display:block} tr.detail > td{display:block}
+    .chart{min-height:300px; height:300px}
+    .status{flex-direction:column; align-items:flex-start}
+  }
+
+  /* ---------- detail ---------- */
+  tr.detail > td{padding:0; background:var(--bg); border-bottom:2px solid var(--line); white-space:normal; position:static}
+  .detail-inner{display:grid; grid-template-columns:1fr; gap:var(--s4); padding:var(--s4)}
+  @media (min-width:1000px){ .detail-inner{grid-template-columns:minmax(0,1fr) 340px} }
+  .chart-box{background:var(--surface); border:1px solid var(--line); border-radius:12px; padding:var(--s3); min-width:0; display:flex; flex-direction:column}
+  .chart{height:380px; width:100%; flex:1 1 auto; min-height:380px}
+  .tabs{display:flex; gap:var(--s1); margin-bottom:var(--s2)}
+  .tab{font:500 13px/1 "IBM Plex Sans"; padding:8px 12px; border-radius:8px; background:transparent; color:var(--muted); border:1px solid transparent; cursor:pointer; transition:transform .25s var(--spring)}
+  .tab:hover{color:var(--text); background:var(--raised)}
+  .tab:active{transform:scale(.95)}
+  .tab:focus-visible{outline:2px solid var(--btc); outline-offset:2px}
+  .tab[aria-selected="true"]{color:var(--text); background:var(--raised); border-color:var(--line)}
+  .facts{background:var(--surface); border:1px solid var(--line); border-radius:12px; padding:var(--s4); font-size:14px}
+  .facts dl{display:grid; grid-template-columns:auto 1fr; gap:6px var(--s4); margin:0}
+  .facts dt{color:var(--muted)} .facts dd{margin:0; text-align:right; font-weight:500}
+  .facts h3{font:600 14px/1.3 "IBM Plex Sans"; margin:var(--s4) 0 var(--s2); color:var(--text)}
+  .facts ul{margin:0; padding-left:18px; list-style:disc; color:var(--muted); line-height:1.55}
+  .facts li{margin-bottom:4px}
+  .src{font-size:12.5px; color:var(--muted); line-height:1.5}
+  .src b{color:var(--text); font-weight:600}
+  .legend{display:flex; flex-wrap:wrap; gap:var(--s3); font-size:12px; color:var(--muted); margin-top:var(--s2)}
+  .legend span::before{content:""; display:inline-block; width:14px; height:2px; vertical-align:middle; margin-right:6px; background:currentColor}
+
+  .status{display:flex; flex-wrap:wrap; gap:var(--s2) var(--s4); justify-content:space-between; align-items:center; padding:var(--s3) var(--s4); font-size:13px; color:var(--muted); border-top:1px solid var(--line); background:var(--raised)}
+
+  /* ---------- news ---------- */
+  .news{margin-top:var(--s5); background:var(--surface); border:1px solid var(--line); border-radius:16px; box-shadow:0 12px 30px -20px rgba(3,10,20,.8)}
+  .news header{display:flex; justify-content:space-between; align-items:center; gap:var(--s3); padding:var(--s4); border-bottom:1px solid var(--line); flex-wrap:wrap}
+  .news ol{list-style:none; margin:0; padding:0; display:grid; grid-template-columns:1fr}
+  @media (min-width:900px){ .news ol{grid-template-columns:1fr 1fr} #newsList > li:nth-child(odd){border-right:1px solid var(--line)} }
+  #newsList > li{border-bottom:1px solid var(--line)}
+  .news a{display:block; padding:var(--s3) var(--s4); color:var(--text); text-decoration:none; transition:opacity .2s}
+  .news a:hover{background:rgba(255,255,255,.025)}
+  .news a:active{opacity:.7}
+  .news .t{font-size:15px; line-height:1.45; display:block}
+  .news .m{font-size:12.5px; color:var(--muted); display:flex; gap:var(--s2); align-items:center; margin-top:4px; flex-wrap:wrap}
+  .news li.mine a{box-shadow:inset 3px 0 0 var(--btc)}
+  .news-time{font-size:13px; color:var(--muted)}
+  .news-time.stale{color:var(--res)}
+  .brief{padding:var(--s4) var(--s4) var(--s5); border-bottom:1px solid var(--line); display:grid; gap:var(--s4)}
+  @media (min-width:900px){ .brief{grid-template-columns:minmax(0,1.6fr) minmax(0,1fr); gap:var(--s6); padding:var(--s5) var(--s5) var(--s5)} }
+  .mood{display:inline-flex; align-items:center; gap:8px; font-weight:600; font-size:14px; margin-bottom:var(--s2)}
+  .mood i{width:10px; height:10px; border-radius:50%; background:var(--muted)}
+  .mood.olumlu{color:var(--sup)} .mood.olumlu i{background:var(--sup)}
+  .mood.olumsuz{color:var(--res)} .mood.olumsuz i{background:var(--res)}
+  .mood.karisik{color:var(--btc)} .mood.karisik i{background:var(--btc)}
+  .brief-text{font-size:17px; line-height:1.7; margin:0; max-width:68ch}
+  .brief h3{font:600 14px/1.3 "IBM Plex Sans"; margin:0 0 var(--s2); color:var(--text)}
+  .brief ul{margin:0; padding-left:18px; list-style:disc; color:var(--muted); font-size:14.5px; line-height:1.6}
+  .brief li{margin-bottom:6px}
+  .brief .quiet{font-size:14px; color:var(--muted); margin:var(--s3) 0 0}
+  .news-bar{display:flex; justify-content:flex-end; padding:var(--s3) var(--s4); border-bottom:1px solid var(--line)}
+  .etki{display:inline-flex; align-items:center; gap:6px; font-size:12.5px; font-weight:600; margin-bottom:4px; color:var(--muted)}
+  .etki i{width:8px; height:8px; border-radius:50%; background:currentColor}
+  .etki.olumlu{color:var(--sup)} .etki.olumsuz{color:var(--res)}
+  .news .t{font-weight:600}
+  .news .o{display:block; font-size:14.5px; line-height:1.6; color:var(--muted); margin-top:2px}
+  .tag{font-size:11.5px; font-weight:600; color:var(--btc); background:var(--btc-bg); padding:2px 6px; border-radius:5px}
+  .toggle{display:inline-flex; align-items:center; gap:8px; font-size:13px; color:var(--muted); cursor:pointer}
+  .toggle input{accent-color:var(--btc); width:16px; height:16px}
+
+  /* ---------- dialog ---------- */
+  dialog{
+    width:min(480px, calc(100vw - 32px)); max-height:calc(100vh - 48px);
+    background:var(--float); color:var(--text); border:1px solid #2E4560; border-radius:16px; padding:0;
+    box-shadow:0 30px 80px -20px rgba(0,0,0,.7), 0 8px 24px rgba(0,0,0,.35);
+  }
+  dialog::backdrop{background:rgba(5,10,18,.65); backdrop-filter:blur(3px)}
+  dialog[open]{animation:pop .35s var(--spring)}
+  @keyframes pop{from{opacity:0; transform:translateY(12px) scale(.98)} to{opacity:1; transform:none}}
+  .dlg-head{display:flex; justify-content:space-between; align-items:center; padding:var(--s4) var(--s4) var(--s3)}
+  .dlg-body{padding:0 var(--s4) var(--s4)}
+  .field{display:flex; gap:var(--s2)}
+  .input{flex:1; min-width:0; font:500 15px "IBM Plex Sans"; color:var(--text); background:var(--bg); border:1px solid var(--line); border-radius:10px; padding:10px 12px; text-transform:uppercase}
+  .input::placeholder{text-transform:none; color:var(--faint)}
+  .hint{font-size:12.5px; color:var(--muted); margin:6px 0 0}
+  .err{color:var(--res)}
+  .plist{list-style:none; margin:var(--s4) 0 0; padding:0; display:grid; gap:6px}
+  .plist li{display:flex; align-items:center; gap:var(--s2); background:var(--raised); border:1px solid var(--line); border-radius:10px; padding:6px 6px 6px 10px; transition:transform .25s var(--spring), opacity .2s}
+  .plist li.dragging{opacity:.45}
+  .plist li.over{transform:translateY(3px); border-color:var(--btc)}
+  .grip{cursor:grab; color:var(--faint); padding:4px; display:flex}
+  .grip:active{cursor:grabbing}
+  .plist .n{width:20px; color:var(--faint); font-size:13px; text-align:right}
+  .plist .name{flex:1; font-weight:600}
+  .plist .name small{font-weight:400; color:var(--muted); margin-left:6px}
+  .thr{display:flex; align-items:center; gap:var(--s2); margin-top:var(--s4); padding-top:var(--s4); border-top:1px solid var(--line); font-size:14px}
+  .thr input{width:80px; text-transform:none}
+
+  .toast-wrap{position:fixed; right:16px; bottom:16px; z-index:50; display:grid; gap:8px}
+  .toast{background:var(--float); border:1px solid rgba(244,183,68,.4); border-radius:12px; padding:12px 16px; min-width:240px; box-shadow:0 20px 50px -15px rgba(0,0,0,.7); animation:pop .4s var(--spring)}
+  .toast b{display:block; font-family:"Bricolage Grotesque"; font-size:17px}
+  .foot{margin-top:var(--s4); font-size:12.5px; color:var(--faint)}
+  @media (prefers-reduced-motion:reduce){ *{animation:none!important; transition:none!important} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- Üst bar -->
+  <section class="top">
+    <div class="brand">
+      <h1>Kripto Çizelge</h1>
+      <p>Destek, direnç ve al-sat seviyeleri</p>
+    </div>
+
+    <div class="btc-panel" aria-live="polite">
+      <div>
+        <div class="btc-label">Bitcoin canlı</div>
+        <div class="btc-price" id="btcPrice">—</div>
+        <div class="sub" id="btc24"></div>
+      </div>
+      <div>
+        <div style="display:flex; justify-content:space-between; align-items:baseline; gap:8px; margin-bottom:6px">
+          <span style="font-size:13px; color:var(--muted)">Son bildirimden bu yana</span>
+          <span id="btcDelta" class="px">%0.00</span>
+        </div>
+        <div class="meter" aria-hidden="true"><div class="fill" id="meterFill"></div><div class="mid"></div></div>
+        <div class="meter-legend"><span id="thrLo">−%0.5</span><span id="btcRef">referans —</span><span id="thrHi">+%0.5</span></div>
+      </div>
+      <div>
+        <button class="btn btn-btc" id="notifBtn" type="button">Bildirimleri aç</button>
+      </div>
+    </div>
+
+    <div class="side">
+      <button class="btn" id="manageBtn" type="button">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
+        Pariteleri düzenle
+      </button>
+      <button class="btn btn-ghost" id="refreshBtn" type="button">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12a9 9 0 1 1-2.6-6.4M21 4v5h-5"/></svg>
+        Analizi yenile
+      </button>
+      <div class="fng" id="fng">Korku/Açgözlülük —</div>
+    </div>
+  </section>
+
+  <!-- Çizelge -->
+  <section class="table-card">
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>Coin</th>
+            <th class="col-price">Güncel fiyat</th>
+            <th class="sup">1. Alt destek</th>
+            <th class="sup">2. Alt destek</th>
+            <th class="sup">3. Alt destek</th>
+            <th class="res split">1. Üst direnç</th>
+            <th class="res">2. Üst direnç</th>
+            <th class="res">3. Üst direnç</th>
+            <th class="buy">Al</th>
+            <th class="sell">Sat</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+    </div>
+    <div class="status">
+      <span id="status">Veriler yükleniyor…</span>
+      <span>Coine tıkla: grafik ve analiz detayı</span>
+    </div>
+  </section>
+
+  <!-- Haberler -->
+  <section class="news">
+    <header>
+      <h2>Piyasa haberleri</h2>
+      <span class="news-time" id="newsTime"></span>
+    </header>
+    <div class="brief" id="newsBrief"><p class="brief-text" style="color:var(--muted)">Haberler yükleniyor…</p></div>
+    <div class="news-bar"><label class="toggle"><input type="checkbox" id="mineOnly"> Sadece listemdeki coinler</label></div>
+    <ol id="newsList"></ol>
+  </section>
+
+  <p class="foot">Seviyeler Binance mum verisinden otomatik hesaplanır (swing dip/tepe, Fibonacci, pivot, EMA, RSI, ATR, BTC korelasyonu). Yatırım tavsiyesi değildir.</p>
+</div>
+
+<!-- Parite yönetimi -->
+<dialog id="dlg" aria-labelledby="dlgTitle">
+  <div class="dlg-head">
+    <h2 id="dlgTitle">Pariteler</h2>
+    <button class="btn btn-ghost icon-btn" id="dlgClose" type="button" aria-label="Kapat">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+  </div>
+  <div class="dlg-body">
+    <form class="field" id="addForm" autocomplete="off">
+      <input class="input" id="addInput" list="symList" placeholder="Örn. ETH, SOL, TAOUSDT" aria-label="Eklenecek parite">
+      <datalist id="symList"></datalist>
+      <button class="btn btn-btc" type="submit">Ekle</button>
+    </form>
+    <p class="hint" id="addHint">Sadece coin adını yazman yeterli, USDT paritesi eklenir.</p>
+    <ol class="plist" id="plist"></ol>
+    <div class="thr">
+      <label for="thrInput">BTC bildirim eşiği %</label>
+      <input class="input" id="thrInput" type="number" step="0.1" min="0.1" max="10">
+    </div>
+  </div>
+</dialog>
+
+<div class="toast-wrap" id="toasts"></div>
+
+<script>
+/* =========================================================
+   Ayarlar ve durum
+   ========================================================= */
+const API = 'https://data-api.binance.vision/api/v3';
+const WS_BASE = 'wss://data-stream.binance.vision/stream?streams=';
+const NEWS_FEEDS = [
+  ['Cointelegraph', 'https://cointelegraph.com/rss'],
+  ['Decrypt', 'https://decrypt.co/feed'],
+];
+const REFRESH_MS = 15 * 60 * 1000;
+const QUOTES = ['USDT','USDC','FDUSD','TRY','BTC','ETH','EUR'];
+const COIN_INFO = {
+  BTC:['Bitcoin','bitcoin'], ETH:['Ethereum','ethereum','ether'], SUI:['Sui'], TAO:['Bittensor','bittensor'],
+  SOL:['Solana','solana'], XRP:['XRP','ripple'], BNB:['BNB'], DOGE:['Dogecoin','dogecoin'], ADA:['Cardano','cardano'],
+  AVAX:['Avalanche','avalanche'], LINK:['Chainlink','chainlink'], DOT:['Polkadot','polkadot'], TON:['Toncoin','toncoin'],
+  PEPE:['Pepe'], NEAR:['NEAR','near protocol'], APT:['Aptos','aptos'], ARB:['Arbitrum','arbitrum'], OP:['Optimism','optimism'],
+  SEI:['Sei'], INJ:['Injective','injective'], RENDER:['Render'], FET:['Fetch.ai','fetch.ai'], WLD:['Worldcoin','worldcoin'],
+  TRX:['Tron','tron'], LTC:['Litecoin','litecoin'], HBAR:['Hedera','hedera'], ENA:['Ethena','ethena'], ONDO:['Ondo','ondo'],
+  HYPE:['Hyperliquid','hyperliquid'], SHIB:['Shiba Inu','shiba'], UNI:['Uniswap','uniswap'], ATOM:['Cosmos','cosmos'],
+  FIL:['Filecoin','filecoin'], ICP:['Internet Computer'], TIA:['Celestia','celestia'], JUP:['Jupiter'], PENDLE:['Pendle','pendle'],
+};
+
+const ls = {
+  get(k){ try{ return localStorage.getItem(k) }catch(e){ return null } },
+  set(k,v){ try{ localStorage.setItem(k,v) }catch(e){} },
+};
+
+const state = {
+  pairs: loadPairs(),
+  data: {},          // sembol -> analiz
+  live: {},          // sembol -> {p, open}
+  btc: null,         // BTC analizi (diğer coinler için bağlam)
+  open: null,        // açık detay satırı
+  chart: null,
+  symbols: null,     // Binance'teki tüm semboller
+  thr: parseFloat(ls.get('kc.thr')) || 0.5,
+  lastAnalysis: null,
+  news: [],
+  brief: null,      // Türkçe haber özeti (haberler.json)
+};
+
+function loadPairs(){
+  try{ const p = JSON.parse(ls.get('kc.pairs')); if(Array.isArray(p) && p.length) return p; }catch(e){}
+  return ['BTCUSDT','SUIUSDT','TAOUSDT'];
+}
+function savePairs(){ ls.set('kc.pairs', JSON.stringify(state.pairs)); }
+
+const $ = s => document.querySelector(s);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const clamp = (v,a,b) => Math.max(a, Math.min(b, v));
+const last = a => a[a.length-1];
+
+function splitSym(sym){
+  for(const q of QUOTES) if(sym.endsWith(q) && sym.length > q.length) return [sym.slice(0,-q.length), q];
+  return [sym, ''];
+}
+function coinName(base){ return (COIN_INFO[base] || [base])[0]; }
+
+function decimals(p){
+  if(p >= 10000) return 0;
+  if(p >= 1000) return 1;
+  if(p >= 100) return 2;
+  if(p >= 1) return 3;
+  if(p >= 0.1) return 4;
+  if(p >= 0.01) return 5;
+  if(p >= 0.0001) return 6;
+  return 8;
+}
+function fmt(p, d){
+  if(p == null || !isFinite(p)) return '—';
+  d = d ?? decimals(p);
+  return p.toLocaleString('en-US', {minimumFractionDigits:d, maximumFractionDigits:d});
+}
+function pct(v, d=2){ if(v == null || !isFinite(v)) return '—'; return (v>0?'+':v<0?'−':'') + '%' + Math.abs(v).toFixed(d); }
+
+/* =========================================================
+   Veri
+   ========================================================= */
+async function getJSON(url){
+  const r = await fetch(url);
+  if(!r.ok) throw new Error('HTTP ' + r.status);
+  return r.json();
+}
+async function klines(sym, interval, limit){
+  const j = await getJSON(`${API}/klines?symbol=${sym}&interval=${interval}&limit=${limit}`);
+  return j.map(k => ({t:k[0]/1000, o:+k[1], h:+k[2], l:+k[3], c:+k[4], v:+k[5]}));
+}
+
+/* =========================================================
+   İndikatörler
+   ========================================================= */
+function ema(vals, n){
+  const k = 2/(n+1), out = [];
+  let prev = vals.slice(0, n).reduce((a,b)=>a+b,0) / Math.min(n, vals.length);
+  vals.forEach((v,i) => { if(i < n){ out.push(prev); return; } prev = v*k + prev*(1-k); out.push(prev); });
+  return out;
+}
+function rsi(closes, n=14){
+  if(closes.length <= n) return 50;
+  let g=0, l=0;
+  for(let i=1;i<=n;i++){ const d = closes[i]-closes[i-1]; if(d>0) g+=d; else l-=d; }
+  g/=n; l/=n;
+  for(let i=n+1;i<closes.length;i++){
+    const d = closes[i]-closes[i-1];
+    g = (g*(n-1) + Math.max(d,0))/n;
+    l = (l*(n-1) + Math.max(-d,0))/n;
+  }
+  return l === 0 ? 100 : 100 - 100/(1+g/l);
+}
+function atr(bars, n=14){
+  const tr = bars.map((b,i) => i===0 ? b.h-b.l : Math.max(b.h-b.l, Math.abs(b.h-bars[i-1].c), Math.abs(b.l-bars[i-1].c)));
+  let a = tr.slice(1, n+1).reduce((s,x)=>s+x,0)/n;
+  for(let i=n+1;i<tr.length;i++) a = (a*(n-1) + tr[i])/n;
+  return a;
+}
+function swings(bars, k){
+  const hi=[], lo=[];
+  for(let i=k;i<bars.length-k;i++){
+    let isH=true, isL=true;
+    for(let j=i-k;j<=i+k;j++){
+      if(j===i) continue;
+      if(bars[j].h >= bars[i].h) isH=false;
+      if(bars[j].l <= bars[i].l) isL=false;
+    }
+    if(isH) hi.push({p:bars[i].h, i});
+    if(isL) lo.push({p:bars[i].l, i});
+  }
+  return {hi, lo};
+}
+function pivots(H, L, C){
+  const P = (H+L+C)/3;
+  return { P, R1:2*P-L, S1:2*P-H, R2:P+(H-L), S2:P-(H-L), R3:H+2*(P-L), S3:L-2*(H-P) };
+}
+function fibRange(bars){
+  let hi=-Infinity, lo=Infinity, hiI=0, loI=0;
+  bars.forEach((b,i) => { if(b.h>hi){hi=b.h;hiI=i} if(b.l<lo){lo=b.l;loI=i} });
+  const R = hi-lo, up = hiI > loI;
+  const at = r => up ? hi - r*R : lo + r*R;          // geri çekilme
+  const ext = r => up ? lo + r*R : hi - r*R;         // uzantı
+  return {hi, lo, up, at, ext};
+}
+function correlation(a, b){
+  const mb = new Map(b.map(x => [x.t, x.c]));
+  const ra=[], rb=[];
+  for(let i=Math.max(1, a.length-61); i<a.length; i++){
+    const p0 = mb.get(a[i-1].t), p1 = mb.get(a[i].t);
+    if(p0 && p1){ ra.push(a[i].c/a[i-1].c - 1); rb.push(p1/p0 - 1); }
+  }
+  if(ra.length < 20) return null;
+  const m = x => x.reduce((s,v)=>s+v,0)/x.length;
+  const ma=m(ra), mb2=m(rb);
+  let num=0, da=0, db=0;
+  for(let i=0;i<ra.length;i++){ num+=(ra[i]-ma)*(rb[i]-mb2); da+=(ra[i]-ma)**2; db+=(rb[i]-mb2)**2; }
+  return num / Math.sqrt(da*db);
+}
+
+/* =========================================================
+   Analiz: aday seviyeleri topla → kümele → en yakın 3'ü seç
+   ========================================================= */
+function cluster(cands, tolPct){
+  cands.sort((a,b) => a.p-b.p);
+  const out = [];
+  for(const c of cands){
+    const g = out[out.length-1];
+    if(g && (c.p - g.bottom)/g.bottom*100 <= tolPct){   // küme genişliği tolPct'yi aşmaz
+      g.items.push(c); g.w += c.w;
+      g.p = g.items.reduce((s,x)=>s+x.p*x.w,0)/g.w;
+    } else out.push({p:c.p, w:c.w, bottom:c.p, items:[c]});
+  }
+  return out;
+}
+
+function pickLevels(clusters, price, dir, atrPct, atrAbs){
+  const minDist = Math.max(atrPct*0.15, 0.25);   // fiyata en az bu kadar uzak (%)
+  const minGap  = Math.max(atrPct*0.5, 0.6);     // seviyeler arası en az (%)
+  const list = clusters
+    .filter(c => dir<0 ? c.p < price*(1-minDist/100) : c.p > price*(1+minDist/100))
+    .sort((a,b) => dir<0 ? b.p-a.p : a.p-b.p);
+  // Her adımda: en yakın adaydan itibaren ~1 ATR'lik pencerede en güçlü kümeyi al
+  const span = clamp(atrPct*1.0, 1, 6);
+  const chosen = [];
+  let ref = price;
+  while(chosen.length < 3){
+    const gap = chosen.length ? minGap : 0;
+    const cand = list.filter(c => (dir<0 ? c.p < ref : c.p > ref) && Math.abs(c.p-ref)/price*100 >= gap);
+    if(!cand.length) break;
+    const near = Math.abs(cand[0].p-ref)/price*100;
+    const best = cand.filter(c => Math.abs(c.p-ref)/price*100 <= near + span).reduce((x,y) => y.w > x.w ? y : x);
+    chosen.push(best);
+    ref = best.p;
+  }
+  chosen.sort((a,b) => dir<0 ? b.p-a.p : a.p-b.p);
+  while(chosen.length < 3){
+    const base = chosen.length ? last(chosen).p : price;
+    let p = base + dir*atrAbs*(chosen.length ? 1 : 0.8);
+    if(p <= 0) p = base*0.85;
+    chosen.push({p, w:0, items:[{src:'ATR tahmini', w:0}]});
+  }
+  return chosen.map(c => ({
+    p:c.p, w:c.w,
+    strength: c.w >= 4.5 ? 3 : c.w >= 2.5 ? 2 : 1,
+    sources:[...new Set(c.items.sort((a,b)=>b.w-a.w).map(x=>x.src))],
+  }));
+}
+
+function analyze(sym, d1, h4, btc){
+  const price = last(h4).c;
+  const isBTC = sym.startsWith('BTC');
+  const atrD = atr(d1, 14), atrPct = atrD/price*100;
+  const cH = h4.map(b=>b.c), cD = d1.map(b=>b.c);
+  const e20 = ema(cH,20), e50 = ema(cH,50), e200h = ema(cH,200), e50d = ema(cD,50), e200d = ema(cD,200);
+  const rsiH = rsi(cH), rsiD = rsi(cD);
+  const has200d = d1.length >= 200;
+
+  // Trend skoru (0-5)
+  let ts = 0;
+  if(price > last(e20)) ts++;
+  if(last(e20) > last(e50)) ts++;
+  if(price > last(e50d)) ts++;
+  if(has200d ? price > last(e200d) : last(e50d) > e50d[e50d.length-8]) ts++;
+  if(rsiH > 50) ts++;
+  const trend = ts >= 4 ? 'up' : ts <= 1 ? 'down' : 'flat';
+
+  // Aday seviyeler
+  const cands = [];
+  const add = (p, w, src) => { if(p > 0 && isFinite(p)) cands.push({p, w, src}); };
+
+  const dSl = d1.slice(-180);
+  const sd = swings(dSl, 3);
+  sd.hi.forEach(s => add(s.p, 1.4*(0.6+0.4*s.i/dSl.length), 'Günlük tepe'));
+  sd.lo.forEach(s => add(s.p, 1.4*(0.6+0.4*s.i/dSl.length), 'Günlük dip'));
+  const sh = swings(h4, 4);
+  sh.hi.forEach(s => add(s.p, 0.8*(0.5+0.5*s.i/h4.length), '4 saatlik tepe'));
+  sh.lo.forEach(s => add(s.p, 0.8*(0.5+0.5*s.i/h4.length), '4 saatlik dip'));
+
+  const fibD = fibRange(d1.slice(-120));
+  const fibH = fibRange(h4.slice(-120));
+  const RETR = [[0.236,0.7],[0.382,1],[0.5,1.1],[0.618,1.4],[0.786,1]];
+  const EXT  = [[1.272,0.8],[1.618,1]];
+  [[fibD,'günlük',1.1],[fibH,'4s',0.75]].forEach(([f,lab,w]) => {
+    RETR.forEach(([r,k]) => add(f.at(r), w*k, `Fib ${r} (${lab})`));
+    EXT.forEach(([r,k]) => add(f.ext(r), w*k, `Fib ${r} uzantı (${lab})`));
+    add(f.hi, w*1.3, `Aralık tepesi (${lab})`);
+    add(f.lo, w*1.3, `Aralık dibi (${lab})`);
+  });
+
+  const prevD = d1[d1.length-2];
+  const pd = pivots(prevD.h, prevD.l, prevD.c);
+  const wk = d1.slice(-8,-1);
+  const pw = pivots(Math.max(...wk.map(b=>b.h)), Math.min(...wk.map(b=>b.l)), last(wk).c);
+  ['S1','S2','S3','R1','R2','R3','P'].forEach(k => {
+    add(pw[k], 1.0, `Haftalık pivot ${k}`);
+    add(pd[k], 0.6, `Günlük pivot ${k}`);
+  });
+
+  add(last(e50), 0.8, 'EMA50 (4s)');
+  add(last(e200h), 1.0, 'EMA200 (4s)');
+  add(last(e50d), 1.0, 'EMA50 (günlük)');
+  if(has200d) add(last(e200d), 1.3, 'EMA200 (günlük)');
+
+  const tol = clamp(atrPct*0.25, 0.25, 1.5);
+  const cl = cluster(cands, tol);
+  const S = pickLevels(cl, price, -1, atrPct, atrD);
+  const R = pickLevels(cl, price, 1, atrPct, atrD);
+
+  // BTC etkisi
+  const corr = isBTC || !btc ? null : correlation(d1, btc.d1);
+  const notes = [];
+  let buyIdx = 0, sellIdx = 0;
+  if(trend === 'down'){ buyIdx = 1; notes.push('Trend düşüşte: alış 2. desteğe çekildi.'); }
+  if(!isBTC && btc && btc.trend === 'down' && (corr ?? 1) > 0.5 && buyIdx < 1){
+    buyIdx = 1; notes.push('BTC zayıf ve korelasyon yüksek: alış 2. desteğe çekildi.');
+  }
+  if(trend === 'up' && rsiH < 68 && (isBTC || !btc || btc.trend !== 'down')){
+    sellIdx = 1; notes.push('Trend güçlü: satış hedefi 2. dirence taşındı.');
+  }
+  if(rsiH >= 70) notes.push('4 saatlik RSI aşırı alımda: kısa vadede geri çekilme riski.');
+  if(rsiH <= 30) notes.push('4 saatlik RSI aşırı satımda: tepki yükselişi gelebilir.');
+  if(!isBTC && btc && btc.trend === 'up' && (corr ?? 0) > 0.6) notes.push('BTC yükselişte ve bu coin BTC ile birlikte hareket ediyor.');
+  if(!isBTC && corr != null && corr < 0.3) notes.push('BTC ile bağı zayıf: kendi haberlerine daha duyarlı.');
+
+  const buf = Math.min(0.1*atrPct, 0.4)/100;          // seviyenin hemen önüne emir payı
+  const calc = () => {
+    const buy  = S[buyIdx].p  * (1 + buf);
+    const sell = R[sellIdx].p * (1 - buf);
+    const stop = S[Math.min(buyIdx+1, 2)].p * (1 - 2*buf);
+    return {buy, sell, stop, rr:(sell - buy)/(buy - stop)};
+  };
+  let lv = calc();
+  if(lv.rr < 1 && buyIdx === 0){
+    buyIdx = 1; lv = calc();
+    notes.push('1. destekten alımda risk/getiri zayıf: alış 2. desteğe çekildi.');
+  }
+  if(lv.rr < 0.95) notes.push('Risk/getiri hâlâ 1\'in altında: acele etme, fiyatın desteğe gelmesini bekle.');
+  const {buy, sell, stop, rr} = lv;
+
+  return {
+    sym, price, dec:decimals(price), trend, ts, rsiH, rsiD, atrD, atrPct, corr,
+    S, R, buy, sell, stop, rr, buyIdx, sellIdx, notes, fibD,
+    ema50h:e50, ema200h:e200h, d1, h4, time:Date.now(),
+  };
+}
+
+/* =========================================================
+   Tablo
+   ========================================================= */
+const TREND_TXT = {up:'Yükseliş', down:'Düşüş', flat:'Yatay'};
+const chevron = '<svg class="chev" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><path d="M9 6l6 6-6 6"/></svg>';
+
+function renderTable(){
+  closeDetail();
+  const tb = $('#tbody');
+  tb.innerHTML = '';
+  if(!state.pairs.length){
+    tb.innerHTML = `<tr><td colspan="10" style="padding:32px; color:var(--muted)">Listen boş. "Pariteleri düzenle" ile coin ekle.</td></tr>`;
+    return;
+  }
+  state.pairs.forEach(sym => {
+    const tr = document.createElement('tr');
+    tr.className = 'row'; tr.dataset.sym = sym; tr.tabIndex = 0;
+    tr.setAttribute('aria-expanded','false');
+    tb.appendChild(tr);
+    renderRow(sym);
+  });
+}
+
+function dots(n){ return `<span class="dots" aria-label="güç ${n}/3">${[1,2,3].map(i=>`<i class="${i<=n?'on':''}"></i>`).join('')}</span>`; }
+
+function renderRow(sym){
+  const tr = document.querySelector(`tr.row[data-sym="${sym}"]`);
+  if(!tr) return;
+  const [base, quote] = splitSym(sym);
+  const a = state.data[sym];
+  const lv = state.live[sym];
+  const price = lv?.p ?? a?.price;
+  const dec = a?.dec ?? (price ? decimals(price) : 2);
+
+  let chips = '';
+  if(a && !a.loading && !a.error){
+    chips = `<div class="chips"><span class="chip ${a.trend}">${TREND_TXT[a.trend]}</span><span class="chip">RSI ${a.rsiH.toFixed(0)}</span>${a.corr!=null?`<span class="chip">BTC bağı ${a.corr.toFixed(2)}</span>`:''}</div>`;
+  }
+  const coinCell = `<td><div class="coin">${chevron}<div><div class="coin-sym">${esc(base)}<span style="font-size:13px; color:var(--faint); font-weight:500">/${esc(quote)}</span></div><div class="coin-name">${esc(coinName(base))}</div>${chips}</div></div></td>`;
+
+  const ch = lv && lv.open ? (lv.p/lv.open - 1)*100 : null;
+  const priceCell = `<td class="col-price"><div class="px-big">${price ? fmt(price, dec) : '<span class="skel"></span>'}</div><div class="sub ${ch>0?'pos':ch<0?'neg':''}">${ch!=null ? pct(ch)+' 24s' : '&nbsp;'}</div></td>`;
+
+  if(!a || a.loading){
+    tr.innerHTML = coinCell + priceCell + Array(8).fill('<td><span class="skel"></span></td>').join('');
+    tr.children[5].classList.add('split'); tr.children[8].classList.add('buy'); tr.children[9].classList.add('sell');
+    return;
+  }
+  if(a.error){
+    tr.innerHTML = coinCell + priceCell + `<td colspan="8" style="color:var(--res)">Bu parite için veri alınamadı (${esc(a.error)}). <button class="btn" style="margin-left:8px" data-retry="${esc(sym)}" type="button">Tekrar dene</button></td>`;
+    return;
+  }
+
+  const levelCell = (L, kind, extra='', label='') => {
+    const dist = (L.p/price - 1)*100;
+    const broken = kind==='sup' ? price < L.p : price > L.p;
+    return `<td class="${kind}-cell ${extra} ${broken?'broken':''}" data-l="${label}" title="${esc(L.sources.join(', '))}">
+      <div class="px">${fmt(L.p, dec)}</div>
+      <div class="sub"><span>${pct(dist,1)}</span>${dots(L.strength)}${broken?'<span>kırıldı</span>':''}</div></td>`;
+  };
+
+  const inBuy = price <= a.buy*1.003;
+  const inSell = price >= a.sell*0.997;
+  const buyDist = (a.buy/price - 1)*100, sellDist = (a.sell/price - 1)*100;
+
+  tr.innerHTML = coinCell + priceCell
+    + a.S.map((L,i) => levelCell(L,'sup', '', `${i+1}. Destek`)).join('')
+    + a.R.map((L,i) => levelCell(L,'res', i===0?'split':'', `${i+1}. Direnç`)).join('')
+    + `<td class="buy ${inBuy?'hot':''}" data-l="Al" title="${esc(a.buyIdx+1)}. destek seviyesinin hemen üstü"><div class="px">${fmt(a.buy, dec)}</div><div class="sub">${inBuy?'<span class="zone">Alış bölgesinde</span>':`<span>${pct(buyDist,1)}</span>`}</div></td>`
+    + `<td class="sell ${inSell?'hot':''}" data-l="Sat" title="${esc(a.sellIdx+1)}. direnç seviyesinin hemen altı"><div class="px">${fmt(a.sell, dec)}</div><div class="sub">${inSell?'<span class="zone">Satış bölgesinde</span>':`<span>${pct(sellDist,1)}</span>`}</div></td>`;
+}
+
+/* ---------- detay satırı (grafik + analiz) ---------- */
+function closeDetail(){
+  if(state.chart){ state.chart.remove(); state.chart = null; }
+  document.querySelectorAll('tr.detail').forEach(r => r.remove());
+  document.querySelectorAll('tr.row.is-open').forEach(r => { r.classList.remove('is-open'); r.setAttribute('aria-expanded','false'); });
+  state.open = null;
+}
+
+function toggleDetail(sym){
+  const wasOpen = state.open === sym;
+  closeDetail();
+  if(wasOpen) return;
+  const a = state.data[sym];
+  if(!a || a.loading || a.error) return;
+  const row = document.querySelector(`tr.row[data-sym="${sym}"]`);
+  row.classList.add('is-open'); row.setAttribute('aria-expanded','true');
+  state.open = sym;
+  const dec = a.dec;
+  const lvRow = (L, name) => `<div class="src"><b>${name} ${fmt(L.p, dec)}</b>: ${esc(L.sources.slice(0,4).join(', '))}</div>`;
+  const tr = document.createElement('tr');
+  tr.className = 'detail';
+  tr.innerHTML = `<td colspan="10"><div class="detail-inner">
+    <div class="chart-box">
+      <div class="tabs" role="tablist">
+        <button class="tab" role="tab" data-tf="h4" aria-selected="true" type="button">4 saat</button>
+        <button class="tab" role="tab" data-tf="d1" aria-selected="false" type="button">Günlük</button>
+      </div>
+      <div class="chart" id="chart"></div>
+      <div class="legend">
+        <span style="color:var(--sup)">Destek</span><span style="color:var(--res)">Direnç</span>
+        <span style="color:var(--btc)">EMA50</span><span style="color:#7FA7D6">EMA200</span><span style="color:#8090A6">Fibonacci (günlük)</span>
+      </div>
+    </div>
+    <div class="facts">
+      <dl>
+        <dt>Trend</dt><dd class="${a.trend==='up'?'pos':a.trend==='down'?'neg':''}">${TREND_TXT[a.trend]} (${a.ts}/5)</dd>
+        <dt>RSI 4s / günlük</dt><dd>${a.rsiH.toFixed(0)} / ${a.rsiD.toFixed(0)}</dd>
+        <dt>Günlük oynaklık (ATR)</dt><dd>%${a.atrPct.toFixed(2)}</dd>
+        ${a.corr!=null?`<dt>BTC korelasyonu (60g)</dt><dd>${a.corr.toFixed(2)}</dd>`:''}
+        ${!a.sym.startsWith('BTC') && state.btc ? `<dt>BTC trendi</dt><dd class="${state.btc.trend==='up'?'pos':state.btc.trend==='down'?'neg':''}">${TREND_TXT[state.btc.trend]}</dd>`:''}
+        <dt>Zarar kes</dt><dd class="neg">${fmt(a.stop, dec)}</dd>
+        <dt>Risk / getiri</dt><dd>1 : ${isFinite(a.rr) && a.rr>0 ? a.rr.toFixed(1) : '—'}</dd>
+        <dt>Fib aralığı (120g)</dt><dd>${fmt(a.fibD.lo, dec)} – ${fmt(a.fibD.hi, dec)}</dd>
+      </dl>
+      ${a.notes.length ? `<h3>Notlar</h3><ul>${a.notes.map(n=>`<li>${esc(n)}</li>`).join('')}</ul>` : ''}
+      <h3>Seviyelerin kaynağı</h3>
+      ${a.R.slice().reverse().map((L,i)=>lvRow(L, `R${3-i}`)).join('')}
+      ${a.S.map((L,i)=>lvRow(L, `S${i+1}`)).join('')}
+    </div>
+  </div></td>`;
+  row.after(tr);
+  tr.querySelectorAll('.tab').forEach(t => t.addEventListener('click', e => {
+    e.stopPropagation();
+    tr.querySelectorAll('.tab').forEach(x => x.setAttribute('aria-selected', x===t ? 'true':'false'));
+    drawChart(sym, t.dataset.tf);
+  }));
+  drawChart(sym, 'h4');
+}
+
+function drawChart(sym, tf){
+  const a = state.data[sym];
+  const el = $('#chart');
+  if(!a || !el || !window.LightweightCharts) return;
+  if(state.chart){ state.chart.remove(); state.chart = null; }
+  const bars = tf === 'd1' ? a.d1 : a.h4;
+  const chart = LightweightCharts.createChart(el, {
+    autoSize:true,
+    layout:{ background:{type:'solid', color:'transparent'}, textColor:'#8FA1B6', fontFamily:'IBM Plex Sans', fontSize:12 },
+    grid:{ vertLines:{color:'rgba(143,161,182,.06)'}, horzLines:{color:'rgba(143,161,182,.06)'} },
+    rightPriceScale:{ borderColor:'#22344A' },
+    timeScale:{ borderColor:'#22344A', timeVisible: tf==='h4' },
+    crosshair:{ mode:0 },
+  });
+  const pf = {type:'price', precision:a.dec, minMove:1/10**a.dec};
+  const cs = chart.addCandlestickSeries({
+    upColor:'#45D39C', downColor:'#F47C73', borderVisible:false, wickUpColor:'#45D39C', wickDownColor:'#F47C73', priceFormat:pf,
+  });
+  cs.setData(bars.map(b => ({time:b.t, open:b.o, high:b.h, low:b.l, close:b.c})));
+
+  const closes = bars.map(b=>b.c);
+  const line = (vals, color, from) => {
+    const s = chart.addLineSeries({color, lineWidth:2, priceLineVisible:false, lastValueVisible:false, crosshairMarkerVisible:false, priceFormat:pf});
+    s.setData(bars.map((b,i)=>({time:b.t, value:vals[i]})).slice(from));
+  };
+  line(ema(closes,50), '#F4B744', 50);
+  if(bars.length > 220) line(ema(closes,200), '#7FA7D6', 200);
+
+  [0.236,0.382,0.5,0.618,0.786].forEach(r => cs.createPriceLine({price:a.fibD.at(r), color:'rgba(128,144,166,.45)', lineWidth:1, lineStyle:3, axisLabelVisible:false, title:`Fib ${r}`}));
+  a.S.forEach((L,i) => cs.createPriceLine({price:L.p, color:'#45D39C', lineWidth:i===0?2:1, lineStyle:0, axisLabelVisible:true, title:`S${i+1}`}));
+  a.R.forEach((L,i) => cs.createPriceLine({price:L.p, color:'#F47C73', lineWidth:i===0?2:1, lineStyle:0, axisLabelVisible:true, title:`R${i+1}`}));
+  cs.createPriceLine({price:a.buy, color:'#45D39C', lineWidth:2, lineStyle:2, axisLabelVisible:true, title:'AL'});
+  cs.createPriceLine({price:a.sell, color:'#F47C73', lineWidth:2, lineStyle:2, axisLabelVisible:true, title:'SAT'});
+  cs.createPriceLine({price:a.stop, color:'#8FA1B6', lineWidth:1, lineStyle:1, axisLabelVisible:true, title:'Stop'});
+
+  const show = tf === 'd1' ? 120 : 180;
+  chart.timeScale().setVisibleLogicalRange({from:bars.length-show, to:bars.length+4});
+  state.chart = chart;
+}
+
+/* =========================================================
+   Analiz döngüsü
+   ========================================================= */
+async function analyzePair(sym){
+  state.data[sym] = {loading:true};
+  renderRow(sym);
+  try{
+    let d1, h4;
+    if(sym === 'BTCUSDT' && state.btc){ d1 = state.btc.d1; h4 = state.btc.h4; }
+    else [d1, h4] = await Promise.all([klines(sym,'1d',365), klines(sym,'4h',500)]);
+    if(d1.length < 30 || h4.length < 60) throw new Error('yetersiz geçmiş');
+    state.data[sym] = analyze(sym, d1, h4, state.btc);
+  }catch(e){
+    state.data[sym] = {error: e.message || 'hata'};
+  }
+  renderRow(sym);
+}
+
+async function refreshAll(){
+  const btn = $('#refreshBtn'); btn.disabled = true;
+  $('#status').textContent = 'Analiz ediliyor…';
+  const wasOpen = state.open;
+  closeDetail();
+  try{
+    const [d1, h4] = await Promise.all([klines('BTCUSDT','1d',365), klines('BTCUSDT','4h',500)]);
+    state.btc = analyze('BTCUSDT', d1, h4, null);
+  }catch(e){ state.btc = null; }
+  await Promise.all(state.pairs.map(analyzePair));
+  state.lastAnalysis = new Date();
+  const t = state.lastAnalysis.toLocaleTimeString('tr-TR', {hour:'2-digit', minute:'2-digit'});
+  $('#status').textContent = `Son analiz ${t}. 15 dakikada bir kendiliğinden yenilenir.`;
+  btn.disabled = false;
+  if(wasOpen && state.pairs.includes(wasOpen)) toggleDetail(wasOpen);
+}
+
+/* =========================================================
+   Canlı fiyat (WebSocket) + BTC bildirimi
+   ========================================================= */
+let ws = null, wsTimer = null, lastMsg = 0;
+function connectWS(){
+  if(ws){ ws.onclose = null; ws.close(); }
+  const syms = [...new Set(['BTCUSDT', ...state.pairs])].map(s => s.toLowerCase() + '@miniTicker');
+  ws = new WebSocket(WS_BASE + syms.join('/'));
+  ws.onmessage = ev => {
+    lastMsg = Date.now();
+    const d = JSON.parse(ev.data).data;
+    if(!d || !d.s) return;
+    onPrice(d.s, +d.c, +d.o);
+  };
+  ws.onclose = () => { clearTimeout(wsTimer); wsTimer = setTimeout(connectWS, 3000); };
+  ws.onerror = () => ws.close();
+}
+// WebSocket susarsa REST ile yokla
+setInterval(async () => {
+  if(Date.now() - lastMsg < 15000) return;
+  try{
+    const syms = [...new Set(['BTCUSDT', ...state.pairs])];
+    const j = await getJSON(`${API}/ticker/24hr?symbols=${encodeURIComponent(JSON.stringify(syms))}`);
+    j.forEach(t => onPrice(t.symbol, +t.lastPrice, +t.openPrice));
+  }catch(e){}
+}, 10000);
+
+function onPrice(sym, p, open){
+  state.live[sym] = {p, open};
+  if(sym === 'BTCUSDT') onBTC(p, open);
+  if(state.pairs.includes(sym)) renderRow(sym);
+}
+
+function getRef(){
+  try{
+    const r = JSON.parse(ls.get('kc.btcRef'));
+    if(r && r.p && Date.now() - r.t < 60*60*1000) return r.p;   // 1 saatten eskiyse yenile
+  }catch(e){}
+  return null;
+}
+function setRef(p){ ls.set('kc.btcRef', JSON.stringify({p, t:Date.now()})); }
+
+let btcRef = getRef();
+let prevBtc = null;
+function onBTC(p, open){
+  if(!btcRef){ btcRef = p; setRef(p); }
+  const el = $('#btcPrice');
+  el.textContent = fmt(p, 0);
+  if(prevBtc != null && p !== prevBtc){
+    el.classList.remove('flash-up','flash-down'); void el.offsetWidth;
+    el.classList.add(p > prevBtc ? 'flash-up' : 'flash-down');
+  }
+  prevBtc = p;
+  document.title = `BTC ${fmt(p,0)} · Kripto Çizelge`;
+  const ch24 = (p/open - 1)*100;
+  $('#btc24').innerHTML = `<span class="${ch24>=0?'pos':'neg'}">${pct(ch24)}</span><span>24 saat</span>`;
+
+  const delta = (p/btcRef - 1)*100;
+  const dEl = $('#btcDelta');
+  dEl.textContent = pct(delta);
+  dEl.className = 'px ' + (delta>0?'pos':delta<0?'neg':'');
+  const fill = $('#meterFill');
+  fill.classList.toggle('neg', delta < 0);
+  fill.style.background = delta >= 0 ? 'var(--sup)' : 'var(--res)';
+  fill.style.transform = `scaleX(${clamp(Math.abs(delta)/state.thr, 0, 1)})`;
+  $('#btcRef').textContent = `referans ${fmt(btcRef, 0)}`;
+
+  if(Math.abs(delta) >= state.thr){
+    alertBTC(delta, btcRef, p);
+    btcRef = p; setRef(p);
+  }
+}
+
+function updateThrLabels(){
+  $('#thrLo').textContent = `−%${state.thr}`;
+  $('#thrHi').textContent = `+%${state.thr}`;
+}
+
+let audioCtx = null;
+function beep(up){
+  try{
+    audioCtx = audioCtx || new (window.AudioContext || window.webkitAudioContext)();
+    const notes = up ? [660, 880] : [880, 560];
+    notes.forEach((f,i) => {
+      const o = audioCtx.createOscillator(), g = audioCtx.createGain();
+      o.frequency.value = f; o.type = 'sine';
+      const t = audioCtx.currentTime + i*0.18;
+      g.gain.setValueAtTime(0.0001, t); g.gain.exponentialRampToValueAtTime(0.25, t+0.02); g.gain.exponentialRampToValueAtTime(0.0001, t+0.16);
+      o.connect(g).connect(audioCtx.destination); o.start(t); o.stop(t+0.17);
+    });
+  }catch(e){}
+}
+
+function alertBTC(delta, from, to){
+  const up = delta > 0;
+  const title = `BTC ${up ? 'yükseldi' : 'düştü'} ${pct(delta)}`;
+  const body = `${fmt(from,0)} → ${fmt(to,0)}`;
+  beep(up);
+  toast(title, body);
+  if('Notification' in window && Notification.permission === 'granted'){
+    try{ new Notification(title, {body, tag:'btc-move', renotify:true}); }catch(e){}
+  }
+}
+
+function toast(title, body){
+  const t = document.createElement('div');
+  t.className = 'toast';
+  t.innerHTML = `<b>${esc(title)}</b><span style="color:var(--muted); font-size:14px">${esc(body)}</span>`;
+  $('#toasts').appendChild(t);
+  setTimeout(() => t.remove(), 8000);
+}
+
+function syncNotifBtn(){
+  const b = $('#notifBtn');
+  if(!('Notification' in window)){ b.textContent = 'Sesli uyarı açık'; return; }
+  if(Notification.permission === 'granted'){ b.textContent = 'Bildirimler açık'; b.classList.remove('btn-btc'); }
+  else if(Notification.permission === 'denied'){ b.textContent = 'Tarayıcı bildirimi engelli'; b.classList.remove('btn-btc'); b.title = 'Tarayıcı ayarlarından bu site için bildirime izin ver. Sesli uyarı ve ekran bildirimi yine çalışır.'; }
+}
+$('#notifBtn').addEventListener('click', async () => {
+  audioCtx = audioCtx || new (window.AudioContext || window.webkitAudioContext)();
+  audioCtx.resume();
+  if('Notification' in window && Notification.permission === 'default') await Notification.requestPermission();
+  syncNotifBtn();
+  toast('Bildirimler hazır', `BTC %${state.thr} hareket ettiğinde ses ve bildirim gelir.`);
+  beep(true);
+});
+
+/* =========================================================
+   Korku & açgözlülük, haberler
+   ========================================================= */
+const FNG_TR = {'Extreme Fear':'Aşırı korku','Fear':'Korku','Neutral':'Nötr','Greed':'Açgözlülük','Extreme Greed':'Aşırı açgözlülük'};
+async function loadFng(){
+  try{
+    const j = await getJSON('https://api.alternative.me/fng/');
+    const d = j.data[0];
+    const v = +d.value;
+    const color = v >= 60 ? 'var(--sup)' : v <= 40 ? 'var(--res)' : 'var(--text)';
+    $('#fng').innerHTML = `Korku/Açgözlülük: <b style="color:${color}">${v}</b> ${esc(FNG_TR[d.value_classification] || d.value_classification)}`;
+  }catch(e){ $('#fng').textContent = 'Korku/Açgözlülük alınamadı'; }
+}
+
+function coinTags(text){
+  const tags = [];
+  state.pairs.forEach(sym => {
+    const [base] = splitSym(sym);
+    const info = COIN_INFO[base] || [base];
+    const words = info.slice(1).concat(info[0].length > 3 ? [info[0].toLowerCase()] : []);
+    const hitWord = words.some(w => new RegExp(`\\b${w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}\\b`, 'i').test(text));
+    const hitSym = new RegExp(`\\b${base}\\b`).test(text);
+    if((hitWord || hitSym) && !tags.includes(base)) tags.push(base);
+  });
+  return tags;
+}
+
+// Türkçe özet: haberler.json (saatlik Claude görevi günceller). Yoksa İngilizce RSS başlıklarına düşer.
+async function loadNews(){
+  try{
+    const j = await getJSON('haberler.json?t=' + Date.now());
+    if(j && Array.isArray(j.haberler)){ state.brief = j; renderNews(); return; }
+  }catch(e){}
+  state.brief = null;
+  const res = await Promise.allSettled(NEWS_FEEDS.map(([name, url]) =>
+    getJSON('https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(url))
+      .then(j => (j.items || []).map(it => ({
+        title: it.title, link: it.link, source: name,
+        date: new Date((it.pubDate || '').replace(' ', 'T') + 'Z'),
+        text: it.title + ' ' + (it.description || '').replace(/<[^>]+>/g,' ').slice(0, 400),
+      })))
+  ));
+  state.news = res.filter(r => r.status === 'fulfilled').flatMap(r => r.value)
+    .filter(it => it.title && it.link && !isNaN(it.date))
+    .sort((a,b) => b.date - a.date);
+  renderNews();
+}
+
+const rtf = new Intl.RelativeTimeFormat('tr', {numeric:'auto'});
+function ago(d){
+  const m = Math.min(0, Math.round((d - Date.now())/60000));
+  if(Math.abs(m) < 60) return rtf.format(m, 'minute');
+  const h = Math.round(m/60);
+  if(Math.abs(h) < 24) return rtf.format(h, 'hour');
+  return rtf.format(Math.round(h/24), 'day');
+}
+const MOOD_TXT = {olumlu:'Olumlu', olumsuz:'Olumsuz', karisik:'Karışık', notr:'Nötr'};
+const ETKI_TXT = {olumlu:'Olumlu', olumsuz:'Olumsuz', notr:'Nötr'};
+function myBases(){ return state.pairs.map(s => splitSym(s)[0]); }
+
+function renderNews(){
+  const mineOnly = $('#mineOnly').checked;
+  const mine = myBases();
+  const B = state.brief;
+
+  if(B){
+    const t = new Date(B.guncelleme);
+    const hrs = (Date.now() - t)/3600000;
+    const te = $('#newsTime');
+    te.textContent = 'Türkçe özet, ' + ago(t) + (hrs > 3 ? ' (güncellenmedi)' : '');
+    te.classList.toggle('stale', hrs > 3);
+    const covered = new Set(B.haberler.flatMap(h => h.coinler || []));
+    const quiet = mine.filter(b => !covered.has(b));
+    $('#newsBrief').innerHTML = `
+      <div>
+        <div class="mood ${esc(B.duygu)}"><i></i>Piyasa havası: ${esc(MOOD_TXT[B.duygu] || B.duygu)}</div>
+        <p class="brief-text">${esc(B.ozet)}</p>
+      </div>
+      <div>
+        ${B.takvim && B.takvim.length ? `<h3>Bu hafta dikkat</h3><ul>${B.takvim.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>` : ''}
+        ${quiet.length ? `<p class="quiet">${esc(quiet.join(', '))} için bugün önemli bir haber yok.</p>` : ''}
+      </div>`;
+    let list = B.haberler.map(h => ({...h, mine: (h.coinler||[]).some(c => mine.includes(c))}))
+      .sort((a,b) => new Date(b.tarih) - new Date(a.tarih));
+    if(mineOnly) list = list.filter(h => h.mine);
+    $('#newsList').innerHTML = list.length ? list.map(h => `
+      <li class="${h.mine?'mine':''}"><a href="${esc(h.link)}" target="_blank" rel="noopener">
+        <span class="etki ${esc(h.etki)}"><i></i>${esc(ETKI_TXT[h.etki] || h.etki)}</span>
+        <span class="t">${esc(h.baslik)}</span>
+        <span class="o">${esc(h.ozet)}</span>
+        <span class="m"><span>${esc(h.kaynak)}</span><span>${ago(new Date(h.tarih))}</span>${(h.coinler||[]).map(c=>`<span class="tag">${esc(c)}</span>`).join('')}</span>
+      </a></li>`).join('')
+      : '<li style="padding:16px; color:var(--muted)">Listendeki coinlerle ilgili güncel haber yok.</li>';
+    return;
+  }
+
+  // Yedek: Türkçe özet alınamadı, İngilizce başlıklar
+  $('#newsTime').textContent = 'Türkçe özet alınamadı';
+  $('#newsTime').classList.add('stale');
+  $('#newsBrief').innerHTML = '<p class="brief-text" style="color:var(--muted); font-size:15px">Türkçe özet dosyasına ulaşılamadı. Şimdilik kaynakların İngilizce başlıkları gösteriliyor.</p>';
+  let list = state.news.map(it => ({...it, tags: coinTags(it.text)}));
+  if(mineOnly) list = list.filter(it => it.tags.length);
+  list = list.slice(0, 16);
+  $('#newsList').innerHTML = list.length ? list.map(it => `
+    <li class="${it.tags.length?'mine':''}"><a href="${esc(it.link)}" target="_blank" rel="noopener">
+      <span class="t">${esc(it.title)}</span>
+      <span class="m"><span>${esc(it.source)}</span><span>${ago(it.date)}</span>${it.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</span>
+    </a></li>`).join('')
+    : '<li style="padding:16px; color:var(--muted)">Haber kaynağına ulaşılamadı. 10 dakika sonra tekrar denenecek.</li>';
+}
+$('#mineOnly').addEventListener('change', renderNews);
+
+/* =========================================================
+   Parite yönetimi
+   ========================================================= */
+const dlg = $('#dlg');
+async function loadSymbols(){
+  if(state.symbols) return state.symbols;
+  const j = await getJSON(`${API}/ticker/price`);
+  state.symbols = new Set(j.map(x => x.symbol));
+  $('#symList').innerHTML = j.map(x => x.symbol).filter(s => s.endsWith('USDT')).sort().map(s => `<option value="${s}">`).join('');
+  return state.symbols;
+}
+
+function renderPlist(){
+  const ol = $('#plist');
+  if(!state.pairs.length){ ol.innerHTML = '<li style="color:var(--muted)">Liste boş.</li>'; return; }
+  ol.innerHTML = state.pairs.map((s,i) => {
+    const [b,q] = splitSym(s);
+    return `<li draggable="true" data-i="${i}">
+      <span class="grip" aria-hidden="true"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><circle cx="9" cy="6" r="1.6"/><circle cx="15" cy="6" r="1.6"/><circle cx="9" cy="12" r="1.6"/><circle cx="15" cy="12" r="1.6"/><circle cx="9" cy="18" r="1.6"/><circle cx="15" cy="18" r="1.6"/></svg></span>
+      <span class="n">${i+1}</span>
+      <span class="name">${esc(b)}<small>/${esc(q)}</small></span>
+      <button class="btn btn-ghost icon-btn" data-move="-1" data-i="${i}" type="button" aria-label="${esc(b)} yukarı taşı" ${i===0?'disabled':''}><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 15l6-6 6 6"/></svg></button>
+      <button class="btn btn-ghost icon-btn" data-move="1" data-i="${i}" type="button" aria-label="${esc(b)} aşağı taşı" ${i===state.pairs.length-1?'disabled':''}><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 9l6 6 6-6"/></svg></button>
+      <button class="btn btn-ghost icon-btn" data-del="${i}" type="button" aria-label="${esc(b)} sil" style="color:var(--res)"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+    </li>`;
+  }).join('');
+}
+
+function pairsChanged(newSym){
+  savePairs();
+  renderPlist();
+  renderTable();
+  connectWS();
+  if(newSym) analyzePair(newSym);
+  if(state.brief || state.news.length) renderNews();
+}
+
+$('#manageBtn').addEventListener('click', () => {
+  renderPlist();
+  $('#thrInput').value = state.thr;
+  dlg.showModal();
+  $('#addInput').focus();
+  loadSymbols().catch(()=>{});
+});
+$('#dlgClose').addEventListener('click', () => dlg.close());
+dlg.addEventListener('click', e => { if(e.target === dlg) dlg.close(); });
+
+$('#addForm').addEventListener('submit', async e => {
+  e.preventDefault();
+  const hint = $('#addHint');
+  let v = $('#addInput').value.trim().toUpperCase().replace(/[^A-Z0-9]/g,'');
+  if(!v) return;
+  let syms;
+  try{ syms = await loadSymbols(); }catch(err){ syms = null; }
+  if(syms){
+    if(!syms.has(v) && syms.has(v + 'USDT')) v += 'USDT';
+    if(!syms.has(v)){ hint.textContent = `"${v}" Binance'te bulunamadı. Coin kısaltmasını kontrol et.`; hint.classList.add('err'); return; }
+  } else if(!QUOTES.some(q => v.endsWith(q))) v += 'USDT';
+  if(state.pairs.includes(v)){ hint.textContent = `${v} zaten listede.`; hint.classList.add('err'); return; }
+  state.pairs.push(v);
+  hint.textContent = `${v} eklendi.`; hint.classList.remove('err');
+  $('#addInput').value = '';
+  pairsChanged(v);
+});
+
+$('#plist').addEventListener('click', e => {
+  const mv = e.target.closest('[data-move]'), del = e.target.closest('[data-del]');
+  if(mv){
+    const i = +mv.dataset.i, j = i + +mv.dataset.move;
+    [state.pairs[i], state.pairs[j]] = [state.pairs[j], state.pairs[i]];
+    pairsChanged();
+    const again = $(`#plist [data-move="${mv.dataset.move}"][data-i="${j}"]`);
+    if(again && !again.disabled) again.focus();
+  }
+  if(del){
+    const i = +del.dataset.del;
+    const s = state.pairs.splice(i, 1)[0];
+    delete state.data[s];
+    $('#addHint').textContent = `${s} silindi.`; $('#addHint').classList.remove('err');
+    pairsChanged();
+  }
+});
+
+// Sürükle-bırak sıralama
+let dragI = null;
+$('#plist').addEventListener('dragstart', e => { const li = e.target.closest('li'); if(!li) return; dragI = +li.dataset.i; li.classList.add('dragging'); e.dataTransfer.effectAllowed = 'move'; });
+$('#plist').addEventListener('dragend', e => { e.target.closest('li')?.classList.remove('dragging'); document.querySelectorAll('#plist li.over').forEach(x=>x.classList.remove('over')); });
+$('#plist').addEventListener('dragover', e => {
+  e.preventDefault();
+  const li = e.target.closest('li');
+  document.querySelectorAll('#plist li.over').forEach(x => x !== li && x.classList.remove('over'));
+  if(li && +li.dataset.i !== dragI) li.classList.add('over');
+});
+$('#plist').addEventListener('drop', e => {
+  e.preventDefault();
+  const li = e.target.closest('li');
+  if(!li || dragI == null) return;
+  const to = +li.dataset.i;
+  if(to !== dragI){ const [s] = state.pairs.splice(dragI, 1); state.pairs.splice(to, 0, s); pairsChanged(); }
+  dragI = null;
+});
+
+$('#thrInput').addEventListener('change', e => {
+  const v = parseFloat(e.target.value);
+  if(v > 0){ state.thr = v; ls.set('kc.thr', String(v)); updateThrLabels(); if(state.live.BTCUSDT) onBTC(state.live.BTCUSDT.p, state.live.BTCUSDT.open); }
+});
+
+/* =========================================================
+   Tablo etkileşimi
+   ========================================================= */
+$('#tbody').addEventListener('click', e => {
+  const retry = e.target.closest('[data-retry]');
+  if(retry){ e.stopPropagation(); analyzePair(retry.dataset.retry); return; }
+  if(e.target.closest('tr.detail')) return;
+  const row = e.target.closest('tr.row');
+  if(row) toggleDetail(row.dataset.sym);
+});
+$('#tbody').addEventListener('keydown', e => {
+  const row = e.target.closest('tr.row');
+  if(row && (e.key === 'Enter' || e.key === ' ')){ e.preventDefault(); toggleDetail(row.dataset.sym); }
+});
+$('#refreshBtn').addEventListener('click', refreshAll);
+
+/* =========================================================
+   Başlat
+   ========================================================= */
+updateThrLabels();
+syncNotifBtn();
+renderTable();
+connectWS();
+refreshAll();
+loadFng();
+loadNews();
+setInterval(refreshAll, REFRESH_MS);
+setInterval(loadNews, 10*60*1000);
+setInterval(loadFng, 30*60*1000);
+setInterval(() => { if(state.brief || state.news.length) renderNews(); }, 60*1000);
+</script>
+</body>
+</html>
