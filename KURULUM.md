@@ -59,6 +59,7 @@ Görevin talimatı `haber/GOREV.md` dosyasında. Görev bu talimata göre `haber
    - **Bindings → Add → KV namespace**: Variable name `KV`, namespace `kripto-kv` → kaydet.
    - **Variables and Secrets → Add**:
      - Type **Secret**, name `NTFY_TOPIC`, value: ntfy konu adın
+     - Type **Secret**, name `NTFY_TOKEN`, value: ntfy hesabından aldığın erişim anahtarı (`tk_…`). Hesap: https://ntfy.sh/signup → Account → Access tokens → Create. Bu olmadan ntfy, Cloudflare'in paylaşılan IP'si yüzünden "daily message quota reached" hatası verir.
      - (isteğe bağlı) Type Text, name `SITE_URL`, value `https://epheles.github.io/kripto/`
      - (isteğe bağlı) Type Text, name `ESIK`, value `0.5` (yüzde eşiği)
    - **Trigger Events (Triggers) → Add → Cron Triggers**: `* * * * *` (her dakika) → kaydet.

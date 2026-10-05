@@ -6,6 +6,8 @@
 // Gerekli ayarlar (Cloudflare panelinde, kurulum: bildirim/KURULUM.md):
 //   KV         : KV namespace bağlantısı (referans fiyatı saklar)
 //   NTFY_TOPIC : ntfy konu adı (gizli tut, tahmin edilemeyen bir isim)
+//   NTFY_TOKEN : ntfy hesabının erişim anahtarı (tk_…). Olmazsa ntfy, Cloudflare'in
+//                paylaşılan IP'si yüzünden "daily message quota reached" (429) verir.
 //   ESIK       : isteğe bağlı, varsayılan 0.5
 //   SITE_URL   : isteğe bağlı, bildirime dokununca açılacak adres
 //   Cron       : * * * * *
@@ -37,9 +39,12 @@ async function btcFiyati() {
 const fmt = p => Math.round(p).toLocaleString('en-US');
 
 async function ntfy(env, baslik, mesaj, yukari) {
+  const headers = { 'Content-Type': 'application/json' };
+  // Hesapla gönderim: kota Cloudflare'in paylaşılan IP'sine değil, ntfy hesabına sayılır
+  if (env.NTFY_TOKEN) headers.Authorization = 'Bearer ' + env.NTFY_TOKEN;
   const r = await fetch('https://ntfy.sh/', {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers,
     body: JSON.stringify({
       topic: env.NTFY_TOPIC,
       title: baslik,
