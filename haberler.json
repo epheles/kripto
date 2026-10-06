@@ -1,7 +1,7 @@
 {
- "guncelleme": "2026-10-06T19:05+00:00",
+ "guncelleme": "2026-10-06T20:05+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin 85.000 dolar civarında dar bir bantta kalıyor; hisse senetleri rekor kırarken BTC bu yükselişe katılmadı ve spot ETF'lerden 90 milyon dolar çıkış oldu. Tahvil faizlerinin 2002'den beri en yüksek seviyeden gerilemesi destek veriyor, ancak Fed yetkilileri faiz artışı ihtimalini masada tutuyor. İzlenecek seviye 84.000 dolar: altına inilirse 80.000 dolar gündeme gelebilir. ABD Hazinesi'nin cüzdan gözetim önerilerini geri çekmesi düzenleme tarafında olumlu.",
+ "ozet": "Bitcoin 85.000 dolar civarında dar bir bantta; hisseler rekor kırarken BTC bu yükselişe katılmadı ve spot ETF'lerden 90 milyon dolar çıkış oldu. Tahvil faizlerinin 2002 zirvesinden gerilemesi destek veriyor, ancak Fed yetkilileri faiz artışı ihtimalini masada tutuyor. İzlenecek seviye 84.000 dolar: altına inilirse 80.000 dolar gündeme gelebilir. ABD Hazinesi'nin gözetim önerilerini geri çekmesi düzenleme tarafında olumlu.",
  "takvim": [
   "Çarşamba 7 Ekim: Fed'in son toplantı tutanakları yayımlanıyor. Faiz artışı vurgusu çıkarsa kripto baskı altında kalabilir."
  ],
@@ -49,7 +49,7 @@
   },
   {
    "baslik": "ABD Hazinesi kripto gözetim önerilerinden vazgeçti",
-   "ozet": "FinCEN, özel cüzdanlar ve karıştırıcı (mixer) hizmetleri hedefleyen önerilen kuralları geri çekeceğini açıkladı. Sektör bunu büyük bir kazanım olarak görüyor.",
+   "ozet": "FinCEN, kripto gözetim önerilerini geri çekeceğini açıkladı. Sektör bunu büyük bir kazanım olarak görüyor.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Bitcoin Magazine",
@@ -58,7 +58,7 @@
   },
   {
    "baslik": "Ripple Prime, Brevan Howard'a aracılık hizmeti verecek",
-   "ozet": "Ripple Prime, 35 milyar dolar yöneten yatırım şirketi Brevan Howard'ın fonlarına aracılık, takas ve finansman hizmeti sağlayacak. Kurumsal kripto altyapısının genişlemesi olarak okunabilir.",
+   "ozet": "Ripple Prime, 35 milyar dolar yöneten Brevan Howard'ın fonlarına aracılık, takas ve finansman hizmeti sağlayacak. Kurumsal kripto altyapısının genişlemesi olarak okunabilir.",
    "etki": "olumlu",
    "coinler": [
     "XRP"
@@ -69,7 +69,7 @@
   },
   {
    "baslik": "Ethereum'un Glamsterdam yükseltmesi Sepolia test ağında",
-   "ozet": "Glamsterdam, nihai devreye almadan önceki son büyük provalardan biri olarak Sepolia test ağında başladı. Ethereum'da verimlilik ve ölçeklenme hedefleniyor.",
+   "ozet": "Glamsterdam yükseltmesi Sepolia test ağında devreye girdi; bu, nihai geçişten önceki son büyük provalardan biri. Amaç Ethereum'da verimlilik ve ölçeklenebilirliği artırmak.",
    "etki": "olumlu",
    "coinler": [
     "ETH"
@@ -79,17 +79,29 @@
    "tarih": "2026-10-06T14:00+00:00"
   },
   {
-   "baslik": "CFTC kripto borsalarını düzenleme planını açıkladı",
-   "ozet": "CFTC, kripto borsalarını denetleme planını duyurdu; Decrypt bunu net kuralların geldiği şeklinde yorumluyor. Karşı görüş: Better Markets, CFTC'nin perakende kripto için doğru kurum olmadığını savunuyor.",
-   "etki": "notr",
+   "baslik": "OKX, 25 milyar dolar değerlemeyle yeni yatırım aldı",
+   "ozet": "OKX, mart ayındaki yatırım turunun uzantısı olarak 25 milyar dolar değerlemeyle sermaye topladı. Circle, Ripple ve Standard Chartered de turda yer aldı.",
+   "etki": "olumlu",
    "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
-   "tarih": "2026-10-06T12:27+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-06T13:32+00:00"
   },
   {
-   "baslik": "Bitcoin sıkışık bantta; 84.000 dolar altı satıcıları öne çıkarabilir",
-   "ozet": "FxPro'ya göre 84.000 doların altı kontrolü satıcılara verir ve 80.000 doları gündeme getirir. Hisseler yeni rekor kırarken BTC bantta kaldı.",
+   "baslik": "Raoul Pal: Sermaye yapay zekadan kriptoya dönmeye başlıyor",
+   "ozet": "Pal, yapay zeka hisselerindeki rallinin durmasının kriptoya sermaye çekebileceğini söyledi. Yapay zeka ajanlarının Ethereum ve Solana kullanımını artırması bekleniyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "ETH",
+    "SOL"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-06T13:30+00:00"
+  },
+  {
+   "baslik": "Bitcoin dar bantta, 84.000 doları izleyin",
+   "ozet": "FxPro'ya göre 84.000 doların altına inilirse kontrol satıcılara geçip 80.000 dolar gündeme gelebilir. Fed tutanakları çarşamba günü yayımlanacak.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -100,16 +112,16 @@
   },
   {
    "baslik": "ABD tahvil faizleri 2002 zirvesinden geriledi",
-   "ozet": "Petrol düştükçe ABD tahvil faizleri 2002'den beri en yüksek seviyeden indi. Faizlerin düşmesi riskli varlıklara nefes aldırabilir.",
+   "ozet": "Petrol düşerken ABD tahvil faizleri 2002'den beri en yüksek seviyeden geriledi. Faizlerdeki düşüş riskli varlıklara nefes aldırıyor.",
    "etki": "olumlu",
    "coinler": [],
-   "kaynak": "Bloomberg.com",
+   "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzEtUVFoWkZFa3NIWUVTRmc3ZUdvd0prLWZFWFVyVktjYnVrOV9yTVoyR3pudUpTVGFWLXpyLUpaZGtUdnZ2ZDh0S3lOdmhmX3FJWTY5UVhoSlpyc2hlS1E4TnlHS2ZVa0UtZHFLN3BkUXN5dVNDdDVfZTI0OXpmRUhHSXNzOTlNanF6ejZfb25xWW5IUXNaMDdWZERpRml4bzBvREFsNXc4OFlmTmN1S0lVQQ?oc=5",
    "tarih": "2026-10-06T10:20+00:00"
   },
   {
-   "baslik": "Binance'ten BTC çıkışları 2023 ortasından beri en yüksekte",
-   "ozet": "Binance'teki BTC rezervleri 20 Eylül'den beri yaklaşık 40.000 BTC azaldı; balinalar stablecoin'lerini borsa cüzdanlarına geri yatırıyor.",
+   "baslik": "Binance'ten BTC çıkışı 2023'ten beri en yüksek",
+   "ozet": "Binance'teki BTC rezervleri 20 Eylül'den bu yana yaklaşık 40.000 BTC azaldı; balinalar borsa cüzdanlarına stablecoin yatırdı.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -120,7 +132,7 @@
   },
   {
    "baslik": "Bitcoin ETF'lerinden 90 milyon dolar çıkış",
-   "ozet": "ABD spot Bitcoin ETF'leri iki günlük girişin ardından çıkışa geçti; BTC 86.000 doların altına indi ve bir yıl önceki zirvenin yaklaşık %32 altında.",
+   "ozet": "ABD spot Bitcoin ETF'leri iki günlük girişin ardından çıkışa geçti. BTC 86.000 doların altına indi ve geçen yılki rekorun yaklaşık %32 altında.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
