@@ -1,24 +1,26 @@
 {
- "guncelleme": "2026-10-06T11:20+00:00",
+ "guncelleme": "2026-10-06T12:20+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin yaklaşık $85.000 civarında; $87.000 direncinden üçüncü kez geri döndü ve spot ETF'lerden $90 milyon çıkış oldu. ABD tahvil faizleri 2002'den beri en yüksek seviyeden geriledi, bu riskli varlıklara nefes aldırıyor; ama Fed'in bu ay faiz artırabileceği beklentisi sürüyor. İzlenecek seviye $84.000: altına inilirse $80.000 gündeme gelebilir. Düzenleme tarafında FinCEN'in özel cüzdan kuralını geri çekmesi olumlu.",
+ "ozet": "Bitcoin 85.000 dolar civarında; 23 Eylül'den beri üçüncü kez 87.000 dolar direncinden döndü ve spot ETF'lerden 90 milyon dolar çıkış oldu. Tahvil faizlerinin 2002'den beri en yüksek seviyeden gerilemesi riskli varlıklara destek veriyor, ama Fed'in bu ay faiz artırabileceği beklentisi sürüyor. İzlenecek seviye 84.000 dolar: altına inilirse 80.000 dolar gündeme gelebilir. Düzenleme tarafında FinCEN'in 10.000 dolarlık özel cüzdan kuralını geri çekmesi olumlu.",
  "takvim": [
   "Çarşamba 7 Ekim: Fed'in son toplantı tutanakları yayınlanacak. Faiz artışı vurgusu çıkarsa kripto baskı altında kalabilir.",
-  "Sürekli takip: BTC için $87.000 direnci ve $84.000 desteği."
+  "Sürekli takip: BTC için 87.000 dolar direnci ve 84.000 dolar desteği."
  ],
  "haberler": [
   {
    "baslik": "ABD tahvil faizleri 2002'den beri en yüksek seviyeden geriledi",
-   "ozet": "Petrol fiyatındaki düşüşle birlikte ABD tahvil faizleri zirveden döndü; Wall Street vadelileri yükseliyor. Faizlerin düşmesi kripto gibi riskli varlıklara genelde destek olur.",
+   "ozet": "Petrol fiyatlarındaki düşüşle birlikte tahvil faizleri 2002'den beri görülen zirveden döndü.",
    "etki": "olumlu",
-   "coinler": [],
+   "coinler": [
+    "BTC"
+   ],
    "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzEtUVFoWkZFa3NIWUVTRmc3ZUdvd0prLWZFWFVyVktjYnVrOV9yTVoyR3pudUpTVGFWLXpyLUpaZGtUdnZ2ZDh0S3lOdmhmX3FJWTY5UVhoSlpyc2hlS1E4TnlHS2ZVa0UtZHFLN3BkUXN5dVNDdDVfZTI0OXpmRUhHSXNzOTlNanF6ejZfb25xWW5IUXNaMDdWZERpRml4bzBvREFsNXc4OFlmTmN1S0lVQQ?oc=5",
    "tarih": "2026-10-06T10:20+00:00"
   },
   {
-   "baslik": "Hong Kong kripto lisans yasası için 2026 sonu hedefini korudu",
-   "ozet": "Yetkililer işlem, saklama, danışmanlık ve yönetim hizmetleri için dört kategoride lisans rejimi kurmayı planlıyor.",
+   "baslik": "Hong Kong kripto lisans yasası için 2026 sonu hedefini koruyor",
+   "ozet": "Yetkililer işlem, saklama, danışmanlık ve yönetim hizmetleri için lisans rejimi kurmayı planlıyor.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -26,9 +28,9 @@
    "tarih": "2026-10-06T10:16+00:00"
   },
   {
-   "baslik": "Binance'ten BTC çıkışı 2023'ten beri en yüksekte",
-   "ozet": "20 Eylül'den bu yana Binance'taki BTC rezervi yaklaşık 40.000 BTC azaldı. Balinalar aynı zamanda borsaya stablecoin yatırıyor.",
-   "etki": "notr",
+   "baslik": "Binance'ten BTC çıkışı 2023'ten beri en yüksek seviyede",
+   "ozet": "Binance'teki BTC rezervi 20 Eylül'den beri yaklaşık 40.000 BTC azaldı; büyük yatırımcılar borsa cüzdanlarına stablecoin yatırıyor.",
+   "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
@@ -37,26 +39,17 @@
    "tarih": "2026-10-06T09:59+00:00"
   },
   {
-   "baslik": "Ondo, özel şirketlere tokenize erişim açtı",
-   "ozet": "Ondo'nun yeni platformunda ilk ürün, halka arz öncesi bir yapay zeka şirketine bağlı tokenize notlar. Tokenizasyon alanında büyüme sinyali.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/business/2026-10-06-ondo-launches-onchain-private-company-exposure-starting-with-ai-417762",
-   "tarih": "2026-10-06T09:38+00:00"
-  },
-  {
-   "baslik": "OKX, faiz veren stablecoin tasarruf ve ödeme uygulaması açtı",
-   "ozet": "OKX Money, dolar stablecoin'lerinin tutulmasını, gönderilmesini ve harcanmasını sağlıyor; uygun USDG bakiyelerine %10'a kadar getiri sunuluyor.",
+   "baslik": "ZachXBT, Lazarus ve Bybit hırsızlığına bağlı Çinli aklayıcı ağına sızdı",
+   "ozet": "ZachXBT, müşteri gibi davranarak ağa sızdığını ve 1,5 milyar dolarlık Bybit hırsızlığına bağlı fonların dondurulmasına yardımcı olduğunu söyledi.",
    "etki": "notr",
    "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
-   "tarih": "2026-10-06T09:02+00:00"
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/defi/2026-10-06-zachxbt-infiltrated-chinese-launderers-lazarus-hack-417767",
+   "tarih": "2026-10-06T09:51+00:00"
   },
   {
    "baslik": "Yatırımcı: Enflasyon Fed'i bu ay faiz artırmaya zorlayabilir",
-   "ozet": "Reuters'a göre bir yatırımcı enflasyonun Fed'i bu ay faiz artırmaya itebileceğini söylüyor. Faiz artışı beklentisi riskli varlıklar için baskı yaratır.",
+   "ozet": "Reuters'a göre bir yatırımcı enflasyonun Fed'i bu ay faiz artışına itebileceğini söyledi. Faiz artışı riskli varlıklar için olumsuz.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -64,8 +57,8 @@
    "tarih": "2026-10-06T08:48+00:00"
   },
   {
-   "baslik": "Spot Bitcoin ETF'lerinden $90 milyon çıkış",
-   "ozet": "İki günlük girişin ardından ETF'lerden para çıktı; BTC $86.000'in altına inerek geçen yılki zirvenin yaklaşık %32 altında işlem görüyor.",
+   "baslik": "Bitcoin ETF'lerinden 90 milyon dolar çıkış",
+   "ozet": "Spot ETF'ler iki günlük girişin ardından çıkışa geçti; BTC 86.000 doların altına indi ve rekorun yaklaşık %32 altında.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -75,8 +68,19 @@
    "tarih": "2026-10-06T08:14+00:00"
   },
   {
+   "baslik": "ABD tahvil faizleri Fed tutanakları öncesi geriledi",
+   "ozet": "Yatırımcılar FOMC toplantı tutanaklarını beklerken tahvil faizleri düştü; bu genelde riskli varlıklara destek olur.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JN3hlTGd4VlZhb0g2Y1AzdHJ3ZVZYOHJ3UDI3X1NpekdCemxHTlpsbVl2NUxLTmdUU2dmTFB2QlFWQmJXN2syaVh3OHdMR294SzRUMUhzRktsbk50UG9JMks1dWZqQldIYmllQUpyWjhHRFZERVVhVtIBfkFVX3lxTFBiS2VYTXRVaXVCQXUzd0VTNXZSYXQxRWl5V18xSXVlZVBXeEdjMkIwWGloZlVKalh5SjU2RmF3dGxfNEpzd05SMjczOXNmQTFZTGloaUdOdzAxMVRuWXc1ME9mb0RCYThITTZrQnNKM3NuQ1NKUDBsY1lEVU1PUQ?oc=5",
+   "tarih": "2026-10-06T07:05+00:00"
+  },
+  {
    "baslik": "Better Markets: CFTC perakende kripto için 'yanlış kurum'",
-   "ozet": "Kuruluş, CFTC'nin önerdiği çerçevenin yatırımcıyı SEC'den daha az koruyacağını savunuyor. Düzenleme tartışması sürüyor.",
+   "ozet": "Kuruluş, CFTC'nin önerdiği çerçevenin yatırımcıları daha az koruyacağını savunuyor. Düzenleme belirsizliği sürüyor.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -84,8 +88,8 @@
    "tarih": "2026-10-06T05:43+00:00"
   },
   {
-   "baslik": "ABD, özel cüzdan için $10.000 bildirim kuralını geri çekti",
-   "ozet": "FinCEN, yıllardır askıda duran ve özel cüzdanlarla karıştırıcıları (mixer) hedefleyen iki öneriyi geri çekti. Öz saklama kullanıcıları için olumlu bir adım.",
+   "baslik": "ABD, özel cüzdanlara gönderilen kripto için 10.000 dolar bildirim kuralını geri çekti",
+   "ozet": "FinCEN, yıllardır kendi cüzdanını kullananların ve kripto karıştırıcıların üzerinde bekleyen iki öneriyi geri çekti.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -93,8 +97,8 @@
    "tarih": "2026-10-06T04:55+00:00"
   },
   {
-   "baslik": "Ethereum Glamsterdam testi öncesi son dakika düzeltmesi",
-   "ozet": "Ana doğrulayıcı yazılımlarından biri güncellendi; Sepolia testi blok başına işlem kapasitesini 200 milyon gaz'a çıkaracak.",
+   "baslik": "Ethereum'un Glamsterdam testine son anda düzeltme geldi",
+   "ozet": "Ana doğrulayıcı yazılımlarından biri, blok başına işlem kapasitesini artıran Sepolia testinden saatler önce güncellendi.",
    "etki": "olumlu",
    "coinler": [
     "ETH"
@@ -104,8 +108,8 @@
    "tarih": "2026-10-06T04:49+00:00"
   },
   {
-   "baslik": "Bitcoin $87.000'de üçüncü kez geri çevrildi",
-   "ozet": "BTC, 23 Eylül'den beri üçüncü kez $87.000 direncinden döndü ve yaklaşık $85.600'e geriledi. Analistler $84.000'in altının satıcıları öne çıkarıp $80.000'i gündeme getirebileceğini söylüyor.",
+   "baslik": "Bitcoin 87.000 dolardan üçüncü kez geri çevrildi",
+   "ozet": "BTC 23 Eylül'den beri üçüncü kez 87.000 dolarda satıcılara takıldı ve yaklaşık 85.600 dolara indi; Nasdaq rekorda kapandı.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -115,8 +119,8 @@
    "tarih": "2026-10-06T04:41+00:00"
   },
   {
-   "baslik": "Solana'da J.P. Morgan katkılı kurumsal takas programı",
-   "ozet": "Solana Vakfı'nın açık kaynaklı DvP programı kurumların işlemleri saniyeler içinde kesinleştirmesini sağlıyor. Kurumsal ilgi SOL için olumlu.",
+   "baslik": "Solana, kurumlar için saniyeler içinde takas programı başlattı",
+   "ozet": "Solana Vakfı'nın açık kaynaklı programı varlık transferlerini saniyelerde tamamlıyor; JPMorgan görüş verdi.",
    "etki": "olumlu",
    "coinler": [
     "SOL"
