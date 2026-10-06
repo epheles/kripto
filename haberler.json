@@ -1,23 +1,73 @@
 {
- "guncelleme": "2026-10-05T18:10+00:00",
+ "guncelleme": "2026-10-06T00:05+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin sekiz ayın en yüksek haftalık kapanışını yaptı ve ETF'lere üst üste üçüncü hafta giriş oldu, ancak fiyat kısa vadeli dirençte tutunamıyor. Dolar 18 ayın zirvesinde, tahvil faizleri yükseliyor ve ABD hizmet sektöründe fiyat baskısı artıyor; bu riskli varlıklara baskı yapabilir. Strategy, Metaplanet ve Strive gibi şirketlerin alımları destek veriyor. CFTC'nin yeni düzenleme önerileri de gündemde.",
+ "ozet": "Bitcoin sekiz ayın en yüksek haftalık kapanışını yaptı ama kısa vadeli dirençte tutunamadı. Zayıf istihdam verisi Fed'in Ekim'de faiz artırma beklentisini azalttı; yine de tahvil faizleri 24 yılın zirvesinde, dolar güçlü ve hizmet sektöründe fiyat baskısı sürüyor. Düzenleme tarafı olumlu: SEC 3 katlı BTC/ETH fonlarına izin verdi, FinCEN karıştırıcı kuralını geri çekti. Şirket alımları (Strive, Bitmine) sürüyor.",
  "takvim": [
-  "Bu hafta: Fed toplantı tutanakları. Faiz artışı vurgusu çıkarsa kripto baskılanabilir."
+  "Bu ay: Fed'in Ekim faiz kararı. Enflasyon baskısı artarsa faiz artışı beklentisi dönebilir ve kripto baskı görebilir."
  ],
  "haberler": [
   {
-   "baslik": "CFTC kripto borsaları için federal lisans önerdi",
-   "ozet": "ABD'nin vadeli işlem düzenleyicisi CFTC, kripto borsaları için yeni bir federal lisans çerçevesi önerdi ve halkın görüşünü istiyor; kaldıraç sunan borsalar denetime girecek. Netlik uzun vadede olumlu olabilir, kaldıraçlı işlemler için ek kurallar gelebilir.",
+   "baslik": "Enflasyon Fed'i bu ay faiz artırmaya zorlayabilir, diyor yatırımcı",
+   "ozet": "Reuters'a konuşan bir yatırımcı, enflasyonun Fed'i Ekim'de faiz artırmaya itebileceğini söyledi. Faiz artışı genelde kripto gibi riskli varlıkları baskılar.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90TkNNVHNXcHdNUUtXSElrMGlfRE1Xejk5ZkVSVHY4aDU1aDh3cVQwQ3VTamlOMVB4YllsTEVyejVkX01DM1BnZGFNUzA4eHV2d2ppZXF6MDBiOFNuSnVlbGh4cFFjTjQ?oc=5",
+   "tarih": "2026-10-05T20:51+00:00"
+  },
+  {
+   "baslik": "Uzun vadeli ABD tahvil faizleri 24 yılın zirvesinde",
+   "ozet": "Hazine tahvillerindeki satış uzun vadeli faizleri 24 yılın en yüksek seviyesine taşıdı. Yüksek faiz riskli varlıklar için genelde baskı demek; hisseler ise rekora gitti.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdS1Yd1RIMEhSTmNFb2NEUUVGRGktUmNWcmxWOGVfVENPOW51RGxGY3lYMEpZRXQtTVBzT2tqS0FXcWg4a3pKNzlHdG5VWmJPNjlVRG1IS2hOXzBISHhfVjV0eHFyc2lFUmRGeHROQ1JSTTA2aWhpbVFlb2VrelFoWlhZdGhzd1RqQWt3RzZ4aVFYeklTMFc2YnhMQlZYcV9xRXFua0lpMlJCdU5zTU1qRTdsZw?oc=5",
+   "tarih": "2026-10-05T18:36+00:00"
+  },
+  {
+   "baslik": "SEC, 3 katlı kaldıraçlı Bitcoin ve Ethereum fonlarına izin verdi",
+   "ozet": "Cboe'nin kuralı onaylandı; Volatility Shares'in Bitcoin ve Ethereum'un günlük hareketini 3 katına çıkaran fonları borsada işlem görebilecek. Piyasaya yeni giriş yolu açıyor ama oynaklığı artırabilir.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC",
+    "ETH"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+   "tarih": "2026-10-05T18:12+00:00"
+  },
+  {
+   "baslik": "ABD Hazinesi kripto karıştırıcı kuralını geri çekti",
+   "ozet": "FinCEN, kripto karıştırıcılarını 'birincil kara para riski' ilan edecek öneriyi geri çekti. Kripto sektörü için düzenleme baskısını azaltan bir adım.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
+   "tarih": "2026-10-05T17:22+00:00"
+  },
+  {
+   "baslik": "ABD tahvil faizi %5'e yaklaşırken zayıf istihdam verisi Bitcoin'e nefes aldırdı",
+   "ozet": "Zayıf ABD istihdam verisi, Fed'in Ekim'de yeniden faiz artırma beklentisini azalttı. Bitcoin bu çeyrekte 2017'den beri en iyi dönemini yaşıyor; yüksek tahvil faizi bunu sürdürmeyi zorlaştırabilir.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-05T16:53+00:00"
+  },
+  {
+   "baslik": "CFTC de SEC gibi kripto düzenleme önerisi getirdi",
+   "ozet": "CFTC, kripto faaliyetlerini ve borsalarını kapsayan iki kural önerdi; kaldıraçlı perakende işlemler için yeni federal lisans da gündemde. Spot piyasadaki boşluk ise sürüyor.",
    "etki": "notr",
    "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
-   "tarih": "2026-10-05T16:46+00:00"
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+   "tarih": "2026-10-05T15:54+00:00"
   },
   {
    "baslik": "Bitcoin sekiz ayın en iyi haftalık kapanışından sonra yükselemedi",
-   "ozet": "Bitcoin'in haftalık kapanışı sekiz ayın en yükseği oldu, ancak Pazartesi ABD işlemlerinin başında kısa vadeli dirençte takıldı.",
+   "ozet": "Bitcoin, sekiz ayın en yüksek haftalık kapanışını yaptı ama Pazartesi ABD işlemlerinin başında kısa vadeli dirence takıldı. Fiyat yeni zirve için bu seviyeyi aşmayı bekliyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -27,71 +77,8 @@
    "tarih": "2026-10-05T15:09+00:00"
   },
   {
-   "baslik": "Bitcoin ETF'lerine üst üste üçüncü hafta giriş",
-   "ozet": "Bitcoin ETF'leri üçüncü haftadır net giriş aldı. Ether ETF'lerinden ise 138 milyon dolar çıkış oldu; Zcash fonlarında da ilk haftalık çıkış görüldü.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC",
-    "ETH"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-05T08:00+00:00"
-  },
-  {
-   "baslik": "Dolar 18 ayın zirvesinde, Bitcoin'in dayanıklılığı sınanıyor",
-   "ozet": "Güçlü dolar ve yükselen tahvil faizleri kripto için baskı yaratabilir. Fransa'daki mali kaygılar ve İspanya'daki siyasi belirsizlik avroyu zayıflatıyor.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
-   "tarih": "2026-10-05T10:44+00:00"
-  },
-  {
-   "baslik": "Tahvil faizleri haftaya yükselişle başladı, gözler Fed tutanaklarında",
-   "ozet": "ABD tahvil faizleri haftanın başında yükseldi; yatırımcılar Fed toplantı tutanaklarını bekliyor. Yüksek faiz riskli varlıklar için genelde olumsuz.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IaFZaeFFMQnFxZVQ0dXBXRmExY1pmcHNKUVM1ejBOSWtSQ3huNTlpV2pnTDVvQlJtbV8xV3pyaWFQT1FTWVF2VWgxZDNuR0ZxT2w0YXFCWGs4My1mNFJtcW5ERU1BeUczVHJPdzNoeFZQVTRMaVE40gF8QVVfeXFMUG5tZW9UYkJTZW05R3NiNGdUb3ZZd2puOFo4S2h0UmZudkJ4R2hRU0d5aDM1WmFXY1BBdy1ZWjQ4aGtjVFBQSHEwSnlFYkNLSlhFeFhzVGFzc050QzZqRTVkczVFdjliZ0RtRDlqdWZXNFV3amY4ZDRlQ25RSw?oc=5",
-   "tarih": "2026-10-05T08:00+00:00"
-  },
-  {
-   "baslik": "ABD hizmet sektörü eylülde yavaşladı, fiyat baskısı arttı",
-   "ozet": "ABD'de hizmet sektörü faaliyeti eylülde yavaşladı, fiyatlardaki baskı ise güçlendi. Bu, faizlerin yüksek kalma ihtimalini artırabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR3BlTGEwb3JGdmZ3UjQ3a1UxVUpzdDExSS1QUUdKVUFqWHlxV0ctbEZBQks1RjRXLVhWRDNGSFU5NGtBMllzMGdTa2N0RmUtWndwOVc4LVI2ZHl2Zmo3Q3kzbTVCLWxqWmc5VHN6TFlPMGdyd0M3OGVSNE4xZy1XRThLNnZjMUpva1JtRWJ6OTR5clZPaWVZamZUSGV2RmxUTVhyQVVYMjh4VU5VTVpR?oc=5",
-   "tarih": "2026-10-05T14:45+00:00"
-  },
-  {
-   "baslik": "Strategy 3. çeyrekte kâra geçti, 334 BTC daha aldı",
-   "ozet": "Strategy, Bitcoin'deki değer artışı sayesinde 21 milyar dolarlık kâğıt üstü kazanç bildirdi; toplam varlığı rekor 848 bin BTC. Geçen hafta 28,7 milyon dolarlık BTC alırken 176 milyon dolarlık STRC hissesi geri aldı.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc",
-   "tarih": "2026-10-05T12:51+00:00"
-  },
-  {
-   "baslik": "Metaplanet 3. çeyrekte 10 bin BTC satıp 11 bin BTC geri aldı",
-   "ozet": "Japon şirket likiditesini göstermek için sattığı Bitcoin'in daha fazlasını geri aldı; net 1.000 BTC ekleyip toplam varlığını 44 bin BTC'ye çıkardı.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
-   "tarih": "2026-10-05T12:04+00:00"
-  },
-  {
-   "baslik": "Strive 2.000 BTC ekledi, Haziran'dan beri en büyük alım",
-   "ozet": "Strive'ın Bitcoin varlığı 30 bin BTC'ye yaklaştı; büyük halka açık şirketler arasında Bitcoin biriktirme yarışı sürüyor.",
+   "baslik": "Strive 2.000 Bitcoin aldı, 30 bin BTC'ye yaklaştı",
+   "ozet": "Strive, Haziran'dan beri en büyük alımını yaparak yaklaşık 169 milyon dolara 2.000 BTC aldı ve toplam 29.462 BTC'ye ulaştı. Şirket hazineleri arasındaki yarış hızlanıyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -101,8 +88,8 @@
    "tarih": "2026-10-05T15:03+00:00"
   },
   {
-   "baslik": "Bitmine 41 milyon dolarlık ETH daha aldı",
-   "ozet": "Bitmine'ın Ethereum varlığı 6 milyon ETH'yi aştı; bu, toplam arzın yüzde 4,9'una denk geliyor ve şirketin yüzde 5 hedefinin yüzde 99'una ulaştı.",
+   "baslik": "Bitmine 41 milyon dolarlık Ethereum daha aldı, 6 milyon ETH'yi geçti",
+   "ozet": "Bitmine'in ETH'si arzın %4,9'una ulaştı, %5 hedefinin %99'unda. Büyük şirket alımı ETH için destekleyici.",
    "etki": "olumlu",
    "coinler": [
     "ETH"
@@ -112,24 +99,35 @@
    "tarih": "2026-10-05T14:54+00:00"
   },
   {
-   "baslik": "OKX ve ICE, tokenlaştırılmış ABD hisse platformu için SEC'e başvurdu",
-   "ozet": "OKX ile NYSE'nin sahibi ICE'ın ortak girişimi, SEC'in yenilik muafiyeti kapsamında tokenlaştırılmış hisse işlem platformu kuracağını bildirdi.",
-   "etki": "olumlu",
+   "baslik": "ABD hizmet sektörü yavaşladı, fiyat göstergesi 4 yılın zirvesinde",
+   "ozet": "Eylül'de hizmet sektörü büyümesi yavaşladı ama fiyat baskısı dört yılın en yüksek seviyesine çıktı. Bu, Fed'in faiz kararını zorlaştırıyor.",
+   "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613",
-   "tarih": "2026-10-05T06:38+00:00"
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUxIRWktTEhsbnNxaFJlMWJaRWdzcGI2Ni0tTmsxdXdNUTUtR0VwSk1mTDBMYVhlakZ0dzREcGRvQm1paDA5TnZFaUlsckx2ZFZ1Ty10NkhxUkU4aTlHamVNdHRMbHZZd0FVVU1JWEdVdXFwUTJvbEFkRnYwcjR0TGpCZ1UxcGdkeG1WdzZCSGVGYzdfVFNfdHJaYWNoa2VfaEdtS3lMa3diU3k5NWZPTWJDUQ?oc=5",
+   "tarih": "2026-10-05T14:38+00:00"
   },
   {
-   "baslik": "Bitcoin'de ikinci, daha güçlü 'golden cross' sinyali",
-   "ozet": "Teknik göstergeye göre Bitcoin yükselişi aynı dirence takılıyor, ancak klasik bir yükseliş sinyali trendin kalıcı olabileceğini gösteriyor.",
-   "etki": "olumlu",
+   "baslik": "Strategy, Bitcoin yerine hisse geri alımına daha çok harcadı",
+   "ozet": "Strategy geçen hafta 28,7 milyon dolara 334 Bitcoin aldı, STRC hisselerini geri almak için ise 176,3 milyon dolar harcadı. Bitcoin alımı yavaşladı.",
+   "etki": "notr",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
-   "tarih": "2026-10-05T16:10+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-05T13:22+00:00"
+  },
+  {
+   "baslik": "Dolar bu yılın en güçlü seviyesine yaklaştı",
+   "ozet": "Dolar yılın en güçlü seviyesine yakın, ancak rallide çatlaklar görülüyor. Güçlü dolar genelde Bitcoin için baskı unsuru olabilir.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2NmVzEtLXhhS3FEaXhMeW5sQUFQMkpiUWRmRUJGODltWFVQMjAyczRXOW9vblZDdWtzbzBLR0VXQVdnRVpVQW5jQWcwREE3MVc3NkJyWHZkRndDekl5NDhsMi1VY1laNVVxRjdwMk5uZGQxWm9KYloxOGhfMTRfNjZMaHF1S3dfOFlYVXlRaWFnUjVjbVdsX1lzbG5KU2J0NGtrcDRodVBfcTRyckRjXzVWdFFxdw?oc=5",
+   "tarih": "2026-10-05T12:12+00:00"
   }
  ]
 }
