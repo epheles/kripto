@@ -1,32 +1,55 @@
 {
- "guncelleme": "2026-10-06T00:05+00:00",
+ "guncelleme": "2026-10-06T01:05+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin sekiz ayın en yüksek haftalık kapanışını yaptı ama kısa vadeli dirençte tutunamadı. Zayıf istihdam verisi Fed'in Ekim'de faiz artırma beklentisini azalttı; yine de tahvil faizleri 24 yılın zirvesinde, dolar güçlü ve hizmet sektöründe fiyat baskısı sürüyor. Düzenleme tarafı olumlu: SEC 3 katlı BTC/ETH fonlarına izin verdi, FinCEN karıştırıcı kuralını geri çekti. Şirket alımları (Strive, Bitmine) sürüyor.",
+ "ozet": "Bitcoin sekiz ayın en yüksek haftalık kapanışını yaptı ama Pazartesi dirence takıldı. Zayıf istihdam verisi Fed'in Ekim'de faiz artırma beklentisini azalttı; yine de uzun vadeli tahvil faizleri 24 yılın zirvesinde ve hizmet sektöründe fiyat baskısı sürüyor. Düzenleme tarafı olumlu: SEC kaldıraçlı fonlara izin verdi, FinCEN kuralları geri çekti. Strategy, Strive gibi şirketlerin alımları sürüyor.",
  "takvim": [
-  "Bu ay: Fed'in Ekim faiz kararı. Enflasyon baskısı artarsa faiz artışı beklentisi dönebilir ve kripto baskı görebilir."
+  "Ekim ayı içinde: Fed faiz kararı. Bazı yatırımcılar faiz artışı olabileceğini söylüyor; artış gelirse kripto baskı altında kalabilir.",
+  "Sürekli takip: Tahvil faizlerinin %5 civarındaki seyri Bitcoin için belirleyici olabilir."
  ],
  "haberler": [
   {
-   "baslik": "Enflasyon Fed'i bu ay faiz artırmaya zorlayabilir, diyor yatırımcı",
-   "ozet": "Reuters'a konuşan bir yatırımcı, enflasyonun Fed'i Ekim'de faiz artırmaya itebileceğini söyledi. Faiz artışı genelde kripto gibi riskli varlıkları baskılar.",
+   "baslik": "Strive 2.000 BTC daha aldı, 4 ayın en büyük alımı",
+   "ozet": "Nasdaq'ta işlem gören Bitcoin şirketi Strive yaklaşık 169 milyon dolara 2.000 BTC aldı; toplam varlığı 29.462 BTC oldu. Kurumsal alım sürüyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
+   "tarih": "2026-10-05T22:30+00:00"
+  },
+  {
+   "baslik": "Fed'in bu ay faiz artırabileceği uyarısı",
+   "ozet": "Bir yatırımcıya göre enflasyon Fed'i bu ay faiz artırmaya zorlayabilir. Faiz artışı genelde kripto için olumsuz.",
    "etki": "olumsuz",
-   "coinler": [],
+   "coinler": [
+    "BTC"
+   ],
    "kaynak": "Reuters",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90TkNNVHNXcHdNUUtXSElrMGlfRE1Xejk5ZkVSVHY4aDU1aDh3cVQwQ3VTamlOMVB4YllsTEVyejVkX01DM1BnZGFNUzA4eHV2d2ppZXF6MDBiOFNuSnVlbGh4cFFjTjQ?oc=5",
    "tarih": "2026-10-05T20:51+00:00"
   },
   {
-   "baslik": "Uzun vadeli ABD tahvil faizleri 24 yılın zirvesinde",
-   "ozet": "Hazine tahvillerindeki satış uzun vadeli faizleri 24 yılın en yüksek seviyesine taşıdı. Yüksek faiz riskli varlıklar için genelde baskı demek; hisseler ise rekora gitti.",
+   "baslik": "ABD Hazine, kripto karıştırıcı ve cüzdan kurallarını geri çekti",
+   "ozet": "FinCEN, kendi cüzdanları ve kripto karıştırıcılarına yönelik iki öneriyi geri çekti. Sektör için düzenleme baskısının hafiflemesi olarak okunuyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/fincen-crypto-mixing-rule-legitimate-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-05T20:46+00:00"
+  },
+  {
+   "baslik": "Uzun vadeli tahvil faizleri 24 yılın zirvesinde",
+   "ozet": "ABD uzun vadeli tahvil faizleri 24 yılın en yüksek seviyesine çıktı. Yüksek faiz riskli varlıklar üzerinde baskı yaratabilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Bloomberg",
+   "kaynak": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdS1Yd1RIMEhSTmNFb2NEUUVGRGktUmNWcmxWOGVfVENPOW51RGxGY3lYMEpZRXQtTVBzT2tqS0FXcWg4a3pKNzlHdG5VWmJPNjlVRG1IS2hOXzBISHhfVjV0eHFyc2lFUmRGeHROQ1JSTTA2aWhpbVFlb2VrelFoWlhZdGhzd1RqQWt3RzZ4aVFYeklTMFc2YnhMQlZYcV9xRXFua0lpMlJCdU5zTU1qRTdsZw?oc=5",
    "tarih": "2026-10-05T18:36+00:00"
   },
   {
-   "baslik": "SEC, 3 katlı kaldıraçlı Bitcoin ve Ethereum fonlarına izin verdi",
-   "ozet": "Cboe'nin kuralı onaylandı; Volatility Shares'in Bitcoin ve Ethereum'un günlük hareketini 3 katına çıkaran fonları borsada işlem görebilecek. Piyasaya yeni giriş yolu açıyor ama oynaklığı artırabilir.",
+   "baslik": "SEC, 3 kat kaldıraçlı Bitcoin ve Ethereum fonlarına izin verdi",
+   "ozet": "Cboe kuralı onaylandı; günlük hareketi 3 kat artıran fonlar işleme açılacak. Kaldıraçlı ürünler hem alımı hem dalgalanmayı artırabilir.",
    "etki": "olumlu",
    "coinler": [
     "BTC",
@@ -37,18 +60,9 @@
    "tarih": "2026-10-05T18:12+00:00"
   },
   {
-   "baslik": "ABD Hazinesi kripto karıştırıcı kuralını geri çekti",
-   "ozet": "FinCEN, kripto karıştırıcılarını 'birincil kara para riski' ilan edecek öneriyi geri çekti. Kripto sektörü için düzenleme baskısını azaltan bir adım.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
-   "tarih": "2026-10-05T17:22+00:00"
-  },
-  {
-   "baslik": "ABD tahvil faizi %5'e yaklaşırken zayıf istihdam verisi Bitcoin'e nefes aldırdı",
-   "ozet": "Zayıf ABD istihdam verisi, Fed'in Ekim'de yeniden faiz artırma beklentisini azalttı. Bitcoin bu çeyrekte 2017'den beri en iyi dönemini yaşıyor; yüksek tahvil faizi bunu sürdürmeyi zorlaştırabilir.",
-   "etki": "olumlu",
+   "baslik": "Tahvil faizi %5'te, Bitcoin'in en iyi çeyreği risk altında",
+   "ozet": "Zayıf istihdam verisi Ekim'de faiz artışı beklentisini azalttı ama %5'lik tahvil faizi Bitcoin'in 2017'den beri en iyi çeyreğini tehdit ediyor.",
+   "etki": "karisik",
    "coinler": [
     "BTC"
    ],
@@ -57,17 +71,17 @@
    "tarih": "2026-10-05T16:53+00:00"
   },
   {
-   "baslik": "CFTC de SEC gibi kripto düzenleme önerisi getirdi",
-   "ozet": "CFTC, kripto faaliyetlerini ve borsalarını kapsayan iki kural önerdi; kaldıraçlı perakende işlemler için yeni federal lisans da gündemde. Spot piyasadaki boşluk ise sürüyor.",
+   "baslik": "CFTC, kripto borsaları için federal çerçeve önerdi",
+   "ozet": "CFTC, kaldıraçlı perakende kripto işlemleri ve borsalar için yeni kural ve lisans önerisi yayımladı. Kamuoyu görüşü alınacak.",
    "etki": "notr",
    "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
-   "tarih": "2026-10-05T15:54+00:00"
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
+   "tarih": "2026-10-05T16:09+00:00"
   },
   {
-   "baslik": "Bitcoin sekiz ayın en iyi haftalık kapanışından sonra yükselemedi",
-   "ozet": "Bitcoin, sekiz ayın en yüksek haftalık kapanışını yaptı ama Pazartesi ABD işlemlerinin başında kısa vadeli dirence takıldı. Fiyat yeni zirve için bu seviyeyi aşmayı bekliyor.",
+   "baslik": "Bitcoin 8 ayın en iyi haftalık kapanışından sonra yükselemedi",
+   "ozet": "Haftalık kapanış sekiz ayın en yükseği oldu ama Pazartesi ABD seansında fiyat düşük zaman diliminde dirence takıldı.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -77,9 +91,9 @@
    "tarih": "2026-10-05T15:09+00:00"
   },
   {
-   "baslik": "Strive 2.000 Bitcoin aldı, 30 bin BTC'ye yaklaştı",
-   "ozet": "Strive, Haziran'dan beri en büyük alımını yaparak yaklaşık 169 milyon dolara 2.000 BTC aldı ve toplam 29.462 BTC'ye ulaştı. Şirket hazineleri arasındaki yarış hızlanıyor.",
-   "etki": "olumlu",
+   "baslik": "Strategy 334 BTC aldı, STRC geri alımına daha çok harcadı",
+   "ozet": "Strategy geçen hafta 28,7 milyon dolara 334 BTC aldı, 176,3 milyon dolarını STRC hisse geri alımına ayırdı. Toplam varlığı 848.000 BTC'yi aştı.",
+   "etki": "notr",
    "coinler": [
     "BTC"
    ],
@@ -88,46 +102,35 @@
    "tarih": "2026-10-05T15:03+00:00"
   },
   {
-   "baslik": "Bitmine 41 milyon dolarlık Ethereum daha aldı, 6 milyon ETH'yi geçti",
-   "ozet": "Bitmine'in ETH'si arzın %4,9'una ulaştı, %5 hedefinin %99'unda. Büyük şirket alımı ETH için destekleyici.",
+   "baslik": "Bitmine 15.112 ETH daha aldı",
+   "ozet": "Bitmine'ın ETH birikimi 6 milyonu aştı; arzın yaklaşık %4,9'u. Kurumsal ETH talebi sürüyor.",
    "etki": "olumlu",
    "coinler": [
     "ETH"
    ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
-   "tarih": "2026-10-05T14:54+00:00"
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
+   "tarih": "2026-10-05T13:23+00:00"
   },
   {
-   "baslik": "ABD hizmet sektörü yavaşladı, fiyat göstergesi 4 yılın zirvesinde",
-   "ozet": "Eylül'de hizmet sektörü büyümesi yavaşladı ama fiyat baskısı dört yılın en yüksek seviyesine çıktı. Bu, Fed'in faiz kararını zorlaştırıyor.",
-   "etki": "olumsuz",
+   "baslik": "OKX, tokenize ABD hisse platformu için SEC'e başvurdu",
+   "ozet": "Borsa, tokenize ABD hisse senedi işlemi sunmak için SEC'e başvuru yaptı.",
+   "etki": "olumlu",
    "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUxIRWktTEhsbnNxaFJlMWJaRWdzcGI2Ni0tTmsxdXdNUTUtR0VwSk1mTDBMYVhlakZ0dzREcGRvQm1paDA5TnZFaUlsckx2ZFZ1Ty10NkhxUkU4aTlHamVNdHRMbHZZd0FVVU1JWEdVdXFwUTJvbEFkRnYwcjR0TGpCZ1UxcGdkeG1WdzZCSGVGYzdfVFNfdHJaYWNoa2VfaEdtS3lMa3diU3k5NWZPTWJDUQ?oc=5",
-   "tarih": "2026-10-05T14:38+00:00"
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFJxRGJTM1k2bnNOWlVxVnpaOWM0R2NTWDZhR0RPSmpoQ1BtRVpCRzgzYXI2Qk9kVjBPbUxFS0taUVU0cldMN2dzSzhTOGFLbHd1M2ViMVhyYTJXUmUyYURESGRmckxsLW9QdktrVzNUR2pnTzVFUXNYcGY2Sld4a2lUYks5QlIxRTZQdEpsbm9vbnlkYWJxdlI0QlRnMW9Kd0xZc1ZzOU14ZTV3SEJMYU9GU1BUUQ?oc=5",
+   "tarih": "2026-10-05T13:01+00:00"
   },
   {
-   "baslik": "Strategy, Bitcoin yerine hisse geri alımına daha çok harcadı",
-   "ozet": "Strategy geçen hafta 28,7 milyon dolara 334 Bitcoin aldı, STRC hisselerini geri almak için ise 176,3 milyon dolar harcadı. Bitcoin alımı yavaşladı.",
+   "baslik": "Metaplanet Q3'te 10.000 BTC satıp 11.000 BTC geri aldı",
+   "ozet": "Şirket likiditesini kanıtlamak için sattı ve geri aldı; net 1.000 BTC ekledi, toplamı 44.000 BTC oldu.",
    "etki": "notr",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-05T13:22+00:00"
-  },
-  {
-   "baslik": "Dolar bu yılın en güçlü seviyesine yaklaştı",
-   "ozet": "Dolar yılın en güçlü seviyesine yakın, ancak rallide çatlaklar görülüyor. Güçlü dolar genelde Bitcoin için baskı unsuru olabilir.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2NmVzEtLXhhS3FEaXhMeW5sQUFQMkpiUWRmRUJGODltWFVQMjAyczRXOW9vblZDdWtzbzBLR0VXQVdnRVpVQW5jQWcwREE3MVc3NkJyWHZkRndDekl5NDhsMi1VY1laNVVxRjdwMk5uZGQxWm9KYloxOGhfMTRfNjZMaHF1S3dfOFlYVXlRaWFnUjVjbVdsX1lzbG5KU2J0NGtrcDRodVBfcTRyckRjXzVWdFFxdw?oc=5",
-   "tarih": "2026-10-05T12:12+00:00"
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/business/2026-10-05-metaplanet-sold-10000-btc-in-q3-before-buying-back-11000-btc-to-demonstrate-liquidity-417640",
+   "tarih": "2026-10-05T12:04+00:00"
   }
  ]
 }
