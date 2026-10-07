@@ -1,147 +1,132 @@
 {
- "guncelleme": "2026-10-07T11:10+00:00",
+ "guncelleme": "2026-10-07T23:06+00:00",
  "duygu": "olumsuz",
- "ozet": "Bitcoin çarşamba sabahı kısa süre 84.000 doların altına indi ve 84.200 dolar civarında aralığın içinde kalmaya çalışıyor. Düşüşte İran tanker saldırıları sonrası yükselen petrol, dolar ve tahvil faizleri etkili oldu; bir günde 487 milyon dolarlık long pozisyon tasfiye edildi. Buna karşın Bitcoin ETF'lerine 119 milyon dolarlık giriş geldi, Ether fonlarından ise altı oturumdur çıkış var. 84.000 dolar seviyesi ve bugünkü Fed tutanakları izlenmeli.",
+ "ozet": "Bitcoin 83.000 doların altına inerek ekimin en düşük seviyesi olan yaklaşık 82.700 doları gördü. Düşüşte yükselen tahvil faizleri (30 yıllık 2002'den beri en yüksekte), petrolün 101 doların üzerine çıkması ve güçlenen dolar etkili. Fed tutanakları bir faiz artışı daha olabileceğini gösterdi. Takip edilecek: 82.700 dolar seviyesi ve ABD hükümetinin taşıdığı BTC'nin akıbeti.",
  "takvim": [
-  "Çarşamba 7 Ekim: Fed toplantı tutanakları ve 10 yıllık ABD tahvil ihalesi. Faiz artışına dair vurgu çıkarsa tahvil faizi ve dolar yükselip kriptoyu baskılayabilir."
+  "Perşembe 8 Ekim: Tahvil faizleri ve dolardaki seyir. Faizler yükselmeye devam ederse kripto baskı altında kalabilir."
  ],
  "haberler": [
   {
-   "baslik": "Rain, ulusal güven bankası lisansı istiyor",
-   "ozet": "Stablecoin ödeme şirketi Rain, kripto varlık ve dolar saklayan, stablecoin rezervi yöneten ve dolar destekli token basan bir güven bankası kurmak için başvuru yapıyor. Kripto sektörünün bankacılık sistemine girmeye çalışmasının bir örneği.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
-   "tarih": "2026-10-07T09:09+00:00"
-  },
-  {
-   "baslik": "Bitcoin ETF'lerine 119 milyon dolar giriş",
-   "ozet": "Bitcoin ETF'leri fiyat düşerken bile salı günü net 119 milyon dolar giriş gördü. Ether fonlarında ise art arda altı oturumdur çıkış var (toplam 408 milyon dolar).",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC",
-    "ETH"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-07T09:03+00:00"
-  },
-  {
-   "baslik": "Ledger'dan Bitcoin teminatlı kredi",
-   "ozet": "Ledger, kullanıcıların Bitcoin'lerini satmadan, cihazlarındaki anahtarlarla stablecoin borçlanmasına izin veren özelliği duyurdu. Bitcoin sahiplerine satmadan nakit erişimi sağlıyor.",
-   "etki": "olumlu",
+   "baslik": "Bitcoin 82.700 dolara geriledi, ekimin en düşüğü",
+   "ozet": "Bitcoin 83.000 doların altına inerek ayın en düşük seviyesini gördü. Hisseler rekordan döndü, tahvil faizleri yükseldi.",
+   "etki": "olumsuz",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
-   "tarih": "2026-10-07T09:01+00:00"
-  },
-  {
-   "baslik": "Robinhood bilançosuna 25 milyon dolarlık bitcoin ekledi",
-   "ozet": "Robinhood, kripto alanındaki bağlılığını göstermek için bilançosuna 25 milyon dolar değerinde bitcoin ekledi.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
-   "tarih": "2026-10-07T08:53+00:00"
-  },
-  {
-   "baslik": "BitMine, Ether alımına arz yüzde 5'i ile tavan koydu",
-   "ozet": "Tom Lee, BitMine'ın Ether arzının yüzde 5'inin ötesine geçmeyeceğini söyledi; hedef artık bir üst sınır oldu.",
-   "etki": "notr",
-   "coinler": [
-    "ETH"
-   ],
    "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-07T08:50+00:00"
+   "link": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-07T15:06+00:00"
   },
   {
-   "baslik": "ABD tahvil faizleri 10 yıllık ihale ve Fed tutanakları öncesi yükseldi",
-   "ozet": "Tahvil faizleri, 10 yıllık ihale ve Fed toplantı tutanakları öncesinde yükseldi. Faizlerin artması genelde kripto gibi riskli varlıkları baskılar.",
+   "baslik": "Fed tutanakları: Bir faiz artışı daha bekleniyor",
+   "ozet": "Fed yetkilileri bir artış daha görüyor ama zamanı belli değil. Yüksek faiz kriptoyu genelde baskılar.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBydl83WVU4amtHYUl5MkVjQnJXZmdwN1dQZnNOYTNVeFBsRDJBMGcyd3hLaHd1N0JpN0lRTGl5NkhqR2N6S3ZFSlBVdzlwZ2pxYkVWMDNhUnFXbXNoaDV5SGJfUzA3LUNZLWxfMExUUzVMVFBORjBZWHJUZDM3UdIBgwFBVV95cUxNbGdtZkRaZURkVnlOMlgwY24wQ3JTeXUwQlNyQzRhdTZ1NXZWbHRlOXlqY2lvTG9GeG1fQnZSYXVkeEQwcUdDSzhSVlhjdjZES1FQWDY0dHN1Q0dwYVBnZzVqTE83bEE2VlVpMmRIOWpXRHIyLTF2RDRqMnQ4enZLdmdscw?oc=5",
-   "tarih": "2026-10-07T08:31+00:00"
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkc3RnFQUWZoam1MOFQ4MG85elpQcFIzb0VlajVQSlZXQXhFUHJlaHI3RGlXd1hOODRxRDNfV1YzZFNJakxNMzRiRzRNZkZqdWUxVG1WWWRVSUhMdUFZQ3BhUV9OR2cwdXFTVzhGc19XOGdBSWwxaUF3MEthSkxzRDlFTlRoVTBnLUQ3SlZVSEhYNWFEOE55TGN2djlkRG1JcWN5V3hNOV82eEVkaEJR0gG0AUFVX3lxTE9hS2JuRWZra2ZHZWc2YU9kMU9zYUN3a0FwcmtDbm9pclJiS2puN1I0Zkh6WVdQUmNEbFNDVmxPQ1ZFRURoZlRsVTh6aEl6bE5lUEc1ejNSM2hxdXdhVVNHVjU5eXhsTGx0UkI4Q3VGdXFLRVF5bXQzd1pUdmNBX09acGxwZDJEYk40X3ZzeEdvV3ViMlU1WmtaNHhvZzI2NDNpSmctZmNfdmtfcVVsdlIydnNXdA?oc=5",
+   "tarih": "2026-10-07T18:00+00:00"
   },
   {
-   "baslik": "Rusya ilk kripto borsa ve saklama kuruluşlarını onayladı",
-   "ozet": "Rusya, yeni yasa kapsamında ilk kripto borsa ve saklama kuruluşlarını kaydetti. Aralarında en büyük banka Sberbank da var ve 1 Aralık'ta kripto ürünleri başlatmayı planlıyor.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-07T08:06+00:00"
-  },
-  {
-   "baslik": "Bitcoin 84.200 dolara indi, aralık içinde kaldı",
-   "ozet": "Bitcoin çarşamba günü 84.200 dolar civarına geriledi ama son dönemdeki fiyat aralığının içinde kaldı; CoinDesk basamak basamak yükselen genel eğilimin bozulmadığını belirtiyor.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
-   "tarih": "2026-10-07T07:52+00:00"
-  },
-  {
-   "baslik": "ABD savcıları Tornado Cash davasında Roman Storm'a karşı yeni argüman sundu",
-   "ozet": "Savcılar, Bitcoin Fog kararının, Tornado Cash faaliyetinin New York'ta dava açmaya yettiği görüşünü desteklediğini söylüyor. Storm'un beraat talebi için olumsuz bir gelişme olabilir.",
+   "baslik": "ABD tahvil faizleri 2002'den beri en yüksekte",
+   "ozet": "Faizler yüksek seviyeden alıcı çekti, ihale sonrası satış baskısı hafifledi. Yüksek tahvil faizi riskli varlıklara alternatif oluşturur.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-07T07:10+00:00"
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkRSYXJ3WWhZRFpQQ0FSSnpxU2dlM1lqZmhiVE1nRHRTbEY4eVU1TTlhMVlPLWV2Y1k3dDlxa3E1bHFPMFRXTDM3SmNXVm5KMVI3U2Etc0g3TGN3UllTY0d0M21yXzNVWGFSWHV2akpvWEVySkVjdnViU1hvXzI0R2tYZDBINFBZejdRQnFlaVpheVFfZ2w1elprX1hOMTdBQThGcXdGV3puS1E3WDgwdA?oc=5",
+   "tarih": "2026-10-07T19:50+00:00"
   },
   {
-   "baslik": "ABD hükümeti bağlantılı cüzdanlar 100 milyon doları aşkın BTC ve BNB taşıdı",
-   "ozet": "Arkham verilerine göre ABD hükümeti bağlantılı cüzdanlar salı günü milyonlarca dolarlık kripto taşıdı. Satış yapıldığı henüz doğrulanmadı.",
+   "baslik": "Dolar yılın zirvesine yaklaştı",
+   "ozet": "Yatırımcılar güvenli limana yöneldi, dolar yılın en yüksek seviyesine yakın. Güçlü dolar kripto için genelde baskı demek.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFZma0RuZlFjajJ3ejAwbHpUTy1SSkhQT0w2TC0xblVQTmw0QVpiOWROLWRqNTRnV0VWVElES182ZjdrdWs5LTJBT2VTT0dsM080ZFI2RXhaODY0cGd5d1VuWV9DMGhHSEl0OXpZbjNVS2ZjYmFhSHc4djNYRC03MTBJMTFXVHpLZzJyTnIyaUFYdnpyd2t1OU5OUXViSTRFdV9DdTB0anltb0pOdVY1bjFB?oc=5",
+   "tarih": "2026-10-07T19:34+00:00"
+  },
+  {
+   "baslik": "Fed anketinde enflasyon beklentisi mayıs 2023'ten beri en yüksek",
+   "ozet": "Bir yıllık enflasyon beklentisi yükseldi. Bu, Fed'in sıkı politikayı sürdürme ihtimalini artırıyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb1Z5T01iV2c3OWN3SXJwZm41X1loWEMwZ2lJZ0wzWkNBU3lFeFVBT24zWDBhakowTzZvZmdwMDNZR2pPcmxSZFQyc1EtTF8xaWdWb29YTGRJNkZvUWlxRTBPZXZQSnR1bW9uSGFhVnVEbTNfT3dVVmlYVnFaMEQ5MXNGTkZaZHFxenZLd1U3X0pPX19fb2U4a01Ibk1kR3dHRzlKWm5QdkdDNldaNHFBUzJ5cldlMml2Si01bnNiLXZEa0xr0gHKAUFVX3lxTFB2dFR6c2hualM5by1uNzdseDV1UHZjeG51c3ZteE9sQ2swUWxBcTd5VWczRVdDN2ViamtXZjVYT0R4QXNWU0haeVcxRVRVV3NVTEw2U0U4MlRqRG9IMGlwV01ha1I4OGhhZ1d4Wmt3TTJ1MGIxN2Z5Sjk1VmZUNzQ5alpEZzZVQkhmRkVFZGhKeEc0cmgzYTdLUF9zVlVKZWFkRDNiVk1UeHdkc0dacjN6X2UwVGZINVpiaENWRzJlYnVCbmpNbHFTdFE?oc=5",
+   "tarih": "2026-10-07T15:00+00:00"
+  },
+  {
+   "baslik": "ABD hükümeti 103 milyon dolarlık el konulan BTC ve BNB'yi taşıdı",
+   "ozet": "Hükümet cüzdanları 833,6 BTC'yi Coinbase Prime adreslerine gönderdi. Satış doğrulanmadı ama olası satış baskısı izleniyor.",
    "etki": "olumsuz",
    "coinler": [
     "BTC",
     "BNB"
    ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
-   "tarih": "2026-10-07T05:58+00:00"
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+   "tarih": "2026-10-07T16:56+00:00"
   },
   {
-   "baslik": "Bitcoin 84.000 doların altına indi, petrol yükseldi",
-   "ozet": "Bitcoin, analistlerin satıcıların güç kazandığı seviye olarak işaret ettiği 84.000 doların altına kısa süre indi. İran tanker saldırıları sonrası petrol ve dolar yükseldi.",
-   "etki": "olumsuz",
+   "baslik": "Wells Fargo, Kraken'in ana şirketiyle likidite görüşmesinde",
+   "ozet": "Görüşmeler Payward'ın kripto işlemleri için likidite sağlamasını içeriyor. Büyük bankaların kriptoya ilgisi sürüyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+   "tarih": "2026-10-07T18:59+00:00"
+  },
+  {
+   "baslik": "Coinbase, Deribit likiditesini ABD'ye getiriyor",
+   "ozet": "ABD'li kurumlar Deribit'in opsiyon ve vadesiz vadeli işlemlerine Coinbase üzerinden erişecek.",
+   "etki": "olumlu",
    "coinler": [
-    "BTC"
+    "BTC",
+    "ETH"
    ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
-   "tarih": "2026-10-07T04:00+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-07T15:36+00:00"
   },
   {
-   "baslik": "Kripto'da 487 milyon dolarlık long pozisyon tasfiye edildi",
-   "ozet": "CoinGlass'a göre son 24 saatte toplam 555,6 milyon dolarlık tasfiye oldu; bunun 487,2 milyon doları yükseliş bahsi (long) pozisyonlarıydı.",
-   "etki": "olumsuz",
+   "baslik": "Grayscale: Zcash ETF'i 1 milyar doları aştı",
+   "ozet": "SEC kuralları yaklaşık 15 tokeni kapsıyor; ETF ihraççıları Bitcoin ve Ether dışında seçici olabiliyor.",
+   "etki": "olumlu",
    "coinler": [
-    "BTC"
+    "ZEC"
    ],
    "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
-   "tarih": "2026-10-07T03:57+00:00"
+   "link": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
+   "tarih": "2026-10-07T18:37+00:00"
   },
   {
-   "baslik": "Pudgy Penguins'in Abstract ağı kapanıyor",
-   "ozet": "Abstract, 15 Aralık'ta kapanacak; Blast'ın ardından bir haftada kapanan ikinci Ethereum katman-2 ağı oldu.",
-   "etki": "olumsuz",
+   "baslik": "Hill: SEC ve CFTC adımları Clarity yasasına yetmiyor",
+   "ozet": "Temsilciler Meclisi Finans Komitesi başkanı, kalıcı yasa değişikliği gerektiğini söyledi. Piyasa yapısı yasası belirsizliği sürüyor.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
+   "tarih": "2026-10-07T20:16+00:00"
+  },
+  {
+   "baslik": "Ethereum araştırmacısı: Yapay zekâ şifrelemeyi kuantumdan önce kırabilir",
+   "ozet": "Justin Drake, fonların açık anahtarı gizli adreslere taşınmasını önerdi. Uzun vadeli güvenlik tartışması.",
+   "etki": "notr",
    "coinler": [
     "ETH"
    ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
-   "tarih": "2026-10-07T04:31+00:00"
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+   "tarih": "2026-10-07T21:16+00:00"
+  },
+  {
+   "baslik": "Tether, Kazakistan Merkez Bankası ile stablecoin çalışacak",
+   "ozet": "Tenge destekli bir stablecoin ve gerçek varlıkların tokenlaştırılması araştırılacak.",
+   "etki": "olumlu",
+   "coinler": [
+    "USDT"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+   "tarih": "2026-10-07T19:46+00:00"
   }
  ]
 }
