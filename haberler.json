@@ -1,11 +1,88 @@
 {
- "guncelleme": "2026-10-07T23:06+00:00",
+ "guncelleme": "2026-10-08T00:10+00:00",
  "duygu": "olumsuz",
- "ozet": "Bitcoin 83.000 doların altına inerek ekimin en düşük seviyesi olan yaklaşık 82.700 doları gördü. Düşüşte yükselen tahvil faizleri (30 yıllık 2002'den beri en yüksekte), petrolün 101 doların üzerine çıkması ve güçlenen dolar etkili. Fed tutanakları bir faiz artışı daha olabileceğini gösterdi. Takip edilecek: 82.700 dolar seviyesi ve ABD hükümetinin taşıdığı BTC'nin akıbeti.",
+ "ozet": "Bitcoin 83.000 doların altına inerek ekimin en düşük seviyesi olan yaklaşık 82.700 doları gördü. Düşüşte yükselen tahvil faizleri (2002'den beri en yüksek), petrol fiyatındaki artış ve güçlenen dolar etkili. Fed tutanakları bir faiz artışı daha olabileceğini gösterdi. Takip edilecek: 82.700 dolar seviyesi ve ABD hükümetinin taşıdığı BTC'nin akıbeti.",
  "takvim": [
   "Perşembe 8 Ekim: Tahvil faizleri ve dolardaki seyir. Faizler yükselmeye devam ederse kripto baskı altında kalabilir."
  ],
  "haberler": [
+  {
+   "baslik": "ABD tahvil faizleri 2002'den beri en yüksekte",
+   "ozet": "Faizler 2002 zirvesine çıktı, ihalede alıcı çıkınca satış baskısı bir miktar hafifledi. Yüksek faiz kriptoya rakip getiri sunuyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkRSYXJ3WWhZRFpQQ0FSSnpxU2dlM1lqZmhiVE1nRHRTbEY4eVU1TTlhMVlPLWV2Y1k3dDlxa3E1bHFPMFRXTDM3SmNXVm5KMVI3U2Etc0g3TGN3UllTY0d0M21yXzNVWGFSWHV2akpvWEVySkVjdnViU1hvXzI0R2tYZDBINFBZejdRQnFlaVpheVFfZ2w1elprX1hOMTdBQThGcXdGV3puS1E3WDgwdA?oc=5",
+   "tarih": "2026-10-07T19:50+00:00"
+  },
+  {
+   "baslik": "Dolar yılın zirvesine yaklaştı",
+   "ozet": "Yatırımcılar güvenli liman arayışıyla dolara yöneldi. Güçlü dolar genelde kripto gibi riskli varlıklara baskı yapar.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFZma0RuZlFjajJ3ejAwbHpUTy1SSkhQT0w2TC0xblVQTmw0QVpiOWROLWRqNTRnV0VWVElES182ZjdrdWs5LTJBT2VTT0dsM080ZFI2RXhaODY0cGd5d1VuWV9DMGhHSEl0OXpZbjNVS2ZjYmFhSHc4djNYRC03MTBJMTFXVHpLZzJyTnIyaUFYdnpyd2t1OU5OUXViSTRFdV9DdTB0anltb0pOdVY1bjFB?oc=5",
+   "tarih": "2026-10-07T19:34+00:00"
+  },
+  {
+   "baslik": "Wells Fargo, Kraken'in ana şirketiyle görüşüyor",
+   "ozet": "Wells Fargo, kripto alım-satımı için likidite konusunda Payward ile görüşüyor. Büyük bankaların kriptoya ilgisi artıyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+   "tarih": "2026-10-07T18:59+00:00"
+  },
+  {
+   "baslik": "Zcash ETF'i 1 milyar doları aştı",
+   "ozet": "Grayscale, SEC kurallarının yaklaşık 15 tokeni kapsadığını ve ETF'lerin BTC ile ETH'in ötesine geçtiğini söyledi.",
+   "etki": "olumlu",
+   "coinler": [
+    "ZEC"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
+   "tarih": "2026-10-07T18:37+00:00"
+  },
+  {
+   "baslik": "Fed tutanakları: Bir faiz artışı daha bekleniyor",
+   "ozet": "Eylül tutanaklarına göre Fed yetkilileri bir artış daha görüyor ama zamanı belli değil; yetkililer artışın gerekçesinde ayrışıyor. Yüksek faiz kriptoyu genelde baskılar.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc2dJM2Q2bTVvQVNpNUNzSTgzNHJCbWc3Ync3aXEyYmdSVHo1b1JZNHB1UXdGYVY5YWpPTHpDdWtQYjdtbnZOa1k0SzVIeV9SS0ljelRxbUdIWXB5NHBtdk5lUDM1ZWQyUHlNSjFlbVh6Q1lHbm9jdUJCRllMZXdnVWluOHRwV2x4WUdZdHBkU2NuY3BJNWtYS1puYWVtTTQySDR1QXJEaGJrTng2?oc=5",
+   "tarih": "2026-10-07T18:00+00:00"
+  },
+  {
+   "baslik": "ABD hükümeti 103 milyon dolarlık BTC ve BNB taşıdı",
+   "ozet": "Hükümete ait cüzdanlar 833,6 BTC'yi Coinbase Prime adreslerine gönderdi. Satış doğrulanmadı ama olası satış endişesi yaratabilir.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC",
+    "BNB"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+   "tarih": "2026-10-07T16:56+00:00"
+  },
+  {
+   "baslik": "Düzenleyici adımlar CLARITY yasasına yetmiyor",
+   "ozet": "Temsilci French Hill, SEC ve CFTC adımlarının yetersiz olduğunu söyledi ve piyasa yapısı yasasının 2027'den önce çıkmasını umuyor.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-07T16:06+00:00"
+  },
+  {
+   "baslik": "Coinbase, Deribit likiditesini ABD'ye getiriyor",
+   "ozet": "ABD'li kurumlar Deribit'in opsiyon ve vadesiz vadeli işlemlerine Coinbase üzerinden erişecek; perakende opsiyonlar yıl içinde bekleniyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-07T15:36+00:00"
+  },
   {
    "baslik": "Bitcoin 82.700 dolara geriledi, ekimin en düşüğü",
    "ozet": "Bitcoin 83.000 doların altına inerek ayın en düşük seviyesini gördü. Hisseler rekordan döndü, tahvil faizleri yükseldi.",
@@ -18,35 +95,8 @@
    "tarih": "2026-10-07T15:06+00:00"
   },
   {
-   "baslik": "Fed tutanakları: Bir faiz artışı daha bekleniyor",
-   "ozet": "Fed yetkilileri bir artış daha görüyor ama zamanı belli değil. Yüksek faiz kriptoyu genelde baskılar.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkc3RnFQUWZoam1MOFQ4MG85elpQcFIzb0VlajVQSlZXQXhFUHJlaHI3RGlXd1hOODRxRDNfV1YzZFNJakxNMzRiRzRNZkZqdWUxVG1WWWRVSUhMdUFZQ3BhUV9OR2cwdXFTVzhGc19XOGdBSWwxaUF3MEthSkxzRDlFTlRoVTBnLUQ3SlZVSEhYNWFEOE55TGN2djlkRG1JcWN5V3hNOV82eEVkaEJR0gG0AUFVX3lxTE9hS2JuRWZra2ZHZWc2YU9kMU9zYUN3a0FwcmtDbm9pclJiS2puN1I0Zkh6WVdQUmNEbFNDVmxPQ1ZFRURoZlRsVTh6aEl6bE5lUEc1ejNSM2hxdXdhVVNHVjU5eXhsTGx0UkI4Q3VGdXFLRVF5bXQzd1pUdmNBX09acGxwZDJEYk40X3ZzeEdvV3ViMlU1WmtaNHhvZzI2NDNpSmctZmNfdmtfcVVsdlIydnNXdA?oc=5",
-   "tarih": "2026-10-07T18:00+00:00"
-  },
-  {
-   "baslik": "ABD tahvil faizleri 2002'den beri en yüksekte",
-   "ozet": "Faizler yüksek seviyeden alıcı çekti, ihale sonrası satış baskısı hafifledi. Yüksek tahvil faizi riskli varlıklara alternatif oluşturur.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkRSYXJ3WWhZRFpQQ0FSSnpxU2dlM1lqZmhiVE1nRHRTbEY4eVU1TTlhMVlPLWV2Y1k3dDlxa3E1bHFPMFRXTDM3SmNXVm5KMVI3U2Etc0g3TGN3UllTY0d0M21yXzNVWGFSWHV2akpvWEVySkVjdnViU1hvXzI0R2tYZDBINFBZejdRQnFlaVpheVFfZ2w1elprX1hOMTdBQThGcXdGV3puS1E3WDgwdA?oc=5",
-   "tarih": "2026-10-07T19:50+00:00"
-  },
-  {
-   "baslik": "Dolar yılın zirvesine yaklaştı",
-   "ozet": "Yatırımcılar güvenli limana yöneldi, dolar yılın en yüksek seviyesine yakın. Güçlü dolar kripto için genelde baskı demek.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFZma0RuZlFjajJ3ejAwbHpUTy1SSkhQT0w2TC0xblVQTmw0QVpiOWROLWRqNTRnV0VWVElES182ZjdrdWs5LTJBT2VTT0dsM080ZFI2RXhaODY0cGd5d1VuWV9DMGhHSEl0OXpZbjNVS2ZjYmFhSHc4djNYRC03MTBJMTFXVHpLZzJyTnIyaUFYdnpyd2t1OU5OUXViSTRFdV9DdTB0anltb0pOdVY1bjFB?oc=5",
-   "tarih": "2026-10-07T19:34+00:00"
-  },
-  {
-   "baslik": "Fed anketinde enflasyon beklentisi mayıs 2023'ten beri en yüksek",
-   "ozet": "Bir yıllık enflasyon beklentisi yükseldi. Bu, Fed'in sıkı politikayı sürdürme ihtimalini artırıyor.",
+   "baslik": "NY Fed anketi: Kısa vadeli enflasyon beklentisi yükseldi",
+   "ozet": "Bir yıllık enflasyon beklentisi Mayıs 2023'ten beri en yüksek seviyede. Enflasyon korkusu faiz artışı ihtimalini güçlendirebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CNBC",
@@ -54,79 +104,35 @@
    "tarih": "2026-10-07T15:00+00:00"
   },
   {
-   "baslik": "ABD hükümeti 103 milyon dolarlık el konulan BTC ve BNB'yi taşıdı",
-   "ozet": "Hükümet cüzdanları 833,6 BTC'yi Coinbase Prime adreslerine gönderdi. Satış doğrulanmadı ama olası satış baskısı izleniyor.",
+   "baslik": "Bitmine, ETH alımlarını sonlandıracak",
+   "ozet": "Tom Lee, Bitmine'ın ETH arzının %5'ine ulaşınca alımı bırakacağını söyledi. Düzenli bir alıcının çekilmesi ETH için olumsuz olabilir.",
    "etki": "olumsuz",
    "coinler": [
-    "BTC",
-    "BNB"
+    "ETH"
    ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
-   "tarih": "2026-10-07T16:56+00:00"
-  },
-  {
-   "baslik": "Wells Fargo, Kraken'in ana şirketiyle likidite görüşmesinde",
-   "ozet": "Görüşmeler Payward'ın kripto işlemleri için likidite sağlamasını içeriyor. Büyük bankaların kriptoya ilgisi sürüyor.",
-   "etki": "olumlu",
-   "coinler": [],
    "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
-   "tarih": "2026-10-07T18:59+00:00"
+   "link": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+   "tarih": "2026-10-07T12:40+00:00"
   },
   {
-   "baslik": "Coinbase, Deribit likiditesini ABD'ye getiriyor",
-   "ozet": "ABD'li kurumlar Deribit'in opsiyon ve vadesiz vadeli işlemlerine Coinbase üzerinden erişecek.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC",
-    "ETH"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-07T15:36+00:00"
-  },
-  {
-   "baslik": "Grayscale: Zcash ETF'i 1 milyar doları aştı",
-   "ozet": "SEC kuralları yaklaşık 15 tokeni kapsıyor; ETF ihraççıları Bitcoin ve Ether dışında seçici olabiliyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "ZEC"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
-   "tarih": "2026-10-07T18:37+00:00"
-  },
-  {
-   "baslik": "Hill: SEC ve CFTC adımları Clarity yasasına yetmiyor",
-   "ozet": "Temsilciler Meclisi Finans Komitesi başkanı, kalıcı yasa değişikliği gerektiğini söyledi. Piyasa yapısı yasası belirsizliği sürüyor.",
+   "baslik": "Europol: Cüzdanlar kuantum saldırılarında ana risk",
+   "ozet": "Europol, blokzincirlerin uyum sağlamasını beklediğini; asıl riskin cüzdanlardaki açık anahtarlar olduğunu belirtti.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
-   "tarih": "2026-10-07T20:16+00:00"
+   "link": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+   "tarih": "2026-10-07T10:49+00:00"
   },
   {
-   "baslik": "Ethereum araştırmacısı: Yapay zekâ şifrelemeyi kuantumdan önce kırabilir",
-   "ozet": "Justin Drake, fonların açık anahtarı gizli adreslere taşınmasını önerdi. Uzun vadeli güvenlik tartışması.",
-   "etki": "notr",
+   "baslik": "Likidasyonlar 547 milyon dolara çıktı",
+   "ozet": "Petrol fiyatı İran tanker saldırılarıyla yükselirken Bitcoin 84.000 doların altına indi; küçük coinler daha sert düştü.",
+   "etki": "olumsuz",
    "coinler": [
-    "ETH"
+    "BTC"
    ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
-   "tarih": "2026-10-07T21:16+00:00"
-  },
-  {
-   "baslik": "Tether, Kazakistan Merkez Bankası ile stablecoin çalışacak",
-   "ozet": "Tenge destekli bir stablecoin ve gerçek varlıkların tokenlaştırılması araştırılacak.",
-   "etki": "olumlu",
-   "coinler": [
-    "USDT"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
-   "tarih": "2026-10-07T19:46+00:00"
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+   "tarih": "2026-10-07T10:35+00:00"
   }
  ]
 }
