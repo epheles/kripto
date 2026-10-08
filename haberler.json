@@ -1,15 +1,14 @@
 {
- "guncelleme": "2026-10-08T11:20+00:00",
+ "guncelleme": "2026-10-08T15:06+00:00",
  "duygu": "olumsuz",
- "ozet": "Bitcoin 83.000 doların altına indi; analistler bir sonraki önemli seviyenin 80.000 dolar olduğunu belirtiyor. Düşüşte İran haberiyle 102 doları aşan petrol, yükselen tahvil faizleri ve 18 aylık zirve yakınındaki dolar etkili. Fed'den Waller daha fazla faiz artışı gerektiğini söyledi. ABD Bitcoin ETF'lerinden 485 milyon dolarlık çıkış var; Samsung ve Standard Chartered adımları ise benimsemenin sürdüğünü gösteriyor.",
+ "ozet": "Bitcoin 83.000 doların altına indi; analistler bir sonraki önemli seviyenin 80.000 dolar olduğunu belirtiyor. Düşüşte İran haberiyle 102 doları aşan petrol, yükselen tahvil faizleri, 18 aylık zirve yakınındaki dolar ve Fed'in faiz artışı sinyalleri etkili. Bitcoin ETF'lerinden Haziran'dan beri en büyük günlük çıkış (485 milyon dolar) yaşandı.",
  "takvim": [
-  "Perşembe 8 Ekim: ABD 30 yıllık tahvil ihalesi. Zayıf talep faizleri daha da yukarı itip kripto üzerindeki baskıyı artırabilir.",
-  "Takip: Petrol ve İran gelişmeleri. Brent'teki sert hareketler Bitcoin'in 80.000 dolar seviyesini test edip etmeyeceğini etkileyebilir."
+  "Perşembe 8 Ekim: ABD 30 yıllık tahvil ihalesi. Faizler daha da yükselirse kripto baskı altında kalabilir."
  ],
  "haberler": [
   {
    "baslik": "Bitcoin 83.000 doların altına düştü",
-   "ozet": "İran'a yönelik saldırı planı haberiyle Brent petrol 102 doların üzerine çıktı ve tahvil faizleri yükseldi. FxPro'ya göre 83.000 doların altı 80.000 dolara 'hızlı yol' açıyor.",
+   "ozet": "Petrol İran saldırı planı haberiyle yükseldi, Brent 102 doları aştı; tahvil faizleri zirveye yaklaştı. FxPro'ya göre bu seviyenin altı 80.000 dolara kısa yol açıyor.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -19,8 +18,8 @@
    "tarih": "2026-10-08T04:00+00:00"
   },
   {
-   "baslik": "ABD Bitcoin ETF'lerinden 485 milyon dolarlık çıkış",
-   "ozet": "Haziran'dan bu yana en büyük günlük çıkış yaşandı ve ekim ayındaki net girişler silindi. Ether fonlarında ise art arda yedinci çıkış günü görüldü.",
+   "baslik": "Bitcoin ETF'lerinden 485 milyon dolar çıkış",
+   "ozet": "Haziran'dan beri en büyük günlük çıkış oldu ve ekim ayı girişleri silindi. Ether fonlarında art arda yedinci çıkış günü yaşandı.",
    "etki": "olumsuz",
    "coinler": [
     "BTC",
@@ -31,17 +30,8 @@
    "tarih": "2026-10-08T07:30+00:00"
   },
   {
-   "baslik": "Waller sonrası tahvil faizleri yükseldi",
-   "ozet": "Fed'den Waller'ın daha fazla faiz artışı gerektiğini söylemesi sonrası ABD tahvil faizleri yükseldi; yatırımcılar 30 yıllık tahvil ihalesini bekliyor. Yüksek faiz riskli varlıklara baskı yapabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNF9IY0FlbFM0NmU5dU1WSVlJMUQtSTd1UEwwTGNfUFI3SVhfU3RWczRMWU5SSnNjOUhRbm15Q3EyVkw0Q1NBdm16UEF4ZktEVUl5MDVuTEs3emhON09xa2c5MDZDX3paNUZCcWl4QTNkc3ZYX0M1a3ctSlJKUDBfNEdB0gGHAUFVX3lxTFBPQ2Y1aEJEU2JUYVlGMW8wTm9mVGFtT1liT2pLZ0J4RVR0ZDN3aG9KTHJrdGEtS2FjRzdzMUhNNXE0bWhYOWhKUnVsLWt6UkVkc01WV2FXOVdUbGlmSE9NcWVocVRoQnRZWEFPTE56WTVXQ1BLRHA3RnZRaGJvN0FXTEZxY3pRNA?oc=5",
-   "tarih": "2026-10-08T09:19+00:00"
-  },
-  {
-   "baslik": "Fed'den Waller: Daha fazla faiz artışı gerekli",
-   "ozet": "Waller artışların gerekli olduğunu ama hızı konusunda 'esneklik' bulunduğunu söyledi. Faiz artışı beklentisi kripto için baskı unsuru.",
+   "baslik": "Fed'den Waller: Daha fazla faiz artışı gerek",
+   "ozet": "Waller artışların sürmesi gerektiğini, ancak hızı konusunda esneklik olduğunu söyledi. Yüksek faiz beklentisi kripto gibi riskli varlıklara baskı yapabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -49,8 +39,8 @@
    "tarih": "2026-10-08T08:33+00:00"
   },
   {
-   "baslik": "Fed tutanakları: Piyasa stresine hazırlık",
-   "ozet": "Fed tutanaklarına göre bazı yetkililer piyasadaki olası strese karşı hazırlık yapılmasını istiyor.",
+   "baslik": "Fed tutanakları: Piyasa stresine hazırlık isteniyor",
+   "ozet": "Bazı Fed yetkilileri olası piyasa stresine karşı hazırlık yapılmasını istedi.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Reuters",
@@ -58,8 +48,8 @@
    "tarih": "2026-10-07T21:34+00:00"
   },
   {
-   "baslik": "Dolar 18 aylık zirveye yakın",
-   "ozet": "Fed tutanaklarının enflasyon risklerine işaret etmesiyle dolar 18 aylık en yüksek seviyesine yakın seyrediyor. Güçlü dolar genelde kripto üzerinde baskı yaratır.",
+   "baslik": "Dolar 18 ayın zirvesine yakın",
+   "ozet": "Fed tutanakları enflasyon risklerine işaret edince dolar yükselişini korudu. Güçlü dolar genelde kripto için olumsuz sayılır.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -67,8 +57,8 @@
    "tarih": "2026-10-08T00:43+00:00"
   },
   {
-   "baslik": "Wall Street rekordan döndü, tahvil faizleri arttı",
-   "ozet": "ABD borsaları yükselen tahvil faizleri nedeniyle rekor seviyelerden geriledi. Risk iştahındaki zayıflama kriptoya da yansıyabilir.",
+   "baslik": "Wall Street rekordan geri çekildi",
+   "ozet": "ABD tahvil faizlerinin artmasıyla borsalar düşüşle kapandı.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -76,38 +66,29 @@
    "tarih": "2026-10-07T23:14+00:00"
   },
   {
-   "baslik": "Samsung Wallet'a USDC transferi geliyor",
-   "ozet": "ABD'deki Galaxy kullanıcıları ekimde USDC gönderebilecek; para 60'tan fazla ülkede banka hesaplarına da aktarılabilecek. Stablecoin kullanımı için olumlu bir adım.",
-   "etki": "olumlu",
-   "coinler": [
-    "USDC",
-    "SOL"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-08T08:24+00:00"
-  },
-  {
-   "baslik": "Standard Chartered Singapur'da kripto saklama hizmeti verecek",
-   "ozet": "Banka kurumsal müşteriler için kripto, stablecoin ve tokenlaştırılmış varlık saklama hizmeti planlıyor. Kurumsal benimsemenin sürdüğünü gösteriyor.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-08T08:08+00:00"
-  },
-  {
-   "baslik": "Yunanistan kripto kazançlarına %10 vergi getirecek",
-   "ozet": "Taslak yasa kripto sermaye kazançlarına %10 vergi öngörüyor; yıllık 500 euroya kadar kazançlar ve kripto-kripto takaslar muaf.",
+   "baslik": "Yunanistan kripto kazançlarına %10 vergi getiriyor",
+   "ozet": "Taslak yasa yılda 500 euroya kadar kazancı vergiden muaf tutuyor ve Kasım'da meclise sunulacak.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-08T08:03+00:00"
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/08/greece-prepares-to-levy-10-capital-gains-tax-on-cryptocurrency",
+   "tarih": "2026-10-08T09:17+00:00"
+  },
+  {
+   "baslik": "Samsung Wallet, Solana üzerinden USDC transferi sunacak",
+   "ozet": "ABD'deki 82 milyon Galaxy kullanıcısı ekim sonundan itibaren sınır ötesi USDC gönderebilecek.",
+   "etki": "olumlu",
+   "coinler": [
+    "SOL",
+    "USDC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380377/samsung-wallet-taps-solana-for-usdc-transfers-on-82m-us-galaxy-devices",
+   "tarih": "2026-10-08T09:05+00:00"
   },
   {
    "baslik": "NEAR, 30 günde %140 yükselip ilk 20'ye girdi",
-   "ozet": "NEAR piyasa değerine göre ilk 20 kripto para arasına girdi; NEAR Intents toplam işlem hacmi 31 milyar doları aştı.",
+   "ozet": "NEAR Intents'in toplam işlem hacmi 31 milyar doları aştı.",
    "etki": "olumlu",
    "coinler": [
     "NEAR"
@@ -117,8 +98,17 @@
    "tarih": "2026-10-08T08:17+00:00"
   },
   {
-   "baslik": "Vitalik: Yapay zekâ nedeniyle kriptografi risklerini ciddiye alın",
-   "ozet": "Ethereum araştırmacıları, yapay zekânın özel anahtar güvenliğini tehdit edebileceği uyarısıyla fonların düzenli biçimde yeni adreslere taşınmasını değerlendirmeyi öneriyor.",
+   "baslik": "Standard Chartered Singapur'da kripto saklama planlıyor",
+   "ozet": "Banka kurumsal müşterilere kripto, stablecoin ve tokenlaştırılmış varlık saklama hizmeti sunmayı planlıyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-08T08:08+00:00"
+  },
+  {
+   "baslik": "Vitalik: Yapay zekâ çağında cüzdan göçü aceleye getirilmemeli",
+   "ozet": "Ethereum araştırmacıları, yapay zekânın özel anahtar güvenliğini tehdit edebileceği uyarısıyla fonların yeni adreslere düzenli taşınmasını konuşuyor.",
    "etki": "notr",
    "coinler": [
     "ETH"
