@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-08T23:10+00:00",
+ "guncelleme": "2026-10-09T00:10+00:00",
  "duygu": "olumsuz",
  "ozet": "Bitcoin 81.000-83.000 dolar civarında, 3 haftanın dibine yakın. Düşüşte petrolün 100 dolara yaklaşması, 2002'den beri en yüksek tahvil faizleri ve Fed yetkililerinin faiz artışı mesajları etkili. Spot Bitcoin ETF'lerinden Haziran'dan beri en büyük günlük çıkış (484,9 milyon dolar) yaşandı. Analistler (QCP) 4. çeyrek için 80.000-90.000 dolar bandı bekliyor.",
  "takvim": [
@@ -8,19 +8,35 @@
  ],
  "haberler": [
   {
-   "baslik": "Bitcoin 81.000 doların altına indi",
-   "ozet": "Petrol yükselirken Fed'in faiz artırmaya yöneleceği endişesi Bitcoin'i bu hafta aşağı çekmeye devam ediyor. Faiz artışı beklentisi riskli varlıklar için olumsuz.",
+   "baslik": "ABD 30 yıllık tahvil ihalesine güçlü talep geldi",
+   "ozet": "Tahvil piyasası ihalenin ardından yükseldi. Faizlerdeki baskının hafiflemesi risk varlıkları için olumlu okunabilir.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWpmVzQ1VWEzZnlPUWhiTld5WmYxSVZWTzlnem9razg4eFdjWVItTDJpTWx5X0FZTW1VdkdjV1RKVHdVMjJaTDBleXVqX2JKSFNFUmxlQXdaelR4cXJTdm9URy1ac2E0RVhMRzE3ZU1rNVJaakstdE9xTTNDTHkzZ3JQVEd0aHh3U2w2emtNbTVlelNqX0I2VEZ3NXZndWZKcnhoRmRSbGozdGhjNTRkVmV0U25NY1U?oc=5",
+   "tarih": "2026-10-08T20:50+00:00"
+  },
+  {
+   "baslik": "ABD borsaları petrol ve çip hisseleriyle düştü",
+   "ozet": "S&P 500 ve Nasdaq ham petrolün sıçraması ve çip hisselerindeki zayıflıkla düşüşle kapandı. Risk iştahının azalması kriptoya da baskı yapabilir.",
    "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
-   "tarih": "2026-10-08T17:14+00:00"
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
+   "tarih": "2026-10-08T20:32+00:00"
+  },
+  {
+   "baslik": "Fed'den Musalem: Enflasyon için sıkı para politikası gerek",
+   "ozet": "Musalem enflasyonu düşürmek için daha sıkı politika gerektiğini söyledi.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGVSNzFYTFV0aklwQnlYM3lyV3NMY0FmNi1QUFQ4b1A5bmNkZ01LMkdVZ3NmdmI0SFVRZXM4V1BjN1JOcHE3bTJQQUczbF9ESGI1VUM5ZklBZXFqSUpFQlZLazhaUU5BNjUyTVFDMEtmdHhqOU12WjJMM2ZDNzdscVU5NUl6d1BuV2k4ZWVBblZGaFVoVWxReFlIUFdOU09KempHczB4bnl2SFBabnkwMGJR?oc=5",
+   "tarih": "2026-10-08T19:13+00:00"
   },
   {
    "baslik": "Bitcoin ETF'lerinden Haziran'dan beri en büyük çıkış",
-   "ozet": "Spot Bitcoin ETF'lerinden tek günde 484,9 milyon dolar çıktı. Petrol 100 dolara yakın, tahvil faizleri 2002'den beri en yüksek seviyede ve Fed'in faiz artışlarını bitirmediği belirtiliyor.",
+   "ozet": "Spot Bitcoin ETF'lerinden tek günde 484,9 milyon dolar çıktı. Petrol 100 dolara yakın, tahvil faizleri 2002'den beri en yüksekte.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -30,19 +46,39 @@
    "tarih": "2026-10-08T17:46+00:00"
   },
   {
+   "baslik": "Bitcoin 81.000 doların altına indi",
+   "ozet": "Petrolün yükselmesi ve Fed'in sert tonu Bitcoin'i bu hafta düşüşte tuttu.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
+   "tarih": "2026-10-08T17:14+00:00"
+  },
+  {
    "baslik": "ABD hükümeti 12.267 BTC'yi yeni cüzdana taşıdı",
-   "ozet": "Bitfinex saldırganından el konulan yaklaşık 1 milyar dolarlık Bitcoin etiketsiz cüzdanlara gitti, borsaya değil; satış işareti yok. Bir gün önce Coinbase Prime'a 383 milyon dolar gitmişti, bu yüzden satış endişesi sürebilir.",
+   "ozet": "Bitfinex hack'inden el konulan yaklaşık 1 milyar dolarlık Bitcoin, etiketsiz bir adrese gitti; borsaya gönderildiğine dair işaret yok.",
    "etki": "notr",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
-   "tarih": "2026-10-08T15:43+00:00"
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+   "tarih": "2026-10-08T16:44+00:00"
+  },
+  {
+   "baslik": "Trump: Seçimlerden önce İran'a saldırı olmayacak",
+   "ozet": "ABD'nin ara seçimden önce İran'a saldırmayacağı açıklandı. Jeopolitik gerilimin azalması petrol ve risk iştahı açısından olumlu olabilir.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oaGVfNFFuNVJMUDA1TWI5SzRLbktiX0g4NGd2cGJ4dUw1WTVHN2FwU1pZdmxNTklDNkNMWnZxWUpVOWtWR2pPaFpNOHY0bVJuSDVscHExcHgwMVBZaUV2cjhFN2lPVVhZUUEzNVVlRFd1S0xJYnNN0gF8QVVfeXFMT09wT195dFNhYko3SXg3cHFkY2d2MXkyR21YRkNON1RuWENkU2paNXZrX1JNVkJSWW5WdVQxOHA0RGp3Tm5jSHhES3lyRHRBNkZXeFNzUWNhdk9lM3pUN1pXM1hBaG9ZVHZ5ZWVqZEphZHhybHVjR2tiX2hCcQ?oc=5",
+   "tarih": "2026-10-08T16:25+00:00"
   },
   {
    "baslik": "Fed'den Waller: Daha fazla faiz artışı gerekli",
-   "ozet": "Fed yetkilisi Waller faiz artışlarının süreceğini, ancak artışın hızı konusunda 'esneklik' olduğunu söyledi. Sıkı para politikası kripto için baskı yaratıyor.",
+   "ozet": "Waller artışların sürmesi gerektiğini, ancak hızda 'esneklik' olduğunu söyledi. Yüksek faiz kripto için baskı unsuru.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -50,35 +86,17 @@
    "tarih": "2026-10-08T15:33+00:00"
   },
   {
-   "baslik": "ABD borsaları petrol ve çip hisseleriyle düştü",
-   "ozet": "S&P 500 ve Nasdaq, petrol fiyatlarındaki sıçrama ve çip hisselerinin baskısıyla günü düşüşle kapattı. Hisselerdeki zayıflık riskli varlıklara iştahı azaltabilir.",
+   "baslik": "AB: Kripto platformlarına uyumsuz stablecoin'ler için 3 ay",
+   "ozet": "ESMA, MiCA kurallarına uymayan stablecoin'lere yeni erişimin 3 ay içinde engellenmesini istedi.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
-   "tarih": "2026-10-08T20:32+00:00"
-  },
-  {
-   "baslik": "ABD 30 yıllık tahvil ihalesine güçlü talep",
-   "ozet": "30 yıllık ABD tahvil ihalesinde talep sağlam geldi ve tahviller yükseldi. Tahvil faizlerindeki baskının hafiflemesi riskli varlıklar için olumlu olabilir.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMWpmVzQ1VWEzZnlPUWhiTld5WmYxSVZWTzlnem9razg4eFdjWVItTDJpTWx5X0FZTW1VdkdjV1RKVHdVMjJaTDBleXVqX2JKSFNFUmxlQXdaelR4cXJTdm9URy1ac2E0RVhMRzE3ZU1rNVJaakstdE9xTTNDTHkzZ3JQVEd0aHh3U2w2emtNbTVlelNqX0I2VEZ3NXZndWZKcnhoRmRSbGozdGhjNTRkVmV0U25NY1U?oc=5",
-   "tarih": "2026-10-08T20:50+00:00"
-  },
-  {
-   "baslik": "Trump: Seçimlerden önce İran'a saldırı olmayacak",
-   "ozet": "Trump, ABD'nin ara seçimlerden önce İran'a saldırmayacağını söyledi. Jeopolitik gerilimin azalması petrol ve piyasa riskini hafifletebilir.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnVnX3QxZWJaVEE4TnJ1M2RFQnJqVGd1OG1UYTNvSEREdEFvN0Q1TnpfSEs0bzFHRkNkSVdJT1lHeGxsb2l4M2twMGQ5cGVRSEhCeTF4UG1mYjBOZktjWC16VXN4X0tDWXBPM1dDSHV3VnExN3U0Q3ZqdjhyLWhBTWRkcTQ?oc=5",
-   "tarih": "2026-10-08T17:05+00:00"
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+   "tarih": "2026-10-08T15:23+00:00"
   },
   {
    "baslik": "Analistler 4. çeyrek için 80-90 bin dolar bandı bekliyor",
-   "ozet": "Bitcoin perşembe günü 82.000 dolar civarında işlem gördü. QCP analistleri son çeyrekte 80.000-90.000 dolar aralığı bekliyor.",
+   "ozet": "QCP analistleri Bitcoin için son çeyrekte 80.000-90.000 dolar aralığı bekliyor; BTC yaklaşık 82.000 dolardaydı.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -88,20 +106,8 @@
    "tarih": "2026-10-08T14:52+00:00"
   },
   {
-   "baslik": "Yapay zekanın cüzdan şifrelerini kırma riski tartışılıyor",
-   "ozet": "Ethereum araştırmacıları, en kötü senaryoda yapay zekanın Bitcoin ve Ether imzalarını 'yıllar değil aylar içinde' kırabileceği uyarısı yaptı. Konu piyasada karışık tepki aldı.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC",
-    "ETH"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
-   "tarih": "2026-10-08T11:47+00:00"
-  },
-  {
    "baslik": "Securitize, Solana'da tokenize ABD hisseleri başlattı",
-   "ozet": "Apple, Nvidia gibi şirketlerin hisseleri, gerçek hisselerle 1'e 1 desteklenen tokenlar olarak Solana üzerinde işlem görecek. Temettü ve USDC takası da sunuluyor.",
+   "ozet": "1'e 1 gerçek hisse destekli tokenize hisseler Solana üzerinde işlem görecek.",
    "etki": "olumlu",
    "coinler": [
     "SOL"
@@ -111,22 +117,16 @@
    "tarih": "2026-10-08T14:04+00:00"
   },
   {
-   "baslik": "AB: Kripto platformlarına uyumsuz stablecoin'ler için 3 ay",
-   "ozet": "ESMA, MiCA kurallarına uymayan stablecoin'lere yeni erişimin engellenmesini istedi ve platformlara kaldırmaları için 3 ay verdi.",
+   "baslik": "'Bunker modu': Yapay zekanın cüzdan şifrelerini kırma riski",
+   "ozet": "Ethereum araştırmacıları yapay zekanın imzaları kırma riskine karşı hazırlık çağrısı yaptı; piyasa tepkisi karışık.",
    "etki": "olumsuz",
-   "coinler": [],
+   "coinler": [
+    "BTC",
+    "ETH"
+   ],
    "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-   "tarih": "2026-10-08T15:23+00:00"
-  },
-  {
-   "baslik": "Yunanistan kripto kazançlarına yüzde 10 vergi planlıyor",
-   "ozet": "Taslak yasa, haziranda gündeme gelen yüzde 15 yerine yüzde 10 oran öngörüyor ve yıllık ilk 500 euroluk kazancı vergiden muaf tutuyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
-   "tarih": "2026-10-08T10:32+00:00"
+   "link": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+   "tarih": "2026-10-08T11:47+00:00"
   }
  ]
 }
