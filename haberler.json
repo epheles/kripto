@@ -1,20 +1,51 @@
 {
- "guncelleme": "2026-10-09T22:10+00:00",
+ "guncelleme": "2026-10-09T23:10+00:00",
  "duygu": "olumsuz",
- "ozet": "Bitcoin yaklaşık 82.500 dolarda; perşembe günkü 1,1 milyar dolarlık tasfiyenin ardından toparlansa da haftalık bazda yaklaşık %4 düşük. ETF çıkışları, yükselen tahvil faizleri ve güçlenen dolar baskı yaratıyor. Trump'ın seçimlerden önce İran'a saldırmayacağını söylemesi kısmen destek oldu. Ledger kaynaklı hırsızlık haberi güveni zayıflatabilir.",
+ "ozet": "Bitcoin yaklaşık 82.500 dolarda; perşembe günkü 1,1 milyar dolarlık tasfiyenin ardından toparlansa da haftalık bazda yaklaşık %4 düşük. ETF çıkışları, yükselen tahvil faizleri ve güçlenen dolar baskı yaratıyor. İşlemciler ekim bitmeden daha fazla düşüş ihtimaline yüksek olasılık veriyor; 80 bin dolar civarı yakından izleniyor. Ledger kaynaklı hırsızlık haberi güveni zayıflatabilir.",
  "takvim": [
   "Cuma 16 Ekim: Tayland'da Bitcoin ve Ether ETF kuralları yürürlüğe giriyor.",
   "Önümüzdeki hafta: Banka kazançları ve ABD enflasyon (CPI) verisi piyasayı hareketlendirebilir."
  ],
  "haberler": [
   {
-   "baslik": "ABD, İran bağlantılı 1 milyar dolarlık kriptoya el koymayı planlıyor",
-   "ozet": "Hazine Bakanı Bessent, İran yaptırımları kapsamında bu hafta yaklaşık 1 milyar dolarlık dijital varlığa el konulacağını açıkladı.",
+   "baslik": "ABD, İran bağlantılı 1 milyar dolarlık kriptoya el koyacak",
+   "ozet": "Hazine Bakanı Bessent, İran yaptırımları kapsamında bu hafta dijital varlıklara el konulacağını açıkladı. Doğrudan fiyat etkisi belirsiz; yaptırımların kripto alanına da uzandığını gösteriyor.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Cointelegraph",
    "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "tarih": "2026-10-09T20:39+00:00"
+  },
+  {
+   "baslik": "Bitcoin 82.500 dolar civarında dengeleniyor",
+   "ozet": "Perşembe günkü düşüşün ardından BTC toparlanma arıyor. Ledger kaynaklı hırsızlık haberleri piyasada endişe yaratsa da genel satış baskısı sınırlı kaldı.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-09T15:20+00:00"
+  },
+  {
+   "baslik": "Bitcoin ETF'lerinden iki günde 729 milyon dolar çıkış",
+   "ozet": "Yatırımcılar bu hafta Bitcoin ETF'lerinden hızla para çekti. Çıkışlar, kurumsal talebin zayıfladığına işaret ediyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days",
+   "tarih": "2026-10-09T17:11+00:00"
+  },
+  {
+   "baslik": "Ledger, kullanıcı fonlarında 87 milyon dolarlık olası hırsızlığı inceliyor",
+   "ozet": "Ledger, bir bayi üzerinden satılan cihazlarla ilgili kayıpları araştırıyor ve yeni alıcılara cihazı kurmamalarını söyledi. Zincir üstü takipçiler yaklaşık 86 milyon doların aktarıldığını tespit etti.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
+   "tarih": "2026-10-09T15:30+00:00"
   },
   {
    "baslik": "Bitcoin toparlandı ama işlemciler daha fazla düşüş fiyatlıyor",
@@ -28,19 +59,46 @@
    "tarih": "2026-10-09T17:36+00:00"
   },
   {
-   "baslik": "Bitcoin ETF'lerinden iki günde 729 milyon dolar çıkış",
-   "ozet": "Yatırımcılar bu hafta Bitcoin ETF'lerinden hızla para çekti. Bu çıkışların fiyata yansıdığı belirtiliyor.",
+   "baslik": "Enerji maliyetleri enflasyon endişesiyle tahvilleri düşürdü",
+   "ozet": "ABD tahvilleri enerji fiyatlarının yüksek kalması nedeniyle değer kaybetti, faizler yükseldi. Yükselen faizler genelde kripto gibi riskli varlıklara baskı yapar.",
    "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days",
-   "tarih": "2026-10-09T17:11+00:00"
+   "coinler": [],
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPemZITHhKckdMNlcwa0ZyRDkxbEczQ05Lc3RVQXN6NkV1WWhMTVpWQ05QYmxlWEI1RWN2ajNaS1Juc2VIcE1SYlFyQVlrNmdMc0c5Ymh5ekN5MURPYjZoSGNVV2ZfQjFmY0pIbzZBSzNVVE84alpVUTIyVDRjT3R6a0prUmF2bF96N2hYckhyeTYtdDRpdzU3S0haa1dzc0JNWko4U0lNYUF2dW51Q1JySkNn?oc=5",
+   "tarih": "2026-10-09T17:24+00:00"
   },
   {
-   "baslik": "Starknet L1 olmayı düşündüğünü söyledi, %20 yükseldi",
-   "ozet": "Ethereum L2 ağı Starknet, kendi blokzincirine dönüşmeyi değerlendirdiğini ve 2027'ye kadar kuantuma dayanıklı olmayı hedeflediğini açıkladı.",
+   "baslik": "Dolar üst üste dördüncü haftalık yükselişe gidiyor",
+   "ozet": "Dolar endeksi dört haftadır değer kazanıyor. Güçlü dolar kripto fiyatları üzerinde genellikle baskı oluşturur.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmlUbXdnclNKN1VnOVp1ejkzbXBXZjJaaTF3YVVXNHBpU29ueXpsa3M2TGFCQ1V5N3VXOHlBYTJ0MjhlSlVubXROb0FBVC0wb0tfczA1blhZd1VlQ1M0bE1hOW9UUk1jTWF5WlRIb2cwUHFPQnotcEZJQW5IdXVEQnRsaXZ4LTdOX3pPVndmSjVqM3hEMlNuRUY4RFF2RV84R0RF?oc=5",
+   "tarih": "2026-10-09T14:07+00:00"
+  },
+  {
+   "baslik": "Trump, Fed üyesi Lisa Cook'u inceleyecek komite kurdu",
+   "ozet": "Trump, Fed Guvernörü Lisa Cook'un açıklamalarını araştırmak için bir komite oluşturdu. Merkez bankası bağımsızlığı tartışmaları piyasada belirsizliği artırabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3lrLUg5b2t0eHBlVjVncUxGMDlabmZvZFFhVkpvS0VlTnFveGpDZkpaY3E5Rjk3cnF4UV90SFgtVXZYbk9FeERqdnA0eTlVeTJ0eGNfMUZDVHYwYWhnem02a1FRcEV1WnBBS3FlZHNnanpuVEdJOE50dDdndDE1M0MwVUI?oc=5",
+   "tarih": "2026-10-09T14:10+00:00"
+  },
+  {
+   "baslik": "THORChain yöneticisi: Tether USDT kasalarını geçici dondurdu",
+   "ozet": "THORChain'in teknik kurucu ortağı, fonların açıklama yapılmadan dondurulup sonra çözüldüğünü söyledi. Stablecoin merkeziyetçiliği tartışması yeniden gündemde.",
+   "etki": "olumsuz",
+   "coinler": [
+    "USDT"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-09T19:04+00:00"
+  },
+  {
+   "baslik": "Starknet L1 olmayı değerlendirdiğini açıkladı, %20 yükseldi",
+   "ozet": "Starknet, 2027'ye kadar kuantuma dayanıklı ilk tam ağ olmayı hedefleyen bağımsız bir blokzincire geçmeyi 'ciddi şekilde' düşündüğünü söyledi.",
    "etki": "olumlu",
    "coinler": [
     "STRK"
@@ -50,55 +108,7 @@
    "tarih": "2026-10-09T16:36+00:00"
   },
   {
-   "baslik": "Tahvil piyasasında faizler yükseliyor",
-   "ozet": "Reuters, tahvil faizleri yükselirken piyasanın daha da sertleşebileceğine işaret eden dört sinyali ele alıyor. Yüksek faiz genelde Bitcoin gibi riskli varlıklara baskı yapar.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnpPbXRYRlc0T3dINmZIZnM3VEgxWWJzS2tLRVBadmJMVnQ2ekdHaTQ1NG1SZlhfTV84VjNsM3JNR0RRSTZyVWJ1ODJFZmxpa1pxckluaktPY0d6T0d3bUVUUnRGQjlCVmwxWUNGWEs2cEo1VGV4R3MxN19PakJaZ3FUZnZfMWxqUHAzNk1nOTVFT0hr?oc=5",
-   "tarih": "2026-10-09T16:18+00:00"
-  },
-  {
-   "baslik": "Ledger satıcısında 87 milyon dolarlık hırsızlık şüphesi",
-   "ozet": "Ledger, bir Güneydoğu Asya satıcısından (CryptoBilis) alınan cihazlarla ilgili kayıpları inceliyor; 86 milyon doları aşan şüpheli hırsızlık izlendi. Şirket yeni alıcılara cihazı kurmamalarını söyledi.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380582/ledger-probes-87m-theft-crypto-wallet-reseller",
-   "tarih": "2026-10-09T15:30+00:00"
-  },
-  {
-   "baslik": "Trump, Fed üyesi Lisa Cook'u incelemek için komite kurdu",
-   "ozet": "Trump, Fed üyesi Lisa Cook'un açıklamalarını inceleyecek bir komite oluşturdu. Fed'e siyasi baskı faiz beklentilerini belirsizleştirebilir.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX3lrLUg5b2t0eHBlVjVncUxGMDlabmZvZFFhVkpvS0VlTnFveGpDZkpaY3E5Rjk3cnF4UV90SFgtVXZYbk9FeERqdnA0eTlVeTJ0eGNfMUZDVHYwYWhnem02a1FRcEV1WnBBS3FlZHNnanpuVEdJOE50dDdndDE1M0MwVUI?oc=5",
-   "tarih": "2026-10-09T14:10+00:00"
-  },
-  {
-   "baslik": "Dolar üst üste dördüncü hafta yükselişe gidiyor",
-   "ozet": "WSJ'ye göre dolar dördüncü haftalık kazancına ilerliyor. Güçlü dolar kriptoyu genelde baskılar.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmlUbXdnclNKN1VnOVp1ejkzbXBXZjJaaTF3YVVXNHBpU29ueXpsa3M2TGFCQ1V5N3VXOHlBYTJ0MjhlSlVubXROb0FBVC0wb0tfczA1blhZd1VlQ1M0bE1hOW9UUk1jTWF5WlRIb2cwUHFPQnotcEZJQW5IdXVEQnRsaXZ4LTdOX3pPVndmSjVqM3hEMlNuRUY4RFF2RV84R0RF?oc=5",
-   "tarih": "2026-10-09T14:07+00:00"
-  },
-  {
-   "baslik": "Bitcoin 82,5 bin dolar civarında toparlandı",
-   "ozet": "Trump'ın seçimlerden önce İran'a saldırı yapmayacağını söylemesi BTC'ye destek oldu. Yine de Bitcoin haftalık yaklaşık %4, Ether ise %9 düşük.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC",
-    "ETH"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-   "tarih": "2026-10-09T10:44+00:00"
-  },
-  {
-   "baslik": "Tayland Bitcoin ve Ether ETF kurallarını açıkladı",
+   "baslik": "Tayland, Bitcoin ve Ether ETF kurallarını açıkladı",
    "ozet": "Tayland SEC'in kuralları 16 Ekim'de yürürlüğe giriyor; ilk aşamada yalnızca BTC ve ETH ETF'lerine izin verilecek.",
    "etki": "olumlu",
    "coinler": [
@@ -108,24 +118,6 @@
    "kaynak": "The Block",
    "link": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
    "tarih": "2026-10-09T10:40+00:00"
-  },
-  {
-   "baslik": "Birleşik Krallık üç kripto borsasına Rusya yaptırımı getirdi",
-   "ozet": "Yaptırımlar, Rusya'nın yaptırımlardan kaçmasına yardım ettiği öne sürülen kripto borsalarını ve ödeme servislerini hedefliyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-09T10:34+00:00"
-  },
-  {
-   "baslik": "Fransa'da stablecoin takas vergisi gündemde",
-   "ozet": "Fransız Maliye Komitesi, 2027 bütçesinde stablecoin takaslarına ve yurt dışına taşınan zengin hanelerin gerçekleşmemiş kripto kazançlarına vergi getirilmesini destekledi.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-09T10:16+00:00"
   }
  ]
 }
