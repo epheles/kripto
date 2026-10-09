@@ -1,15 +1,15 @@
 {
- "guncelleme": "2026-10-09T11:20+00:00",
+ "guncelleme": "2026-10-09T12:25+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin yaklaşık 1 milyar dolarlık tasfiyenin ardından 82.000 dolara toparlandı; Trump'ın İran'a saldırı olmayacağını söylemesi petrolü düşürdü. Buna karşın spot ETF'lerden çıkışlar sürüyor ve Ether fonları 8 seanstır para kaybediyor. Pimco'nun ABD 10 yıllık tahvil faizinin %6'ya çıkabileceği uyarısı riskli varlıklar üzerindeki baskıyı canlı tutuyor.",
+ "ozet": "Bitcoin yaklaşık 1 milyar dolarlık tasfiyenin ardından 82.000 dolara toparlandı; Trump'ın seçimlerden önce İran'a saldırı olmayacağını söylemesi petrolü düşürdü. Buna karşın Bitcoin ETF'lerinden 244 milyon dolar çıktı ve Ether fonları 8 seanstır para kaybediyor. Pimco'nun ABD 10 yıllık tahvil faizinin %6'ya çıkabileceği uyarısı riskli varlıklar üzerindeki baskıyı canlı tutuyor.",
  "takvim": [
-  "Bugün (Cuma 9 Ekim): ETF giriş-çıkış verileri. Çıkışlar sürerse Bitcoin'deki zayıflık uzayabilir.",
-  "Gelecek hafta: Tayland'ın Bitcoin ve Ether ETF kuralları yürürlüğe giriyor."
+  "Bugün (Cuma 9 Ekim): ETF giriş-çıkış verileri. Çıkışlar sürerse piyasadaki zayıflık uzayabilir.",
+  "Gelecek hafta: Tayland'da Bitcoin ve Ether ETF kuralları yürürlüğe giriyor."
  ],
  "haberler": [
   {
-   "baslik": "Trump İran saldırısını reddetti, Bitcoin 82.000 dolara döndü",
-   "ozet": "Trump'ın seçimlerden önce İran'a saldırı olmayacağını söylemesi petrolü düşürdü, Bitcoin 82.000 dolara toparlandı. Jeopolitik gerilimin azalması riskli varlıkları destekliyor.",
+   "baslik": "Bitcoin, Trump'ın İran açıklamasıyla 82.000 dolara döndü",
+   "ozet": "Trump'ın seçimlerden önce İran'a saldırı olmayacağını söylemesi petrolü düşürdü, Bitcoin 82.000 dolara toparlandı.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -19,8 +19,20 @@
    "tarih": "2026-10-09T03:27+00:00"
   },
   {
-   "baslik": "Bitcoin ve Ether ETF'lerinde ekim çıkışı 1 milyar dolara yaklaştı",
-   "ozet": "Bitcoin ETF'leri perşembe 244 milyon dolar, Ether fonları 641 milyon dolar kaybetti; Ether fonlarında çıkış 8 seans oldu. Kurumsal talebin zayıfladığını gösteriyor.",
+   "baslik": "Bitcoin ETF'lerinden 244 milyon dolar çıkış",
+   "ozet": "Perşembe günü Bitcoin ETF'leri 244 milyon dolar kaybetti; yalnızca XRP ETF'leri yeşilde. Bitcoin yaklaşık 1 milyar dolarlık tasfiyenin ardından 82.000 dolar civarında.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC",
+    "XRP"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+   "tarih": "2026-10-09T06:51+00:00"
+  },
+  {
+   "baslik": "ETF çıkışları ekimde 1 milyar dolara yaklaşıyor",
+   "ozet": "Ether fonları 8 seanstır çıkış yaşıyor ve 641 milyon dolar kaybetti. Kurumsal talebin zayıfladığına işaret ediyor.",
    "etki": "olumsuz",
    "coinler": [
     "BTC",
@@ -31,8 +43,8 @@
    "tarih": "2026-10-09T07:34+00:00"
   },
   {
-   "baslik": "1 milyarlık tasfiyede Ether pozisyonları Bitcoin'den daha çok silindi",
-   "ozet": "24 saatte yaklaşık 356 milyon dolarlık ETH pozisyonu tasfiye edildi; bu, Ether'in piyasa değerine göre Bitcoin'in yaklaşık altı katı oranında kayıp demek. Kaldıraçlı işlemlerde risk yüksek.",
+   "baslik": "Tasfiyede Ether pozisyonları Bitcoin'den çok eridi",
+   "ozet": "Son 24 saatte yaklaşık 356 milyon dolarlık ETH pozisyonu tasfiye edildi; bu, Bitcoin'i aştı.",
    "etki": "olumsuz",
    "coinler": [
     "ETH",
@@ -44,34 +56,25 @@
   },
   {
    "baslik": "Pimco: ABD 10 yıllık tahvil faizi %6'ya çıkabilir",
-   "ozet": "Pimco, ABD 10 yıllık tahvil faizinin 2000'den beri ilk kez %6'ya ulaşabileceği uyarısında bulundu. Yüksek tahvil faizi genelde kripto gibi riskli varlıklara baskı yapar.",
+   "ozet": "Faiz 2000'den beri ilk kez %6'ya ulaşabilir. Yüksek tahvil faizi genelde riskli varlıklar için baskı yaratır.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzZ1VU1pSkxJVm1rbnJETnpxMUFTalNBRnNIVEplMmJHVGh2ejBuUk9CckhBb1VSUS1fSnVDWmhualhMcWpIZ1VtaXU4WU9zeU9wT2dDWXhWclBjTFd0bWtTT1A2cDNzYnJtSmdySFJIZUZMaTdFVjRoUGpGOUN0c2VqRGc?oc=5",
-   "tarih": "2026-10-09T08:25+00:00"
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUjhNTkZmR2Q2NmQxSkRZWDVRT2tRbW9BVld0TnI1NDdyV043dmMxeElSakg2LTJRNUNJMzFxRG5pbW1xVFFaLUNQYkRFWDBwM3NHay1wNWpsT3l4ZUFlTDVJN0tUM0FCX1lYSGtjX0JFU0pSYzF1NmtvcDY4THJtZEFCYWNDT21lWFcyd1kzUUt4LWZOWXVrME1rOWhhN2RHWjZrYVYxbnJFb3BzN3loZ0pKdFVMT3E4RXN0dEpRSjlPVTg?oc=5",
+   "tarih": "2026-10-09T05:27+00:00"
   },
   {
-   "baslik": "Trump İran konusunda yumuşadı, tahvil faizleri sabit",
-   "ozet": "Trump'ın İran konusunda diplomatik bir ton tutması tahvil faizlerini yatay tuttu. Piyasada risk iştahı için sakinleştirici bir gelişme.",
-   "etki": "notr",
+   "baslik": "Trump'ın İran'a yönelik yumuşak tonu tahvil faizlerini sabitledi",
+   "ozet": "Trump'ın İran konusunda diplomatik bir dil kullanması tahvil faizlerinin yatay seyretmesini sağladı.",
+   "etki": "olumlu",
    "coinler": [],
    "kaynak": "CNBC",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xQjVTa1BBRlpvckhQbmZLVnN0M09rVTdwUVZiZlg4TnlfRUJPZ3pObmZWNlIwMXdhRFpHcHhacy1tTGtsOXprd1ZKVWtfSk1pQVMwVGpwcFpja2xhRndZTWR6U2swYU9qU21EeEo4UFAyOGRkSFFUelBn0gF_QVVfeXFMUENSeTg4TV9sQUNFWGpydVVoQkpfajNHTkN6RndmcjNWaTktS0habmRjWnpIeWF0Vi1IV1BkQ2lveWVYN3duV2RrSmQ3Vk0zcUFjMU50Q19qbWVNUk5qM05HcHduNkgxbEIxOHdoVUZHYzRnLTlsWHNUdHp4cWZwSQ?oc=5",
    "tarih": "2026-10-09T08:24+00:00"
   },
   {
-   "baslik": "ABD borsaları petrol ve çip hisseleriyle düşüşle kapandı",
-   "ozet": "S&P 500 ve Nasdaq, petrol fiyatlarındaki sıçrama ve çip hisselerindeki zayıflıkla düşüşle kapandı. Teknolojiye bağlı risk iştahı kripto için de önemli.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTluWFV5cWFfM2xBV243NUduZW80Q3dmYnFLa1Y4Nmhha2RNNHVGTS1sM2NYZ0ZCeWJlazZpSndKOWM0OVUxTmx2M3luSDdpbVgzNnYtanQtb2VkWV9tU2NQaU03ejAxZy1NU1JhWkMwLXRNbmJUY2pWaTBrVE9XbGRXa2VFekh1LTVZbVNGUVRKTVhIU0NnSUZqdXI?oc=5",
-   "tarih": "2026-10-08T23:09+00:00"
-  },
-  {
    "baslik": "MARA, Galaxy Digital'e 81,1 milyon dolarlık Bitcoin aktardı",
-   "ozet": "Madenci MARA'nın Bitcoin varlığı şubattaki 53.822'den ağustosta 35.577 BTC'ye düştü ve şirket yapay zekâya yöneliyor. Aktarım satış anlamına gelmese de satış baskısı endişesi yaratıyor.",
+   "ozet": "Satış olduğu doğrulanmış değil; ancak madencinin Bitcoin varlığı şubattan ağustosa 53.822'den 35.577 BTC'ye geriledi ve şirket yapay zekaya yöneliyor.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -81,8 +84,8 @@
    "tarih": "2026-10-09T09:08+00:00"
   },
   {
-   "baslik": "Sui, Bitcoin teminatlı kredi için Hashi protokolünü başlatıyor",
-   "ozet": "Sui, kurumsal yatırımcıların Bitcoin'i Bitcoin ağından çıkarmadan teminat gösterebileceği Hashi'yi 500 milyon dolarlık taahhütle başlatıyor.",
+   "baslik": "Sui, 500 milyon dolar taahhütlü Bitcoin kredi protokolü Hashi'yi başlatıyor",
+   "ozet": "Kurumsal protokol, Bitcoin sahiplerinin coinlerini Bitcoin ağından çıkarmadan teminat olarak kullanmasına imkan veriyor.",
    "etki": "olumlu",
    "coinler": [
     "SUI",
@@ -93,8 +96,19 @@
    "tarih": "2026-10-09T06:40+00:00"
   },
   {
-   "baslik": "Tayland, Bitcoin ve Ether ETF kurallarını tamamladı",
-   "ozet": "Kurallar gelecek hafta yürürlüğe giriyor; kripto ETF'leri yalnızca Tayland Borsası'nda işlem görecek. Yeni bir ülkede ETF erişimi açılıyor.",
+   "baslik": "Solana blok sürelerini yarıya indiriyor",
+   "ozet": "Ağ, blokları iki kat sık üretmeye yönelik yedi haftalık çalışmayı tamamlıyor; doğrulayıcılar için maliyetler artıyor.",
+   "etki": "notr",
+   "coinler": [
+    "SOL"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+   "tarih": "2026-10-09T05:00+00:00"
+  },
+  {
+   "baslik": "Tayland, Bitcoin ve Ether ETF'lerinin önünü açtı",
+   "ozet": "Kurallar gelecek hafta yürürlüğe giriyor; kripto ETF'leri yalnızca Tayland Borsası'nda işlem görecek.",
    "etki": "olumlu",
    "coinler": [
     "BTC",
@@ -105,8 +119,8 @@
    "tarih": "2026-10-09T03:08+00:00"
   },
   {
-   "baslik": "Cantor Fitzgerald'a Tether bağlantıları için Senato'dan soru",
-   "ozet": "Senatör, Tether'in USDT'sinin İran'ın gölge bankacılık ağında araç olduğu iddiasının ardından Cantor Fitzgerald'a Tether bağlantılarını sordu. Stablecoin düzenlemesi riski artabilir.",
+   "baslik": "Cantor Fitzgerald'a Tether bağlantıları soruldu",
+   "ozet": "Bir Demokrat senatör, USDT'nin İran'ın gölge bankacılık ağında kullanıldığı iddialarının ardından Cantor'a soru sordu.",
    "etki": "olumsuz",
    "coinler": [
     "USDT"
@@ -116,15 +130,13 @@
    "tarih": "2026-10-09T00:46+00:00"
   },
   {
-   "baslik": "Solana blok sürelerini yarıya indiriyor",
-   "ozet": "Solana, yedi haftalık çalışmanın son aşaması olan 200 milisaniyelik güncellemeye yaklaşıyor. Ağ hızlanıyor ama doğrulayıcıların maliyeti artıyor.",
-   "etki": "notr",
-   "coinler": [
-    "SOL"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
-   "tarih": "2026-10-09T05:00+00:00"
+   "baslik": "OpenAI haberi çip hisselerini aşağı çekiyor",
+   "ozet": "Piyasa özetine göre teknoloji hisselerinin düşmesi bekleniyor; kriptonun teknolojiyle bağlantılı seyri nedeniyle takip edilmeli.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVdSbk1NMk9oczQxR1FzUXBRcVJuVlRWZExIbS1LQmh1am1NQ1J4ZzZEbXpaVHhVWU5FcHAtODFZYUQ1UkpZSTM0XzI2amdDa0dyTXlQVXNZbXdjcTRZd1pVSzhyRV9FbjM3cXpVeGwzY1I4WGFoZUN4VjQ2Rml2NzZfOGc2QmlPUUY0bGYtd3ZoUk53?oc=5",
+   "tarih": "2026-10-09T06:00+00:00"
   }
  ]
 }
