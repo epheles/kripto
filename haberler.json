@@ -1,15 +1,94 @@
 {
- "guncelleme": "2026-10-10T11:05+00:00",
- "duygu": "olumsuz",
- "ozet": "Haber akışında Bitcoin'in güncel fiyatı verilmiyor. Dolar dört haftadır yükseliyor ve tahvil faizlerindeki artış riskli varlıklara baskı yapıyor. ABD'nin İran bağlantılı kriptoya el koyma planı ve Binance'e yönelik DOJ incelemesi düzenleme baskısını artırıyor. Gelecek hafta enflasyon verisi ve banka bilançoları izlenmeli.",
+ "guncelleme": "2026-10-10T15:05+00:00",
+ "duygu": "karisik",
+ "ozet": "Haber akışında Bitcoin'in güncel fiyatı verilmiyor. Fransa'da kripto ve stablecoin vergisi önerileri düzenleme baskısını artırıyor. Tahvil faizlerinin yükselmesi ve zayıflayan ABD tüketici güveni riskli varlıklara baskı yapabilir. BTC ve ETH likiditesi 10/10 çöküşünden bu yana toparlanmış görünürken altcoin likiditesi zayıf.",
  "takvim": [
   "Gelecek hafta: ABD enflasyon (TÜFE) verisi. Beklentinin üstünde gelirse faiz endişesi artıp kripto baskı altında kalabilir.",
   "Gelecek hafta: Büyük ABD bankalarının bilançoları. Risk iştahını belirleyebilir."
  ],
  "haberler": [
   {
+   "baslik": "Fransa'da stablecoin takası ve kripto çıkışına vergi önerisi",
+   "ozet": "Fransa Ulusal Meclisi'nde bir komite, stablecoin takaslarına ve zengin yatırımcıların kriptodan çıkışına vergi getiren önergeleri kabul etti; sonra 2027 bütçesinin gelir bölümünü reddetti. Henüz yasalaşmış bir şey yok ama düzenleme baskısı artıyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+   "tarih": "2026-10-10T13:01+00:00"
+  },
+  {
+   "baslik": "10/10 çöküşünün yıl dönümü: BTC ve ETH likiditesi toparlandı",
+   "ozet": "CoinDesk'e göre Bitcoin ve Ether emir defterleri çöküş öncesinden daha derin. Altcoin likiditesi ise erimeye devam ediyor ve spot işlem hacmi Ekim 2025 zirvesinin hayli altında.",
+   "etki": "notr",
+   "coinler": [
+    "BTC",
+    "ETH"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+   "tarih": "2026-10-10T12:00+00:00"
+  },
+  {
+   "baslik": "19 milyar dolarlık çöküşün üzerinden bir yıl geçti",
+   "ozet": "10 Ekim 2025'teki ani çöküş kaldıraçlı kripto pozisyonlarında milyarlarca doları silmişti. Yatırımcılar risk araçlarına artık daha iyi ulaşıyor ama satışa yol açan etkenler hâlâ duruyor.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+   "tarih": "2026-10-10T11:00+00:00"
+  },
+  {
+   "baslik": "Tron'un kuantuma dayanıklı şifrelemesi test ağında yayında",
+   "ozet": "Justin Sun, Tron'un kuantum sonrası şifrelemesinin test ağında çalışmaya başladığını ve istediği an ana ağa geçirilebileceğini söyledi.",
+   "etki": "olumlu",
+   "coinler": [
+    "TRX"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-10T11:52+00:00"
+  },
+  {
+   "baslik": "Varlıklı kişilerin danışmanları tahvile yönlendiriyor",
+   "ozet": "CNBC'ye göre tahvil faizleri yükselirken ultra zenginlerin danışmanları müşterilerini tahvillere yönlendiriyor. Faizlerin cazip olması kripto gibi riskli varlıklardan para çıkışına yol açabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWswNElSUEFiLWJZRmQzdlJVQXhnU2Zqb0VGODdtcldoYXJpT2hMNW5UWVV0M3Nkbllfcy1EbjRKZFNScU5mZXpIck5OZ1gyLWMwc2xQZFpfNmVXVi1QcndBbzBHbjVOckJ0bENIUmtfTVdpeldqWHd1LUhsVllXbU1ZdHVWdV82d2pGQ0RZNjE5VGVWS19xU0dB0gGfAUFVX3lxTFB4X2xQckthQWU0UU5vX0pJV0JDcmNpcUt6ckZXWDIwMkdkaE5mNXVhQTJ1c2FIR3VHbVBRSnRYUmlEQ0o0NDdpYzlmX0RITUUzOFQzamNqdm5JalBLb0tvLVRROWQ3YUVPeXdISk5WeURzcEo1dmFwRlpxVU0zVzdDRDhMWDNmTE1lSnY5Q1B5VF9mVEVCS2RlNmt1b25MRQ?oc=5",
+   "tarih": "2026-10-10T10:00+00:00"
+  },
+  {
+   "baslik": "Trump: Putin dizel yakıtı küresel piyasaya vereceğini kabul etti",
+   "ozet": "Bloomberg'e göre Trump, Putin'in dizeli küresel piyasaya sunmayı kabul ettiğini söyledi. Enerji arzı artarsa enflasyon endişesi hafifleyebilir.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaGpYY2xaOHMzZVpPVXp0NG9qbVpvbDNkOWhBSmJ2X01wczJQU05EZzg0akkzdWpCZURMWEkxaS1ZaG9PeVI4R01NWWRzNXNQUG50S0p0ZUxQOGYzNFRhbTA5d095VzVSWDlxNUxGWUNEbDFPdVlRV0U0amFvSlN3N3dPMi1WOVZadjNUb2JMQUlESlFfLTBneUJaMXJYYndaY3hQeWtzdHgyUjRCaWE0QkJaQmp4Umo5djlvcw?oc=5",
+   "tarih": "2026-10-10T10:58+00:00"
+  },
+  {
+   "baslik": "ABD'li tüketicilerin güveni zayıflıyor",
+   "ozet": "Bloomberg'in grafik haberine göre ABD'de tüketici güveni düşüyor. Zayıf ekonomi risk iştahını azaltabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOV9HamtkVTkzOXZwX3RxTjJrOWxHSDZIV2lZQkdVR3dEUTBKUl9nVHl6M3lXZGVlY3h4TDQ2VURTQWxmcnNPZmViNTJ5SFZGUzNhaUlTNUlMYkdZa2VWdEN2YkJrblFaS1IxemNzZkpvOG5scDJ6c1NxSVl5ZGFPbkNiclF6SkxwWkRwLXA3aHVCNy1TSmlOdXQxRjF6ZHBDSWdCZW9yV3p4d3N0STY5Y0dkbFl0Z2dfQURmaVdzRXN5cWc3WjA0bjhtNWQ?oc=5",
+   "tarih": "2026-10-10T09:00+00:00"
+  },
+  {
+   "baslik": "Hindistan rupiyi korumak için dolar talebine sınır getirdi",
+   "ozet": "Reuters'e göre Hindistan, rupiyi savunmak için dolar talebine sert kısıtlamalar getirdi. Gelişen ülkelerde para birimi baskısı doların güçlü seyrini gösteriyor.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdllQdm5CdmlVZXN1TkRYcEd3akdFcFFiMU9xSXJNUnBzbk9HNWFqbTVsYVpXMG03bldVc29lZjVfMk9seFo4LXpadURFdWhmUEVYdWViNjBPNkFiVi1HTkx1clBCc1ZsSGNOdjlweHR3V0JRa0JiRFpEZWNCMHpnTF9GX2RUeWUyTE1oT1VRNjBTSUVZVDBaa0ZkVi0yTFBpRnQ0TlcwM1d2MTc4bVd6U2ZqcDRxUWJESWY4aWpfTmdNeVpB?oc=5",
+   "tarih": "2026-10-10T03:34+00:00"
+  },
+  {
    "baslik": "Bitcoin oynaklığı düştü ama sert günler artıyor",
-   "ozet": "CoinDesk analizine göre 2026'da 10 olağanüstü büyük işlem günü yaşandı; oynaklık düşse de ani sert hareketler 2018'den sık.",
+   "ozet": "CoinDesk analizine göre 2026'da 10 olağanüstü büyük işlem günü yaşandı; sert fiyat hareketleri 2018'e göre daha sık, oynaklık ise genel olarak düşük.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -19,8 +98,8 @@
    "tarih": "2026-10-10T05:43+00:00"
   },
   {
-   "baslik": "XRP Ledger'daki yıllık hata yamalandı",
-   "ozet": "Araştırmacılar, bir ödemenin gönderen fonlamadan harcanabilir XRP yaratabildiği on yıllık bir hata gösterdi; acil güncelleme yayımlandı.",
+   "baslik": "XRP Ledger'daki on yıllık açık acil yamayla kapatıldı",
+   "ozet": "Araştırmacılar, bir ödemeyle gönderen fonlamadan XRP üretilebildiğini gösterdi. Bunun üzerine acil bir yazılım sürümü yayınlandı.",
    "etki": "notr",
    "coinler": [
     "XRP"
@@ -30,98 +109,22 @@
    "tarih": "2026-10-10T04:20+00:00"
   },
   {
-   "baslik": "Bitcoin hayat sigortacısı Meanwhile 37,5 milyon dolar topladı",
-   "ozet": "Bermuda merkezli girişim, zengin ailelerin BTC varlıklarını aktarma talebiyle fon topladı. Bitcoin'e kurumsal ilgiyi gösteriyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
-   "tarih": "2026-10-10T00:53+00:00"
-  },
-  {
-   "baslik": "Binance'e DOJ incelemesi",
-   "ozet": "ABD Adalet Bakanlığı, Binance'in 2023'teki anlaşma şartlarına uyup uymadığını inceliyor. Düzenleme baskısını artırabilir.",
+   "baslik": "Robinhood Chain'de işlemler yüzde 40'tan fazla düştü",
+   "ozet": "Günlük işlem sayısı eylül ortasından beri 10,8 milyondan 6,2 milyona geriledi; Robinhood takas ücretlerini ödemeyi sürdürüyor.",
    "etki": "olumsuz",
-   "coinler": [
-    "BNB"
-   ],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmx6ajdScU13bFZleGg3WllLMllvaXk5alhLTU5ITm5UWElxa3RvMUZsYzBodE9PSWh5aTFMVnlhRFFsMnlRV0NkRzdiZlYtYnlCN3NRZzh5RW9DN2ljUWIyazBKRTkzQWVpbm5PSWUtQlVaajBDS21jTEkyZGFNSkNrUFM1bE1pNVVqUWxxNFFTOXNXekZ3ZVljbTY4M2dwdnNZaTZOeVNTUURqRURBYVFzNko?oc=5",
-   "tarih": "2026-10-09T23:57+00:00"
-  },
-  {
-   "baslik": "Altın sabit: ABD-İran gerilimi ve Fed faiz yolu izleniyor",
-   "ozet": "Yatırımcılar ABD-İran gerilimini ve Fed'in faiz yolunu değerlendiriyor; altın yatay seyretti.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDFBZHA2ZldZVC1QZXBxNEIzTlRYcGdFWFJNRWlRLVJremJKZWt2bnJ0LUVTWXhnWWQwdFhwN0JyT3VMazZRdmVnTnVQMjBHSUpYTUQtRk1Kdld3X0JqWHBDOERUNEFaQlhJWklmLXZVblVxOFZURUR1QzBUV2NmRko0NURramJ3OFV3Z0o1UHpFZWNyYTl5cFR2Z3RLWFBIMzBUS1pJZTJrZEVQZzY3SVJxRQ?oc=5",
-   "tarih": "2026-10-09T22:52+00:00"
-  },
-  {
-   "baslik": "Dolar dördüncü haftadır yükseldi",
-   "ozet": "Dolar art arda dördüncü haftayı kazançla kapattı. Güçlü dolar genelde kripto gibi riskli varlıklara baskı yapar.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmlUbXdnclNKN1VnOVp1ejkzbXBXZjJaaTF3YVVXNHBpU29ueXpsa3M2TGFCQ1V5N3VXOHlBYTJ0MjhlSlVubXROb0FBVC0wb0tfczA1blhZd1VlQ1M0bE1hOW9UUk1jTWF5WlRIb2cwUHFPQnotcEZJQW5IdXVEQnRsaXZ4LTdOX3pPVndmSjVqM3hEMlNuRUY4RFF2RV84R0RF?oc=5",
-   "tarih": "2026-10-09T21:45+00:00"
-  },
-  {
-   "baslik": "Tahvil faizleri fırladı, küçük şirket hisseleri düştü",
-   "ozet": "Tahvil faizlerindeki sert artış küçük şirket hisselerini vurdu. Yüksek faiz, riskli varlıklara olan ilgiyi azaltabiliyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOckpPNjVobldYa0lXN25OVDlNTnFOOGFHSm9jRFNGcmRydER1MTAtckF1TGdDakkzdnNCTFc2YWRCV3dTWlAzNFRUYmkzbmo1Z0tEUXVDQ0ZHZ29XWjZHa0RMemc4TnVEc01HUVdFYi1EWl9BcVBJRWN1ak5wdXZwOHBoN2NXSW1aSnVOMWJCZnFnT05nZ3c?oc=5",
-   "tarih": "2026-10-09T21:45+00:00"
-  },
-  {
-   "baslik": "CFTC, tahmin piyasası sözleşmelerini swap kurallarına almak istiyor",
-   "ozet": "Kurum, Kalshi gibi platformlardaki bazı sözleşmeleri swap sayıp denetim altına alacak bir kural öneriyor.",
-   "etki": "notr",
    "coinler": [],
    "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-   "tarih": "2026-10-09T21:21+00:00"
+   "link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+   "tarih": "2026-10-10T04:44+00:00"
   },
   {
-   "baslik": "Gelecek hafta banka bilançoları ve enflasyon verisi var",
-   "ozet": "S&P 500 rekorlara yakın seyrederken piyasalar yoğun bir haftaya giriyor: banka bilançoları ve ABD enflasyon verisi.",
-   "etki": "notr",
+   "baslik": "Visa: APAC'ta tüketicilerin yarısına yakını stablecoine açık",
+   "ozet": "14.250 kişilik ankete göre 2031'e kadar stablecoin ödemelerine ilgi artıyor, ancak katılımcıların yalnızca yüzde 6'sı nasıl çalıştığını doğru biliyor.",
+   "etki": "olumlu",
    "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2ZtTkg1OU1ZeEVqdGdTUjFKR1BSYkwzcWRwWG1wNjE2UFpqa2NYbmxPMXNxM2pURVpLWVVUYm9zUmE2S1QwMEUxZURaejlrb1g1V0dEMF80RnBWOUo4U1VPYzNlM0M5dlBnMkdQVS1ObHA2b1BYTmJLa1RuUk8xSVB4bk5FUnRQblcwTUtLTVFMZGU2Y0o0VEVWLWFBUnRCOWlpUEI0MmF2WGJyTmdhd3lpQlZDZ3JQZXJMd0FYcw?oc=5",
-   "tarih": "2026-10-09T21:04+00:00"
-  },
-  {
-   "baslik": "Trump saldırıları durdurdu, İran füze kapasitesini koruyor",
-   "ozet": "Bloomberg'e göre Trump saldırılara ara verdi, ancak İran füze üretme kapasitesini koruyor. Jeopolitik belirsizlik sürüyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmU2NW82Vk9haFhnenk4S2N1N01ud1BXWm9Ubm5GQXdfT0ZVZk5XTnNoLUtUNjlOZ1l5bVpHbnhBZ3hTVDB5MlJObmhKWi1IVm9IcVNFMGx5V0U1TmxoVEg2OURNVlNRd01ieWhBenEtTHplWlZrRDVxbnRfb3FYbjhuMHAwM19JTFdZY2dJZzdkNGpMbVFoTHhCUF96OWhxRDI1T3RyYWlzb2p5S1RmcWVsZGdsQQ?oc=5",
-   "tarih": "2026-10-09T21:02+00:00"
-  },
-  {
-   "baslik": "ABD, İran bağlantılı 1 milyar dolarlık kriptoya el koyacak",
-   "ozet": "Hazine Bakanı Bessent, İran yaptırımları kapsamında bu hafta yaklaşık 1 milyar dolarlık kriptoya el konulacağını açıkladı. Kripto üzerinden yaptırım denetimi sıkılaşıyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-09T20:39+00:00"
-  },
-  {
-   "baslik": "Faiz şoku yapay zekâ rallisinin altında yayılıyor",
-   "ozet": "Bloomberg'e göre faizlerdeki yükseliş, yapay zekâ kaynaklı borsa ralisinin altında etkisini yaymaya başladı.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORnFaNG93ZHlzb0F2b3F5MXNoQzEtLXhZOVVjV2xRSUJ6NmF6ZE81UGFqd2dmRnJNZUhncS04RTdsY042TVpabE1Va0lLMjc3aU9GVXV3cXZKdlpiZ1J3SHBqc0dfNmpCOFRCSWYxR05lWHBYcm01T21aRldaZl9tY1B0NFVxVU01VEN0aXF5dEFQMDFBRnp1X2hkSjRjZ3RQVE5QN0w4VmdmZzMtY1BwMjJJbVk?oc=5",
-   "tarih": "2026-10-09T20:34+00:00"
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+   "tarih": "2026-10-10T03:00+00:00"
   }
  ]
 }
