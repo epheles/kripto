@@ -1,15 +1,15 @@
 {
- "guncelleme": "2026-10-10T09:05+00:00",
+ "guncelleme": "2026-10-10T10:10+00:00",
  "duygu": "olumsuz",
- "ozet": "Haber akışında Bitcoin'in güncel fiyatı verilmiyor. Dolar dört haftadır yükseliyor ve tahvil faizlerindeki artış riskli varlıklara baskı yapıyor; ABD hisseleri ise rekorlara yakın. Kripto tarafında ABD'nin İran bağlantılı kriptoya el koyma planı ve Binance'e yönelik DOJ incelemesi düzenleme baskısını artırıyor. Gelecek hafta enflasyon verisi ve banka bilançoları izlenmeli.",
+ "ozet": "Haber akışında Bitcoin'in güncel fiyatı verilmiyor. Dolar dört haftadır yükseliyor ve tahvil faizlerindeki artış riskli varlıklara baskı yapıyor. ABD'nin İran bağlantılı kriptoya el koyma planı ve Binance'e yönelik DOJ incelemesi düzenleme baskısını artırıyor. Gelecek hafta enflasyon verisi ve banka bilançoları izlenmeli.",
  "takvim": [
   "Gelecek hafta: ABD enflasyon (TÜFE) verisi. Beklentinin üstünde gelirse faiz endişesi artıp kripto baskı altında kalabilir.",
   "Gelecek hafta: Büyük ABD bankalarının bilançoları. Risk iştahını belirleyebilir."
  ],
  "haberler": [
   {
-   "baslik": "Bitcoin oynaklığı düştü ama aşırı fiyat hareketleri artık daha sık",
-   "ozet": "CoinDesk analizine göre 2026'da 10 olağanüstü büyük işlem günü yaşandı. Genel oynaklık düşse de ani sert hareketler 2018'e kıyasla daha sık görülüyor.",
+   "baslik": "Bitcoin oynaklığı düştü ama sert günler artıyor",
+   "ozet": "CoinDesk analizine göre 2026'da olağandışı büyük hareketli 10 işlem günü yaşandı. Genel oynaklık azalsa da ani sert hareketler 2018'e göre daha sık.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -20,7 +20,7 @@
   },
   {
    "baslik": "Robinhood Chain'de işlem sayısı %40'tan fazla düştü",
-   "ozet": "Günlük işlem sayısı eylül ortasından beri 10,8 milyondan 6,2 milyona geriledi. Ağ aktivitesindeki zayıflama bu zincire yönelik ilgiyi sorgulatıyor.",
+   "ozet": "Günlük işlem sayısı eylül ortasından beri 10,8 milyondan 6,2 milyona geriledi. Ağ aktivitesindeki yavaşlama bu zincire ilginin azaldığını gösteriyor.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -28,9 +28,9 @@
    "tarih": "2026-10-10T04:44+00:00"
   },
   {
-   "baslik": "XRP Ledger'daki on yıllık açık için acil yama çıktı",
-   "ozet": "Araştırmacılar, gönderenin fonu olmadan harcanabilir XRP üretilebildiğini gösterdi ve acil bir yazılım sürümü yayımlandı. Açık kapatıldı ama ağın güvenliği tartışma konusu olabilir.",
-   "etki": "olumsuz",
+   "baslik": "XRP Ledger'daki eski güvenlik açığı yamalandı",
+   "ozet": "Araştırmacılar, bir ödemeyle gönderen fonlamadan harcanabilir XRP üretilebildiğini gösterdi ve acil bir yazılım güncellemesi yayımlandı. Açık kapatıldı.",
+   "etki": "notr",
    "coinler": [
     "XRP"
    ],
@@ -39,8 +39,17 @@
    "tarih": "2026-10-10T04:20+00:00"
   },
   {
+   "baslik": "Hindistan rupiyi korumak için dolar talebine sınır getirdi",
+   "ozet": "Hindistan dolar talebini kısıtlayan sert önlemler açıkladı. Dolar etrafındaki gerginlik riskli varlıklar için belirsizlik yaratabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdllQdm5CdmlVZXN1TkRYcEd3akdFcFFiMU9xSXJNUnBzbk9HNWFqbTVsYVpXMG03bldVc29lZjVfMk9seFo4LXpadURFdWhmUEVYdWViNjBPNkFiVi1HTkx1clBCc1ZsSGNOdjlweHR3V0JRa0JiRFpEZWNCMHpnTF9GX2RUeWUyTE1oT1VRNjBTSUVZVDBaa0ZkVi0yTFBpRnQ0TlcwM1d2MTc4bVd6U2ZqcDRxUWJESWY4aWpfTmdNeVpB?oc=5",
+   "tarih": "2026-10-10T03:34+00:00"
+  },
+  {
    "baslik": "Bitcoin hayat sigortası girişimi Meanwhile 37,5 milyon dolar topladı",
-   "ozet": "Bermuda merkezli girişim, zengin ailelerin BTC varlıklarını mirasa aktarma talebiyle büyüyor. Yatırımcıları arasında Bain Capital Crypto ve Sam Altman var.",
+   "ozet": "Bermuda merkezli girişim, zengin ailelerin BTC'lerini mirasa aktarma talebiyle toplam 180 milyon doları aşan fon topladı. Kurumsal Bitcoin ilgisinin sürdüğünü gösteriyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -51,7 +60,7 @@
   },
   {
    "baslik": "ABD Adalet Bakanlığı Binance'in 2023 anlaşmasına uyumunu inceliyor",
-   "ozet": "Bloomberg'e göre DOJ, Binance'in 2023'teki uzlaşma şartlarına uyup uymadığına bakıyor. Düzenleme baskısı borsa ve piyasa güveni açısından risk taşıyor.",
+   "ozet": "Bloomberg'e göre DOJ, Binance'in 2023'teki uzlaşma şartlarına uyumunu mercek altına aldı. Borsa üzerindeki düzenleme baskısı artabilir.",
    "etki": "olumsuz",
    "coinler": [
     "BNB"
@@ -61,17 +70,8 @@
    "tarih": "2026-10-09T23:57+00:00"
   },
   {
-   "baslik": "Altın, ABD-İran gerilimi ve Fed faiz yolu arasında yatay",
-   "ozet": "Yatırımcılar ABD-İran gerilimini ve Fed'in faiz yolunu tartıyor. Jeopolitik belirsizlik güvenli liman varlıklarını ve riskli varlıkları birlikte etkileyebilir.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDFBZHA2ZldZVC1QZXBxNEIzTlRYcGdFWFJNRWlRLVJremJKZWt2bnJ0LUVTWXhnWWQwdFhwN0JyT3VMazZRdmVnTnVQMjBHSUpYTUQtRk1Kdld3X0JqWHBDOERUNEFaQlhJWklmLXZVblVxOFZURUR1QzBUV2NmRko0NURramJ3OFV3Z0o1UHpFZWNyYTl5cFR2Z3RLWFBIMzBUS1pJZTJrZEVQZzY3SVJxRQ?oc=5",
-   "tarih": "2026-10-09T22:52+00:00"
-  },
-  {
-   "baslik": "Citi: Bessent gelecek ay uzun vadeli tahvil satışını azaltabilir",
-   "ozet": "Citi'ye göre ABD Hazinesi uzun vadeli tahvil ihracını kısabilir. Tahvil arzının azalması faiz baskısını hafifletebilir, bu da riskli varlıklara destek olabilir.",
+   "baslik": "Citi: Hazine gelecek ay uzun vadeli tahvil satışını azaltabilir",
+   "ozet": "Citi, Bessent'in uzun vadeli tahvil satışlarını kısmasının olası olduğunu söylüyor. Tahvil faizlerindeki baskıyı hafifletirse riskli varlıklara destek olabilir.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -80,7 +80,7 @@
   },
   {
    "baslik": "Dolar üst üste dördüncü hafta yükseldi",
-   "ozet": "WSJ'ye göre dolar haftayı yine kazançla kapattı. Güçlü dolar genellikle Bitcoin gibi riskli varlıklar üzerinde baskı yaratır.",
+   "ozet": "WSJ'ye göre dolar dört haftalık yükseliş serisini sürdürdü. Güçlü dolar genellikle Bitcoin gibi riskli varlıklar üzerinde baskı yaratır.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -90,8 +90,8 @@
    "tarih": "2026-10-09T21:45+00:00"
   },
   {
-   "baslik": "CFTC, tahmin piyasası sözleşmelerini takas düzenlemesine almak istiyor",
-   "ozet": "Kurum, Kalshi gibi platformlardaki bazı sözleşmeleri 'swap' sayan resmi bir kural öneriyor. Hukuki tartışma sürerken denetim kapsamı genişleyebilir.",
+   "baslik": "CFTC, tahmin piyasası sözleşmelerini swap kurallarına almak istiyor",
+   "ozet": "Düzenleyici, Kalshi gibi platformlardaki bazı sözleşmeleri swap sayıp denetlemek için resmi kural öneriyor. Yasal tartışma sürüyor.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -99,17 +99,8 @@
    "tarih": "2026-10-09T21:21+00:00"
   },
   {
-   "baslik": "Önümüzdeki hafta banka bilançoları ve enflasyon verisi piyasayı yönlendirecek",
-   "ozet": "Reuters'e göre S&P 500 rekorlara yakın seyrederken yoğun bir hafta başlıyor. TÜFE ve banka bilançoları risk iştahını belirleyebilir.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc2ZtTkg1OU1ZeEVqdGdTUjFKR1BSYkwzcWRwWG1wNjE2UFpqa2NYbmxPMXNxM2pURVpLWVVUYm9zUmE2S1QwMEUxZURaejlrb1g1V0dEMF80RnBWOUo4U1VPYzNlM0M5dlBnMkdQVS1ObHA2b1BYTmJLa1RuUk8xSVB4bk5FUnRQblcwTUtLTVFMZGU2Y0o0VEVWLWFBUnRCOWlpUEI0MmF2WGJyTmdhd3lpQlZDZ3JQZXJMd0FYcw?oc=5",
-   "tarih": "2026-10-09T21:04+00:00"
-  },
-  {
-   "baslik": "ABD, İran bağlantılı yaklaşık 1 milyar dolarlık kriptoya el koymayı planlıyor",
-   "ozet": "Hazine Bakanı Bessent, İran yaptırımları kapsamında bu hafta çeşitli dijital varlıklara el konulacağını açıkladı. Yaptırım uygulamaları kripto üzerindeki denetimi artırıyor.",
+   "baslik": "ABD bu hafta İran bağlantılı 1 milyar dolarlık kriptoya el koymayı planlıyor",
+   "ozet": "Hazine Bakanı Bessent, İran yaptırımları kapsamında birkaç dijital varlığa el konulacağını açıkladı. Hangi varlıkların hedef alınacağı net değil.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -118,7 +109,7 @@
   },
   {
    "baslik": "Faiz şoku yapay zekâ rallisinin altında yayılıyor",
-   "ozet": "Bloomberg'e göre yükselen faizlerin etkisi piyasada yayılıyor. Yüksek faizler kripto gibi riskli varlıklar için baskı unsuru olabilir.",
+   "ozet": "Bloomberg'e göre yükselen faizler hisselerde AI kaynaklı yükselişin altında baskı yaratıyor. Yüksek faiz riskli varlıklar için olumsuz bir arka plan.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
