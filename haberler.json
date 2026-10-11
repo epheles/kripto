@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-10T23:05+00:00",
+ "guncelleme": "2026-10-11T00:10+00:00",
  "duygu": "karisik",
  "ozet": "Haber akışında Bitcoin'in güncel fiyatı verilmiyor. Spot Bitcoin, Ether ve Solana ETF'leri haftalık çıkış yaşadı; Ether fonlarında çıkış 9 güne uzadı. 10 Ekim 2025 çöküşünün yıl dönümünde BTC ve ETH likiditesinin toparlandığı, altcoin likiditesinin zayıf kaldığı bildiriliyor. Riyad havalimanına füze saldırısı ve Hindistan'ın faiz artırımı risk iştahını baskılayabilir; dolar endeksindeki hafif gevşeme ise destekleyici.",
  "takvim": [
@@ -7,57 +7,8 @@
  ],
  "haberler": [
   {
-   "baslik": "Dolar endeksi %0,06 düşüşle 97,34'te",
-   "ozet": "WSJ dolar endeksinin 97,34'e gerilediğini bildirdi. Altın vadelileri de dolar ve tahvil faizlerindeki gevşemeyle toparlandı.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXU1U0xTYXlzemV1VldiSVM2eFBCQ2p5QjN4aTBpWVVzc2NxemdjOWdRWkIzNkZYQ25kTmU4dUtXY0VBN2JpNmNtc3dGZDFDNW1jbzE5SG92enBmeVY5d0dRd3gzcXhDRFVrVTJzeXhjRDFQQUhYRnRMUmVkVXRYcHdGRkk0Umt0RGtwVzBKYXRGd0VuVnQ2NW8yWU5UX1JPaE5sY1BYaHEtVlNlUm5RbktMRQ?oc=5",
-   "tarih": "2026-10-10T19:23+00:00"
-  },
-  {
-   "baslik": "Hindistan Merkez Bankası 2023'ten sonra ilk kez faiz artırdı",
-   "ozet": "Hindistan Merkez Bankası faizleri 2023'ten bu yana ilk kez yükseltti. Küresel olarak sıkılaşma eğilimi riskli varlıklar için baskı yaratabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTA0WkJVRDFBSlRhS0dObmR4Um5nZDRNSDFtZmJkZjBUbXN2VFUxY1I2UXNyZGRpU3Q4MnBzSmc1SE1GM2dTVFhjek9IbEtNLTdES0hWUFM3RWIwRUVGdlpoOVlNazlVWlk4NXFuTU9BRkJHMHFwMEx0emlyZnNNYW5xbEd1aWZIV20waTNXMlNxWHVScWZyQjBzdEMyMVFCU08yMXllNHJsQXZ6RVdxNA?oc=5",
-   "tarih": "2026-10-10T18:36+00:00"
-  },
-  {
-   "baslik": "Riyad havalimanına füze saldırısı: operasyonlar durdu",
-   "ozet": "Riyad havalimanında füze saldırısı onlarca kişiyi yaraladı ve uçuşlar askıya alındı. Jeopolitik gerginlik risk iştahını azaltabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3N2Z0ZOakFSR0VfTVMtME5MTGJTZndqYkFNTnR1a1ctR1pXWDZEWm5zLXV2R3h5cG1tRTNKQ0FDOWo4WjhQM0ZsUnVRRGUxdFAtcDY4LWNXZ19JTzNWWHNFZVNzS2Z6ZnV0UEFHN3FZZklPSjBUOVZYTXdpcktiLURuU1M?oc=5",
-   "tarih": "2026-10-10T18:28+00:00"
-  },
-  {
-   "baslik": "CFTC tahmin piyasaları için yeni kural önerdi",
-   "ozet": "Önerilen kural; spor, siyaset, kültür ve hava durumuna bağlı olay sözleşmelerini 'swap' tanımına dahil ediyor. Kumarhane tarzı oyunlar kapsam dışı bırakılıyor ve CFTC'nin yetki iddiası güçleniyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
-   "tarih": "2026-10-10T17:01+00:00"
-  },
-  {
-   "baslik": "Bitcoin ile çalışan sigortacı 37,5 milyon dolar yatırım aldı",
-   "ozet": "Bermuda merkezli, tamamen Bitcoin üzerinden işleyen hayat sigortacısı, Bain Capital Crypto liderliğinde 37,5 milyon dolar topladı.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-   "tarih": "2026-10-10T16:01+00:00"
-  },
-  {
-   "baslik": "ETF'lerde haftalık çıkış: Ether çıkışı 9 güne uzadı",
-   "ozet": "Spot Bitcoin, Solana ve Ether ETF'lerinin üçü de geçen haftayı çıkışla kapattı. Ether fonlarında çıkış serisi 9 güne ulaştı, Solana fonları ise rekor 14 haftalık giriş serisini bitirdi.",
+   "baslik": "Ether ETF'lerinde çıkış 9 güne uzadı",
+   "ozet": "Spot Bitcoin, Ether ve Solana ETF'lerinin üçü de geçen haftayı çıkışla kapattı. Ether fonlarında çıkış serisi 9 güne ulaştı, Solana fonları ise rekor 14 haftalık giriş serisini bitirdi.",
    "etki": "olumsuz",
    "coinler": [
     "BTC",
@@ -69,35 +20,8 @@
    "tarih": "2026-10-10T15:10+00:00"
   },
   {
-   "baslik": "Jefferies, Radiant anlaşmalarında 900 milyon dolarlık sahtekârlık buldu",
-   "ozet": "Jefferies, Radiant ile yaptığı 900 milyon dolarlık anlaşmalarda sahtekârlık tespit ettiğini açıkladı.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0R3TWE0cE1EdHhOR0FBVV9RM211MkFFSlNwREQ0d3BhTEtPLXFxeWs0MnlFVzlsUlYtSE9YYUpZMDl3SlJ1RWRZSTdyclM4SklFNG8zZUVwS2NaTUo4d1FNQTJ6MkVCcy1CNTN2NnpBMjRxWGJtQ0dad2Z4SHBvVVNxTW8zbFRMamtxQnE0U2dJaENXT2xSRC1QU0I3S2R5SENTUVp0T01uRFF3M05FQURn?oc=5",
-   "tarih": "2026-10-10T15:03+00:00"
-  },
-  {
-   "baslik": "Fransa'da stablecoin takas vergisi ve kripto çıkış vergisi önerisi",
-   "ozet": "Ulusal Meclis komitesi, stablecoin takaslarına ve zengin yatırımcıların kriptodan çıkışına vergi getiren önergeleri kabul etti; ardından 2027 bütçesinin gelir bölümünü reddetti.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
-   "tarih": "2026-10-10T13:01+00:00"
-  },
-  {
-   "baslik": "Bir yıl önceki 19 milyar dolarlık çöküşün ardından kripto",
-   "ozet": "Bloomberg, 19 milyar dolarlık çöküşün üzerinden bir yıl geçerken kripto piyasasının yeni bir gerçekle karşı karşıya olduğunu yazdı.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYU4yVk5GemU5VWh6dkZhRDByZTREMHZjbDJIWVBoNzBLNVkwQXZ2UUZ3WVhYWmtqdzdERGdiSDBkR25YR1YxeW5fcDlPTHB6YWRtMVV1X180WlR2QzNiMDU3eFZScGttYlZlaG1saHBaYmVhdHBOWlpWQ093R0tPbVU0Y05lOE5FZzcxd2ExVWhXcGNYOVRISi1wTWJFb0x1RlpRMHBxZklTUkZnY0E?oc=5",
-   "tarih": "2026-10-10T12:30+00:00"
-  },
-  {
-   "baslik": "10/10 çöküşünün yıl dönümü: BTC ve ETH likiditesi toparlandı",
-   "ozet": "Bir yıl önceki ani düşüşün ardından Bitcoin ve Ether emir defterleri öncesinden daha derin. Altcoin likiditesi ise erimeye devam ediyor ve spot işlem hacmi Ekim 2025 zirvesinin hayli altında.",
+   "baslik": "10 Ekim çöküşünün yıl dönümü: BTC ve ETH likiditesi toparlandı",
+   "ozet": "Bitcoin ve Ether emir defterleri çöküşten önceye göre daha derin. Altcoin likiditesi ise zayıflamaya devam ediyor, bu da altcoinlerde sert hareket riskini koruyor.",
    "etki": "notr",
    "coinler": [
     "BTC",
@@ -108,9 +32,96 @@
    "tarih": "2026-10-10T12:00+00:00"
   },
   {
-   "baslik": "Tron'un kuantum sonrası şifrelemesi testnet'te yayında",
-   "ozet": "Justin Sun, Tron'un kuantuma dayanıklı kriptografisinin testnet'te devreye girdiğini ve istendiğinde ana ağa alınabileceğini söyledi.",
+   "baslik": "19 milyar dolarlık çöküşün bir yıl sonrası: kripto yeni bir düzende",
+   "ozet": "Bloomberg, bir yıl önceki 19 milyar dolarlık çöküşün ardından kripto piyasasının geldiği noktayı değerlendiriyor.",
    "etki": "notr",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYU4yVk5GemU5VWh6dkZhRDByZTREMHZjbDJIWVBoNzBLNVkwQXZ2UUZ3WVhYWmtqdzdERGdiSDBkR25YR1YxeW5fcDlPTHB6YWRtMVV1X180WlR2QzNiMDU3eFZScGttYlZlaG1saHBaYmVhdHBOWlpWQ093R0tPbVU0Y05lOE5FZzcxd2ExVWhXcGNYOVRISi1wTWJFb0x1RlpRMHBxZklTUkZnY0E?oc=5",
+   "tarih": "2026-10-10T12:30+00:00"
+  },
+  {
+   "baslik": "Flaş çöküşün yıl dönümünde kripto ne öğrendi?",
+   "ozet": "CoinDesk'e göre yatırımcılar artık riski görmek için daha iyi araçlara sahip, ancak çöküşe yol açan etkenler tamamen ortadan kalkmış değil.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+   "tarih": "2026-10-10T11:00+00:00"
+  },
+  {
+   "baslik": "Fransa'da stablecoin takası ve kripto çıkışına vergi önerisi",
+   "ozet": "Fransız Ulusal Meclis komitesi, varlıklı yatırımcılar için stablecoin takaslarına ve kripto çıkışına vergi getiren önergeleri kabul etti; ardından 2027 bütçesinin gelir bölümünü reddetti. Düzenleme henüz kesinleşmiş değil.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
+   "tarih": "2026-10-10T13:01+00:00"
+  },
+  {
+   "baslik": "CFTC tahmin piyasaları için yeni kural önerdi",
+   "ozet": "CFTC, spor, siyaset, kültür ve hava durumuna bağlı olay sözleşmelerini 'swap' tanımına dahil edecek bir kural önerdi. Tahmin piyasalarına net bir çerçeve getiriyor.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+   "tarih": "2026-10-10T17:01+00:00"
+  },
+  {
+   "baslik": "Hindistan Merkez Bankası 2023'ten sonra ilk kez faiz artırdı",
+   "ozet": "Hindistan faizleri 2023'ten beri ilk kez yükseltti. Faiz artışları genelde riskli varlıklar üzerinde baskı yaratabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTA0WkJVRDFBSlRhS0dObmR4Um5nZDRNSDFtZmJkZjBUbXN2VFUxY1I2UXNyZGRpU3Q4MnBzSmc1SE1GM2dTVFhjek9IbEtNLTdES0hWUFM3RWIwRUVGdlpoOVlNazlVWlk4NXFuTU9BRkJHMHFwMEx0emlyZnNNYW5xbEd1aWZIV20waTNXMlNxWHVScWZyQjBzdEMyMVFCU08yMXllNHJsQXZ6RVdxNA?oc=5",
+   "tarih": "2026-10-10T18:36+00:00"
+  },
+  {
+   "baslik": "Riyad havalimanına füze saldırısı, uçuşlar durdu",
+   "ozet": "Füze saldırısında onlarca kişi yaralandı ve Riyad havalimanı operasyonlarını askıya aldı. Orta Doğu'daki gerilim risk iştahını zayıflatabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3N2Z0ZOakFSR0VfTVMtME5MTGJTZndqYkFNTnR1a1ctR1pXWDZEWm5zLXV2R3h5cG1tRTNKQ0FDOWo4WjhQM0ZsUnVRRGUxdFAtcDY4LWNXZ19JTzNWWHNFZVNzS2Z6ZnV0UEFHN3FZZklPSjBUOVZYTXdpcktiLURuU1M?oc=5",
+   "tarih": "2026-10-10T18:28+00:00"
+  },
+  {
+   "baslik": "Dolar endeksi %0,06 düşüşle 97,34'te",
+   "ozet": "Dolar endeksindeki hafif gevşeme, Bitcoin gibi riskli varlıklar için küçük bir destek sayılabilir.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXU1U0xTYXlzemV1VldiSVM2eFBCQ2p5QjN4aTBpWVVzc2NxemdjOWdRWkIzNkZYQ25kTmU4dUtXY0VBN2JpNmNtc3dGZDFDNW1jbzE5SG92enBmeVY5d0dRd3gzcXhDRFVrVTJzeXhjRDFQQUhYRnRMUmVkVXRYcHdGRkk0Umt0RGtwVzBKYXRGd0VuVnQ2NW8yWU5UX1JPaE5sY1BYaHEtVlNlUm5RbktMRQ?oc=5",
+   "tarih": "2026-10-10T19:23+00:00"
+  },
+  {
+   "baslik": "Altın vadelileri toparlandı, dolar ve tahvil faizleri geriledi",
+   "ozet": "Dolar ve ABD tahvil faizlerindeki gerileme altını bir miktar yukarı taşıdı. Düşen faizler genelde kripto için olumlu okunur.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWlsbHNZenR1NVhsMjFaV19yUmNZWDZDNzR5RThJV3NEUG03aW5YYVVYaDVZTU92UnluX1BHTi02ZUxvZWxZU0p0eXpXZFNUTnZNVWFqYzVtT2o1Nmp6QlRuZXE1ekt4alF5MnREYlFwN0Y1T3NITEh6SU9rTWVES2RuQlljVmtMQXZPSW9lZm91UzhQcXB5Y2dJVWVtX2swM1hZZ0dqMDRmcFdFY0J1UjN1Y2V1a0ZQOUJyT3Fn?oc=5",
+   "tarih": "2026-10-10T20:39+00:00"
+  },
+  {
+   "baslik": "Bitcoin ile çalışan sigortacı 37,5 milyon dolar yatırım aldı",
+   "ozet": "Bermuda merkezli, tamamen Bitcoin üzerinden çalışan hayat sigortası şirketi, Bain Capital Crypto liderliğinde 37,5 milyon dolar topladı.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+   "tarih": "2026-10-10T16:01+00:00"
+  },
+  {
+   "baslik": "Justin Sun: Tron'un kuantum sonrası şifrelemesi testnette yayında",
+   "ozet": "Sun, Tron'un kuantum dirençli şifrelemesinin test ağında çalıştığını ve istenirse ana ağa geçirilebileceğini söyledi.",
+   "etki": "olumlu",
    "coinler": [
     "TRX"
    ],
