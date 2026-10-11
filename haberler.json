@@ -1,15 +1,64 @@
 {
- "guncelleme": "2026-10-11T21:05+00:00",
+ "guncelleme": "2026-10-11T22:05+00:00",
  "duygu": "olumsuz",
- "ozet": "Bitcoin'in güncel fiyatı haber akışında verilmiyor. Ekimde BTC, ETH ve SOL ETF'lerinden çıkış sürüyor, dolar güçleniyor ve tahvil faizleri yükseliyor. Ledger ve Coldcard güvenlik olayları ile Körfez'deki gerilim de piyasayı olumsuz etkiliyor. Trump'ın Rusya-Ukrayna 'enerji ateşkesi' açıklaması ise olumlu tarafta.",
+ "ozet": "Bitcoin'in güncel fiyatı haber akışında verilmiyor. Ekimde BTC, ETH ve SOL ETF'lerinden çıkış sürüyor, dolar güçleniyor ve tahvil faizleri yükseliyor. Ledger ve Coldcard güvenlik olayları ile Körfez'deki gerilim piyasayı olumsuz etkiliyor. Trump'ın Rusya-Ukrayna 'enerji ateşkesi' açıklaması ise olumlu tarafta.",
  "takvim": [
   "Bu hafta: JPMorgan, Goldman ve diğer büyük bankaların kâr açıklamaları. Sonuçlar genel piyasa havasını etkileyebilir.",
   "Bu hafta: ABD Eylül enflasyon (CPI) verisi. Beklentiden yüksek çıkarsa faiz endişesiyle kripto düşebilir."
  ],
  "haberler": [
   {
+   "baslik": "Tahvil satışı, merkez bankalarının faiz artırımını azaltabilir",
+   "ozet": "Tahvil piyasasındaki satış dalgası, küresel merkez bankalarının daha az faiz artırmasına yol açabilir. Faiz beklentileri kriptoyu doğrudan etkiliyor.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjNTeE9pcnEzX2I3VVY5WGw3a3kwMS1UeWhMY05hWGs0Z3N4a0tqM0hYcllJVTc4MkNOMlZYUWJJeFcwSkhIX3pwaXhYTW5SSmNMWmtKVk4zQVJuOUcwZ3pQcmt4Z2swbWF5dTFVVlgtUE5WdnpOQ1NhLUpteENKeTdHN0pvSHpiSnlwSWk2WjV2clJGMGtNd3RrbnlIT2U3bExIMl9PMjdsMW84NjBlbjAzSWJIZw?oc=5",
+   "tarih": "2026-10-11T19:00+00:00"
+  },
+  {
+   "baslik": "Tahmin piyasaları için ABD Yüksek Mahkemesi'ne çağrı",
+   "ozet": "Yüksek Mahkeme henüz davaları alıp almayacağını açıklamadı, ancak çok sayıda görüş yazısı ve düzenleme önerisi var. Sektör için hukuki netlik önemli.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+   "tarih": "2026-10-11T18:30+00:00"
+  },
+  {
+   "baslik": "Dolar endeksi yüzde 0,26 yükselip 97,40'a çıktı",
+   "ozet": "WSJ dolar endeksinin yüzde 0,26 artışla 97,40 olduğunu bildirdi. Güçlü dolar genelde kripto için olumsuz olur.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFluZkd2UnNfUDZ0bms2bGNveDNhTEROekRoMjZ1VG9aQlJlelMwbmY2RVRxX2d2SXl4ZW5SN2ZyMi0ycWFxbThMOG80VlI5amdLRHpCLWlNRHIyazVLcUFvVXlsRWJydy1rdm9yeUFMNFZzRklBaDFwMkJtYjJYMXJGOEszNTRZTTYtY1d5cTczU0xGSjkzUHZnZXlJSm9jMzRMX1dISVFuWl85Ukd3d1otT3RkZnhvRmRuSnBB?oc=5",
+   "tarih": "2026-10-11T18:15+00:00"
+  },
+  {
+   "baslik": "XRP Ledger'daki on yıllık hata düzeltildi",
+   "ozet": "Ödeme motorundaki bir taşma hatası, tek işlemde yaklaşık 18 trilyon harcanabilir XRP basılmasına izin verebilirdi. Hata yama ile kapatıldı.",
+   "etki": "notr",
+   "coinler": [
+    "XRP"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+   "tarih": "2026-10-11T18:07+00:00"
+  },
+  {
+   "baslik": "Strategy'nin Bitcoin alımı bir gün gecikmeli açıklanacak",
+   "ozet": "Saylor, Strategy'nin ekimin ilk haftasında Bitcoin ekleyip eklemediğinin bir gün sonra duyurulacağını söyledi. Eylülü STRC geri alımlarıyla bitirmişti.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-11T17:11+00:00"
+  },
+  {
    "baslik": "Bitcoin, Ethereum ve Solana ETF'lerinden ekim çıkışları",
-   "ozet": "Ekimin ilk yedi işlem gününde Bitcoin ETF'lerinden net 386,3 milyon dolar çıktı; Ethereum fonları da dokuz gündür çıkış yaşıyor. Kurumsal talebin zayıflamasına işaret ediyor.",
+   "ozet": "Ekimin ilk yedi işlem gününde Bitcoin ETF'lerinden net 386,3 milyon dolar çıktı; Ethereum fonları dokuz gündür çıkış yaşıyor. Kurumsal talebin zayıfladığını gösteriyor.",
    "etki": "olumsuz",
    "coinler": [
     "BTC",
@@ -21,37 +70,8 @@
    "tarih": "2026-10-11T16:01+00:00"
   },
   {
-   "baslik": "Ledger: donanım cüzdanda yetkisiz implant, kayıp 86 milyon doları aşabilir",
-   "ozet": "Ledger olayın tek bir bayiyle ve Güneydoğu Asya pazarıyla sınırlı göründüğünü söyledi. Cüzdan güvenliğine olan güveni sarsabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-11T09:05+00:00"
-  },
-  {
-   "baslik": "Coldcard: X hesabında şüpheli oltalama bağlantısı çıktı",
-   "ozet": "Şirket kullanıcıları o bağlantıya tıklamamaları konusunda uyardı ve olayı araştırdığını duyurdu.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-11T10:40+00:00"
-  },
-  {
-   "baslik": "Saylor, Strategy'nin yeni Bitcoin alımına işaret etti",
-   "ozet": "Strategy'nin ekimin ilk haftasında Bitcoin alıp almadığı bir gün sonra öğrenilecek. Eylülü STRC geri alımlarıyla kapatmıştı.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-11T17:11+00:00"
-  },
-  {
-   "baslik": "Trump Rusya ile Ukrayna arasında 'enerji ateşkesi' ilan etti",
-   "ozet": "Zelenskiy ateşkesi desteklediklerini, Rusya'nın da desteklemesinin önemli olduğunu söyledi. Jeopolitik gerilimin azalması risk iştahını destekleyebilir.",
+   "baslik": "Trump: Rusya ile Ukrayna arasında 'enerji ateşkesi'",
+   "ozet": "Trump enerji ateşkesi ilan etti; Zelenski Ukrayna'nın desteklediğini, Rusya'nın da desteklemesinin önemli olduğunu söyledi. Jeopolitik gerilimi azaltabilir.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -59,17 +79,8 @@
    "tarih": "2026-10-11T15:40+00:00"
   },
   {
-   "baslik": "Riyad havalimanına füze saldırısı: 12 ölü",
-   "ozet": "Husilerin Suudi Arabistan'a yönelik saldırıları daha geniş bir savaş riskini artırıyor. Gerilim piyasalarda risk almaktan kaçışa yol açabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3N2Z0ZOakFSR0VfTVMtME5MTGJTZndqYkFNTnR1a1ctR1pXWDZEWm5zLXV2R3h5cG1tRTNKQ0FDOWo4WjhQM0ZsUnVRRGUxdFAtcDY4LWNXZ19JTzNWWHNFZVNzS2Z6ZnV0UEFHN3FZZklPSjBUOVZYTXdpcktiLURuU1M?oc=5",
-   "tarih": "2026-10-11T09:48+00:00"
-  },
-  {
-   "baslik": "ABD enflasyon verisi benzin fiyatlarıyla yüksek gelebilir",
-   "ozet": "Bloomberg'e göre CPI'da genel enflasyonu yüksek benzin fiyatları artıracak. Faiz beklentilerini etkileyebileceği için kripto da hareket edebilir.",
+   "baslik": "ABD enflasyon verisinin benzin fiyatlarıyla yükselmesi bekleniyor",
+   "ozet": "Bloomberg'e göre ABD enflasyonu yüksek benzin fiyatlarıyla artış gösterebilir. Yüksek enflasyon faiz endişesini artırıp kripto üzerinde baskı yaratabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -77,53 +88,49 @@
    "tarih": "2026-10-11T15:35+00:00"
   },
   {
-   "baslik": "Tahvil satışı küresel merkez bankalarının faiz artışlarını azaltabilir",
-   "ozet": "Bloomberg'e göre tahvillerdeki satış dalgası, merkez bankalarının daha az faiz artırmasına yol açabilir.",
-   "etki": "notr",
+   "baslik": "Husilerin Suudi Arabistan saldırıları daha geniş savaş riskini artırıyor",
+   "ozet": "Husilerin Suudi Arabistan'a saldırıları bölgede daha geniş bir savaş riskini yükseltiyor. Belirsizlik riskli varlıklara baskı yapabilir.",
+   "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjNTeE9pcnEzX2I3VVY5WGw3a3kwMS1UeWhMY05hWGs0Z3N4a0tqM0hYcllJVTc4MkNOMlZYUWJJeFcwSkhIX3pwaXhYTW5SSmNMWmtKVk4zQVJuOUcwZ3pQcmt4Z2swbWF5dTFVVlgtUE5WdnpOQ1NhLUpteENKeTdHN0pvSHpiSnlwSWk2WjV2clJGMGtNd3RrbnlIT2U3bExIMl9PMjdsMW84NjBlbjAzSWJIZw?oc=5",
-   "tarih": "2026-10-11T19:00+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2tOdzJva0w1UnJXWkh2WnJKaXg1N2xkTUd4d3RYa0VrblNxMW15ckgxN3VMT04tRHJCczM5Y3g1bVNLVGd4MVk2VzBNd3ozQmtDSzNoUXFMQnNWT1hVRHZra3I4UmJlbHJ4X0dTcnZiOUM0RmdpbnlFTWpTcEpoX2VOU2cxWEV0Z3BGR1oxTjJkQ2RZdnkzVzdZWnBTWXJGQTVxaUQ5NHg?oc=5",
+   "tarih": "2026-10-11T15:19+00:00"
   },
   {
-   "baslik": "Dolar endeksi %0,26 artışla 97,40'a çıktı",
-   "ozet": "Güçlü dolar genellikle Bitcoin gibi riskli varlıklar üzerinde baskı yaratır.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFluZkd2UnNfUDZ0bms2bGNveDNhTEROekRoMjZ1VG9aQlJlelMwbmY2RVRxX2d2SXl4ZW5SN2ZyMi0ycWFxbThMOG80VlI5amdLRHpCLWlNRHIyazVLcUFvVXlsRWJydy1rdm9yeUFMNFZzRklBaDFwMkJtYjJYMXJGOEszNTRZTTYtY1d5cTczU0xGSjkzUHZnZXlJSm9jMzRMX1dISVFuWl85Ukd3d1otT3RkZnhvRmRuSnBB?oc=5",
-   "tarih": "2026-10-11T18:15+00:00"
-  },
-  {
-   "baslik": "ABD'de hisseler ve tahvil faizleri birlikte yükseldi",
-   "ozet": "WSJ başlığına göre hisseler ve tahvil faizleri birlikte arttı. Faizlerin yükselmesi riskli varlıklar için baskı unsuru olabilir.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiX1F4bWhnbkl2YnY3aVFsaG1Hd1oxZ2lHNXI4am9MZXhEalpYS2k4WmFhQnk1REZEN2lKTmFaTUFpLXZrVDIySUlfckZDY205M3p6UHlPMUFyVjViZThlSDNYd1gtb3FSeW5tbjJ0TWg?oc=5",
-   "tarih": "2026-10-11T15:46+00:00"
-  },
-  {
-   "baslik": "XRP Ledger'daki yıllık hata yamalandı",
-   "ozet": "Ödeme motorundaki taşma hatası, saldırganın tek işlemde yaklaşık 18 trilyon XRP basmasına izin verebilirdi. Hata yamalandı.",
-   "etki": "notr",
-   "coinler": [
-    "XRP"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
-   "tarih": "2026-10-11T18:07+00:00"
-  },
-  {
-   "baslik": "IMF: Tokenize hisseler talep görüyor ama oynak ve likiditesi düşük",
-   "ozet": "Piyasa yaklaşık 2,3 milyar dolar büyüklüğünde ve işlemlerin yarısından fazlası ABD piyasa saatleri dışında yapılıyor.",
+   "baslik": "IMF: Tokenize hisselere talep var ama piyasa oynak ve likiditesi düşük",
+   "ozet": "Yatırımcılar blokzincir tabanlı hisseleri küçük ve mesai dışı işlemler için kullanıyor. IMF, likidite ve hukuki altyapının henüz yetişmediğini söylüyor.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "CoinDesk",
    "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
    "tarih": "2026-10-11T13:00+00:00"
+  },
+  {
+   "baslik": "Coldcard'ın X hesabında oltalama linki çıktı",
+   "ozet": "Coldcard, hesabında çıkan oltalama linkinin nasıl oluştuğunu araştırıyor ve kullanıcılara linke tıklamamalarını söyledi.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-11T10:40+00:00"
+  },
+  {
+   "baslik": "Riyad havalimanına füze saldırısı: 12 ölü",
+   "ozet": "Riyad havalimanına yapılan füze saldırısında 12 kişi öldü, yüzlerce kişi yaralandı. Körfez'deki gerilim risk iştahını azaltabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3N2Z0ZOakFSR0VfTVMtME5MTGJTZndqYkFNTnR1a1ctR1pXWDZEWm5zLXV2R3h5cG1tRTNKQ0FDOWo4WjhQM0ZsUnVRRGUxdFAtcDY4LWNXZ19JTzNWWHNFZVNzS2Z6ZnV0UEFHN3FZZklPSjBUOVZYTXdpcktiLURuU1M?oc=5",
+   "tarih": "2026-10-11T09:48+00:00"
+  },
+  {
+   "baslik": "Ledger: donanım cüzdanda yetkisiz implant, kayıp 86 milyon doları aşabilir",
+   "ozet": "Ledger olayın tek bir bayiyle ve Güneydoğu Asya pazarıyla sınırlı göründüğünü söyledi. Cüzdan güvenliğine güveni sarsabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-11T09:05+00:00"
   }
  ]
 }
