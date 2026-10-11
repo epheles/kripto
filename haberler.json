@@ -1,19 +1,94 @@
 {
- "guncelleme": "2026-10-11T15:10+00:00",
- "duygu": "olumsuz",
- "ozet": "Haber akışında Bitcoin'in güncel fiyatı verilmiyor. Öne çıkan başlıklar: Ledger donanım cüzdanlarında yetkisiz çip nedeniyle 86 milyon doları aşabilecek kayıp, ABD'nin Umman Körfezi'nde bir tankeri vurması ve Riyad Havalimanı'na saldırı. Jeopolitik gerginlik ve güvenlik haberleri kripto için temkinli bir hava yaratıyor.",
+ "guncelleme": "2026-10-11T16:05+00:00",
+ "duygu": "karisik",
+ "ozet": "Haber akışında Bitcoin'in güncel fiyatı verilmiyor. Olumlu tarafta Trump'ın Rusya-Ukrayna 'enerji ateşkesi' açıklaması var; olumsuz tarafta Ledger ve Coldcard güvenlik olayları ile Körfez'deki gerilim öne çıkıyor. ABD'de hisselerle birlikte tahvil faizleri de yükseliyor.",
  "takvim": [
-  "Bu hafta: JPMorgan, Goldman ve diğer büyük bankaların kâr açıklamaları. Sonuçlar genel piyasa havasını etkileyebilir."
+  "Bu hafta: JPMorgan, Goldman ve diğer büyük bankaların kâr açıklamaları. Sonuçlar genel piyasa havasını etkileyebilir.",
+  "Yaklaşan ABD Eylül enflasyon verisi: Faiz beklentilerini değiştirirse kripto de etkilenebilir."
  ],
  "haberler": [
   {
+   "baslik": "ABD'de hisseler ve tahvil faizleri birlikte yükseldi",
+   "ozet": "WSJ başlığına göre hisseler ve tahvil faizleri yükselişte. Faizlerin yüksek seyri kripto gibi riskli varlıklar için baskı unsuru olabilir.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiX1F4bWhnbkl2YnY3aVFsaG1Hd1oxZ2lHNXI4am9MZXhEalpYS2k4WmFhQnk1REZEN2lKTmFaTUFpLXZrVDIySUlfckZDY205M3p6UHlPMUFyVjViZThlSDNYd1gtb3FSeW5tbjJ0TWg?oc=5",
+   "tarih": "2026-10-11T15:46+00:00"
+  },
+  {
+   "baslik": "Trump: Rusya ve Ukrayna 'enerji ateşkesi'ne vardı",
+   "ozet": "Trump enerji alanında ateşkes ilan etti; Zelenskiy Rusya kabul ederse Ukrayna'nın da kabul edeceğini söyledi. Jeopolitik gerilimin azalması risk iştahını destekleyebilir.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmpsZEZJU1VvX015M2ZPVnpka3diOVh4WEpBQ2JrTUl3cTAwdjY3QlViMUZkWTZJQVFoRTM5TE5LZlZCZUJ5SjZuNjhwcXlROEFGSlFfVFVpUHFlSElDZUpnNTZlYnBmdDdHOGNBTDFVNmt3T2lIM19RY0pZRDhhdUFuejU2MnZZd0lDWU1kbTBHS3ZFamlqWmZDekJPcXRlN3JPVG9maEJCWDNCYU1EQVhqaEMzUW8?oc=5",
+   "tarih": "2026-10-11T14:40+00:00"
+  },
+  {
+   "baslik": "Husiler Riyad'a ölümcül füze saldırıları düzenledi",
+   "ozet": "Husilerin Riyad'a yönelik saldırıları Orta Doğu'daki gerilimi artırdı. Jeopolitik risk piyasada temkini artırabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQkxEejNESzBTbzFzcV85LW13N3B1bDROMXNBSzNqSEpaUVVNWDJHb1BJTzZueTZVNnNhV0JkNGktdUllR1dRd1ZVRzhla0JXejhkRGR3a0hkUHhVcmE1RFNOX3VVSG4zSHBnUkdrZGdjcHhXZ0hLX0dJUlM2azY3RnhiTFk?oc=5",
+   "tarih": "2026-10-11T13:04+00:00"
+  },
+  {
+   "baslik": "IMF: Tokenize hisselere talep var ama piyasa oynak",
+   "ozet": "Yatırımcılar blokzincir tabanlı hisseleri küçük ve mesai dışı işlemlerde kullanıyor. IMF likidite, hukuki kurallar ve takas sistemlerinin henüz yetişmediğini belirtiyor.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+   "tarih": "2026-10-11T13:00+00:00"
+  },
+  {
+   "baslik": "Zcash, kuantum ve yapay zekâ saldırılarına karşı hazırlanıyor",
+   "ozet": "Zcash geliştiricisi Zakura, karma tabanlı imzaların Ocak'ta Zcash'e gelmesini beklediğini ve bu hafta adres değiştirme aracı çıkaracağını söyledi.",
+   "etki": "olumlu",
+   "coinler": [
+    "ZEC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+   "tarih": "2026-10-11T13:00+00:00"
+  },
+  {
+   "baslik": "JPMorgan, Goldman ve büyük bankalar bu hafta kâr açıklıyor",
+   "ozet": "Büyük ABD bankalarının bilançoları bu hafta geliyor. Sonuçlar genel piyasa havasını etkileyebilir.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PN0ZfQ0s3ZXBRZVBpQ2ZjSzRYaENicDZDRWQ2SG92VVJRcGpsaGVENENRVVg4RXRGaVhQZFdrQzZjblZjU0VUV2JockRmOWUtLWQzVlNhVEpMNUlWdXFvaS1LR1FYOHlDVXdNQ3JqMk5wX1M2WWc?oc=5",
+   "tarih": "2026-10-11T11:46+00:00"
+  },
+  {
+   "baslik": "Eylül enflasyonu faiz politikasını belirleyebilir",
+   "ozet": "FT, Eylül ayı enflasyon verisinin ABD faiz politikasının yılın geri kalanındaki yönünü pekiştirip pekiştirmeyeceğini soruyor. Veri faiz beklentilerini, dolayısıyla kriptoyu etkileyebilir.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdVpFbWJydEFBMkkyYXU1NFhqVUd0WFppVklNYldyQzR5M2wwZ3hyT2oxSXZ5dkN2VklKd0lVZUhjRFNxS0RQSWtBMW1kX3ZfR09oZ0RIUV8xR2g3T0VPYmNDMzZYU016QnBKUHREUHZWRmJCeEcwYnVYLTlxb1ZDUXhSQ0I?oc=5",
+   "tarih": "2026-10-11T11:00+00:00"
+  },
+  {
+   "baslik": "Coldcard'ın X hesabında şüpheli phishing bağlantısı çıktı",
+   "ozet": "Coldcard, hesabında beliren oltalama bağlantısını araştırdığını ve kullanıcıların bağlantıya tıklamamasını söyledi. Cüzdan güvenliği endişelerini artırıyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-11T10:32+00:00"
+  },
+  {
    "baslik": "Ledger'da yetkisiz donanım çipi, kayıp 86 milyon doları aşabilir",
-   "ozet": "Ledger, sorunun tek bir satıcıyla ve Güneydoğu Asya pazarıyla sınırlı göründüğünü açıkladı. Kayıplar 86 milyon doları geçebilir; donanım cüzdanı güvenliği konusunda güveni sarsabilir.",
+   "ozet": "Ledger, sorunun tek bir satıcıyla ve Güneydoğu Asya pazarıyla sınırlı göründüğünü açıkladı. Donanım cüzdanı güvenliği konusunda güveni sarsabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Cointelegraph",
    "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-11T09:01+00:00"
+   "tarih": "2026-10-11T09:05+00:00"
   },
   {
    "baslik": "CFTC, tahmin piyasalarını kumardan ayırmak istiyor",
@@ -22,63 +97,16 @@
    "coinler": [],
    "kaynak": "Cointelegraph",
    "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-11T07:44+00:00"
+   "tarih": "2026-10-11T07:50+00:00"
   },
   {
-   "baslik": "Büyük bankaların kâr açıklamaları yaklaşıyor",
-   "ozet": "JPMorgan, Goldman ve diğer büyük bankalar bilançolarını açıklayacak. Sonuçlar genel piyasa havasını, dolayısıyla kriptoyu da etkileyebilir.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSk5yTlNZNjEwZlp5a3JkRzd4elFOSkJELUlBMzRBOXFxaV96WXZDY2xoakp0Wm9rcDhFYlN1X3F0eXFKRERTQUNJSVFxMFpOaXJZTWJtdUIxWjdwbFBFSzJRV2M4SGpkZTczanIxRmZlS1RoY1JWYlY3VE5kS2NiMkp0Sk16a0xyS2RvbDdjam81alBDMm51X0dzNXBpaXFyUUt1RkszSTNpbjlYWmpRTmo0WmdRZ0NjQnJ2ckdCb3lXQW9lUDVpdEt1UGxnRkk?oc=5",
-   "tarih": "2026-10-11T07:18+00:00"
-  },
-  {
-   "baslik": "Suudi Arabistan, saldırı sonrası Riyad Havalimanı'nı durdurdu",
-   "ozet": "Riyad Havalimanı'ndaki operasyonlar saldırı sonrası askıya alındı. Orta Doğu'daki gerginlik risk iştahını azaltıp kripto gibi riskli varlıklarda satış baskısı yaratabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlhKZ2t3ZDBmbnc3Umd3am1aWF9pcXp0a1U5SmFyZVRjUkpBT0pnclZuQk52MXRPb1EwZjJEb09aTEdPU2gzb09SbUJ0NjNTdnJJa2FDS2NlS0FKRlJPU21fMWZaWEZnZlBNS09BWDVyUkY2dnJDMm5sU01OUjdQSUg0MW82SHNGcXJ1ZjlaWk9XVjZZZ1ZHb0RZTzN4dmtJd1E4LWFGYWtFQTlseTBMUl9lN2Y?oc=5",
-   "tarih": "2026-10-11T00:29+00:00"
-  },
-  {
-   "baslik": "ABD, Umman Körfezi'nde ticari tankere saldırdı",
-   "ozet": "Bölgedeki gerilim artarken ABD bir ticari tankeri vurdu. Petrol ve genel piyasa belirsizliği artabilir; bu da kripto için temkinli bir hava yaratıyor.",
+   "baslik": "ABD, Umman Körfezi'nde ticari bir tankeri vurdu",
+   "ozet": "FT'ye göre bölgede gerilim yükseliyor. Petrol ve genel risk algısı üzerinden piyasayı temkinli tutabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Financial Times",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZF9DS1hBWldLa0lJMWU3YkJTdkNKZGpCRlhlSnFPMFlMWmRLWUhZYW1ydmJSUGVvOU9NUTA3YWI5SDFKRy1mZ3ZWemRURF9XZVRhUmhBdXRGMnJSVGFYcmdoNHJHYlpveXl2djJFTmhzWjJ1ZU84VzJZc2Q5enVSdm1QTmU?oc=5",
    "tarih": "2026-10-11T05:30+00:00"
-  },
-  {
-   "baslik": "Tayvan lideri Lai, Trump-Xi görüşmesi sonrası demokrasilere birlik çağrısı yaptı",
-   "ozet": "Trump ile Xi arasındaki görüşmenin ardından Tayvan lideri demokrasileri birleşmeye çağırdı. ABD-Çin ilişkileri küresel piyasalar için önemli bir belirsizlik kaynağı.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnczMEhjSkw2WllHZUZnOHl1WE4xMDhNOFlaTzExaWlyNm56NWhJbEVSQ3RMZHNTcEFaWTRsbkdjZHhudTRwcE1SWDZublEydHRRVk5aY3FNWERKUGdERFJmOVRVSGpvOEoyT1VpampIRnBVVjhjbGhDeFZrNG5MN1FEUjNpdXZ1TUlRTjlYektkUWtUb3VCRHBxZFRjTGNESklTNC1URkU0cC03ZVlwX0VR?oc=5",
-   "tarih": "2026-10-11T05:04+00:00"
-  },
-  {
-   "baslik": "CNBC: Bitcoin için 'patlama mı, çöküş mü' tartışması",
-   "ozet": "CNBC, Bitcoin'in yönünü konu alan bir yayın paylaştı. Haberde ayrıntı verilmediği için kesin bir fiyat etkisi söylemek mümkün değil.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydGtxaEdsV2RRYUdSVlBGWWs4ZVlJdkxDNE5OenNrRnFsa3FZWmhvbUtZZUFBWURNRFVVckJyU2d2dEE2TUI2dzZTYVVpaVlnc2ZXeQ?oc=5",
-   "tarih": "2026-10-11T05:04+00:00"
-  },
-  {
-   "baslik": "Çin'in artan borcu ekonomik teşvik alanını daraltıyor",
-   "ozet": "Çin'in borç yükü yeni teşvik adımlarının önünü kısıtlıyor. Dünyanın ikinci büyük ekonomisindeki zayıflık küresel risk iştahını baskılayabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTlzU2hfam9KbGJuNmtETDdTNVlGeG5SLTVxd1VJUmJpX1BONUw4c3ZtTF9JRWhMSDExVThKV09rMzdMQTNZb3FFaENXdzhfVHhNQWFhVFkwNHptT1dGOWZwRGQzdkszZFBXcEdqTm02ODc1OXFDSkhCa2dWS2dMUVBfLUg?oc=5",
-   "tarih": "2026-10-11T04:00+00:00"
   }
  ]
 }
