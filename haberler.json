@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-11T16:05+00:00",
+ "guncelleme": "2026-10-11T18:05+00:00",
  "duygu": "karisik",
  "ozet": "Haber akışında Bitcoin'in güncel fiyatı verilmiyor. Olumlu tarafta Trump'ın Rusya-Ukrayna 'enerji ateşkesi' açıklaması var; olumsuz tarafta Ledger ve Coldcard güvenlik olayları ile Körfez'deki gerilim öne çıkıyor. ABD'de hisselerle birlikte tahvil faizleri de yükseliyor.",
  "takvim": [
@@ -9,7 +9,7 @@
  "haberler": [
   {
    "baslik": "ABD'de hisseler ve tahvil faizleri birlikte yükseldi",
-   "ozet": "WSJ başlığına göre hisseler ve tahvil faizleri yükselişte. Faizlerin yüksek seyri kripto gibi riskli varlıklar için baskı unsuru olabilir.",
+   "ozet": "WSJ başlığına göre hisseler ve tahvil faizleri aynı gün yükseldi. Faizlerin yükselmesi riskli varlıklar üzerinde baskı yaratabilir.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "WSJ",
@@ -17,17 +17,17 @@
    "tarih": "2026-10-11T15:46+00:00"
   },
   {
-   "baslik": "Trump: Rusya ve Ukrayna 'enerji ateşkesi'ne vardı",
-   "ozet": "Trump enerji alanında ateşkes ilan etti; Zelenskiy Rusya kabul ederse Ukrayna'nın da kabul edeceğini söyledi. Jeopolitik gerilimin azalması risk iştahını destekleyebilir.",
+   "baslik": "Trump Rusya-Ukrayna 'enerji ateşkesi' ilan etti",
+   "ozet": "Zelenskiy, Rusya kabul ederse Ukrayna'nın da ateşkese uyacağını söyledi. Jeopolitik gerilimin azalması risk iştahını destekleyebilir.",
    "etki": "olumlu",
    "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmpsZEZJU1VvX015M2ZPVnpka3diOVh4WEpBQ2JrTUl3cTAwdjY3QlViMUZkWTZJQVFoRTM5TE5LZlZCZUJ5SjZuNjhwcXlROEFGSlFfVFVpUHFlSElDZUpnNTZlYnBmdDdHOGNBTDFVNmt3T2lIM19RY0pZRDhhdUFuejU2MnZZd0lDWU1kbTBHS3ZFamlqWmZDekJPcXRlN3JPVG9maEJCWDNCYU1EQVhqaEMzUW8?oc=5",
-   "tarih": "2026-10-11T14:40+00:00"
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+   "tarih": "2026-10-11T15:40+00:00"
   },
   {
-   "baslik": "Husiler Riyad'a ölümcül füze saldırıları düzenledi",
-   "ozet": "Husilerin Riyad'a yönelik saldırıları Orta Doğu'daki gerilimi artırdı. Jeopolitik risk piyasada temkini artırabilir.",
+   "baslik": "Husiler Riyad'a ölümcül füze saldırısı düzenledi",
+   "ozet": "FT'ye göre Husiler Suudi Arabistan'ın başkentine füze saldırısı yaptı. Körfez'deki gerilim petrol ve risk iştahı üzerinde baskı yaratabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Financial Times",
@@ -35,8 +35,8 @@
    "tarih": "2026-10-11T13:04+00:00"
   },
   {
-   "baslik": "IMF: Tokenize hisselere talep var ama piyasa oynak",
-   "ozet": "Yatırımcılar blokzincir tabanlı hisseleri küçük ve mesai dışı işlemlerde kullanıyor. IMF likidite, hukuki kurallar ve takas sistemlerinin henüz yetişmediğini belirtiyor.",
+   "baslik": "IMF: Tokenlaştırılmış hisse piyasası hâlâ oynak ve likiditesi düşük",
+   "ozet": "Yatırımcılar bu hisseleri daha çok küçük ve piyasa saatleri dışı işlemlerde kullanıyor. IMF'ye göre likidite, yasal çerçeve ve takas sistemleri yetişmedi.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -44,8 +44,8 @@
    "tarih": "2026-10-11T13:00+00:00"
   },
   {
-   "baslik": "Zcash, kuantum ve yapay zekâ saldırılarına karşı hazırlanıyor",
-   "ozet": "Zcash geliştiricisi Zakura, karma tabanlı imzaların Ocak'ta Zcash'e gelmesini beklediğini ve bu hafta adres değiştirme aracı çıkaracağını söyledi.",
+   "baslik": "Zcash, anahtarları yapay zekâ ve kuantum saldırılarına karşı korumayı planlıyor",
+   "ozet": "Geliştirici Zakura, hash tabanlı imzaların Ocak'ta Zcash'e gelmesini bekliyor. Bu hafta şeffaf adres değiştirme aracı yayılıyor.",
    "etki": "olumlu",
    "coinler": [
     "ZEC"
@@ -55,8 +55,17 @@
    "tarih": "2026-10-11T13:00+00:00"
   },
   {
-   "baslik": "JPMorgan, Goldman ve büyük bankalar bu hafta kâr açıklıyor",
-   "ozet": "Büyük ABD bankalarının bilançoları bu hafta geliyor. Sonuçlar genel piyasa havasını etkileyebilir.",
+   "baslik": "Cuomo: Tokenlaştırılmış hisseler piyasalara 'köklü değişim' getirecek",
+   "ozet": "WSJ'ye göre Cuomo, tokenlaştırmanın piyasaları ciddi biçimde değiştireceğini söyledi. Blokzincir tabanlı finansa ilgiyi gösteriyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmtzT2tCeEoxY3FCVGNlellPVGlHVkdQX0lBT2dtTk1FUV9vQjJ2Z3hZNEZRamI1Z2VHRVc1bjdKM0w2YlFLYVdkZzhxV2Vfd2FhOXlNQWUtMUVJR0o0c2VHSktPNVpJcDFpTUMtUWpmOTRXaGlidGdZVFhqdVE0enhOYzlfYjRqYzRYX3J2cDdJXzVPME5CbDJoUjdiZW9IemxYM05hOTFaQQ?oc=5",
+   "tarih": "2026-10-11T11:54+00:00"
+  },
+  {
+   "baslik": "JPMorgan, Goldman ve diğer büyük bankalar bu hafta kâr açıklıyor",
+   "ozet": "CNBC bu hafta büyük bankaların bilançolarının beklendiğini yazıyor. Sonuçlar genel piyasa havasını etkileyebilir.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "CNBC",
@@ -64,8 +73,8 @@
    "tarih": "2026-10-11T11:46+00:00"
   },
   {
-   "baslik": "Eylül enflasyonu faiz politikasını belirleyebilir",
-   "ozet": "FT, Eylül ayı enflasyon verisinin ABD faiz politikasının yılın geri kalanındaki yönünü pekiştirip pekiştirmeyeceğini soruyor. Veri faiz beklentilerini, dolayısıyla kriptoyu etkileyebilir.",
+   "baslik": "Eylül enflasyonu ABD faiz yolunu belirleyebilir",
+   "ozet": "FT, Eylül enflasyon verisinin yıl sonuna kadar faiz politikasını netleştirip netleştirmeyeceğini soruyor. Faiz beklentileri kripto için önemli.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Financial Times",
@@ -73,8 +82,8 @@
    "tarih": "2026-10-11T11:00+00:00"
   },
   {
-   "baslik": "Coldcard'ın X hesabında şüpheli phishing bağlantısı çıktı",
-   "ozet": "Coldcard, hesabında beliren oltalama bağlantısını araştırdığını ve kullanıcıların bağlantıya tıklamamasını söyledi. Cüzdan güvenliği endişelerini artırıyor.",
+   "baslik": "Coldcard, X hesabındaki oltalama bağlantısını inceliyor",
+   "ozet": "Şirket kullanıcılara ilgili bağlantıya girmemelerini söyledi ve doğrulanmış bilgi paylaşacağını belirtti.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -82,8 +91,8 @@
    "tarih": "2026-10-11T10:32+00:00"
   },
   {
-   "baslik": "Ledger'da yetkisiz donanım çipi, kayıp 86 milyon doları aşabilir",
-   "ozet": "Ledger, sorunun tek bir satıcıyla ve Güneydoğu Asya pazarıyla sınırlı göründüğünü açıkladı. Donanım cüzdanı güvenliği konusunda güveni sarsabilir.",
+   "baslik": "Ledger: yetkisiz donanım implantı, zarar 86 milyon doları aşabilir",
+   "ozet": "Ledger olayın tek bir bayi ve Güneydoğu Asya pazarıyla sınırlı göründüğünü açıkladı. Cüzdan güvenliğine olan güveni zedeleyebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -91,8 +100,8 @@
    "tarih": "2026-10-11T09:05+00:00"
   },
   {
-   "baslik": "CFTC, tahmin piyasalarını kumardan ayırmak istiyor",
-   "ozet": "CFTC iki öneriyle tahmin piyasalarını casino kumarından ayırmayı hedefliyor. Federal ve eyalet yetkisi konusunda ABD Yüksek Mahkemesi'ne gidebilecek bir tartışmanın zemini hazırlanıyor.",
+   "baslik": "CFTC, tahmin piyasalarını kumardan ayırmayı hedefleyen öneriler sundu",
+   "ozet": "İki öneri, federal ve eyalet yetkisi konusunda olası bir ABD Yüksek Mahkemesi davasına zemin hazırlamayı amaçlıyor.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -100,8 +109,8 @@
    "tarih": "2026-10-11T07:50+00:00"
   },
   {
-   "baslik": "ABD, Umman Körfezi'nde ticari bir tankeri vurdu",
-   "ozet": "FT'ye göre bölgede gerilim yükseliyor. Petrol ve genel risk algısı üzerinden piyasayı temkinli tutabilir.",
+   "baslik": "ABD, Umman Körfezi'nde ticari tanker vurdu",
+   "ozet": "FT, bölgede gerilimin arttığını bildiriyor. Gerilim büyürse piyasalarda temkinli havanın artması beklenebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Financial Times",
