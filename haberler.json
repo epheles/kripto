@@ -1,99 +1,102 @@
 {
- "guncelleme": "2026-10-11T04:05+00:00",
- "duygu": "karisik",
- "ozet": "Haber akışında Bitcoin'in güncel fiyatı verilmiyor. Spot Bitcoin, Ether ve Solana ETF'leri haftalık çıkış yaşadı; Ether fonlarında çıkış 9 güne uzadı. Riyad havalimanına füze saldırısı ve Hindistan'ın faiz artırımı risk iştahını baskılayabilir; dolar endeksindeki hafif gevşeme ise destekleyici.",
+ "guncelleme": "2026-10-11T10:05+00:00",
+ "duygu": "olumsuz",
+ "ozet": "Haber akışında Bitcoin'in güncel fiyatı verilmiyor. Öne çıkan başlıklar: Ledger donanım cüzdanlarında yetkisiz çip nedeniyle 86 milyon doları aşabilecek kayıp, ABD'nin Umman Körfezi'nde bir tankeri vurması ve Riyad Havalimanı'na saldırı. Jeopolitik gerginlik ve güvenlik haberleri kripto için temkinli bir hava yaratıyor.",
  "takvim": [
-  "Haber akışında önümüzdeki günler için kesin bir tarih yok; ETF giriş-çıkış verileri ve Orta Doğu'daki gelişmeler takip edilmeli."
+  "Bu hafta: JPMorgan, Goldman ve diğer büyük bankaların kâr açıklamaları. Sonuçlar genel piyasa havasını etkileyebilir."
  ],
  "haberler": [
   {
-   "baslik": "Altın vadelileri toparlandı; dolar ve tahvil faizleri geriledi",
-   "ozet": "Dolar ve tahvil faizlerindeki düşüş altını desteklerken riskli varlıklar için de rahatlatıcı bir ortam sağlayabilir.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWlsbHNZenR1NVhsMjFaV19yUmNZWDZDNzR5RThJV3NEUG03aW5YYVVYaDVZTU92UnluX1BHTi02ZUxvZWxZU0p0eXpXZFNUTnZNVWFqYzVtT2o1Nmp6QlRuZXE1ekt4alF5MnREYlFwN0Y1T3NITEh6SU9rTWVES2RuQlljVmtMQXZPSW9lZm91UzhQcXB5Y2dJVWVtX2swM1hZZ0dqMDRmcFdFY0J1UjN1Y2V1a0ZQOUJyT3Fn?oc=5",
-   "tarih": "2026-10-10T20:39+00:00"
-  },
-  {
-   "baslik": "Dolar endeksi %0,06 düşüşle 97,34'e geriledi",
-   "ozet": "Dolardaki hafif gevşeme genellikle kripto gibi riskli varlıklar için destekleyici sayılır.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXU1U0xTYXlzemV1VldiSVM2eFBCQ2p5QjN4aTBpWVVzc2NxemdjOWdRWkIzNkZYQ25kTmU4dUtXY0VBN2JpNmNtc3dGZDFDNW1jbzE5SG92enBmeVY5d0dRd3gzcXhDRFVrVTJzeXhjRDFQQUhYRnRMUmVkVXRYcHdGRkk0Umt0RGtwVzBKYXRGd0VuVnQ2NW8yWU5UX1JPaE5sY1BYaHEtVlNlUm5RbktMRQ?oc=5",
-   "tarih": "2026-10-10T19:23+00:00"
-  },
-  {
-   "baslik": "Hindistan Merkez Bankası 2023'ten beri ilk kez faiz artırdı",
-   "ozet": "Faiz artışı küresel olarak para politikasının sıkılaştığı izlenimi verebilir; bu da kripto gibi riskli varlıklar üzerinde baskı yaratabilir.",
+   "baslik": "Ledger'a bağlı donanım cüzdanlarında yetkisiz çip tespit edildi",
+   "ozet": "Ledger, tek bir satıcı ve Güneydoğu Asya pazarıyla sınırlı göründüğünü söyledi; kayıpların 86 milyon doları aşabileceği belirtildi. Cüzdan güvenliği endişesi kripto için olumsuz.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTA0WkJVRDFBSlRhS0dObmR4Um5nZDRNSDFtZmJkZjBUbXN2VFUxY1I2UXNyZGRpU3Q4MnBzSmc1SE1GM2dTVFhjek9IbEtNLTdES0hWUFM3RWIwRUVGdlpoOVlNazlVWlk4NXFuTU9BRkJHMHFwMEx0emlyZnNNYW5xbEd1aWZIV20waTNXMlNxWHVScWZyQjBzdEMyMVFCU08yMXllNHJsQXZ6RVdxNA?oc=5",
-   "tarih": "2026-10-10T18:36+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-11T09:01+00:00"
   },
   {
-   "baslik": "Kalshi, açıklamadan önce yapılan bahisleri inceliyor",
-   "ozet": "Trump'ın basın sözcüsü seçimi duyurulmadan önce yapılan üç bahis (toplam yaklaşık 173 dolar) yaklaşık 9.600 dolar kazandıracak. Tahmin piyasalarında güven konusu gündemde.",
+   "baslik": "CFTC, tahmin piyasalarını kumardan ayırmaya yönelik öneriler sundu",
+   "ozet": "İki öneri, federal ve eyalet yetkisi konusunda olası bir ABD Yüksek Mahkemesi davasının zeminini hazırlıyor. Düzenleme netliği kripto bazlı tahmin piyasalarını da ilgilendirebilir.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-11T07:44+00:00"
+  },
+  {
+   "baslik": "Büyük bankaların kâr açıklamaları yaklaşıyor (JPMorgan, Goldman)",
+   "ozet": "WSJ, bu hafta takip edilecek üç başlığı derledi. Bankacılık sonuçları genel piyasa havasını belirleyebilir.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSk5yTlNZNjEwZlp5a3JkRzd4elFOSkJELUlBMzRBOXFxaV96WXZDY2xoakp0Wm9rcDhFYlN1X3F0eXFKRERTQUNJSVFxMFpOaXJZTWJtdUIxWjdwbFBFSzJRV2M4SGpkZTczanIxRmZlS1RoY1JWYlY3VE5kS2NiMkp0Sk16a0xyS2RvbDdjam81alBDMm51X0dzNXBpaXFyUUt1RkszSTNpbjlYWmpRTmo0WmdRZ0NjQnJ2ckdCb3lXQW9lUDVpdEt1UGxnRkk?oc=5",
+   "tarih": "2026-10-11T07:18+00:00"
+  },
+  {
+   "baslik": "Jefferies, Radiant ile yapılan 900 milyon dolarlık anlaşmalarda sahtekarlık buldu",
+   "ozet": "Büyük bir finansal sahtekarlık haberi; geleneksel piyasalarda kredi ve güven endişesini artırabilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
-   "tarih": "2026-10-10T18:35+00:00"
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb0R3TWE0cE1EdHhOR0FBVV9RM211MkFFSlNwREQ0d3BhTEtPLXFxeWs0MnlFVzlsUlYtSE9YYUpZMDl3SlJ1RWRZSTdyclM4SklFNG8zZUVwS2NaTUo4d1FNQTJ6MkVCcy1CNTN2NnpBMjRxWGJtQ0dad2Z4SHBvVVNxTW8zbFRMamtxQnE0U2dJaENXT2xSRC1QU0I3S2R5SENTUVp0T01uRFF3M05FQURn?oc=5",
+   "tarih": "2026-10-11T06:46+00:00"
   },
   {
-   "baslik": "Riyad havalimanına füze saldırısı: 12 ölü",
-   "ozet": "Saldırıda 12 kişi öldü, yüzlercesi yaralandı. Bölgesel gerilim artarsa yatırımcılar riskli varlıklardan uzaklaşabilir.",
+   "baslik": "ABD, Umman Körfezi'nde ticari bir tankeri vurdu",
+   "ozet": "Bölgede gerilim yükseldi. Petrol ve jeopolitik risk artarsa riskli varlıklar, kripto dahil, baskı görebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3N2Z0ZOakFSR0VfTVMtME5MTGJTZndqYkFNTnR1a1ctR1pXWDZEWm5zLXV2R3h5cG1tRTNKQ0FDOWo4WjhQM0ZsUnVRRGUxdFAtcDY4LWNXZ19JTzNWWHNFZVNzS2Z6ZnV0UEFHN3FZZklPSjBUOVZYTXdpcktiLURuU1M?oc=5",
-   "tarih": "2026-10-10T18:28+00:00"
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZF9DS1hBWldLa0lJMWU3YkJTdkNKZGpCRlhlSnFPMFlMWmRLWUhZYW1ydmJSUGVvOU9NUTA3YWI5SDFKRy1mZ3ZWemRURF9XZVRhUmhBdXRGMnJSVGFYcmdoNHJHYlpveXl2djJFTmhzWjJ1ZU84VzJZc2Q5enVSdm1QTmU?oc=5",
+   "tarih": "2026-10-11T05:30+00:00"
   },
   {
-   "baslik": "CFTC tahmin piyasaları için yeni kurallar önerdi",
-   "ozet": "Önerilen kural; spor, siyaset, kültür ve hava durumuna bağlı olay sözleşmelerini 'swap' tanımına dahil ediyor. Düzenleme çerçevesi netleşiyor.",
+   "baslik": "CNBC: 'Bitcoin: Boom or Bust' başlıklı program/haber",
+   "ozet": "Bitcoin'in yükseliş mi düşüş mü yaşayacağını tartışan bir CNBC içeriği. Haber metni ham veride yer almıyor, ayrıntı verilmiyor.",
    "etki": "notr",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
-   "tarih": "2026-10-10T17:01+00:00"
-  },
-  {
-   "baslik": "Suudi Arabistan Riyad havalimanı operasyonlarını durdurdu",
-   "ozet": "Saldırının ardından havalimanında operasyonlar askıya alındı. Gelişmeler piyasalarda dikkatle izleniyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlhKZ2t3ZDBmbnc3Umd3am1aWF9pcXp0a1U5SmFyZVRjUkpBT0pnclZuQk52MXRPb1EwZjJEb09aTEdPU2gzb09SbUJ0NjNTdnJJa2FDS2NlS0FKRlJPU21fMWZaWEZnZlBNS09BWDVyUkY2dnJDMm5sU01OUjdQSUg0MW82SHNGcXJ1ZjlaWk9XVjZZZ1ZHb0RZTzN4dmtJd1E4LWFGYWtFQTlseTBMUl9lN2Y?oc=5",
-   "tarih": "2026-10-10T16:47+00:00"
-  },
-  {
-   "baslik": "Bitcoin ile çalışan sigorta şirketi 37,5 milyon dolar yatırım aldı",
-   "ozet": "Bermuda merkezli şirket, Bain Capital Crypto liderliğindeki mevcut yatırımcılardan fon topladı. Bitcoin'in kurumsal kullanımı için olumlu işaret.",
-   "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-   "tarih": "2026-10-10T16:01+00:00"
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydGtxaEdsV2RRYUdSVlBGWWs4ZVlJdkxDNE5OenNrRnFsa3FZWmhvbUtZZUFBWURNRFVVckJyU2d2dEE2TUI2dzZTYVVpaVlnc2ZXeQ?oc=5",
+   "tarih": "2026-10-11T05:04+00:00"
   },
   {
-   "baslik": "Bitcoin, Ether ve Solana ETF'lerinde haftalık çıkış",
-   "ozet": "Üç tür spot kripto ETF'si de geçen haftanın işlemlerinin ardından haftalık çıkış kaydetti. Ether fonlarında çıkış 9 güne uzadı; Solana fonlarının 14 haftalık giriş serisi sona erdi.",
+   "baslik": "Tayvan lideri Lai, Trump-Xi görüşmesi sonrası demokrasilere birlik çağrısı yaptı",
+   "ozet": "ABD-Çin görüşmeleri ve Tayvan gerilimi küresel piyasa havasını etkileyebilecek bir başlık.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnczMEhjSkw2WllHZUZnOHl1WE4xMDhNOFlaTzExaWlyNm56NWhJbEVSQ3RMZHNTcEFaWTRsbkdjZHhudTRwcE1SWDZublEydHRRVk5aY3FNWERKUGdERFJmOVRVSGpvOEoyT1VpampIRnBVVjhjbGhDeFZrNG5MN1FEUjNpdXZ1TUlRTjlYektkUWtUb3VCRHBxZFRjTGNESklTNC1URkU0cC03ZVlwX0VR?oc=5",
+   "tarih": "2026-10-11T05:04+00:00"
+  },
+  {
+   "baslik": "Çin'in artan borcu ekonomik teşvik alanını daraltıyor",
+   "ozet": "FT'ye göre borç yükü Çin'in teşvik alanını sınırlıyor. Küresel büyüme beklentileri için zayıf işaret olabilir.",
    "etki": "olumsuz",
-   "coinler": [
-    "BTC",
-    "ETH",
-    "SOL"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
-   "tarih": "2026-10-10T15:10+00:00"
+   "coinler": [],
+   "kaynak": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTlzU2hfam9KbGJuNmtETDdTNVlGeG5SLTVxd1VJUmJpX1BONUw4c3ZtTF9JRWhMSDExVThKV09rMzdMQTNZb3FFaENXdzhfVHhNQWFhVFkwNHptT1dGOWZwRGQzdkszZFBXcEdqTm02ODc1OXFDSkhCa2dWS2dMUVBfLUg?oc=5",
+   "tarih": "2026-10-11T04:00+00:00"
+  },
+  {
+   "baslik": "Suudi Arabistan saldırı sonrası Riyad Havalimanı'nı kapattı",
+   "ozet": "Saldırı sonrası havalimanında operasyonlar durduruldu. Orta Doğu'daki gerginlik piyasalarda risk iştahını azaltabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONlhKZ2t3ZDBmbnc3Umd3am1aWF9pcXp0a1U5SmFyZVRjUkpBT0pnclZuQk52MXRPb1EwZjJEb09aTEdPU2gzb09SbUJ0NjNTdnJJa2FDS2NlS0FKRlJPU21fMWZaWEZnZlBNS09BWDVyUkY2dnJDMm5sU01OUjdQSUg0MW82SHNGcXJ1ZjlaWk9XVjZZZ1ZHb0RZTzN4dmtJd1E4LWFGYWtFQTlseTBMUl9lN2Y?oc=5",
+   "tarih": "2026-10-11T00:29+00:00"
+  },
+  {
+   "baslik": "Yapay zeka rallisi Kore borsasında alıcı bulmakta zorlanıyor",
+   "ozet": "Yapay zeka temalı hisselerdeki soğuma, teknoloji ve riskli varlıklara ilgi azalırsa kriptoyu da etkileyebilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVdHUEV4N1ZZeXBlNU5JMUUyTnZYZGU5SXdLYU8xOWdsaGUyX3hKZTNQVmxLb2x2NU1wUWdZVTBqXzFfM2JDMy15VWZfckttTUZmbno4NTVZVWF2QmlNQjJaeGRza2p2UmJYeG5YVGdiX0s3b25ZVzFwS1RfMFRLN3Z5dzltRm90aXV4dGEwaWVfSk5PSHdJbUItNFF1cGVNWUR1RnlPcVJ1dnNwbzFqRA?oc=5",
+   "tarih": "2026-10-11T00:00+00:00"
   }
  ]
 }
