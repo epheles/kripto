@@ -1,15 +1,82 @@
 {
- "guncelleme": "2026-10-12T00:10+00:00",
+ "guncelleme": "2026-10-12T01:10+00:00",
  "duygu": "olumsuz",
- "ozet": "Bitcoin'in güncel fiyatı haber akışında verilmiyor. Ekimde BTC, ETH ve SOL ETF'lerinden çıkış sürüyor, Orta Doğu saldırıları petrolü ve doları yukarı itiyor, Fransa tahvil piyasasındaki karışıklık Avrupa'da endişe yaratıyor. Trump'ın Rusya-Ukrayna 'enerji ateşkesi' açıklaması olumlu tarafta. Bu hafta ABD enflasyon verisi öne çıkıyor.",
+ "ozet": "Haber akışında Bitcoin'in güncel fiyatı verilmiyor. Ekimde BTC ve ETH ETF'lerinden çıkış sürüyor, Orta Doğu saldırıları petrolü ve doları yukarı itiyor, Fransa'daki tahvil karışıklığı Avrupa'da endişe yaratıyor. Trump'ın Rusya-Ukrayna 'enerji ateşkesi' açıklaması olumlu tarafta. Bu hafta ABD enflasyon verisi öne çıkıyor.",
  "takvim": [
   "Bu hafta: ABD enflasyon (CPI) verisi. Beklentiden yüksek çıkarsa faiz endişesiyle kripto düşebilir.",
   "Pazartesi 12 Ekim: Strategy'nin Bitcoin alımı açıklaması bekleniyor."
  ],
  "haberler": [
   {
+   "baslik": "Ledger cihazlarına yönelik saldırı Avrupa'ya sıçradı",
+   "ozet": "Bir kullanıcı, Avrupa'da büyük bir perakendeciden aldığı Ledger cihazının kurcalanmış olduğunu bildirdi. Cüzdan cihazı alırken resmi kanallara dikkat etmek önem kazanıyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-11T22:57+00:00"
+  },
+  {
+   "baslik": "Orta Doğu saldırılarıyla petrol yükseldi, dolar hafif güçlendi",
+   "ozet": "Bloomberg'in piyasa özetine göre petrol Orta Doğu'daki saldırılarla yükseldi, dolar da hafif değer kazandı. Güçlü dolar ve risk algısı genelde kripto üzerinde baskı yapar.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSG5VZWZFeXZZQzA0WjJpbFJWMlRKTld5TzZaTC10SF9VNGxJYnRwc1IwcHdMd2MteUlTcWNQTVhmNDFpWG9leERyYXFBSXkwckc1M2xUZWxJT1R6OG9EY1BlZExjMXBsUnNkdU5LQmlIcE90d3FvOHZKLUdaaFdnOUVhYlFhV2pic05yZkxTUDE4Z3JTZ1VZc2dsNFNEWGJMMmNnUTBwRFRBQ1M5ak9yWjdn?oc=5",
+   "tarih": "2026-10-11T22:09+00:00"
+  },
+  {
+   "baslik": "Fransa'daki tahvil karışıklığı Avrupa'ya bulaşma riskini artırıyor",
+   "ozet": "Fransa'nın tahvil piyasasındaki dalgalanma Avrupa'nın geri kalanına yayılabilir endişesi yaratıyor. Tahvil piyasası stresi risk iştahını azaltabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNTFVRWpDWlEtbmdYMGwxYVVNNE4xc1NIbmp1YVFKRGlUS0lkaVF2RXE1S1ctMGJvSEtKSG80alZaZm82NDdydEsxZ2Rsa1U4T01tc3pPbkRqcGl1R0loNEJDVFBySUFhYnVmMjRjVDMxWjNqV1NuYjV6NVdQTE45WnpPc3R2QmF3dnhUQkZ5WDBJLVpLckp2VEFDZkhsTTVCbUgzUTVlbW11aTVzbTJPeGttZndSUkph?oc=5",
+   "tarih": "2026-10-11T21:00+00:00"
+  },
+  {
+   "baslik": "ABD tahvil yatırımcıları CPI ve Warsh'tan ipucu bekliyor",
+   "ozet": "Tahvil yatırımcıları Fed'in faiz yolu için ABD enflasyon (CPI) verisine ve Warsh'a bakıyor. Verinin sonucu kripto dahil riskli varlıkların yönünü etkileyebilir.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3lYa092MnRSV0FXYUtRRjVRSHN2akl0ZzM3UWlJcjh6bXNpbVE4dHJQUDM0bS1iWklWekQ0aENwMDRCdWhZbUZMTHFOMmVrZzZzYmFIMG5BamMzSTFfTE0wVjZsWjFBZ2ZQTmFWM0h4NUZkZlVseDlCM05QSFNyczJfdk5BV1IzVmd1NXlnaTdVVnNyOXV0TmxjSW9IRFZWWkEtZlZ1c25jcXU4WXQ1QmRNbw?oc=5",
+   "tarih": "2026-10-11T19:00+00:00"
+  },
+  {
+   "baslik": "Tahvil satışı küresel faiz artırımlarını azaltabilir",
+   "ozet": "Bloomberg'e göre tahvillerdeki satış dalgası, merkez bankalarının yapacağı faiz artırımlarının sayısını azaltabilir. Daha az faiz artışı riskli varlıklar için destekleyici olabilir.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjNTeE9pcnEzX2I3VVY5WGw3a3kwMS1UeWhMY05hWGs0Z3N4a0tqM0hYcllJVTc4MkNOMlZYUWJJeFcwSkhIX3pwaXhYTW5SSmNMWmtKVk4zQVJuOUcwZ3pQcmt4Z2swbWF5dTFVVlgtUE5WdnpOQ1NhLUpteENKeTdHN0pvSHpiSnlwSWk2WjV2clJGMGtNd3RrbnlIT2U3bExIMl9PMjdsMW84NjBlbjAzSWJIZw?oc=5",
+   "tarih": "2026-10-11T19:00+00:00"
+  },
+  {
+   "baslik": "XRP Ledger'daki yıllanmış açık kapatıldı",
+   "ozet": "XRP Ledger'ın ödeme motorundaki bir taşma hatası, tek işlemde yaklaşık 18 trilyon harcanabilir XRP basılmasına izin verebilirdi. Açık yamalandı.",
+   "etki": "notr",
+   "coinler": [
+    "XRP"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+   "tarih": "2026-10-11T18:07+00:00"
+  },
+  {
+   "baslik": "Saylor, Strategy'nin yeni Bitcoin alımına işaret etti",
+   "ozet": "Saylor, Strategy'nin ekimin ilk haftasında Bitcoin ekleyip eklemediğine dair açıklamanın bir gün gecikeceğini belirtti. Strategy eylülü STRC geri alımlarıyla bitirmişti.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-11T17:11+00:00"
+  },
+  {
    "baslik": "BTC, ETH ve SOL ETF'lerinde ekim ayı çıkışlarla başladı",
-   "ozet": "Bitcoin ETF'lerinden ekimin ilk yedi işlem gününde 386,3 milyon dolar çıkış oldu; Ethereum fonları ise dokuz gündür üst üste kayıpta. Kurumsal talebin zayıfladığına işaret ediyor.",
+   "ozet": "Bitcoin ETF'lerinden ekimin ilk yedi işlem gününde 386,3 milyon dolar net çıkış oldu. Ethereum fonları dokuz gündür üst üste kayıpta.",
    "etki": "olumsuz",
    "coinler": [
     "BTC",
@@ -21,75 +88,8 @@
    "tarih": "2026-10-11T16:01+00:00"
   },
   {
-   "baslik": "Saylor, Strategy'nin yeni Bitcoin alımına işaret etti",
-   "ozet": "Strategy'nin ekimin ilk haftasında Bitcoin alıp almadığı bir gün gecikmeyle açıklanacak. Alım olursa şirket talebinin sürdüğü görülecek.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-11T17:11+00:00"
-  },
-  {
-   "baslik": "ABD tahvil yatırımcıları CPI ve Warsh'tan ipucu bekliyor",
-   "ozet": "Piyasa, Fed'in faiz yolu için enflasyon verisinden ve Warsh'ın açıklamalarından sinyal arıyor. Sürpriz olursa kripto oynak olabilir.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM3lYa092MnRSV0FXYUtRRjVRSHN2akl0ZzM3UWlJcjh6bXNpbVE4dHJQUDM0bS1iWklWekQ0aENwMDRCdWhZbUZMTHFOMmVrZzZzYmFIMG5BamMzSTFfTE0wVjZsWjFBZ2ZQTmFWM0h4NUZkZlVseDlCM05QSFNyczJfdk5BV1IzVmd1NXlnaTdVVnNyOXV0TmxjSW9IRFZWWkEtZlZ1c25jcXU4WXQ1QmRNbw?oc=5",
-   "tarih": "2026-10-11T19:00+00:00"
-  },
-  {
-   "baslik": "ABD enflasyonunun benzin fiyatlarıyla yükselmesi bekleniyor",
-   "ozet": "Bloomberg, genel enflasyonun yüksek benzin fiyatlarıyla artacağını öngörüyor. Yüksek enflasyon faiz endişesini artırıp riskli varlıkları baskılayabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHNUeWNTY1NneVFOYnBzR0xFeWs2eWs3UWJCODFyaEtnNDZtamJJY1pSNFpyZ2xmcmNoR3FIc1VEeVU5bXdHSktiQlVqbFZTUHlTMjlsbjZOOU9fMFVwSUZoNGxNV0toMU1Sc3VZTnRWTmtnTXNlSnVCaDNMREVnWUtOSFctdGlTZ01EU1hnRVVsd1VnaHJiNEF0d3AwQVZubko5RVNjVDlKZ3FkbnI2bHFTbWdrN2JY?oc=5",
-   "tarih": "2026-10-11T15:35+00:00"
-  },
-  {
-   "baslik": "Tahvil satışı faiz artırımlarını azaltabilir",
-   "ozet": "Tahvillerdeki satış, küresel merkez bankalarının daha az faiz artırmasına yol açabilir. Faiz baskısının hafiflemesi kripto için destekleyici olabilir.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbjNTeE9pcnEzX2I3VVY5WGw3a3kwMS1UeWhMY05hWGs0Z3N4a0tqM0hYcllJVTc4MkNOMlZYUWJJeFcwSkhIX3pwaXhYTW5SSmNMWmtKVk4zQVJuOUcwZ3pQcmt4Z2swbWF5dTFVVlgtUE5WdnpOQ1NhLUpteENKeTdHN0pvSHpiSnlwSWk2WjV2clJGMGtNd3RrbnlIT2U3bExIMl9PMjdsMW84NjBlbjAzSWJIZw?oc=5",
-   "tarih": "2026-10-11T19:00+00:00"
-  },
-  {
-   "baslik": "Fransa'daki tahvil karışıklığı Avrupa'ya bulaşma riskini artırıyor",
-   "ozet": "Fransa tahvil piyasasındaki dalgalanma Avrupa'da yayılma endişesi yaratıyor. Risk iştahının düşmesi kriptoya da yansıyabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNTFVRWpDWlEtbmdYMGwxYVVNNE4xc1NIbmp1YVFKRGlUS0lkaVF2RXE1S1ctMGJvSEtKSG80alZaZm82NDdydEsxZ2Rsa1U4T01tc3pPbkRqcGl1R0loNEJDVFBySUFhYnVmMjRjVDMxWjNqV1NuYjV6NVdQTE45WnpPc3R2QmF3dnhUQkZ5WDBJLVpLckp2VEFDZkhsTTVCbUgzUTVlbW11aTVzbTJPeGttZndSUkph?oc=5",
-   "tarih": "2026-10-11T21:00+00:00"
-  },
-  {
-   "baslik": "Orta Doğu saldırılarıyla petrol yükseldi, dolar hafif güçlendi",
-   "ozet": "Orta Doğu'daki saldırılar petrolü yukarı itti, dolar da hafif değer kazandı. Güçlü dolar genelde kripto için baskı yaratır.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSG5VZWZFeXZZQzA0WjJpbFJWMlRKTld5TzZaTC10SF9VNGxJYnRwc1IwcHdMd2MteUlTcWNQTVhmNDFpWG9leERyYXFBSXkwckc1M2xUZWxJT1R6OG9EY1BlZExjMXBsUnNkdU5LQmlIcE90d3FvOHZKLUdaaFdnOUVhYlFhV2pic05yZkxTUDE4Z3JTZ1VZc2dsNFNEWGJMMmNnUTBwRFRBQ1M5ak9yWjdn?oc=5",
-   "tarih": "2026-10-11T22:09+00:00"
-  },
-  {
-   "baslik": "Husilerin Suudi Arabistan saldırıları daha geniş savaş riskini artırıyor",
-   "ozet": "Riyad havalimanına yönelik saldırılar bölgedeki gerilimi yükseltti. Jeopolitik risk piyasalarda temkinli havayı artırabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2tOdzJva0w1UnJXWkh2WnJKaXg1N2xkTUd4d3RYa0VrblNxMW15ckgxN3VMT04tRHJCczM5Y3g1bVNLVGd4MVk2VzBNd3ozQmtDSzNoUXFMQnNWT1hVRHZra3I4UmJlbHJ4X0dTcnZiOUM0RmdpbnlFTWpTcEpoX2VOU2cxWEV0Z3BGR1oxTjJkQ2RZdnkzVzdZWnBTWXJGQTVxaUQ5NHg?oc=5",
-   "tarih": "2026-10-11T15:19+00:00"
-  },
-  {
    "baslik": "Trump Rusya ile Ukrayna arasında 'enerji ateşkesi' ilan etti",
-   "ozet": "Zelenskiy ateşkesi desteklediğini, Rusya'nın da desteklemesinin önemli olduğunu söyledi. Gerilimin azalması risk iştahı için olumlu.",
+   "ozet": "Trump iki ülke arasında enerji ateşkesi ilan etti. Zelenskiy Ukrayna'nın desteklediğini, Rusya'nın da desteklemesinin önemli olduğunu söyledi.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -97,28 +97,17 @@
    "tarih": "2026-10-11T15:40+00:00"
   },
   {
-   "baslik": "XRP Ledger'daki yıllanmış açık kapatıldı",
-   "ozet": "Ödeme motorundaki taşma hatası, tek işlemde yaklaşık 18 trilyon harcanabilir XRP basılmasına yol açabilirdi; açık yamalandı.",
-   "etki": "notr",
-   "coinler": [
-    "XRP"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
-   "tarih": "2026-10-11T18:07+00:00"
-  },
-  {
-   "baslik": "Ledger cihazlarına yönelik saldırı Avrupa'ya sıçradı",
-   "ozet": "Bir kullanıcı Avrupa'da büyük bir perakendeciden aldığı Ledger cihazının kurcalanmış olduğunu bildirdi. Cüzdan güvenliği endişesini artırıyor.",
+   "baslik": "Husilerin Suudi Arabistan saldırıları daha geniş savaş riskini artırıyor",
+   "ozet": "Husilerin Suudi Arabistan'a yönelik saldırıları bölgede daha geniş bir savaş riskini artırıyor. Jeopolitik gerilim genelde riskli varlıklarda satışa yol açabilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-11T22:57+00:00"
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa2tOdzJva0w1UnJXWkh2WnJKaXg1N2xkTUd4d3RYa0VrblNxMW15ckgxN3VMT04tRHJCczM5Y3g1bVNLVGd4MVk2VzBNd3ozQmtDSzNoUXFMQnNWT1hVRHZra3I4UmJlbHJ4X0dTcnZiOUM0RmdpbnlFTWpTcEpoX2VOU2cxWEV0Z3BGR1oxTjJkQ2RZdnkzVzdZWnBTWXJGQTVxaUQ5NHg?oc=5",
+   "tarih": "2026-10-11T15:19+00:00"
   },
   {
    "baslik": "IMF: Tokenlaştırılmış hisse talebi var ama piyasa oynak ve sığ",
-   "ozet": "Yatırımcılar blokzincir tabanlı hisseleri küçük ve mesai dışı işlemlerde kullanıyor. IMF likidite ve yasal çerçevenin henüz yetişmediğini söylüyor.",
+   "ozet": "IMF'ye göre yatırımcılar blokzincir tabanlı hisseleri küçük ve mesai dışı işlemler için kullanıyor. Likidite, hukuki kurallar ve takas sistemleri henüz yetişmiş değil.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "CoinDesk",
