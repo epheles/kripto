@@ -1,26 +1,48 @@
 {
- "guncelleme": "2026-10-13T00:10+00:00",
+ "guncelleme": "2026-10-13T01:05+00:00",
  "duygu": "olumsuz",
- "ozet": "Bitcoin 83 bin dolar civarında; 84 bin doların üstünde tutunamadı ve %2 kadar geriledi. Yükselen petrol, güçlü dolar ve yirmi yılın zirvesindeki tahvil faizleri risk iştahını sınırlıyor; Korku ve Hırs Endeksi 56'ya düştü. Strategy ve Bitmine gibi şirketlerin alımı sürüyor. Dikkat edilecek seviye: 82.500 dolar civarındaki haftalık destek.",
+ "ozet": "Bitcoin 83 bin dolar civarında; 84 bin doların üstünde tutunamadı ve yaklaşık %2 geriledi. Yükselen petrol, güçlü dolar ve yirmi yılın zirvesindeki tahvil faizleri risk iştahını sınırlıyor; Korku ve Hırs Endeksi 56'ya düştü. Strategy ve Bitmine alımlarını sürdürüyor, Moskova Borsası ve bir Güney Kore bankası Bitcoin hizmetlerine yöneliyor. Dikkat edilecek seviye: 82.500 dolar civarındaki haftalık destek.",
  "takvim": [
   "Bu hafta: ABD enflasyon (CPI) verisi. Beklentiden yüksek çıkarsa faiz endişesiyle kripto baskı altında kalabilir."
  ],
  "haberler": [
   {
-   "baslik": "Bitcoin petrol yükselince %2,2 düştü",
-   "ozet": "Ukrayna ve İran saldırıları petrolü aylık zirveye yaklaştırdı. Bitcoin 84 bin doların üstünde tutunamadı; yükselen petrol risk iştahını azaltıyor.",
+   "baslik": "Bitcoin petrol baskısıyla %2,2 geriledi",
+   "ozet": "Ukrayna ve İran'daki saldırılar petrolü bir aylık zirveye yaklaştırdı. Bitcoin 84 bin doların üstünde tutunamadı; fiyat dar bir bantta kaldı.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
    ],
    "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "link": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high",
    "tarih": "2026-10-12T16:30+00:00"
   },
   {
-   "baslik": "Bitcoin 83 bin dolar civarında, gözler enflasyon verisinde",
-   "ozet": "Faiz artırımı beklentisi azaldı ama tahvil faizleri yirmi yılın zirvesinde. Bu durum riskli varlıkların yükselişini sınırlıyor.",
+   "baslik": "Bitcoin 83 bin dolar altında, dolar güçlü",
+   "ozet": "Güçlü dolar ve yükselen tahvil faizleri piyasada risk iştahını baskılıyor. Bitcoin 83 bin doların altına indi.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
+   "tarih": "2026-10-12T11:21+00:00"
+  },
+  {
+   "baslik": "ABD enflasyon verisi öncesi 82.500 dolar desteği",
+   "ozet": "Bitcoin, haftalık önemli destek olan 82.500 dolar civarında tutunuyor. Yatırımcılar enflasyon verisinin getireceği oynaklığa hazırlanıyor.",
    "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/btc-price-support-holds-ahead-of-us-cpi-data-three-things-to-know-in-bitcoin-this-week",
+   "tarih": "2026-10-12T11:14+00:00"
+  },
+  {
+   "baslik": "Tahvil faizleri yirmi yılın zirvesinde",
+   "ozet": "Ekim'de faiz artırımı beklentisi zayıfladı ama ABD tahvil faizlerinin yirmi yılın zirvesinde olması riskli varlıkların yükselişini sınırlıyor.",
+   "etki": "olumsuz",
    "coinler": [
     "BTC"
    ],
@@ -29,8 +51,8 @@
    "tarih": "2026-10-12T11:41+00:00"
   },
   {
-   "baslik": "Korku ve Hırs Endeksi 56'ya geriledi",
-   "ozet": "Endeks ağustos zirvesindeki 82'den düştü. Petrol, tahvil faizleri ve ETF çıkışları ekim ayında Bitcoin'i baskıladı.",
+   "baslik": "Korku ve Hırs Endeksi 56'ya düştü",
+   "ozet": "Endeks ağustostaki 82 zirvesinden 56'ya geriledi. Petrol, tahvil faizleri ve ETF çıkışları Ekim'de Bitcoin'i baskılıyor.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -40,55 +62,19 @@
    "tarih": "2026-10-12T16:41+00:00"
   },
   {
-   "baslik": "Dolar üst üste dördüncü hafta değer kazandı",
-   "ozet": "Güçlü dolar genelde Bitcoin gibi riskli varlıklar için baskı yaratır.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVmlUbXdnclNKN1VnOVp1ejkzbXBXZjJaaTF3YVVXNHBpU29ueXpsa3M2TGFCQ1V5N3VXOHlBYTJ0MjhlSlVubXROb0FBVC0wb0tfczA1blhZd1VlQ1M0bE1hOW9UUk1jTWF5WlRIb2cwUHFPQnotcEZJQW5IdXVEQnRsaXZ4LTdOX3pPVndmSjVqM3hEMlNuRUY4RFF2RV84R0RF?oc=5",
-   "tarih": "2026-10-12T17:41+00:00"
-  },
-  {
-   "baslik": "ABD tahvil faizlerindeki sıçrama baskıyı artırıyor",
-   "ozet": "Faiz artışı ipotek riskinden korunma işlemlerini tetikledi ve tahvil piyasasına ek baskı getirdi.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDF3em5PS0NkZ3ZlcnJlQktDOFBTQjlhZmhpYWJ1WHRyRWlyX1dQbTJRd0FqMk52WU1zZGNvVDdJcnNCUFllLUlnUVBPVzREd3VESXpXU1dLWFpZeVQweW1RYUlqRmtfbk1DYVJ2UWt0dDVrcGUtM282UXNyR0IxejBkLWZFdHg0VF9TenZDMUc4bDZldkk0Uk82WVFObDVST2NsWE9wT0RxZF9jY1RVQg?oc=5",
-   "tarih": "2026-10-12T14:52+00:00"
-  },
-  {
-   "baslik": "Fed'den Hammack: Küçük ve sık faiz ayarı tercih edilir",
-   "ozet": "Fed yetkilisi faizde küçük ve sık adımları daha uygun buluyor. Faiz yolu piyasanın ana belirleyicisi.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTW4yaDdqVy1ES3hBYzVFYVhEV1dJVUlSZFhleVlYQmY3OHZpN2k0UTFtdWVwSjZxakdXUW5JS0RPUzJrd2tSQ2Z1TXNIZjUyRjdSM1l4aFpBbFpuNEs0M3RzR1Jic2tTbUgzU0tEcnFZQXh2Wi01QmZHRExtYnVRWlF6MW90eVA3N2dXMHdSWjJhd3pRMi1Sek1kSDJNWFB3aERZT3VTRzhXQmZsU3NYX00wcS0?oc=5",
-   "tarih": "2026-10-12T16:50+00:00"
-  },
-  {
-   "baslik": "Orta Doğu ve Ukrayna'da çatışma petrolü yükseltti",
-   "ozet": "Petrol fiyatları arttı. Yüksek petrol enflasyon endişesini canlı tutuyor ve risk iştahını zayıflatabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5",
-   "tarih": "2026-10-12T20:15+00:00"
-  },
-  {
-   "baslik": "Strategy 21,5 milyon dolarlık Bitcoin daha aldı",
-   "ozet": "Toplam varlığı 848.250 BTC'ye çıktı. Şirket ayrıca 192 milyon dolarlık STRC tercihli hissesi geri aldı.",
+   "baslik": "Strategy 250 BTC daha aldı",
+   "ozet": "Strategy 21,5 milyon dolara 250 Bitcoin aldı; toplam varlığı 848.250 BTC oldu. Şirketin 4,88 milyar dolarlık nakit rezervi de duruyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc",
-   "tarih": "2026-10-12T12:39+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy",
+   "tarih": "2026-10-12T12:31+00:00"
   },
   {
    "baslik": "Bitmine 12.532 ETH daha ekledi",
-   "ozet": "Şirketin Ethereum varlığı 6,03 milyon ETH'e, yani arzın %4,9'una ulaştı. Büyük şirket alımı ETH için destek sayılır.",
+   "ozet": "Bitmine geçen hafta 12.532 ETH aldı; toplam 6,03 milyon ETH ile arzın %4,9'una ulaştı. Şirketin yarısından fazlası (%84) stake edilmiş durumda.",
    "etki": "olumlu",
    "coinler": [
     "ETH"
@@ -98,33 +84,57 @@
    "tarih": "2026-10-12T13:43+00:00"
   },
   {
-   "baslik": "Ledger: CryptoBilis kaynaklı kayıplar izlendi",
-   "ozet": "Ledger, onaylanan tüm vakaların bir Güneydoğu Asya bayisinden alınan cihazlarla ilgili olduğunu söyledi. 93 milyon dolara kadar izlenirken 10 milyon dolar donduruldu.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
-   "tarih": "2026-10-12T12:01+00:00"
+   "baslik": "Moskova Borsası Bitcoin işlemi başlatıyor",
+   "ozet": "Moskova Borsası Bitcoin alım satımı için testlere başladı. Rusya son aylarda vatandaşlarının Bitcoin işlemi yapabilmesinin yolunu açmıştı.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
+   "tarih": "2026-10-12T22:10+00:00"
   },
   {
-   "baslik": "Standard Chartered Dubai'de Ripple'ın RLUSD'sini saklayacak",
-   "ozet": "Banka RLUSD stablecoin saklama hizmeti sunuyor ve LMAX ile teminat bağlantısı planlıyor.",
+   "baslik": "Güney Kore'de ilk Bitcoin teminatlı kredi",
+   "ozet": "Jeonbuk Bank, ülkede Bitcoin teminatlı kredi sunan ilk banka olacak. Bankacılık sisteminin Bitcoin'e açılması kurumsal kabulü artırabilir.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
+   "tarih": "2026-10-12T22:06+00:00"
+  },
+  {
+   "baslik": "Ledger cihazlarında 87 milyon dolarlık kayıp şüphesi",
+   "ozet": "Ledger, kayıpların hepsinin CryptoBilis adlı bir bayiden alınan cihazlara bağlı olduğunu söyledi. Şirket kendi sistemlerinin ve doğrudan satışların etkilenmediğini belirtiyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+   "tarih": "2026-10-12T16:32+00:00"
+  },
+  {
+   "baslik": "Evernorth Nasdaq'ta işlem görmeye başladı",
+   "ozet": "Ripple destekli Evernorth 473 milyon XRP ile borsaya girdi. SPAC yatırımcılarının %80'i çıktı ve XRP varlığının değeri anlaşma anına göre yaklaşık %40 düşük.",
+   "etki": "notr",
+   "coinler": [
+    "XRP"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
+   "tarih": "2026-10-12T18:09+00:00"
+  },
+  {
+   "baslik": "Standard Chartered Dubai'de RLUSD saklayacak",
+   "ozet": "Banka, Ripple'ın RLUSD stabilcoin'i için Dubai'de saklama hizmeti verecek. LMAX ile teminat bağlantısı da planlanıyor.",
    "etki": "olumlu",
    "coinler": [
     "XRP"
    ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
-   "tarih": "2026-10-12T12:09+00:00"
-  },
-  {
-   "baslik": "Avustralya kripto türevlerine kaldıraç sınırı öneriyor",
-   "ozet": "ASIC önerisi, kripto ile işlem gören bazı türevlere kaldıraç sınırı ve negatif bakiye koruması getirebilir.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-12T11:41+00:00"
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+   "tarih": "2026-10-12T21:16+00:00"
   }
  ]
 }
