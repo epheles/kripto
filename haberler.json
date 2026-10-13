@@ -1,15 +1,15 @@
 {
- "guncelleme": "2026-10-13T12:25+00:00",
+ "guncelleme": "2026-10-13T13:25+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin 83 bin dolar civarında, 84 bin dolar direnç olarak izleniyor; gece 82 bin doların altına inip toparlandı. Güney Kore'deki çip hisselerinin yapay zeka endişeleriyle çöküşüne rağmen Bitcoin ayrışarak dayanıklı kaldı. Güney Kore 27 kripto borsasını engellerken Rusya'da Sberbank kripto işlemine onay aldı. Yatırımcılar çarşamba günkü ABD enflasyon verisini bekliyor.",
+ "ozet": "Bitcoin 83 bin dolar civarında, 84 bin dolar direnç olarak izleniyor; gece 82 bin doların altına inip toparlandı. Güney Kore'de çip hisseleri yapay zeka endişeleriyle sert düşerken Bitcoin ayrışarak dayandı, ancak 'Uptober' beklentisi karşılanmadı ve altcoinler zayıf. Güney Kore 27 kripto borsasını engellerken Rusya'da Sberbank kripto işlemine onay aldı. Yatırımcılar çarşamba günkü ABD enflasyon verisini bekliyor.",
  "takvim": [
   "Bugün: ABD bankalarının bilanço sonuçları sürüyor (Goldman Sachs ve JPMorgan açıkladı).",
   "Çarşamba 14 Ekim: ABD enflasyon verisi. Beklentilerin üzerinde çıkarsa faiz endişesiyle kripto baskı görebilir."
  ],
  "haberler": [
   {
-   "baslik": "Güney Kore, aralarında KuCoin'in de olduğu 27 kripto borsasını engelledi",
-   "ozet": "Kayıtsız borsalara yönelik kısıtlamalar mobil uygulamalardan web sitelerine genişletildi. Kullanıcıların varlıklarını çekmekte zorlanabileceği belirtildi.",
+   "baslik": "Güney Kore, KuCoin ve Bitmart dahil 27 kripto borsasını engelledi",
+   "ozet": "Kayıtsız borsalar hedef alındı; yetkililer kullanıcıların varlıklarını çekerken zorlanabileceğini kabul etti. Bölgedeki kripto erişimi için olumsuz.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -17,8 +17,17 @@
    "tarih": "2026-10-13T11:58+00:00"
   },
   {
+   "baslik": "Federated Hermes zincir üstü fon payları çıkaracak",
+   "ozet": "911 milyar dolarlık varlık yöneticisi Prometheum ile blokzincir tabanlı fon payı sınıfları çıkarmayı planlıyor. Geleneksel finansın tokenizasyona ilgisini gösteriyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+   "tarih": "2026-10-13T11:56+00:00"
+  },
+  {
    "baslik": "Ledger: Kurtarma kelimelerini çalan gizli LTE çipi bulundu",
-   "ozet": "Ledger, bir satıcı üzerinden satılan cihazlarda 24 kelimelik kurtarma ifadesini kurulum sırasında ekrandan okuyan gizli bir çip tespit etti. Şüpheli bir 86 milyon dolarlık hırsızlıkla bağlantılı.",
+   "ozet": "Ledger, bir satıcının cihazlarındaki gizli çipin kurulum sırasında 24 kelimelik kurtarma ifadesini okuduğunu açıkladı; şüpheli 86 milyon dolarlık hırsızlık söz konusu. Donanım cüzdan güvenine zarar verebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Decrypt",
@@ -27,7 +36,7 @@
   },
   {
    "baslik": "Binance madencilik havuzunu 10 Kasım'da kapatıyor",
-   "ozet": "Binance madencilik havuzu, bulut madenciliği ve Pool Savings hizmetlerini kapatacak; madencilerden başka havuzlara geçmeleri isteniyor.",
+   "ozet": "Madencilik havuzu, bulut madenciliği ve havuz tasarrufu hizmetleri kapanıyor; madenciler başka havuzlara geçmek zorunda.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -37,8 +46,19 @@
    "tarih": "2026-10-13T11:40+00:00"
   },
   {
+   "baslik": "'Uptober' beklentisi karşılanmadı: majörler kırmızıda",
+   "ozet": "Büyük kripto paralar düşüşte, altcoinler daha sert geriledi ve zincir üstünde teslim olma işaretleri var.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
+   "tarih": "2026-10-13T11:40+00:00"
+  },
+  {
    "baslik": "İngiltere mahkemesi: 61 bin BTC için Çin hukuku geçerli",
-   "ozet": "Yüksek Mahkeme, 5 milyar dolarlık el konulmuş Bitcoin'in mağdur iddialarında Çin hukukunun geçerli olduğuna hükmetti; mülkiyet henüz belli değil. İngiltere'nin bu BTC'yi elinde tutma ihtimali arttı.",
+   "ozet": "Mahkeme, el konulan 61 bin bitcoin üzerindeki mağdur taleplerinde Çin hukukunun geçerli olduğuna karar verdi; mülkiyet henüz belli değil. İngiltere'nin bitcoinleri elinde tutma ihtimali arttı.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -48,8 +68,8 @@
    "tarih": "2026-10-13T11:38+00:00"
   },
   {
-   "baslik": "ABD enflasyon verisi öncesi piyasa temkinli",
-   "ozet": "Yatırımcılar bugünkü banka bilançoları ve çarşamba günkü ABD enflasyon verisi öncesinde pozisyon alıyor. Bitcoin ve ether dalgalanıp toparlandı.",
+   "baslik": "Bitcoin, Güney Kore borsasındaki düşüşe rağmen toparlandı",
+   "ozet": "Bitcoin ve ether kısa süre geriledi, sonra toparlandı. Yatırımcılar bugünkü banka bilançolarını ve çarşamba günkü ABD enflasyon verisini bekliyor.",
    "etki": "notr",
    "coinler": [
     "BTC",
@@ -61,40 +81,28 @@
   },
   {
    "baslik": "Rusya'nın en büyük bankası Sberbank kripto işlemine onay aldı",
-   "ozet": "Sberbank 1 Aralık'ta tüm müşterilerine kripto alım-satımını açmayı planlıyor; uygulamada BTC, ETH ve USDT işlemlerini şimdiden test ediyor.",
+   "ozet": "Banka 1 Aralık'ta tüm müşterilerine kripto alım-satımı açmayı planlıyor; BTC, ETH ve USDT işlemlerini uygulamasında test ediyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC",
-    "ETH",
-    "USDT"
+    "ETH"
    ],
    "kaynak": "CoinDesk",
    "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
    "tarih": "2026-10-13T11:02+00:00"
   },
   {
-   "baslik": "Bitcoin, Güney Kore borsasındaki çöküşten ayrıştı",
-   "ozet": "Çip hisseleri yapay zeka endişeleriyle sert düşerken Bitcoin yaz aylarındaki diplerin hayli üzerinde tutunuyor. BTC 83-84 bin dolar bandında, 84 bin dolar direnç olarak izleniyor.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
-   "tarih": "2026-10-13T10:38+00:00"
-  },
-  {
-   "baslik": "Fransa'da 100 bin euro üzeri kripto bildirimi önerisine tepki",
-   "ozet": "Öneri, 100 bin euro üzerindeki kripto varlıkların bildirilmesini istiyor. Fransa'daki 'wrench' saldırıları nedeniyle kripto sahipleri güvenlik endişesi duyuyor.",
-   "etki": "olumsuz",
+   "baslik": "Fed'den Waller: Enflasyon beklentileri kontrol altında",
+   "ozet": "Waller ABD enflasyon beklentilerinin iyi çıpalandığını söyledi. Faiz endişelerini bir miktar hafifletebilir.",
+   "etki": "olumlu",
    "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
-   "tarih": "2026-10-13T10:30+00:00"
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFBFRTZLXzRkVnlnU0FveXV5eHd5NHpLdGZ6VjY5NFBJYVUzUWJCMnAzUTJjbTVNN19yYldxQUM0M1BEQUVPRUZscFB4dTJRNUo4UlJBVzF6VE9JTDdVU1NBYVBkYlpLNE0yU2QwRkVCR21YZW5wd3ZUejdyMUhmNW82OFdlZ0RaQVlSRl9ZengxNkU0YS1WMjR6cHhGcnJjZUk0RERFSlBtT0FKLUE?oc=5",
+   "tarih": "2026-10-13T10:57+00:00"
   },
   {
    "baslik": "Metaplanet 329 milyon dolarlık tahvil ihraç edecek",
-   "ozet": "Şirket, faizsiz ve 5 yıl vadeli tahvillerle borç yapısını düzeltmeyi ve Bitcoin teminatlı kredilere bağımlılığı azaltmayı hedefliyor.",
+   "ozet": "Şirket faizsiz, 5 yıl vadeli tahvil ile borcunu yeniden yapılandıracak ve geri alım finanse edecek; Bitcoin teminatlı kredilere bağımlılığı azalacak.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -104,26 +112,19 @@
    "tarih": "2026-10-13T10:23+00:00"
   },
   {
-   "baslik": "NFT platformu Blur web sitesini kapatıyor",
-   "ozet": "Blur, işlem hacmi zirvesinden yaklaşık %99 düştükten sonra 12 Kasım'da sitesini kapatacak ve yeni Blend kredilerini durduracak.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
-   "tarih": "2026-10-13T09:12+00:00"
-  },
-  {
-   "baslik": "Fed'den Waller: Yüksek tahvil faizleri talebi soğutabilir",
-   "ozet": "Waller'a göre ABD tahvil faizlerinin yükselmesi talebi yavaşlatmaya yardımcı olabilir. Ayrıca enflasyon beklentilerinin iyi çapalandığını söyledi.",
+   "baslik": "Altı yıllık uyuyan Bitcoin balinası 378 milyon dolarlık BTC taşıdı",
+   "ozet": "Mart 2020'de cüzdana gelen 4.582 BTC hareket etti. Satış anlamına gelip gelmediği belli değil, ama piyasa dikkatle izliyor.",
    "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQakVySTZHYVRiTDREcWZ6bDZ6TWhnN1hIOU1EQTh3N2czRVFSRDFpdGkzb3I5b0dnN2l4akdXdGY1dTkxWnczMldQWXJ5TEYzc2w5eHJ3YW1TR3NtVEpMMDdhaUJKUVBuV0VzREJVOEdRZDhLbFNXYnhpRFpzTnk2S2YxNTNTSkoyV01XRGtzaXd0X2RwbXRsTnNPeUFSNFFTOElLcXp0TGdqd0NqaHc?oc=5",
-   "tarih": "2026-10-13T08:33+00:00"
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+   "tarih": "2026-10-13T05:45+00:00"
   },
   {
    "baslik": "Bitcoin 82 bin doların altına indi, tasfiyeler 771 milyon dolar",
-   "ozet": "Son 24 saatte 771 milyon dolarlık pozisyon tasfiye edildi; 685,6 milyon doları long pozisyonlardı. Sonrasında BTC 83 bin doların üzerine toparlandı.",
+   "ozet": "24 saatte 771 milyon dolarlık kripto pozisyonu tasfiye edildi; bunun 685,6 milyon doları uzun pozisyonlardı.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
