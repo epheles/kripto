@@ -1,14 +1,14 @@
 {
- "guncelleme": "2026-10-13T05:05+00:00",
+ "guncelleme": "2026-10-13T06:05+00:00",
  "duygu": "olumsuz",
- "ozet": "Bitcoin 82 bin doların altına düştü; petrol, güçlü dolar ve tahvil faizi endişeleri risk iştahını azalttı. Son 24 saatte yaklaşık 771 milyon dolarlık pozisyon tasfiye edildi ve Korku ve Hırs Endeksi 56'ya geriledi. Buna karşın Rusya ve Güney Kore'de Bitcoin'e kurumsal erişim genişliyor, Strategy alımlarını sürdürüyor.",
+ "ozet": "Bitcoin 82 bin doların altına geriledi; petrol fiyatları, güçlü dolar ve tahvil faizi endişeleri risk iştahını azalttı. Son 24 saatte 771 milyon dolarlık pozisyon tasfiye edildi ve Korku ve Hırs Endeksi 56'ya düştü. Buna karşın Rusya ve Güney Kore'de Bitcoin'e kurumsal erişim genişliyor, Strategy alımlarını sürdürüyor.",
  "takvim": [
   "Bu hafta: ABD bankalarının bilanço sonuçları ve Fed yetkililerinin açıklamaları. Faiz beklentisi değişirse kripto fiyatları oynayabilir."
  ],
  "haberler": [
   {
-   "baslik": "IMF: Tahvil faizlerinde 'düzensiz' sıçrama riski var",
-   "ozet": "IMF, artan borç ve enflasyon riskleri nedeniyle tahvil faizlerinin sert yükselebileceği uyarısını yaptı. Faiz endişesi riskli varlıklar için olumsuz.",
+   "baslik": "IMF: Tahvil faizlerinde 'düzensiz' sıçrama riski",
+   "ozet": "IMF, borç ve enflasyon riskleri arttıkça tahvil faizlerinin ani yükselebileceği uyarısında bulundu. Faiz sıçraması kripto gibi riskli varlıkları baskılayabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CNBC",
@@ -16,8 +16,8 @@
    "tarih": "2026-10-13T03:19+00:00"
   },
   {
-   "baslik": "Güney Kore, KuCoin ve MEXC dahil 27 kripto sitesini engelliyor",
-   "ozet": "Yetkililer kayıtsız borsalara yönelik kısıtlamalar getirdi. Bölgedeki düzenleme baskısı artıyor.",
+   "baslik": "Güney Kore KuCoin ve MEXC dahil 27 kripto sitesini engelliyor",
+   "ozet": "Yetkililer kayıtsız borsaları hedefliyor; kullanıcıların varlıklarını çekmekte zorlanabileceği kabul edildi.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -25,8 +25,8 @@
    "tarih": "2026-10-13T02:41+00:00"
   },
   {
-   "baslik": "Bitcoin 82 bin doların altına indi, tasfiyeler 770 milyon doları aştı",
-   "ozet": "Son 24 saatte yaklaşık 771 milyon dolarlık kripto pozisyonu zorla kapatıldı. Sert düşüş, kaldıraçlı işlem yapanlar için baskıyı artırıyor.",
+   "baslik": "Bitcoin 82 bin doların altına indi, tasfiyeler 771 milyon dolar",
+   "ozet": "Son 24 saatte 771 milyon dolarlık pozisyon tasfiye oldu; bunun 685,6 milyon doları yükseliş (long) bahsiydi. Zorunlu satışlar düşüşü hızlandırabiliyor.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -36,17 +36,19 @@
    "tarih": "2026-10-13T01:57+00:00"
   },
   {
-   "baslik": "Dolar 18 ayın zirvesine yakın seyrediyor",
-   "ozet": "Jeopolitik riskler dolara talebi artırıyor. Güçlü dolar genellikle kripto gibi riskli varlıklar üzerinde baskı yaratır.",
+   "baslik": "Dolar 18 ayın zirvesine yakın",
+   "ozet": "Jeopolitik riskler nedeniyle dolar 18 aylık zirvesine yakın seyrediyor. Güçlü dolar genelde kripto için olumsuz.",
    "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWm1heVN6cVdnOGYzY0tzaGE5SDBkWmt6TVdPLUprLXR1X0M0eWZJN3FjU3dianl6OWs5eHRXV2JvbkJlUFhIaTY5NUx2Z3hNQTR1dlNlLTNCazk1Si0yQVk0ZzA2R2VGOGdHUmk2UXZCcGlUZHpsamd5MEUyNHRxSVcwUUZ4dWtUUjFyR2JnSXZKaGZWRm9fUkxtZ9IBoAFBVV95cUxNN2NOTzZrSFRvdjhGbHdrRkxwVDljNnM2Y3Y2cTlVQms4NzE0UXdpN00xeHlSVHk2aEhVaUROZVNRWk5reTlZT0c3OS1OMFBtVy1pdkpXWFpNS2VnREtJaF82Uk1KbkZLMkxYU01yS2wwdkxZNUxsczFxLUxRVjJGUEZSSlFRS2pMTHRkMzlnWFVMbXdVMWpUc0lIVzdIT3Ry?oc=5",
-   "tarih": "2026-10-13T01:51+00:00"
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2lxTVVOV3pTUEkySWJNak9DU3lNdXR5bmRWWmxicmY0UVlFTFl3SmlERjl4LVFmTG1pSFAteVRpU2lPaXFhTTNROFlTWUgtaVRFdlliT3VYSkc1Z3REVEctSEZkSV9Sc3dabEFDb0pIcmNXdDR0MDJJMXNtNy1IUUNKS1BVWnNYd0xfM24yUFJmMkRXNUlYTmFnV2g3Z0VJWEE5Zk5MZw?oc=5",
+   "tarih": "2026-10-13T01:44+00:00"
   },
   {
-   "baslik": "Moskova Borsası Bitcoin işlemi başlatmaya hazırlanıyor",
-   "ozet": "Borsa Bitcoin alım satımı için testlere başladı. Kurumsal erişimin genişlemesi olumlu bir gelişme.",
+   "baslik": "Moskova Borsası Bitcoin işlemi başlatıyor",
+   "ozet": "Moskova Borsası Bitcoin işlemleri için test aşamasında. Rusya'da yurttaşların Bitcoin alıp satmasının yolu aylardır açılıyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -56,8 +58,8 @@
    "tarih": "2026-10-12T22:10+00:00"
   },
   {
-   "baslik": "Güney Koreli Jeonbuk Bank Bitcoin teminatlı kredi verecek",
-   "ozet": "Banka, Bitcoin'i teminat gösteren krediler sunacak. Geleneksel bankaların Bitcoin'e açılması talebi destekleyebilir.",
+   "baslik": "Güney Kore'de Jeonbuk Bank Bitcoin teminatlı kredi verecek",
+   "ozet": "Jeonbuk Bank, ülkede Bitcoin ile ilgili bu hizmeti sunan ilk banka oldu. Geleneksel finansın kripto ile bağı güçleniyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -67,8 +69,8 @@
    "tarih": "2026-10-12T22:06+00:00"
   },
   {
-   "baslik": "Fed'den Hammack: İşsizliği artırmadan enflasyonu soğutmayı umuyoruz",
-   "ozet": "Fed yetkilisi Hammack talebin ve enflasyonun işgücü piyasasına zarar vermeden soğutulmasını umduğunu söyledi. Faiz yolu piyasanın ana belirleyicisi.",
+   "baslik": "Fed'den Hammack: İşsizlik artmadan enflasyonu soğutmak umuyoruz",
+   "ozet": "Fed yetkilisi Hammack, iş piyasasına zarar vermeden talebi ve enflasyonu düşürmeyi umduğunu söyledi. Faiz yönü hâlâ belirsiz.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Reuters",
@@ -76,8 +78,8 @@
    "tarih": "2026-10-12T21:37+00:00"
   },
   {
-   "baslik": "Standard Chartered Dubai'de Ripple'ın RLUSD stablecoin'ini saklayacak",
-   "ozet": "Bankanın Dubai şubesi RLUSD için saklama hizmeti sunuyor. Stablecoin'lerin bankacılığa girişi olumlu bir işaret.",
+   "baslik": "Standard Chartered Dubai'de Ripple'ın RLUSD stabil parasını saklayacak",
+   "ozet": "Banka RLUSD saklama hizmeti veriyor; kurumların teminat olarak kullanması için LMAX ile bağlantı planlıyor.",
    "etki": "olumlu",
    "coinler": [
     "XRP"
@@ -87,26 +89,30 @@
    "tarih": "2026-10-12T21:16+00:00"
   },
   {
-   "baslik": "Kripto Korku ve Hırs Endeksi 56'ya geriledi",
-   "ozet": "Endeks, ağustos zirvesindeki 82'den 56'ya indi. Piyasadaki iştah belirgin biçimde azaldı.",
+   "baslik": "Bitcoin madencilerinin yapay zeka yatırımı için 50 milyar dolara ihtiyacı var",
+   "ozet": "IREN, Riot ve HIVE gibi şirketlerin planlanan yapay zeka altyapısı için büyük finansman açıkları var; borç verenler anlaşmaları daha sıkı inceliyor.",
    "etki": "olumsuz",
-   "coinler": [],
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-12T16:51+00:00"
+  },
+  {
+   "baslik": "Korku ve Hırs Endeksi 56'ya geriledi",
+   "ozet": "Endeks ağustos zirvesindeki 82'den 56'ya düştü. Petrol, tahvil faizleri ve ETF çıkışları ekimde Bitcoin'i baskılıyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
    "kaynak": "Decrypt",
    "link": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
    "tarih": "2026-10-12T16:41+00:00"
   },
   {
-   "baslik": "Ledger: 87 milyon dolarlık şüpheli kayıp bayi kaynaklı",
-   "ozet": "Ledger, doğrulanan tüm vakaların bayi CryptoBilis ile bağlantılı olduğunu, kendi sistemlerinin ve doğrudan satışların etkilenmediğini açıkladı.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
-   "tarih": "2026-10-12T16:32+00:00"
-  },
-  {
-   "baslik": "Petrol yükselirken Bitcoin %2,2 düştü",
-   "ozet": "Ukrayna ve İran kaynaklı saldırılar petrolü bir aylık zirveye yaklaştırdı. Bitcoin 84 bin doların üzerinde tutunamadı ve yatay seyirde geriledi.",
+   "baslik": "Petrol yükseldi, Bitcoin %2,2 düştü",
+   "ozet": "Ukrayna ve İran kaynaklı saldırılar petrolü yükseltti; Bitcoin 84 bin doların üzerinde tutunamadı. Petrol arttıkça risk iştahı azalıyor.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -117,7 +123,7 @@
   },
   {
    "baslik": "Strategy 21,5 milyon dolarlık Bitcoin daha aldı",
-   "ozet": "Şirket düşüşe rağmen Bitcoin biriktirmeyi sürdürüyor.",
+   "ozet": "Şirket 5-11 Ekim arasında 250 BTC aldı ve haftalık alıma geri döndü.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
