@@ -1,15 +1,23 @@
 {
- "guncelleme": "2026-10-13T22:05+00:00",
+ "guncelleme": "2026-10-13T23:10+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin 81-84 bin dolar bandında; gün içinde 81 bin doların altına inip toparlandı, 84 bin dolar direnç olarak izleniyor. Çip hisselerindeki satış ve yükselen tahvil faizleri risk iştahını zayıflatırken, Strive'ın büyük alımı ve Fed'den Williams'ın faiz artışına şimdilik gerek görmemesi destekleyici. Ledger cihazlarındaki gizli çip olayı güvenlik endişesini artırıyor.",
+ "ozet": "Bitcoin 81-84 bin dolar bandında gidip geliyor; gün içinde 81 bin doların altına inip toparlandı, 84 bin dolar direnç olarak izleniyor. Güney Kore'den başlayan çip ve teknoloji hissesi satışı ile yüksek tahvil faizleri risk iştahını zayıflatıyor. Strive'ın 280 milyon dolarlık alımı ve Fed'den Williams'ın 2027'de faiz artışı görmemesi destekleyici. Ledger cihazlarındaki casus çip olayı güvenlik endişesini artırıyor.",
  "takvim": [
-  "Çarşamba 14 Ekim: ABD Eylül enflasyon (TÜFE) verisi. Manşet enflasyon yüksek gelirse faiz beklentisi sertleşip kripto baskı görebilir.",
-  "1 Aralık: Sberbank'ın kripto işlemini tüm müşterilerine açması planlanıyor."
+  "Çarşamba 14 Ekim: ABD Eylül enflasyon (TÜFE) verisi. Manşet rakamın belirgin artması, çekirdeğin yavaşlaması bekleniyor; beklentiden yüksek çıkarsa faiz endişesi kriptoyu aşağı çekebilir."
  ],
  "haberler": [
   {
+   "baslik": "Trezor, Ledger olayı sonrası bayi sayısını azaltıyor",
+   "ozet": "Trezor, Ledger'daki cihaz kurcalama iddialarının ardından yetkili bayilerini 1 Ocak'tan itibaren listeden çıkaracak. Cüzdan güvenliği endişesi sürüyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-13T19:07+00:00"
+  },
+  {
    "baslik": "Strive 280 milyon dolarlık Bitcoin aldı",
-   "ozet": "Strive, ortalama yaklaşık 84.500 dolardan alım yaptı ve toplam Bitcoin'ini 32.773 BTC'ye çıkardı. Şirket alımları talebi destekleyebilir.",
+   "ozet": "Nasdaq'ta işlem gören Strive, ortalama yaklaşık 84.500 dolardan Bitcoin aldı ve toplam varlığını 32.773 BTC'ye çıkardı. Zayıf bir haftada kurumsal alım desteği.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -19,17 +27,19 @@
    "tarih": "2026-10-13T18:15+00:00"
   },
   {
-   "baslik": "Fed'den Williams: 2027'de faiz artışına gerek yok",
-   "ozet": "Williams, şimdilik 2027'de faiz artırmaya gerek görmediğini söyledi. Faiz artışı endişesini azaltması riskli varlıklara destek olabilir.",
+   "baslik": "Fed'den Williams: 2027'de faiz artışına şimdilik gerek yok",
+   "ozet": "Başlığa göre Fed'den Williams, 2027'de faiz artışı görmüyor. Faiz artışı korkusunu azaltması riskli varlıklar için destekleyici olabilir.",
    "etki": "olumlu",
-   "coinler": [],
+   "coinler": [
+    "BTC"
+   ],
    "kaynak": "Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb01adkN2OHdNQWZjaW9DMVk0NlotU0RrVkV2dGVDZDc5WTY5aEJmemJtSjY1eTJNRjM1UzY1OUlBMXNHQ0FBd09mV3ZXdWJlZXZhY2N6Sng3QnRNcW5FY1cyU216SmNtVUNIcEd4TFR4aHR1cGR1eU1CYkZOdjQ0SndhRzJKdWc0aGM1cnlTSWpHZnJJbEtrZVduWl9fSmJObDNFT2k5UXREWWtBT3J3?oc=5",
    "tarih": "2026-10-13T18:06+00:00"
   },
   {
-   "baslik": "Bitcoin 81 bin doların altına indi, alıcılar toparladı",
-   "ozet": "Bitcoin kısa süre 81.000 doların altına sarktı, sonra alıcılar devreye girdi. Korku ve Açgözlülük Endeksi'ne göre yatırımcılar henüz tam ikna olmuş değil.",
+   "baslik": "Bitcoin 81 bin doların altından toparlandı",
+   "ozet": "Bitcoin 81.000 doların altına indikten sonra alıcılar geldi; ancak Korku ve Açgözlülük Endeksi yatırımcıların hâlâ temkinli olduğunu gösteriyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -39,8 +49,8 @@
    "tarih": "2026-10-13T16:46+00:00"
   },
   {
-   "baslik": "PIMCO: ABD tahvil faizi zirvesi henüz görülmedi",
-   "ozet": "PIMCO'dan Ivascyn, Fed'in yeniden faiz artırabileceğini ve ABD tahvil faizlerinde zirvenin önümüzde olduğunu söyledi. Yüksek faiz kripto gibi riskli varlıklara baskı yapabilir.",
+   "baslik": "PIMCO: ABD tahvil faizlerinin zirvesi henüz görülmedi",
+   "ozet": "Başlığa göre PIMCO'dan Ivascyn, Fed'in yeniden sıkılaştırabileceğini ve tahvil faizi zirvesinin ileride olduğunu söylüyor. Yüksek faiz riskli varlıklar için baskı demektir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -48,8 +58,8 @@
    "tarih": "2026-10-13T16:28+00:00"
   },
   {
-   "baslik": "Çip hisselerinde sert satış, yapay zekâ rallisi sorgulanıyor",
-   "ozet": "Çip hisseleri 'acımasız bir seans' yaşadı; yapay zekâ alımlarının yön değiştirdiği yorumu yapılıyor. Risk iştahının zayıflaması kriptoya da baskı yapabilir.",
+   "baslik": "Çip hisselerinde 'acımasız seans'",
+   "ozet": "Çip hisselerindeki sert satış, yapay zekâ rallisinin yön değiştirdiği endişesini artırdı. Hisselerdeki zayıflık kriptoya da baskı yapabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -57,8 +67,19 @@
    "tarih": "2026-10-13T16:15+00:00"
   },
   {
-   "baslik": "Interactive Brokers müşterilerine Ethereum stake imkânı sundu",
-   "ozet": "Uygun müşteriler artık Client Portal üzerinden zerohash aracılığıyla ETH stake edebiliyor. Kripto hizmetlerinin geleneksel aracı kurumlarda yayılması olumlu bir işaret.",
+   "baslik": "Ripple ve Privy, XRP Ledger'a gömülü cüzdan getiriyor",
+   "ozet": "Geliştiriciler Privy üzerinden uygulamalarına XRP, RLUSD ve yapay zekâ ajanı ödemeleri destekleyen XRPL cüzdanları ekleyebilecek.",
+   "etki": "olumlu",
+   "coinler": [
+    "XRP"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
+   "tarih": "2026-10-13T16:00+00:00"
+  },
+  {
+   "baslik": "Interactive Brokers müşterilerine ETH stake imkânı getirdi",
+   "ozet": "Uygun müşteriler Client Portal üzerinden zerohash aracılığıyla Ether stake edebilecek. Ana akım aracı kurumlarda kripto hizmeti genişliyor.",
    "etki": "olumlu",
    "coinler": [
     "ETH"
@@ -68,8 +89,20 @@
    "tarih": "2026-10-13T15:24+00:00"
   },
   {
-   "baslik": "Güney Kore 27 kripto borsasını engelledi",
-   "ozet": "Güney Kore, Bitmart ve Kucoin dahil kayıtsız 27 kripto borsasının web sitelerine erişimi engelledi. Bu, ülkedeki kripto erişimine yönelik sıkılaşan denetimi gösteriyor.",
+   "baslik": "Rusya, Sberbank'a kripto işlemi izni verdi",
+   "ozet": "Rusya'nın en büyük bankası Sberbank kripto borsası yetkisi aldı; Bitcoin, Ether ve USDT işlemi sunmaya hazırlanıyor. Aralık'ta başlaması planlanıyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC",
+    "ETH"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-13T12:22+00:00"
+  },
+  {
+   "baslik": "Güney Kore, aralarında Bitmart ve KuCoin'in olduğu 27 borsayı engelledi",
+   "ozet": "Düzenleyiciler kayıtsız borsalara karşı kısıtlamaları mobil uygulamalardan web sitelerine genişletti.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -77,50 +110,19 @@
    "tarih": "2026-10-13T11:58+00:00"
   },
   {
-   "baslik": "Ledger'da cüzdan kurtarma kelimelerini çalan gizli çip bulundu",
-   "ozet": "Ledger, bazı cihazlardaki gizli LTE çipinin kurulum sırasında 24 kelimelik kurtarma ifadesini okuduğunu söyledi; olay yaklaşık 86 milyon dolarlık bir hırsızlıkla ilişkilendiriliyor. Donanım cüzdanı güvenliği endişesi arttı.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-   "tarih": "2026-10-13T11:53+00:00"
-  },
-  {
-   "baslik": "Binance madencilik havuzunu ve bulut madenciliğini kapatıyor",
-   "ozet": "Binance, madencilik havuzu, bulut madenciliği ve Pool Savings hizmetlerini 10 Kasım'da kapatacak.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410",
-   "tarih": "2026-10-13T11:40+00:00"
-  },
-  {
-   "baslik": "Rusya'nın en büyük bankası Sberbank kripto işlemi için onay aldı",
-   "ozet": "Sberbank, 1 Aralık'ta tüm müşterilerine kripto işlemi açmayı planlıyor ve uygulamasında BTC, ETH ve USDT işlemlerini test ediyor. Düzenli kanaldan yeni alıcı gelmesi kripto için olumlu.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC",
-    "ETH",
-    "USDT"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
-   "tarih": "2026-10-13T11:02+00:00"
-  },
-  {
-   "baslik": "İngiltere, 61.000 Bitcoin'lik el koymayı elinde tutmaya yaklaştı",
-   "ozet": "Yüksek Mahkeme, el konulan 61.000 BTC üzerindeki mağdur taleplerine Çin hukukunun uygulanacağına hükmetti; mülkiyet henüz kesinleşmedi. Hükümetin bu Bitcoin'leri elinde tutma ihtimali arttı.",
+   "baslik": "İngiltere mahkemesi: 61 bin BTC davasında Çin hukuku geçerli",
+   "ozet": "Yüksek Mahkeme, el konulan yaklaşık 5 milyar dolarlık Bitcoin için mağdur taleplerinde Çin hukukunun geçerli olduğuna karar verdi; mülkiyet kararı henüz verilmedi.",
    "etki": "notr",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
-   "tarih": "2026-10-13T10:51+00:00"
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
+   "tarih": "2026-10-13T11:38+00:00"
   },
   {
-   "baslik": "Bitcoin 83 bin dolar civarında, gözler Çarşamba'daki enflasyon verisinde",
-   "ozet": "Eylül ayı TÜFE verisi Çarşamba açıklanacak; ekonomistler manşet enflasyonda belirgin artış bekliyor. Bitcoin veri öncesi dar bir bantta işlem görüyor.",
+   "baslik": "Bitcoin 81 bin ile 84 bin dolar arasında gidip geliyor",
+   "ozet": "Altcoinler zayıf. Çarşamba günü açıklanacak Eylül enflasyon (TÜFE) verisinde manşet rakamın belirgin yükselmesi, çekirdek enflasyonun ise yavaşlaması bekleniyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -128,6 +130,26 @@
    "kaynak": "CoinDesk",
    "link": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
    "tarih": "2026-10-13T10:46+00:00"
+  },
+  {
+   "baslik": "Güney Kore'deki teknoloji satışı Bitcoin'i 84 bin dolarda tuttu",
+   "ozet": "Güney Kore'de çip ve teknoloji hisseleri sert düştü, KOSPI geriledi. Bitcoin 84.000 dolar direncinin altında kaldı.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-13T09:42+00:00"
+  },
+  {
+   "baslik": "Ledger: Sahte cihazlardaki casus çip cüzdan anahtarlarını gönderdi",
+   "ozet": "Ledger, CryptoBilis üzerinden satılan cihazlarda mobil ağ üzerinden anahtar ileten gizli bir çip bulduğunu açıkladı. MediaMarkt Avrupa'da satışları durdurdu.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+   "tarih": "2026-10-13T09:27+00:00"
   }
  ]
 }
