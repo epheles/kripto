@@ -1,12 +1,12 @@
 {
- "guncelleme": "2026-10-14T01:05+00:00",
+ "guncelleme": "2026-10-14T02:05+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin 81-84 bin dolar bandında; kısa süre 81 bin doların altına indi ama alıcılar geldi. Yapay zekâ hisselerindeki satış ve Fed'in faiz artışı konusundaki karışık sinyalleri piyasayı temkinli tutuyor. Öte yandan Strive gibi şirketlerin alımları fiyatı destekliyor. Korku ve Açgözlülük Endeksi tarafında yatırımcılar henüz ikna olmuş görünmüyor.",
+ "ozet": "Bitcoin 81-84 bin dolar bandında; kısa süre 81 bin doların altına indi ama alıcılar geldi. Çip hisselerindeki satış ve Fed yetkililerinin faiz artışı konusundaki farklı sinyalleri piyasayı temkinli tutuyor. Strive gibi şirketlerin alımları fiyatı destekliyor. Ledger cüzdanlarındaki gizli çip haberi güvenlik endişesi yarattı.",
  "takvim": [],
  "haberler": [
   {
    "baslik": "Strive, Bitcoin almak için 500 milyon dolar toplayacak",
-   "ozet": "Strive, yeni bir imtiyazlı hisse sınıfı (SATS) ile 500 milyon dolar toplayıp daha fazla Bitcoin almayı planlıyor. Hisse sabit %15 temettü verecek.",
+   "ozet": "Strive, yeni bir imtiyazlı hisse sınıfı (SATS) çıkarıp 500 milyon dolar toplayarak daha fazla Bitcoin almayı planlıyor. Şirket alımları fiyata destek veriyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -17,8 +17,8 @@
   },
   {
    "baslik": "Binance madencilik havuzunu kapatıyor",
-   "ozet": "Binance, Binance Pool, bulut madenciliği ve ilgili hizmetleri kapatacak. Haberde kapanış tarihi 10 Kasım olarak veriliyor.",
-   "etki": "olumsuz",
+   "ozet": "Binance, Binance Pool, bulut madenciliği ve ilgili hizmetlerini sonlandırıyor; madencilik altyapısından çekiliyor.",
+   "etki": "notr",
    "coinler": [
     "BTC"
    ],
@@ -28,7 +28,7 @@
   },
   {
    "baslik": "Fed'den Collins: 2026 bitmeden bir faiz artışı daha masada",
-   "ozet": "Fed yetkilisi Collins, yıl sonuna kadar bir faiz artışı daha olabileceğini söyledi. Daha yüksek faiz beklentisi kripto için baskı yaratabilir.",
+   "ozet": "Fed yetkilisi Collins yıl bitmeden bir faiz artışı daha olabileceğini söyledi. Yüksek faiz kripto gibi riskli varlıklara baskı yapabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -37,7 +37,7 @@
   },
   {
    "baslik": "Fed'den Williams: 2027'de faiz artışına gerek görmüyorum",
-   "ozet": "Fed yetkilisi Williams, 2027'de faiz artırmaya şu an gerek görmediğini söyledi. Faizlerin yükselmeyeceği beklentisi kripto gibi riskli varlıklar için destekleyici olabilir.",
+   "ozet": "Williams, 2027'de faiz artışı gerekmeyebileceğini söyledi; bu, piyasadaki beklentilerle çelişiyor. Daha ılımlı bir duruş kripto için olumlu okunabilir.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Reuters",
@@ -45,8 +45,19 @@
    "tarih": "2026-10-13T19:23+00:00"
   },
   {
+   "baslik": "Strive 3.311 BTC aldı: 280 milyon dolarlık alım",
+   "ozet": "Strive, ortalama yaklaşık 84.500 dolardan Bitcoin aldı ve toplam varlığını 32.773 BTC'ye çıkardı. Piyasanın zayıf olduğu bir haftada yapılan alım destek sağlıyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+   "tarih": "2026-10-13T18:15+00:00"
+  },
+  {
    "baslik": "Bitcoin 81 bin doların altına indi, alıcılar devreye girdi",
-   "ozet": "Bitcoin kısa süre 81.000 doların altına sarktı, ardından alıcılar geldi. Korku ve Açgözlülük Endeksi, yatırımcıların hâlâ ikna olmadığını gösteriyor.",
+   "ozet": "Bitcoin kısa süre 81 bin doların altına düştü, sonra alıcılar geldi. Korku ve Açgözlülük Endeksi yatırımcıların henüz ikna olmadığını gösteriyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -57,8 +68,8 @@
   },
   {
    "baslik": "Bitcoin 84 bin dolar çevresinde direniyor",
-   "ozet": "Bitcoin, Güney Kore'deki teknoloji hisselerindeki sert düşüşe rağmen ABD borsaları toparlayınca gece kazançlarını korudu ve 84 bin dolar civarında tutundu.",
-   "etki": "olumlu",
+   "ozet": "Kore'deki teknoloji hisse satışına rağmen ABD hisseleri toparlandı, Bitcoin gece kazançlarını korudu ve 84 bin dolar seviyesine yaklaştı.",
+   "etki": "notr",
    "coinler": [
     "BTC"
    ],
@@ -67,8 +78,47 @@
    "tarih": "2026-10-13T15:27+00:00"
   },
   {
+   "baslik": "Çip hisselerinde sert düşüş: yapay zekâ rallisi yön değiştiriyor olabilir",
+   "ozet": "Nasdaq çip hisselerindeki satışla düşüşle kapandı. Risk iştahının azalması kriptoya da baskı yapabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5",
+   "tarih": "2026-10-13T18:04+00:00"
+  },
+  {
+   "baslik": "Ledger: Cüzdanlarda kurtarma kelimelerini çalan gizli çip bulundu",
+   "ozet": "Ledger, bir bayiden satılan cihazlarda kurtarma kelimelerini çalan gizli bir çip buldu; yaklaşık 86 milyon dolarlık bir hırsızlıktan şüpheleniliyor. Trezor da bayi yetkilerini 1 Ocak 2027'de sonlandıracak.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+   "tarih": "2026-10-13T11:53+00:00"
+  },
+  {
+   "baslik": "Güney Kore 27 kripto borsasına erişimi engelledi",
+   "ozet": "Güney Kore, aralarında Bitmart ve Kucoin'in de olduğu kayıtsız 27 borsanın internet sitelerini engelledi.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+   "tarih": "2026-10-13T11:58+00:00"
+  },
+  {
+   "baslik": "Rusya Sberbank'a kripto alım-satım izni verdi",
+   "ozet": "Rusya'nın en büyük bankası Sberbank, Aralık'ta Bitcoin, Ether ve Tether alım-satımı sunmaya başlayacak.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC",
+    "ETH"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-13T12:22+00:00"
+  },
+  {
    "baslik": "Interactive Brokers müşterilerine Ethereum stake imkânı getirdi",
-   "ozet": "Interactive Brokers, uygun müşterilerin ETH'yi Zerohash aracılığıyla stake etmesine izin vermeye başladı. Büyük aracı kurumların kripto hizmetini genişletmesi olumlu bir işaret.",
+   "ozet": "Uygun müşteriler artık Client Portal üzerinden Zerohash aracılığıyla ETH stake edebiliyor.",
    "etki": "olumlu",
    "coinler": [
     "ETH"
@@ -78,55 +128,13 @@
    "tarih": "2026-10-13T15:24+00:00"
   },
   {
-   "baslik": "Strive 3.311 BTC aldı: 280 milyon dolarlık alım",
-   "ozet": "Strive 5-9 Ekim arasında 3.311 BTC satın aldı ve toplam varlığı 32.773 BTC'ye çıktı. Kurumsal alım fiyatı destekleyen bir unsur.",
+   "baslik": "BNY ve Citadel Securities tokenlaştırılmış ABD tahvili test etti",
+   "ozet": "İki kurum, blokzincir tabanlı devlet tahvillerini teminat işlemlerini hızlandırmak için denedi; geleneksel finansın zincir üstüne yaklaştığını gösteriyor.",
    "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
-   "tarih": "2026-10-13T13:42+00:00"
-  },
-  {
-   "baslik": "Rusya Sberbank'a kripto alım-satım izni verdi",
-   "ozet": "Rusya'nın en büyük bankası Sberbank kripto borsası yetkisi aldı. Aralık ayında Bitcoin, Ether ve USDt işlemi sunmaya hazırlanıyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC",
-    "ETH",
-    "USDT"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-13T12:22+00:00"
-  },
-  {
-   "baslik": "Küresel yapay zekâ satışı Nasdaq vadelilerini düşürdü",
-   "ozet": "Yapay zekâ hisselerindeki satış dalgası sertleşti ve Nasdaq vadelileri geriledi. Riskli varlıklardaki bu hava kripto için de baskı yaratabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaV9QVFVsbXRmd3pZTmU1SjAtTnJNT2ZoZ1QyUUpJUWc2eG5YS1lDaTA1bEZoc21DWUxTWTBOd1UtWE5wcDgtNklJMzM5VWhhTkdyV3JCVVJrVU9YY1ExaklxLU9sOHFvX1pkT2o0cVJkZ3dTbnBtT1VfdnZ3Qm43VUF0dWR2OXY3X0RiTGNhWC0wV2JqdF9VazU1UDI?oc=5",
-   "tarih": "2026-10-13T11:58+00:00"
-  },
-  {
-   "baslik": "Güney Kore 27 kripto borsasına erişimi engelledi",
-   "ozet": "Güney Kore, aralarında Bitmart ve Kucoin'in de bulunduğu kayıtsız 27 borsayı engelledi. Önceden mobil uygulamalara getirilen kısıtlar artık web sitelerini de kapsıyor.",
-   "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
-   "tarih": "2026-10-13T11:58+00:00"
-  },
-  {
-   "baslik": "Ledger: Cüzdanlarda kurtarma kelimelerini çalan gizli çip bulundu",
-   "ozet": "Ledger, bir bayinin sattığı cihazlarda 24 kelimelik kurtarma ifadesini ekrandan okuyan gizli bir çip buldu. Olayın yaklaşık 86 milyon dolarlık hırsızlıkla bağlantılı olduğu şüpheleniliyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
-   "tarih": "2026-10-13T11:53+00:00"
+   "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+   "tarih": "2026-10-13T21:52+00:00"
   }
  ]
 }
