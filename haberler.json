@@ -1,7 +1,7 @@
 {
- "guncelleme": "2026-10-14T10:05+00:00",
+ "guncelleme": "2026-10-14T11:10+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin 84.000 dolara doğru yükseldi; Fed'den Williams'ın 2027'de faiz artışı görmemesi iyi geldi. Ancak Collins'in yıl bitmeden bir artış daha görmesi, yüksek benzin fiyatları ve Orta Doğu'daki gerilim temkini koruyor. Perşembe günkü ABD enflasyon verisi piyasanın ana odağı.",
+ "ozet": "Bitcoin 84.000 dolara doğru yükseldi; Fed'den Williams'ın 2027'de faiz artışı görmemesi iyi geldi. Ancak Williams ve Collins yakın zamanda bir artış daha olabileceğini söylüyor; yüksek benzin fiyatları ve Orta Doğu'daki gerilim temkini koruyor. Perşembe günkü ABD enflasyon verisi piyasanın ana odağı.",
  "takvim": [
   "Perşembe 15 Ekim: ABD enflasyon verisi. Beklentinin üstünde gelirse faiz artışı endişesi kripto fiyatlarını baskılayabilir.",
   "Çarşamba 21 Ekim: Solana'nın Alpenglow güncellemesi."
@@ -19,6 +19,15 @@
    "tarih": "2026-10-14T05:24+00:00"
   },
   {
+   "baslik": "Fed'den Williams: Faiz bir kez daha artabilir",
+   "ozet": "New York Fed Başkanı Williams, ABD merkez bankasının faizi bir kez daha artırması gerekebileceği görüşünü yineledi. Yüksek faiz kripto gibi riskli varlıklar için baskı demektir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-14T05:30+00:00"
+  },
+  {
    "baslik": "Solana'da Alpenglow güncellemesi 21 Ekim'de",
    "ozet": "Yeni sistem doğrulayıcı oylamasını değiştirecek ve yaklaşık 150 milisaniyelik işlem kesinliğini hedefliyor.",
    "etki": "olumlu",
@@ -31,7 +40,7 @@
   },
   {
    "baslik": "Yüksek benzin fiyatları ABD enflasyonunu artırabilir",
-   "ozet": "Eylül tüketici enflasyonunun benzin fiyatları nedeniyle yükselmesi bekleniyor. Yüksek enflasyon faiz artışı beklentisini güçlendirip kripto üzerinde baskı yaratabilir.",
+   "ozet": "Eylül enflasyonunun yüksek benzin fiyatları nedeniyle yükselmesi bekleniyor. Perşembe günkü veri faiz beklentilerini ve kripto fiyatlarını etkileyebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -40,7 +49,7 @@
   },
   {
    "baslik": "Bitcoin 84.000 dolara yaklaştı",
-   "ozet": "Fed'den Williams'ın 2027'de faiz artışı görmediğini söylemesi sonrası ZEC öncülüğünde geniş bir toparlanma yaşandı. Gözler Perşembe günkü ABD enflasyon verisinde.",
+   "ozet": "Williams'ın 2027'de faiz artışı görmemesi sonrası Bitcoin yükseldi; ZEC öncülüğünde büyük coinlerde toparlanma var. Piyasa Perşembe günkü ABD enflasyon verisini bekliyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC",
@@ -52,7 +61,7 @@
   },
   {
    "baslik": "Coinbase: Bitcoin kuantum bilgisayarlara şimdiden hazırlansın",
-   "ozet": "Coinbase esnek adres tasarımları ve yedek bir kuantum dayanıklı anahtar öneriyor. Fonların yeni imzalara taşınması için erken hazırlık çağrısı yapıyor.",
+   "ozet": "Coinbase, Bitcoin'in imza yöntemlerini ve fonların yeni adreslere taşınmasını erkenden planlamasını istedi.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -62,8 +71,17 @@
    "tarih": "2026-10-14T02:49+00:00"
   },
   {
+   "baslik": "Bitwise: 3. çeyrekte 'kripto baharı' işaretleri var",
+   "ozet": "Bitwise'tan Matt Hougan, takip ettikleri neredeyse tüm temel göstergelerin sert yükseldiğini söyledi.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-14T02:19+00:00"
+  },
+  {
    "baslik": "Filipinler'in en büyük borsası Coins.ph merkez bankası baskısında",
-   "ozet": "18 milyondan fazla müşterisi olan borsanın, kısıtlı yurt dışı kumar şirketleriyle işlemlere aracılık ettiği öne sürülüyor.",
+   "ozet": "18 milyondan fazla müşterisi olan borsanın, kısıtlı kumar sitelerine ilişkin işlemler nedeniyle düzenleyici işlemle karşılaşabileceği belirtiliyor.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -72,7 +90,7 @@
   },
   {
    "baslik": "Aramco merkezi Husi füzeleriyle vuruldu",
-   "ozet": "Suudi Arabistan'daki Aramco merkezine Husi füzeleri isabet etti. Orta Doğu'daki gerginlik petrol ve risk iştahı üzerinden piyasalara yansıyabilir.",
+   "ozet": "Suudi Arabistan'daki Aramco merkezine yönelik saldırı Orta Doğu'daki gerilimi artırdı. Petrol ve enflasyon endişesi riskli varlıkları baskılayabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg.com",
@@ -80,8 +98,8 @@
    "tarih": "2026-10-13T23:32+00:00"
   },
   {
-   "baslik": "Ledger, Güneydoğu Asya ve Hong Kong'da satışları durdurmasını istedi",
-   "ozet": "Cüzdan üreticisi, kurcalanmanın nerede olduğu araştırılırken bayilerden cihazları raflardan kaldırmalarını istedi.",
+   "baslik": "Ledger, Güneydoğu Asya ve Hong Kong'da satışların durdurulmasını istedi",
+   "ozet": "Cüzdan üreticisi, kurcalamanın nerede olduğu araştırılırken cihazların raflardan kaldırılmasını istedi.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -90,7 +108,7 @@
   },
   {
    "baslik": "Strive, Bitcoin almak için 500 milyon dolar toplayacak",
-   "ozet": "Şirket yeni bir imtiyazlı hisse sınıfı (SATS) çıkaracak; sabit %15 temettü verecek. Gelir ek Bitcoin alımında kullanılacak.",
+   "ozet": "Şirket, yüzde 15 sabit temettülü yeni bir imtiyazlı hisse sınıfıyla kaynak yaratıp bunu Bitcoin alımında kullanacak.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -101,7 +119,7 @@
   },
   {
    "baslik": "BNY ve Citadel Securities tokenize ABD tahvilini test etti",
-   "ozet": "Blokzincir tabanlı devlet tahvilleri, işlem firmalarının teminatı daha hızlı taşımasına yardımcı olabilir.",
+   "ozet": "Blockchain tabanlı devlet tahvilleri, teminatın daha hızlı taşınmasını sağlayabilir.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -110,7 +128,7 @@
   },
   {
    "baslik": "Binance, Bitcoin madencilik havuzunu kapatıyor",
-   "ozet": "Binance Pool, Pool Savings ve Cloud Mining gibi hizmetler sonlandırılacak; borsa madencilik altyapısından çekiliyor.",
+   "ozet": "Binance Pool, Pool Savings ve Cloud Mining gibi hizmetler sonlandırılacak; şirket madencilik altyapısından çekiliyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -118,15 +136,6 @@
    "kaynak": "Decrypt",
    "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
    "tarih": "2026-10-13T20:16+00:00"
-  },
-  {
-   "baslik": "Fed'den Collins: Yıl bitmeden bir faiz artışı daha masada",
-   "ozet": "Collins 2026 sona ermeden bir artış daha olabileceğini söyledi. Faiz artışı beklentisi kripto gibi riskli varlıklar için olumsuz.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNoWUtZWjdLcTc2ZmNycnptRmR1cmluWThZU2ZTYU5JUkdaazY1Z2hEdjIxNWZ3VU5RSVZvejc3VnlueGZoN0JyNlNmdkptQk9ZNEZqU1MyLTNUblpOaF9FMkdGbnZhX1hTVllLTzYxNFEwamlyazZKem00N1k1UFBablNQSVRCZTgySWNNR3pHemxzSEl1S0VBeE1DQlYyS0Ntdw?oc=5",
-   "tarih": "2026-10-13T20:08+00:00"
   }
  ]
 }
