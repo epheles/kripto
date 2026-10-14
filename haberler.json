@@ -1,14 +1,15 @@
 {
- "guncelleme": "2026-10-14T19:05+00:00",
+ "guncelleme": "2026-10-14T20:05+00:00",
  "duygu": "olumsuz",
- "ozet": "Bitcoin, beklentiden yüksek gelen ABD eylül enflasyonu (yıllık %3,7) sonrası 82.000 doların altına indi; sabah 84.000 dolara değmişti. Enflasyon, Fed'in bu ay faiz artırması ihtimalini yeniden gündeme getirdi; tahvil faizleri ve dolar yükseldi. Fed'in Beige Book raporu da fiyat baskılarının güçlendiğini gösterdi. Ledger cihazlarıyla ilgili hırsızlık iddiası ise güvenlik endişesini artırıyor.",
+ "ozet": "Bitcoin, beklentiden yüksek gelen ABD eylül enflasyonu (yıllık %3,7) sonrası 82.000 doların altına indi; sabah 84.000 dolara değmişti. Enflasyon Fed'in bu ay faiz artırması ihtimalini yeniden gündeme getirdi; dolar yükseldi, tahvil faizleri arttı. Kurumsal tarafta alımlar ve ETF girişleri sürüyor, ancak Ledger cihazlarındaki şüpheli hırsızlık güvenlik endişesi yaratıyor.",
  "takvim": [
-  "Önümüzdeki günlerde Fed'in faiz kararı ve yeni enflasyon açıklamaları izlenecek. Faiz artışı beklentisi güçlenirse kripto baskı altında kalabilir."
+  "Fed'in bu ayki faiz toplantısı: Enflasyon sonrası faiz artırımı ihtimali masada; sert bir karar kripto için baskı yaratabilir.",
+  "Aralık: Haberlere göre bazı yatırımcılar Fed'in iki kez veya yarım puan artırabileceğine bahis yapıyor."
  ],
  "haberler": [
   {
-   "baslik": "Bitcoin sıcak enflasyon sonrası 82.000 doların altına indi",
-   "ozet": "Eylül çekirdek enflasyonu tahminleri aştı ve Fed'in faiz artırma endişesi canlandı. Bitcoin bu haberle 82.000 doların altına geriledi.",
+   "baslik": "Bitcoin 82.000 doların altına indi",
+   "ozet": "Eylül çekirdek enflasyonu beklentiyi aştı, Fed'in ekimde faiz artırma ihtimali yeniden gündemde. Bitcoin bu haberle sert düştü.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -18,8 +19,8 @@
    "tarih": "2026-10-14T16:51+00:00"
   },
   {
-   "baslik": "ABD'de enflasyon yükseldi, bu ay faiz artışı masada",
-   "ozet": "Eylül enflasyonu beklentilerin üzerinde geldi ve Fed'in bu ay faiz artırma ihtimali yeniden gündeme geldi. Yüksek faiz genelde kripto gibi riskli varlıklara baskı yapar.",
+   "baslik": "ABD'de eylül enflasyonu yükseldi, Fed faiz artırımı masada",
+   "ozet": "Enflasyon yıllık %3,7 oldu. Fed'in bu ay faiz artırması yeniden ihtimal dahiline girdi; bu da kripto gibi riskli varlıklara baskı yapabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -27,8 +28,8 @@
    "tarih": "2026-10-14T17:25+00:00"
   },
   {
-   "baslik": "Dolar mayıs 2025'ten bu yana en yüksek seviyede",
-   "ozet": "Fed'in faiz artırabileceği beklentisi doları güçlendirdi. Güçlü dolar kripto fiyatları için genelde baskı demektir.",
+   "baslik": "Dolar mayıs 2025'ten beri en yüksek seviyede",
+   "ozet": "Fed'in faiz artıracağı beklentisi doları güçlendirdi. Güçlü dolar genelde kripto için olumsuz okunur.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -36,8 +37,17 @@
    "tarih": "2026-10-14T17:08+00:00"
   },
   {
-   "baslik": "Fed'in Beige Book raporu: fiyat artışı bazı bölgelerde hızlanıyor",
-   "ozet": "Fed raporu bazı bölgelerde fiyat baskılarının güçlendiğini gösterdi. Bu, faizlerin yüksek kalacağı beklentisini destekleyebilir.",
+   "baslik": "ABD tahvilleri sert düştü, faizler yükseldi",
+   "ozet": "Sıcak enflasyon verisi Fed faiz artırımı beklentilerini büyüttü ve tahvil faizlerini yukarı itti. Yüksek faiz riskli varlıkların cazibesini azaltır.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzlnUlRIcHpyNkR3U0tfY0RXVEl0WGRuMTZuSTVvbnNhWXNTVjN3Yzhudmhqbjh1RU9mTzF2WHhkTGdhQU15UkZRTG5wSVFSNzZSN0dIQk5HaE55TTk5VGxtYmcxczM1aWk2S19NMVlpbzFQRHpvTm1SRk83N1l4Mng3Q2N0OGxvYWRpLXJNazR4V2xOcE9KdVRDU0pRSVBMY2pQWjdRMnRNWWZXV3ItaDhn?oc=5",
+   "tarih": "2026-10-14T12:44+00:00"
+  },
+  {
+   "baslik": "Fed Beige Book: fiyat baskısı bazı bölgelerde artıyor",
+   "ozet": "Fed'in Beige Book raporu fiyat artışlarının bazı bölgelerde hızlandığını gösterdi. Bu, sıkı para politikası beklentisini destekliyor.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -45,8 +55,8 @@
    "tarih": "2026-10-14T18:19+00:00"
   },
   {
-   "baslik": "Ledger cihazları için satıcılara geri çekme çağrısı",
-   "ozet": "Ledger, yedi Asya pazarındaki satıcılardan cihazları çekmelerini istedi; olay 86 milyon dolarlık şüpheli bir hırsızlıkla bağlantılı. Almanya'da bir müşteri cihazda implant bulduğunu bildirince MediaMarkt Saturn da satışları durdurdu.",
+   "baslik": "Ledger cihazlarında şüpheli 86 milyon dolarlık hırsızlık",
+   "ozet": "Ledger, Asya'daki yeniden satıcılardan cihazları geri çekmelerini istedi; MediaMarkt Saturn da satışı durdurdu. Donanım cüzdanı güvenliği sorgulanıyor.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Decrypt",
@@ -54,19 +64,8 @@
    "tarih": "2026-10-14T13:47+00:00"
   },
   {
-   "baslik": "Strive 235 milyon dolarlık Bitcoin aldı",
-   "ozet": "Strive, 369 milyon dolarlık varant geliriyle 2.822 BTC satın aldı. Şirketlerin alımı Bitcoin talebini destekler.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
-   "tarih": "2026-10-14T14:32+00:00"
-  },
-  {
-   "baslik": "Standard Chartered, Dubai'de zengin müşterilere BTC ve ETH işlemi açtı",
-   "ozet": "Banka, Dubai'den onay alarak varlıklı müşterilerin Bitcoin ve Ethereum'u banka hesabından almasına izin verdi. Büyük bankaların kriptoya açılması benimsenmeyi destekler.",
+   "baslik": "Standard Chartered, BAE'de zengin müşterilere BTC ve ETH işlemi açtı",
+   "ozet": "Banka, Dubai'den onay aldı. Müşteriler banka hesaplarından doğrudan Bitcoin ve Ethereum alabilecek; bu kurumsal erişimi genişletiyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC",
@@ -77,8 +76,31 @@
    "tarih": "2026-10-14T17:46+00:00"
   },
   {
+   "baslik": "Strive 235 milyon dolarlık Bitcoin aldı",
+   "ozet": "Şirket warrant kullanımlarından 369 milyon dolar gelir elde etti ve 2.822 BTC satın aldı.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
+   "tarih": "2026-10-14T14:32+00:00"
+  },
+  {
+   "baslik": "BlackRock'ın kripto ETF varlıkları %63 arttı",
+   "ozet": "Varlıklar 79,6 milyar dolara çıktı; yatırımcılar geri dönüyor, ancak seviye bir yıl öncesinin %23 altında.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC",
+    "ETH"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+   "tarih": "2026-10-14T14:31+00:00"
+  },
+  {
    "baslik": "Kraken'in sahibi Payward bir AB bankası satın alıyor",
-   "ozet": "Payward, Litvanya'daki Saldo Bank'ı alarak mevduat ve kredi lisansı elde edecek. AB'de bir bankayı satın alan ilk kripto şirketi olacak.",
+   "ozet": "Payward, Litvanya'daki Saldo Bank'ı alarak AB lisansı ve mevduat/kredi hizmetleri elde edecek. Kripto firmalarının bankacılığa açılması sürüyor.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -86,46 +108,24 @@
    "tarih": "2026-10-14T13:07+00:00"
   },
   {
-   "baslik": "BlackRock'ın kripto ETF varlıkları %63 arttı",
-   "ozet": "BlackRock'ın kripto varlıkları 79,6 milyar dolara çıktı; ancak bir yıl öncesinin yüzde 23 altında. Yatırımcıların geri döndüğüne işaret ediyor.",
-   "etki": "olumlu",
+   "baslik": "Hex kurucusu Richard Heart İstanbul'da gözaltına alındı iddiası",
+   "ozet": "Türk basınına göre Interpol kırmızı bülteniyle aranan Heart gözaltına alındı; polis henüz doğrulamadı.",
+   "etki": "olumsuz",
    "coinler": [
-    "BTC"
+    "HEX"
    ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
-   "tarih": "2026-10-14T14:31+00:00"
-  },
-  {
-   "baslik": "Hex kurucusu Richard Heart İstanbul'da gözaltına alındı",
-   "ozet": "Türk basınına dayanan habere göre Heart, Interpol kırmızı bülteni üzerine gözaltına alındı. Polis henüz doğrulamadı.",
-   "etki": "notr",
-   "coinler": [],
    "kaynak": "Decrypt",
    "link": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
    "tarih": "2026-10-14T14:03+00:00"
   },
   {
-   "baslik": "SkyAI'ın Solana kasası bir ayda %70 küçüldü",
-   "ozet": "SkyAI'ın SOL kasası bir aydan kısa sürede yüzde 70 azaldı ve 400.000 SOL açıklanamadı. Büyük bir hissedar satışlar hakkında açıklama istiyor.",
-   "etki": "olumsuz",
-   "coinler": [
-    "SOL"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
-   "tarih": "2026-10-14T18:25+00:00"
-  },
-  {
-   "baslik": "Coinbase: Bitcoin'in kuantuma geçişi şimdi başlamalı",
-   "ozet": "Coinbase, Bitcoin'in kuantuma dayanıklı şifrelemeye geçişinin yıllar sürebileceğini, bu yüzden erken başlanması gerektiğini savundu.",
+   "baslik": "Standard Chartered stablecoin tahminini 2030'a erteledi",
+   "ozet": "Banka, arz büyümesi bu yıl durduğu için 2 trilyon dolarlık stablecoin piyasası tahminini 2028'den 2030'a çekti.",
    "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
-   "tarih": "2026-10-14T16:15+00:00"
+   "coinler": [],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
+   "tarih": "2026-10-14T15:47+00:00"
   }
  ]
 }
