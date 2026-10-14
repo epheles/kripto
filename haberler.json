@@ -1,15 +1,46 @@
 {
- "guncelleme": "2026-10-14T09:05+00:00",
+ "guncelleme": "2026-10-14T10:05+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin 84.000 dolara doğru yükseldi; Fed'den Williams'ın 2027'de faiz artışı görmemesi iyi geldi. Ancak Collins'in yıl bitmeden bir artışı daha masada görmesi, yükselen tahvil faizleri ve Orta Doğu'daki gerilim temkini koruyor. Perşembe günkü ABD enflasyon verisi piyasanın ana odağı.",
+ "ozet": "Bitcoin 84.000 dolara doğru yükseldi; Fed'den Williams'ın 2027'de faiz artışı görmemesi iyi geldi. Ancak Collins'in yıl bitmeden bir artış daha görmesi, yüksek benzin fiyatları ve Orta Doğu'daki gerilim temkini koruyor. Perşembe günkü ABD enflasyon verisi piyasanın ana odağı.",
  "takvim": [
   "Perşembe 15 Ekim: ABD enflasyon verisi. Beklentinin üstünde gelirse faiz artışı endişesi kripto fiyatlarını baskılayabilir.",
   "Çarşamba 21 Ekim: Solana'nın Alpenglow güncellemesi."
  ],
  "haberler": [
   {
-   "baslik": "Bitcoin 84.000 dolara yaklaştı, ZEC öncülüğünde toparlanma",
-   "ozet": "Fed'den Williams'ın 2027'de faiz artışı görmediğini söylemesi riskli varlıklara iyi geldi. Piyasa Perşembe günkü ABD enflasyon verisine bakıyor.",
+   "baslik": "Ripple, Stripe cüzdanlarını XRP Ledger'a ekledi",
+   "ozet": "Yazılımların internet hizmetleri için XRP ve RLUSD ile ödeme yapmasına izin verilecek. Bu işlemlerin gerçek ekonomik karşılığının ne kadar olduğu ise soru işareti.",
+   "etki": "olumlu",
+   "coinler": [
+    "XRP"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+   "tarih": "2026-10-14T05:24+00:00"
+  },
+  {
+   "baslik": "Solana'da Alpenglow güncellemesi 21 Ekim'de",
+   "ozet": "Yeni sistem doğrulayıcı oylamasını değiştirecek ve yaklaşık 150 milisaniyelik işlem kesinliğini hedefliyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "SOL"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+   "tarih": "2026-10-14T04:11+00:00"
+  },
+  {
+   "baslik": "Yüksek benzin fiyatları ABD enflasyonunu artırabilir",
+   "ozet": "Eylül tüketici enflasyonunun benzin fiyatları nedeniyle yükselmesi bekleniyor. Yüksek enflasyon faiz artışı beklentisini güçlendirip kripto üzerinde baskı yaratabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlRYZDhRQWpqTmlJcWxGcDR4RGNleVlZQ2pqYlVZaW8ya01TS1NCUFUyaElVNUdJR2x0VWRxdGtaWl9wekdEUGVHUnktVUstSXFOcHloUWtLcFlQU0EzSW4yTENYU1NYX09VMUVRU3hQZ2prRjA1dVBTdll0QjNZaXJVbE5LSVNMODNVSkxlR05IeVpydy1hRFpuWWp0OWM0TXhXclVQWHNwWlZHRGNNNmRR?oc=5",
+   "tarih": "2026-10-14T04:01+00:00"
+  },
+  {
+   "baslik": "Bitcoin 84.000 dolara yaklaştı",
+   "ozet": "Fed'den Williams'ın 2027'de faiz artışı görmediğini söylemesi sonrası ZEC öncülüğünde geniş bir toparlanma yaşandı. Gözler Perşembe günkü ABD enflasyon verisinde.",
    "etki": "olumlu",
    "coinler": [
     "BTC",
@@ -20,66 +51,46 @@
    "tarih": "2026-10-14T03:50+00:00"
   },
   {
-   "baslik": "Fed'den Collins: Yıl bitmeden bir faiz artışı daha masada",
-   "ozet": "Collins, 2026 sonuna kadar bir faiz artışı daha olabileceğini söyledi. Yüksek faiz beklentisi kripto gibi riskli varlıklar için baskı demektir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNoWUtZWjdLcTc2ZmNycnptRmR1cmluWThZU2ZTYU5JUkdaazY1Z2hEdjIxNWZ3VU5RSVZvejc3VnlueGZoN0JyNlNmdkptQk9ZNEZqU1MyLTNUblpOaF9FMkdGbnZhX1hTVllLTzYxNFEwamlyazZKem00N1k1UFBablNQSVRCZTgySWNNR3pHemxzSEl1S0VBeE1DQlYyS0Ntdw?oc=5",
-   "tarih": "2026-10-13T20:08+00:00"
-  },
-  {
-   "baslik": "Yüksek benzin fiyatları eylülde ABD enflasyonunu artırabilir",
-   "ozet": "Beklenti, yüksek benzin fiyatlarının eylül enflasyonunu yukarı çekeceği yönünde. Enflasyon beklentiden yüksek gelirse faiz artışı endişesi büyüyebilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlRYZDhRQWpqTmlJcWxGcDR4RGNleVlZQ2pqYlVZaW8ya01TS1NCUFUyaElVNUdJR2x0VWRxdGtaWl9wekdEUGVHUnktVUstSXFOcHloUWtLcFlQU0EzSW4yTENYU1NYX09VMUVRU3hQZ2prRjA1dVBTdll0QjNZaXJVbE5LSVNMODNVSkxlR05IeVpydy1hRFpuWWp0OWM0TXhXclVQWHNwWlZHRGNNNmRR?oc=5",
-   "tarih": "2026-10-14T04:01+00:00"
-  },
-  {
-   "baslik": "Husi füzeleri Suudi Arabistan'da Aramco merkezini vurdu",
-   "ozet": "Orta Doğu'daki gerilim arttı. Jeopolitik riskler genelde piyasalarda temkinli havayı güçlendirir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW5UZm9rTkVDR01LTzZFcTQ0MUprS3hKLTdHaWtXQkVUQzdOSzNJUWJxRlQ3WkpnbUl0TzZlMWg2eVI1bzJidmpzQnFlaC1VcVRpS1FaN0tvZENEeS1LMUVPVmFaM3o0cEI2bkx6bGhMZ1c4WXliLTg3c0djRjgwUU9YWTE5d3F5dFlVV3hlWXh4clk0eUZNWGczUnhUbmtsbElkR2ExNEFqcVRKUEJwT053?oc=5",
-   "tarih": "2026-10-13T23:32+00:00"
-  },
-  {
-   "baslik": "Japon bankalar tahvil faizleri yükselince yerel tahvillere döndü",
-   "ozet": "Japonya'da tahvil faizleri sert yükseldi. Küresel tahvil faizlerindeki yükseliş riskli varlıklar için baskı kaynağı olabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelpPeUc1RUpRWlBGUnczZ1g4N1ZmMlBpY1cxUEREZzd6RnEtYm1aYmJzMnpoTnlJOEUzXzQ3M3NZNS1lbW93M3FDRWRFUC1jRktlU21VVmRlWm92Y2pJQU5pSExEYnNVemV4bGNXZmdpV1hpY243Rk5BY2VkVXQ5UTZROEw?oc=5",
-   "tarih": "2026-10-14T07:04+00:00"
-  },
-  {
-   "baslik": "Solana'da Alpenglow güncellemesi 21 Ekim'de",
-   "ozet": "Güncelleme mevcut doğrulayıcı oylama sistemini değiştirecek ve yaklaşık 150 milisaniyelik işlem kesinliğini hedefliyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "SOL"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-   "tarih": "2026-10-14T04:11+00:00"
-  },
-  {
-   "baslik": "Coinbase: Bitcoin kuantum bilgisayarlara karşı şimdiden hazırlanmalı",
-   "ozet": "Coinbase, esnek adresler ve yedek kuantum dayanıklı anahtar gibi önlemlerin erken başlatılmasını istiyor.",
+   "baslik": "Coinbase: Bitcoin kuantum bilgisayarlara şimdiden hazırlansın",
+   "ozet": "Coinbase esnek adres tasarımları ve yedek bir kuantum dayanıklı anahtar öneriyor. Fonların yeni imzalara taşınması için erken hazırlık çağrısı yapıyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
-   "tarih": "2026-10-14T05:44+00:00"
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+   "tarih": "2026-10-14T02:49+00:00"
   },
   {
-   "baslik": "Strive yeni hisse sınıfıyla 500 milyon dolar toplayıp bitcoin alacak",
-   "ozet": "Şirket, yüzde 15 sabit temettülü yeni bir tercihli hisse (SATS) ile topladığı parayla ek bitcoin almayı planlıyor.",
+   "baslik": "Filipinler'in en büyük borsası Coins.ph merkez bankası baskısında",
+   "ozet": "18 milyondan fazla müşterisi olan borsanın, kısıtlı yurt dışı kumar şirketleriyle işlemlere aracılık ettiği öne sürülüyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+   "tarih": "2026-10-14T01:00+00:00"
+  },
+  {
+   "baslik": "Aramco merkezi Husi füzeleriyle vuruldu",
+   "ozet": "Suudi Arabistan'daki Aramco merkezine Husi füzeleri isabet etti. Orta Doğu'daki gerginlik petrol ve risk iştahı üzerinden piyasalara yansıyabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW5UZm9rTkVDR01LTzZFcTQ0MUprS3hKLTdHaWtXQkVUQzdOSzNJUWJxRlQ3WkpnbUl0TzZlMWg2eVI1bzJidmpzQnFlaC1VcVRpS1FaN0tvZENEeS1LMUVPVmFaM3o0cEI2bkx6bGhMZ1c4WXliLTg3c0djRjgwUU9YWTE5d3F5dFlVV3hlWXh4clk0eUZNWGczUnhUbmtsbElkR2ExNEFqcVRKUEJwT053?oc=5",
+   "tarih": "2026-10-13T23:32+00:00"
+  },
+  {
+   "baslik": "Ledger, Güneydoğu Asya ve Hong Kong'da satışları durdurmasını istedi",
+   "ozet": "Cüzdan üreticisi, kurcalanmanın nerede olduğu araştırılırken bayilerden cihazları raflardan kaldırmalarını istedi.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-13T23:28+00:00"
+  },
+  {
+   "baslik": "Strive, Bitcoin almak için 500 milyon dolar toplayacak",
+   "ozet": "Şirket yeni bir imtiyazlı hisse sınıfı (SATS) çıkaracak; sabit %15 temettü verecek. Gelir ek Bitcoin alımında kullanılacak.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -89,9 +100,18 @@
    "tarih": "2026-10-13T23:23+00:00"
   },
   {
-   "baslik": "Binance madencilik havuzunu kapatıyor",
-   "ozet": "Binance, 6 yıllık Binance Pool, Bulut Madenciliği ve ilgili hizmetleri sonlandıracak; madencilik altyapısından çekiliyor.",
-   "etki": "olumsuz",
+   "baslik": "BNY ve Citadel Securities tokenize ABD tahvilini test etti",
+   "ozet": "Blokzincir tabanlı devlet tahvilleri, işlem firmalarının teminatı daha hızlı taşımasına yardımcı olabilir.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+   "tarih": "2026-10-13T21:52+00:00"
+  },
+  {
+   "baslik": "Binance, Bitcoin madencilik havuzunu kapatıyor",
+   "ozet": "Binance Pool, Pool Savings ve Cloud Mining gibi hizmetler sonlandırılacak; borsa madencilik altyapısından çekiliyor.",
+   "etki": "notr",
    "coinler": [
     "BTC"
    ],
@@ -100,31 +120,13 @@
    "tarih": "2026-10-13T20:16+00:00"
   },
   {
-   "baslik": "Ledger, Güneydoğu Asya ve Hong Kong'da cihaz satışını durdurmasını istedi",
-   "ozet": "Cüzdan üreticisi, kurcalama şüphesi nedeniyle cihazların raflardan kaldırılmasını istedi; soruşturma sürüyor.",
+   "baslik": "Fed'den Collins: Yıl bitmeden bir faiz artışı daha masada",
+   "ozet": "Collins 2026 sona ermeden bir artış daha olabileceğini söyledi. Faiz artışı beklentisi kripto gibi riskli varlıklar için olumsuz.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-13T23:28+00:00"
-  },
-  {
-   "baslik": "Filipinler'in en büyük borsası Coins.ph merkez bankası işlemiyle karşı karşıya",
-   "ozet": "18 milyondan fazla müşterisi olan borsanın, kısıtlı yurt dışı kumar şirketleriyle işlemleri yürüttüğü bildiriliyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-   "tarih": "2026-10-14T01:00+00:00"
-  },
-  {
-   "baslik": "Kraken'in sahibi Payward tam Dubai lisansı aldı",
-   "ozet": "Şirket BAE'de faaliyete başlamayı planlıyor; Kraken'in dünya genelinde 100'den fazla lisansı var.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/kraken-parent-payward-wins-full-dubai-license-plans-uae-launch",
-   "tarih": "2026-10-13T22:52+00:00"
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNoWUtZWjdLcTc2ZmNycnptRmR1cmluWThZU2ZTYU5JUkdaazY1Z2hEdjIxNWZ3VU5RSVZvejc3VnlueGZoN0JyNlNmdkptQk9ZNEZqU1MyLTNUblpOaF9FMkdGbnZhX1hTVllLTzYxNFEwamlyazZKem00N1k1UFBablNQSVRCZTgySWNNR3pHemxzSEl1S0VBeE1DQlYyS0Ntdw?oc=5",
+   "tarih": "2026-10-13T20:08+00:00"
   }
  ]
 }
