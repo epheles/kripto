@@ -1,141 +1,131 @@
 {
- "guncelleme": "2026-10-14T11:10+00:00",
- "duygu": "karisik",
- "ozet": "Bitcoin 84.000 dolara doğru yükseldi; Fed'den Williams'ın 2027'de faiz artışı görmemesi iyi geldi. Ancak Williams ve Collins yakın zamanda bir artış daha olabileceğini söylüyor; yüksek benzin fiyatları ve Orta Doğu'daki gerilim temkini koruyor. Perşembe günkü ABD enflasyon verisi piyasanın ana odağı.",
+ "guncelleme": "2026-10-14T14:15+00:00",
+ "duygu": "olumsuz",
+ "ozet": "Bitcoin 83.000-84.000 dolar bandından, beklentinin üstünde gelen ABD eylül enflasyonu sonrası sert düştü. Enflasyon verisi Fed'in birden fazla faiz artırabileceği beklentisini güçlendirdi; tahvil faizleri yükseldi, hisse vadelileri geriledi. Husilerin Suudi Arabistan'daki saldırıları da piyasadaki temkini artırıyor. Kurumsal tarafta ise Kraken'in banka alımı ve RLUSD'nin kullanımı gibi olumlu gelişmeler var; Ledger cihazlarındaki implant şüphesi güveni zedeliyor.",
  "takvim": [
   "Perşembe 15 Ekim: ABD enflasyon verisi. Beklentinin üstünde gelirse faiz artışı endişesi kripto fiyatlarını baskılayabilir.",
   "Çarşamba 21 Ekim: Solana'nın Alpenglow güncellemesi."
  ],
  "haberler": [
   {
-   "baslik": "Ripple, Stripe cüzdanlarını XRP Ledger'a ekledi",
-   "ozet": "Yazılımların internet hizmetleri için XRP ve RLUSD ile ödeme yapmasına izin verilecek. Bu işlemlerin gerçek ekonomik karşılığının ne kadar olduğu ise soru işareti.",
-   "etki": "olumlu",
-   "coinler": [
-    "XRP"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
-   "tarih": "2026-10-14T05:24+00:00"
-  },
-  {
-   "baslik": "Fed'den Williams: Faiz bir kez daha artabilir",
-   "ozet": "New York Fed Başkanı Williams, ABD merkez bankasının faizi bir kez daha artırması gerekebileceği görüşünü yineledi. Yüksek faiz kripto gibi riskli varlıklar için baskı demektir.",
+   "baslik": "Piyasa Aralık'ta iki faiz artışı ya da yarım puanlık artış bekliyor",
+   "ozet": "Yatırımcılar, Fed'in Aralık'ta iki kez faiz artırabileceğine ya da yarım puan artırabileceğine bahis yapıyor. Yüksek faiz beklentisi kripto gibi riskli varlıkları baskılayabilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-14T05:30+00:00"
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWctV1JqSkdmMDBERVRzbFVaT184aEhTUWxHM2FacHRETEZISXJPeERScWFMUlBQWURWdDlyY3p0a0I0TUhpbXR0eDBOYk40R1hueHdMWGZ0cHBnV3ZLTXlEYU5yRkNSY1V2bmhJWV9iMUtWZ2UtTXl4ZHI5TVNxR0N3blc1TUN2TWJWVmw2SDUtTC1Mc25aSHhhVXk3U01FNkxwdVpuVkEtR0VtZ3g1VjNHZDFWbFMtZjdF?oc=5",
+   "tarih": "2026-10-14T13:46+00:00"
   },
   {
-   "baslik": "Solana'da Alpenglow güncellemesi 21 Ekim'de",
-   "ozet": "Yeni sistem doğrulayıcı oylamasını değiştirecek ve yaklaşık 150 milisaniyelik işlem kesinliğini hedefliyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "SOL"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
-   "tarih": "2026-10-14T04:11+00:00"
-  },
-  {
-   "baslik": "Yüksek benzin fiyatları ABD enflasyonunu artırabilir",
-   "ozet": "Eylül enflasyonunun yüksek benzin fiyatları nedeniyle yükselmesi bekleniyor. Perşembe günkü veri faiz beklentilerini ve kripto fiyatlarını etkileyebilir.",
+   "baslik": "Ledger cihazlarında implant şüphesi: 86 milyon dolarlık hırsızlık",
+   "ozet": "Ledger, yedi Asya pazarındaki satıcılardan cihazları rafa kaldırmasını istedi; MediaMarkt Saturn da satışı durdurdu. Almanya'da bir müşteri cihazda implant bulduğunu bildirdi. Donanım cüzdanlara güveni sarsabilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWlRYZDhRQWpqTmlJcWxGcDR4RGNleVlZQ2pqYlVZaW8ya01TS1NCUFUyaElVNUdJR2x0VWRxdGtaWl9wekdEUGVHUnktVUstSXFOcHloUWtLcFlQU0EzSW4yTENYU1NYX09VMUVRU3hQZ2prRjA1dVBTdll0QjNZaXJVbE5LSVNMODNVSkxlR05IeVpydy1hRFpuWWp0OWM0TXhXclVQWHNwWlZHRGNNNmRR?oc=5",
-   "tarih": "2026-10-14T04:01+00:00"
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+   "tarih": "2026-10-14T13:47+00:00"
   },
   {
-   "baslik": "Bitcoin 84.000 dolara yaklaştı",
-   "ozet": "Williams'ın 2027'de faiz artışı görmemesi sonrası Bitcoin yükseldi; ZEC öncülüğünde büyük coinlerde toparlanma var. Piyasa Perşembe günkü ABD enflasyon verisini bekliyor.",
-   "etki": "olumlu",
+   "baslik": "ABD eylül enflasyonu beklentinin üstünde geldi, Bitcoin sert düştü",
+   "ozet": "Hem genel hem çekirdek enflasyon beklenenden yüksek çıktı. Bu durum Fed'in birden fazla faiz artışı yapma ihtimalini yeniden gündeme getirdi ve Bitcoin sert geriledi.",
+   "etki": "olumsuz",
    "coinler": [
-    "BTC",
-    "ZEC"
+    "BTC"
    ],
    "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
-   "tarih": "2026-10-14T03:50+00:00"
+   "link": "https://www.coindesk.com/markets/2026/10/14/u-s-september-cpi-comes-in-hot-sending-bitcoin-sharply-lower",
+   "tarih": "2026-10-14T12:33+00:00"
   },
   {
-   "baslik": "Coinbase: Bitcoin kuantum bilgisayarlara şimdiden hazırlansın",
-   "ozet": "Coinbase, Bitcoin'in imza yöntemlerini ve fonların yeni adreslere taşınmasını erkenden planlamasını istedi.",
+   "baslik": "Enflasyon sonrası tahvil faizleri ve faiz artışı beklentisi yükseldi",
+   "ozet": "Eylül enflasyon verisi sonrası tahvil faizleri ve Fed'in faiz artıracağı beklentisi yukarı gitti; Bitcoin 84.000 dolar civarından %1'den fazla düştü.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+   "tarih": "2026-10-14T09:45+00:00"
+  },
+  {
+   "baslik": "Hızlı enflasyon verisi sonrası ABD vadeli hisse senetleri düştü",
+   "ozet": "Sıcak enflasyon verisi ABD hisse vadelilerini aşağı çekti. Hisselerdeki zayıflık genellikle kripto piyasasına da yansıyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDg0c0hqOWpocm5NRkdFQUVhdHlsbUFoTDloRFFRdW12ZUhwQzRRRGFYZXhRQUQ5WFoyMm93Q0tJd2JkbWpQR3JDZVM4Q3MzdWhXTzhkWTJDUm0wZlZSSGg2WWhVdWtEaXNVanNPNElNMjFpc2J4dnl2cTMzejFPUWp2c1pvN29sQW4zSk5OSjBYSF80MEhTd2xXa1RaSmpqQlhpS0J6QUFqeVZncXo2azFMQ2Y?oc=5",
+   "tarih": "2026-10-14T13:06+00:00"
+  },
+  {
+   "baslik": "Husiler Suudi Arabistan'a saldırıları genişletti, Aramco merkezi vuruldu",
+   "ozet": "Aramco merkezinin vurulması Orta Doğu gerilimini artırdı. Gerilim petrol ve enflasyon endişesini besleyerek piyasalarda temkini artırabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTM3MUJoRVBma0lBNlpQa0hKSkxCalhRMkUtQThqdy1sTVNjcnN4a0dIV0UwczhyUklLUkZCLTZ2MF9FSmhIMDRUQXlWcFFkRHo4R0MyMFJIRzlYejg1TksxS1NkSFJEUy1OT2FKWnVBT1FXVThyNDI4WXRXN1UwM1NIbWUtQTVxTmRqelNIN0FjT05aM0U2dkhXMHBpdF84ZG9IUHFmak1qbnBJQ3FYbmZSYWJtQQ?oc=5",
+   "tarih": "2026-10-14T13:00+00:00"
+  },
+  {
+   "baslik": "K33: Strategy tercihli hisse yerine adi hisseyle daha çok Bitcoin alabilir",
+   "ozet": "K33'e göre Strategy, tercihli hisse finansmanı yerine adi hisse ihracına yönelirse zamanla daha fazla Bitcoin biriktirebilir.",
    "etki": "notr",
    "coinler": [
     "BTC"
    ],
    "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
-   "tarih": "2026-10-14T02:49+00:00"
+   "link": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
+   "tarih": "2026-10-14T13:20+00:00"
   },
   {
-   "baslik": "Bitwise: 3. çeyrekte 'kripto baharı' işaretleri var",
-   "ozet": "Bitwise'tan Matt Hougan, takip ettikleri neredeyse tüm temel göstergelerin sert yükseldiğini söyledi.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-14T02:19+00:00"
-  },
-  {
-   "baslik": "Filipinler'in en büyük borsası Coins.ph merkez bankası baskısında",
-   "ozet": "18 milyondan fazla müşterisi olan borsanın, kısıtlı kumar sitelerine ilişkin işlemler nedeniyle düzenleyici işlemle karşılaşabileceği belirtiliyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-   "tarih": "2026-10-14T01:00+00:00"
-  },
-  {
-   "baslik": "Aramco merkezi Husi füzeleriyle vuruldu",
-   "ozet": "Suudi Arabistan'daki Aramco merkezine yönelik saldırı Orta Doğu'daki gerilimi artırdı. Petrol ve enflasyon endişesi riskli varlıkları baskılayabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW5UZm9rTkVDR01LTzZFcTQ0MUprS3hKLTdHaWtXQkVUQzdOSzNJUWJxRlQ3WkpnbUl0TzZlMWg2eVI1bzJidmpzQnFlaC1VcVRpS1FaN0tvZENEeS1LMUVPVmFaM3o0cEI2bkx6bGhMZ1c4WXliLTg3c0djRjgwUU9YWTE5d3F5dFlVV3hlWXh4clk0eUZNWGczUnhUbmtsbElkR2ExNEFqcVRKUEJwT053?oc=5",
-   "tarih": "2026-10-13T23:32+00:00"
-  },
-  {
-   "baslik": "Ledger, Güneydoğu Asya ve Hong Kong'da satışların durdurulmasını istedi",
-   "ozet": "Cüzdan üreticisi, kurcalamanın nerede olduğu araştırılırken cihazların raflardan kaldırılmasını istedi.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-13T23:28+00:00"
-  },
-  {
-   "baslik": "Strive, Bitcoin almak için 500 milyon dolar toplayacak",
-   "ozet": "Şirket, yüzde 15 sabit temettülü yeni bir imtiyazlı hisse sınıfıyla kaynak yaratıp bunu Bitcoin alımında kullanacak.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-   "tarih": "2026-10-13T23:23+00:00"
-  },
-  {
-   "baslik": "BNY ve Citadel Securities tokenize ABD tahvilini test etti",
-   "ozet": "Blockchain tabanlı devlet tahvilleri, teminatın daha hızlı taşınmasını sağlayabilir.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
-   "tarih": "2026-10-13T21:52+00:00"
-  },
-  {
-   "baslik": "Binance, Bitcoin madencilik havuzunu kapatıyor",
-   "ozet": "Binance Pool, Pool Savings ve Cloud Mining gibi hizmetler sonlandırılacak; şirket madencilik altyapısından çekiliyor.",
+   "baslik": "Bitcoin enflasyon verisi öncesi 83.000 doların üzerinde tutundu",
+   "ozet": "Bitcoin kısa süre 84.000 dolara çıkıp geri çekildi; altcoinler geride kaldı. Piyasa ABD enflasyon verisini bekliyordu.",
    "etki": "notr",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
-   "tarih": "2026-10-13T20:16+00:00"
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/14/bitcoin-holds-above-usd83-000-ahead-of-u-s-inflation-data-as-altcoins-lag",
+   "tarih": "2026-10-14T10:51+00:00"
+  },
+  {
+   "baslik": "Kraken'in sahibi Payward, Litvanya'daki Saldo Bank'ı satın alıyor",
+   "ozet": "Payward, 190 milyon dolar varlığı olan Saldo Bank'ı alarak AB'de mevduat ve kredi lisansı edinecek. Kripto firmalarının geleneksel bankacılığa açılması sürüyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+   "tarih": "2026-10-14T13:07+00:00"
+  },
+  {
+   "baslik": "DriveWealth, stablecoin ödemelerinde Ripple'ın RLUSD'sini kullanacak",
+   "ozet": "DriveWealth, XRP Ledger üzerindeki RLUSD'yi önce Avrupa'da ödeme, teminat ve saklama için kullanacak.",
+   "etki": "olumlu",
+   "coinler": [
+    "XRP"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+   "tarih": "2026-10-14T13:00+00:00"
+  },
+  {
+   "baslik": "Evernorth 648 milyon dolarlık XRP hazinesini getiriye yönlendirecek",
+   "ozet": "Evernorth, Nasdaq'taki ilk işlem gününün ardından XRP'yi Ripple, Kraken, Coinbase ve BitGo ile borç verme ve getiri stratejilerinde kullanmayı planlıyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "XRP"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
+   "tarih": "2026-10-14T12:00+00:00"
+  },
+  {
+   "baslik": "Fransa'da stablecoinlere önerilen %31,4 vergi tartışma yarattı",
+   "ozet": "Chainalysis yetkilisi, düzenlenmiş stablecoinlere önerilen %31,4'lük verginin kullanıcıları denetimsiz platformlara itebileceğini söyledi.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+   "tarih": "2026-10-14T08:48+00:00"
   }
  ]
 }
