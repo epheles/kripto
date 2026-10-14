@@ -1,14 +1,14 @@
 {
- "guncelleme": "2026-10-14T04:10+00:00",
+ "guncelleme": "2026-10-14T05:10+00:00",
  "duygu": "karisik",
- "ozet": "Çip hisselerindeki satış, yükselen tahvil faizleri ve Fed yetkililerinin faiz artışı konusundaki farklı sinyalleri piyasayı temkinli tutuyor. Strive gibi şirketlerin Bitcoin alımları (son alım yaklaşık 84.500 dolardan) fiyatı destekliyor. Gözler ABD enflasyon verisinde ve Fed konuşmalarında. Binance'in madencilik havuzunu kapatması ve Ledger cüzdanlarındaki çip haberi ise olumsuz gündem oluşturdu.",
+ "ozet": "Bitcoin 81.000 doların altına indikten sonra toparlandı; çip hisselerindeki satış ve yükselen tahvil faizleri piyasayı temkinli tutuyor. Fed yetkilileri faiz konusunda farklı sinyaller verdi. Strive gibi şirketlerin Bitcoin alımları fiyatı destekliyor. Binance'in madencilik havuzunu kapatması ve Ledger bayisindeki casus donanım haberi ise olumsuz gündem oluşturdu.",
  "takvim": [
   "Çarşamba 14 Ekim: ABD enflasyon (TÜFE) verisi ve Fed yetkililerinin konuşmaları bekleniyor. Enflasyon beklentinin üstünde gelirse faiz artışı endişesi kripto fiyatlarını baskılayabilir."
  ],
  "haberler": [
   {
-   "baslik": "Dolar zayıf, gözler ABD enflasyonunda ve Fed konuşmalarında",
-   "ozet": "Dolar, ABD enflasyon (TÜFE) verisi ve Fed yetkililerinin konuşmaları öncesinde zayıf seyrediyor. Veri beklentiden sert gelirse piyasalar oynak olabilir.",
+   "baslik": "Dolar zayıf, gözler ABD enflasyonu ve Fed konuşmalarında",
+   "ozet": "Dolar, ABD enflasyon (TÜFE) verisi ve Fed yetkililerinin konuşmaları öncesinde zayıf seyrediyor. Veri piyasa yönünü belirleyebilir.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Reuters",
@@ -16,48 +16,8 @@
    "tarih": "2026-10-14T01:18+00:00"
   },
   {
-   "baslik": "Filipinler'in en büyük borsası Coins.ph'e düzenleyici işlem iddiası",
-   "ozet": "Merkez bankasının borsaya karşı düzenleyici işlem başlatabileceği belirtiliyor; borsanın 18 milyondan fazla müşterisi var ve kısıtlı oyun-kumar şirketlerinin işlemlerine aracılık ettiği öne sürülüyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
-   "tarih": "2026-10-14T01:00+00:00"
-  },
-  {
-   "baslik": "Strive, Bitcoin almak için 500 milyon dolar toplayacak",
-   "ozet": "Strive, yeni bir imtiyazlı hisse sınıfıyla (%15 sabit temettü) 500 milyon dolar toplayıp daha fazla Bitcoin almayı hedefliyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
-   "tarih": "2026-10-13T23:23+00:00"
-  },
-  {
-   "baslik": "Kraken'in sahibi Payward Dubai'de tam lisans aldı",
-   "ozet": "Kraken'in ana şirketi Payward Dubai'den tam lisans aldı ve BAE'de hizmet vermeyi planlıyor. Kraken'in dünya genelinde 100'den fazla lisansı var.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/kraken-parent-payward-wins-full-dubai-license-plans-uae-launch",
-   "tarih": "2026-10-13T22:52+00:00"
-  },
-  {
-   "baslik": "Binance, Bitcoin madencilik havuzunu kapatıyor",
-   "ozet": "Binance; madencilik havuzu, havuz tasarrufu ve bulut madenciliği hizmetlerini sonlandıracak. Borsa madencilik altyapısından çekiliyor.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
-   "tarih": "2026-10-13T20:16+00:00"
-  },
-  {
-   "baslik": "Fed'den Collins: 2026 bitmeden bir faiz artışı daha masada",
-   "ozet": "Fed'den Collins yıl sonuna kadar bir faiz artışı daha olabileceğini belirtti. Yüksek faiz beklentisi kripto gibi riskli varlıklara baskı yapabilir.",
+   "baslik": "Fed'den Collins: Yıl bitmeden bir faiz artışı masada",
+   "ozet": "Fed yetkilisi Collins, 2026 sonuna kadar bir faiz artışı daha görebileceğini söyledi. Yüksek faiz beklentisi kripto gibi riskli varlıklar için baskı yaratabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -65,19 +25,8 @@
    "tarih": "2026-10-13T20:08+00:00"
   },
   {
-   "baslik": "4 bin 581 BTC'lik eski cüzdan 377 milyon dolarlık varlığını taşıdı",
-   "ozet": "2020'den beri hareketsiz duran bir cüzdan bugün 4.581 BTC'sini başka adrese taşıdı. Satış olup olmadığı haberde belirtilmiyor.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
-   "tarih": "2026-10-13T19:38+00:00"
-  },
-  {
-   "baslik": "Fed'den Williams: 2027'de faiz artışına gerek görünmüyor",
-   "ozet": "Fed'den Williams şu an 2027'de faiz artırmaya ihtiyaç görmediğini söyledi. Bu görüş piyasanın faiz artışı beklentisinden daha yumuşak.",
+   "baslik": "Fed'den Williams: 2027'de faiz artışı gerekmeyebilir",
+   "ozet": "Williams'a göre 2027'de faiz artırmaya gerek olmayabilir; bu, piyasadaki beklentilerden daha yumuşak bir tutum. Kripto için kısmen destekleyici.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Reuters",
@@ -85,19 +34,46 @@
    "tarih": "2026-10-13T19:23+00:00"
   },
   {
-   "baslik": "Saylor: Bitcoin yeniden 100 bin doların üzerine çıkabilir",
-   "ozet": "Strategy'nin kurucusu Saylor, Bitcoin'in tekrar 100.000 doların üzerine döneceğini düşündüğünü söyledi.",
+   "baslik": "Çip hisselerinde sert satış: yapay zekâ rallisi yön değiştiriyor mu?",
+   "ozet": "Çip hisselerinde sert bir düşüş yaşandı ve yapay zekâ rallisinin döndüğü yorumları yapıldı. Hisselerdeki zayıflık kripto gibi riskli varlıklara da yansıyabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5",
+   "tarih": "2026-10-13T18:04+00:00"
+  },
+  {
+   "baslik": "Dalio: Tahvillerdeki düşüşün gidecek uzun yolu var",
+   "ozet": "Ray Dalio, ABD tahvil piyasasındaki düşüşün sürebileceği uyarısını yaptı. Yükselen tahvil faizleri riskli varlıklar için olumsuz bir arka plan oluşturuyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnltcWR3Q1MwQUFpck9OQ3lVZm5SUnZzbld3c3FRMXpsemplOURpYTdpUDBQdHJpNzltdDIyTzhtWXB4R19OOVBGVXV2RE8tLXdVU1NjZ0dVQ2g1SVRfNFhwbFpfMGM2OTVWRjFzdlhZNV9Va2N0Mk1mYjl2SzVMNXU1S1pXbWJqcHZ1cndPZ0Z0TlNYSE1FR2FaS3VzYUhSU1A0RERTdDNfd1BqdzlFb0xn?oc=5",
+   "tarih": "2026-10-13T16:48+00:00"
+  },
+  {
+   "baslik": "Orta Doğu'da saldırılar: Aramco merkezi vuruldu, petrol yükseldi",
+   "ozet": "Suudi Aramco merkezinin Husi saldırısında vurulduğu bildirildi, petrol fiyatları belirsizlikle yükseldi. Jeopolitik gerilim piyasalarda dalgalanma yaratabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZW5UZm9rTkVDR01LTzZFcTQ0MUprS3hKLTdHaWtXQkVUQzdOSzNJUWJxRlQ3WkpnbUl0TzZlMWg2eVI1bzJidmpzQnFlaC1VcVRpS1FaN0tvZENEeS1LMUVPVmFaM3o0cEI2bkx6bGhMZ1c4WXliLTg3c0djRjgwUU9YWTE5d3F5dFlVV3hlWXh4clk0eUZNWGczUnhUbmtsbElkR2ExNEFqcVRKUEJwT053?oc=5",
+   "tarih": "2026-10-13T20:32+00:00"
+  },
+  {
+   "baslik": "Saylor: Bitcoin yeniden 100.000 doların üzerine çıkabilir",
+   "ozet": "Strategy'nin kurucusu Saylor, Bitcoin'in tekrar 100.000 doların üzerine çıkacağını düşündüğünü söyledi.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Bloomberg.com",
+   "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaDdIV2tIbU01RDFlM2V1WnVJRXRZbV9VdnFIdklTWXZZQko5cHZEWUpHSWZ2d05qYnNPblVaaXdfWlBQZE4xTFBoOE9RTWpOUU5tcTczeXIzci1KVmJ1THUtbmhTNVFHMlROcFRYVXpOZlktUmh3Mllac3g1eTRvQ28wb2RJUWpHV2t2TkI0Nkx2YkZ3YmdNMTFOU2lnT1BOZHhVYkVzRXRpN1I4S010MQ?oc=5",
    "tarih": "2026-10-13T18:55+00:00"
   },
   {
-   "baslik": "Strive 280 milyon dolarlık Bitcoin aldı",
-   "ozet": "Strive ortalama yaklaşık 84.500 dolardan yaptığı alımla toplam Bitcoin varlığını 32.773 BTC'ye çıkardı. Alım, son aylardaki en büyüğü.",
+   "baslik": "Strive yaklaşık 280 milyon dolarlık Bitcoin aldı",
+   "ozet": "Strive, ortalama yaklaşık 84.500 dolardan 280 milyon dolarlık Bitcoin satın aldı; bu, aylardır yaptığı en büyük alım.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -107,31 +83,57 @@
    "tarih": "2026-10-13T18:15+00:00"
   },
   {
-   "baslik": "Çip hisselerinde sert satış, yapay zekâ rallisi sorgulanıyor",
-   "ozet": "Reuters, çip hisselerindeki sert düşüşün yapay zekâ alımlarında dönüşe işaret ettiğini yazdı. Teknoloji hisselerindeki zayıflık kriptoya da yansıyabiliyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5",
-   "tarih": "2026-10-13T18:04+00:00"
+   "baslik": "Strive Bitcoin almak için 500 milyon dolar toplayacak",
+   "ozet": "Strive, yeni bir imtiyazlı hisse sınıfıyla 500 milyon dolar toplayıp daha fazla Bitcoin almayı planlıyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+   "tarih": "2026-10-13T23:23+00:00"
   },
   {
-   "baslik": "Dalio: Tahvil piyasasındaki düşüşün gidecek uzun yolu var",
-   "ozet": "Ray Dalio, ABD tahvillerindeki düşüşün (faizlerin yükselişinin) devam edeceği uyarısında bulundu. Yüksek tahvil faizi riskli varlıkları genelde zorlar.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnltcWR3Q1MwQUFpck9OQ3lVZm5SUnZzbld3c3FRMXpsemplOURpYTdpUDBQdHJpNzltdDIyTzhtWXB4R19OOVBGVXV2RE8tLXdVU1NjZ0dVQ2g1SVRfNFhwbFpfMGM2OTVWRjFzdlhZNV9Va2N0Mk1mYjl2SzVMNXU1S1pXbWJqcHZ1cndPZ0Z0TlNYSE1FR2FaS3VzYUhSU1A0RERTdDNfd1BqdzlFb0xn?oc=5",
-   "tarih": "2026-10-13T16:48+00:00"
+   "baslik": "Bitcoin 81.000 doların altına indi, alıcılar devreye girdi",
+   "ozet": "Bitcoin 81.000 doların altına düştükten sonra alıcılar fiyatı yukarı çekti; ancak Korku ve Açgözlülük Endeksi yatırımcıların hâlâ temkinli olduğunu gösteriyor.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
+   "tarih": "2026-10-13T16:46+00:00"
   },
   {
-   "baslik": "Ledger: Bazı cüzdanlarda kurtarma kelimelerini çalan çip bulundu",
-   "ozet": "Ledger, CryptoBilis adlı satıcının sattığı cihazlarda kurtarma kelimelerini çalan donanım implantı olduğunu doğruladı; MediaMarkt Avrupa'da satışı durdurdu.",
+   "baslik": "Binance Bitcoin madencilik havuzunu kapatıyor",
+   "ozet": "Binance, altı yıl sonra madencilik havuzu ve bulut madenciliği gibi ilgili hizmetlerini kapatacak.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+   "tarih": "2026-10-13T20:16+00:00"
+  },
+  {
+   "baslik": "Ledger cihazlarında casus donanım çıkan satıcı: Avrupa'da satışlar durdu",
+   "ozet": "Ledger, bir bayiden satılan cihazlarda kurtarma kelimelerini çalan donanım ekinin bulunduğunu doğruladı; MediaMarkt satışları askıya aldı.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "The Block",
    "link": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
    "tarih": "2026-10-13T14:45+00:00"
+  },
+  {
+   "baslik": "Interactive Brokers müşterilerine ETH stake imkânı sundu",
+   "ozet": "Interactive Brokers, uygun müşterilerinin Ethereum'u zerohash üzerinden stake etmesine izin veriyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "ETH"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
+   "tarih": "2026-10-13T15:24+00:00"
   }
  ]
 }
