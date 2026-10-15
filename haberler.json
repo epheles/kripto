@@ -1,58 +1,15 @@
 {
- "guncelleme": "2026-10-15T19:10+00:00",
+ "guncelleme": "2026-10-15T20:10+00:00",
  "duygu": "olumsuz",
- "ozet": "Bitcoin 80 bin dolar çevresinde; gün içinde kısa süre bu seviyenin altına indi. ABD üretici fiyatları 4,5 yılın en büyük artışını gösterince Fed'in faiz artırabileceği beklentisi güçlendi. Yapay zekâ ve çip hisselerindeki satış da risk iştahını azalttı; yaklaşık 1 milyar dolarlık kripto pozisyonu tasfiye edildi. Altcoinler Bitcoin'den daha sert düştü. 80 bin dolar kritik destek seviyesi.",
+ "ozet": "Bitcoin 80 bin dolar çevresinde; gün içinde kısa süre bu seviyenin altına indi. ABD üretici fiyatları 4,5 yılın en büyük artışını gösterince Fed'in faiz artırabileceği beklentisi güçlendi. Çip ve yapay zekâ hisselerindeki satış risk iştahını azalttı; yaklaşık 1 milyar dolarlık kripto pozisyonu tasfiye edildi. Altcoinler Bitcoin'den daha sert düştü; 80 bin dolar kritik destek seviyesi.",
  "takvim": [
   "Cuma 16 Ekim: Tayland'da Bitcoin ve Ether ETF kuralları yürürlüğe giriyor; CoinShares ilk girişlerin sınırlı kalabileceğini söylüyor.",
   "Perşembe 22 Ekim civarı: Starknet'in kuantum riskine karşı ayrı Layer 1 oylaması sona eriyor."
  ],
  "haberler": [
   {
-   "baslik": "Mastercard, fiat ve stablecoin'i tek platformda birleştirdi",
-   "ozet": "Mastercard, BVNK satın almasının ardından bankaların ve şirketlerin fiat para ile stablecoin'leri tek API'den tutup harcamasını sağlayan platformu başlattı. Stablecoin'lerin geleneksel ödeme sistemine girmesi sektör için olumlu.",
-   "etki": "olumlu",
-   "coinler": [
-    "USDC",
-    "USDT"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
-   "tarih": "2026-10-15T16:28+00:00"
-  },
-  {
-   "baslik": "Nasdaq, yapay zekâ satışıyla bir aylık dibe yakın",
-   "ozet": "Nasdaq, yapay zekâ hisselerindeki satışın derinleşmesiyle yaklaşık bir ayın en düşük seviyesine yaklaştı. Teknoloji hisseleriyle birlikte hareket eden Bitcoin için olumsuz.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTRob0s4X3hCYkZQZzFfeUxuU1ZlN0tPT2hvelcwcW9QdU9yeVN1ZUZfR253ZUNoN3NjUlRHbG9aS0wzMmVGLUpNOVcyTUlHOWo3WERDX1psTXlmWGthb0JPN19GMGxnT2pkYkRWQ0R1THEyODhoWnZTd1NIQjdZbm5fLXNYb0M2c1g2YU02TENSSi1xSFZMQzRuUTc?oc=5",
-   "tarih": "2026-10-15T15:49+00:00"
-  },
-  {
-   "baslik": "ABD üretici fiyatları 4,5 yılın en büyük artışını yaptı",
-   "ozet": "Üretici fiyatları 4,5 yılın en büyük aylık artışını gösterdi, perakende satışlar da beklentiyi aştı. Fed'in faiz indirmesi zorlaşıyor, bu da kripto için olumsuz.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmQ2aEh5YkdMWGR6cGNVdU5TZ1k0NmpFX3BNcDRCM3B2cEJmX1BhYktBbkprQk12WDVGSXpKalhFTkVyS1hmWHNnVVJLYU80Q3dLcWVLVTN3YWVTS3BjVjZpTFM0SkloWUF0clFLbE5aR3dFR1ZVSWpxNjUwWUFyVjMta2E5X2YxRVhQTmpHSk5KRXRqT2UyTTlqdG1lOXFXUkVJTmxMLU1Kdw?oc=5",
-   "tarih": "2026-10-15T15:25+00:00"
-  },
-  {
-   "baslik": "Bitcoin dalgalandı, yaklaşık 1 milyar dolar tasfiye edildi",
-   "ozet": "Sıcak enflasyon verisi faiz artışı beklentisini canlandırdı. Kaldıraçlı alıcılar yaklaşık 1 milyar dolarlık pozisyonlarını kaybetti.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
-   "tarih": "2026-10-15T15:20+00:00"
-  },
-  {
-   "baslik": "Bitcoin, üretici enflasyonu sonrası 80 bin doların altına indi",
-   "ozet": "Eylül üretici enflasyonu beklentiyi 100 baz puan aşınca BTC alıcıları 80 bin dolar desteğini savunmaya çalıştı, fiyat kısa süre altına sarktı.",
+   "baslik": "Bitcoin ABD üretici fiyatlarının ardından 80 bin doların altına indi",
+   "ozet": "ABD üretici fiyatları 4,5 yılın en büyük artışını gösterdi; Bitcoin kısa süre 80 bin doların altına düştü. Sıcak enflasyon verisi faiz artışı beklentisini güçlendiriyor.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -62,53 +19,61 @@
    "tarih": "2026-10-15T15:10+00:00"
   },
   {
-   "baslik": "ETH, XRP ve SOL günü sert düşüşle kapattı",
-   "ozet": "Analistler makro baskının altcoinleri Bitcoin'den daha sert düşürdüğünü söylüyor. ETH, XRP ve SOL gün içinde değer kaybetti.",
+   "baslik": "Büyük aracı kurumlar Fed'in bir sonraki faiz artışını Aralık'ta bekliyor",
+   "ozet": "Reuters'a göre büyük aracı kurumlar enflasyon sürprizinin ardından bir sonraki faiz artışını Aralık'ta bekliyor. Faiz artışı beklentisi kripto gibi riskli varlıklar için baskı yaratabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkFtUUdJTUNCU0JwWlQ1eWV5UFIyZVZ2enRYaXI5TUFBNHZzbmlkVTFQaHlpU0hxNGNhUFJwNkFqaFUzTzNoT2s1X0hXdmhnZlVkbmJpcGhON2VGOFVXcGtualozRjJ6VlRtT1h6enpqWlFkSlpDNHJWcTNqWUhpR0t3ZlFBbWtkSnpodE5BeW1DVWRFRXBSUGYzVE1PUEZEbWp6OV9fMA?oc=5",
+   "tarih": "2026-10-15T11:08+00:00"
+  },
+  {
+   "baslik": "Kripto tasfiyeleri 1 milyar dolara yaklaştı",
+   "ozet": "Sıcak enflasyon verisi faiz artışı beklentilerini canlandırdı; kaldıraçlı alım pozisyonları zarar etti ve yaklaşık 1 milyar dolarlık kripto pozisyonu tasfiye edildi.",
    "etki": "olumsuz",
    "coinler": [
-    "ETH",
-    "XRP",
-    "SOL"
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
+   "tarih": "2026-10-15T15:20+00:00"
+  },
+  {
+   "baslik": "ABD çip hisseleri yeni satışla 2 trilyon dolar değer kaybetmeye yakın",
+   "ozet": "Çip hisselerindeki satış teknoloji ve risk iştahını zayıflatıyor; kripto piyasası da bu baskıdan etkileniyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5",
+   "tarih": "2026-10-15T13:55+00:00"
+  },
+  {
+   "baslik": "Ethereum ve altcoinler makro baskıyla Bitcoin'den sert düşüyor",
+   "ozet": "Decrypt'e göre makro baskılar Ethereum ve altcoinlerde orantısız büyük düşüşlere yol açıyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "ETH"
    ],
    "kaynak": "Decrypt",
    "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
    "tarih": "2026-10-15T14:27+00:00"
   },
   {
-   "baslik": "Starknet kuantum riskine karşı ayrı Layer 1'i oyluyor",
-   "ozet": "Starknet, STRK sahiplerine kuantum sonrası dönem için bağımsız bir Layer 1 araştırılıp araştırılmayacağını soran yedi günlük oylama açtı.",
-   "etki": "notr",
-   "coinler": [
-    "STRK"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
-   "tarih": "2026-10-15T14:26+00:00"
-  },
-  {
-   "baslik": "Rusya, kripto P2P alım satımını 2027'de yasaklayacak",
-   "ozet": "Rusya, doğrudan kişiden kişiye kripto işlemlerini 1 Temmuz 2027'den itibaren yasaklamayı planlıyor. Kişisel cüzdana transferler zaten kısıtlı.",
+   "baslik": "Bitcoin ETF'lerinden bu hafta 151 milyon dolar çıkış oldu",
+   "ozet": "Bitcoin ETF'lerinden Pazartesi'den bu yana 151 milyon dolar net çıkış var; önceki hafta 681 milyon dolar çıkmıştı. XRP fonları ise çıkış eğiliminin dışında kaldı.",
    "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-15T14:22+00:00"
-  },
-  {
-   "baslik": "Tron şirketi 200 milyon dolarlık hisse satışı planladı",
-   "ozet": "Nasdaq'ta işlem gören Tron şirketi, TRX alımlarını finanse etmek için 200 milyon dolarlık hisse satış programı kurdu. Şirketin elinde yaklaşık 237 milyon dolarlık TRX var.",
-   "etki": "olumlu",
    "coinler": [
-    "TRX"
+    "BTC",
+    "XRP"
    ],
    "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-15T14:16+00:00"
+   "link": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-15T07:23+00:00"
   },
   {
-   "baslik": "Bitwise: Yapay zekâ ister patlasın ister çöksün, Bitcoin kazanır",
-   "ozet": "Bitwise yatırım direktörü Matt Hougan, yapay zekâ balonu çökerse hükümet kurtarma paketlerinin ve ardından Bitcoin yükselişinin geleceğini savunuyor. Bu bir analist görüşü, kesin değil.",
-   "etki": "notr",
+   "baslik": "Bitwise: Yapay zekâ ister yükselsin ister çökün, Bitcoin kazanır",
+   "ozet": "Bitwise CIO'su Matt Hougan, yapay zekâ balonunun çökmesinin devlet kurtarmalarına ve zamanla Bitcoin yükselişine yol açacağını öngörüyor.",
+   "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
@@ -117,24 +82,65 @@
    "tarih": "2026-10-15T14:01+00:00"
   },
   {
-   "baslik": "ABD çip hisselerinden yaklaşık 2 trilyon dolar silinmek üzere",
-   "ozet": "Çip hisselerindeki satış dalgası piyasa değerinden yaklaşık 2 trilyon doları silmeye gidiyor. Risk iştahı zayıfladığı için kripto da baskı altında.",
+   "baslik": "Beyaz Saray Kripto Konseyi başkanı Patrick Witt ayrıldı",
+   "ozet": "Witt'in ayrılığı konseyde liderlik boşluğu bırakıyor; gruptan bu, dördüncü önemli ayrılık.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDZEYU5ySFdLYUlmY29XeGxBbzZ1Nk92dHprTE44dzd5V19Yd09NdmUxUFpXMHhxdzYwenJiUjJQRFhPOXhBcHptTW9rY2J2Y01kM1loR3VQMVBXRG9mR2hQbkdWVnNGQVpCN01KelozT1h4aGx0RjRYeUZHRVRCYnlLWlpXWmpwbFRmRG4tSFR1RkNpRHNTb0lueU1VdWlpSjVFVGljZw?oc=5",
-   "tarih": "2026-10-15T13:55+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-15T10:41+00:00"
   },
   {
-   "baslik": "Zcash çift haneli düştü; kaldıraç ve kuantum endişesi",
-   "ozet": "Hızlı yükselişin ardından biriken kaldıraç Zcash'te sert satışa yol açtı. Yapay zekânın kripto şifrelemesini kırabileceği endişesi de etkili oldu.",
+   "baslik": "AB, Circle'ın USDC'sini ilk 'önemli' e-para token'ı ilan etti",
+   "ozet": "Avrupa Bankacılık Otoritesi USDC'yi bu sınıfa aldı; yeni gözetim yükümlülükleri 12 Kasım'da başlıyor.",
+   "etki": "notr",
+   "coinler": [
+    "USDC"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
+   "tarih": "2026-10-15T11:10+00:00"
+  },
+  {
+   "baslik": "Rusya, kişiden kişiye kripto alım satımını Temmuz 2027'de yasaklıyor",
+   "ozet": "Rusya 1 Temmuz 2027'den itibaren doğrudan P2P kripto işlemlerini yasaklamayı planlıyor; dijital hesaplardan kendi cüzdanına transfer de zaten yasak.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-15T14:22+00:00"
+  },
+  {
+   "baslik": "Hex kurucusu Richard Heart İstanbul'da gözaltına alındı iddiası",
+   "ozet": "Türk basınına göre polis kurucunun İstanbul'daki evinde yaklaşık 4 milyon dolar nakit ve 64 lüks saat bulundu. HEX satıcıları yaklaşık 160 milyon dolar değer kaybettirdi.",
    "etki": "olumsuz",
    "coinler": [
-    "ZEC"
+    "HEX"
    ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up",
-   "tarih": "2026-10-15T12:42+00:00"
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+   "tarih": "2026-10-15T09:20+00:00"
+  },
+  {
+   "baslik": "Starknet, kuantum riskine karşı bağımsız Layer 1 oylaması başlattı",
+   "ozet": "STRK sahipleri, Starknet'in Ethereum'un kuantum güvenliği takvimine bağımlılığını azaltmak için ayrı bir Layer 1 araştırıp araştırmayacağını oyluyor. Oylama yedi gün sürecek.",
+   "etki": "notr",
+   "coinler": [
+    "STRK",
+    "ETH"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-15T10:22+00:00"
+  },
+  {
+   "baslik": "Üçüncü çeyrekte kripto hackleri 1,2 milyar dolara yaklaşıyor",
+   "ozet": "Hacken'e göre kayıpların yaklaşık yüzde 77'si güvenlik denetimi dışındaki tedarikçi, geliştirici aracı ve altyapı bileşenlerinden kaynaklandı.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-15T10:00+00:00"
   }
  ]
 }
