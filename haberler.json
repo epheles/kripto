@@ -1,26 +1,15 @@
 {
- "guncelleme": "2026-10-15T07:10+00:00",
+ "guncelleme": "2026-10-15T08:05+00:00",
  "duygu": "olumsuz",
- "ozet": "Bitcoin 81 bin doların altına indi. Sıcak ABD enflasyon verisi Fed faiz artışı endişesini artırdı, Asya borsaları sert düştü (Kospi yüzde 8) ve yaklaşık 1 milyar dolarlık kripto pozisyonu tasfiye edildi. Dolar ve tahvil faizlerindeki gerileme baskıyı biraz hafifletti. Kurumsal tarafta Sberbank'ın Bitcoin alım-satım izni dikkat çekti.",
+ "ozet": "Bitcoin 81 bin doların altına indi. Sıcak ABD enflasyon verisi Fed faiz artışı endişesini artırdı, yapay zekâ hisseleri ve Asya borsaları sert düştü (Kospi yüzde 8) ve yaklaşık 1 milyar dolarlık kripto pozisyonu tasfiye edildi. Dolar ve tahvil faizlerindeki gerileme ile Fed yetkilisi Daly'nin 'acele yok' mesajı baskıyı biraz hafifletti. Rusya'da Sberbank'ın Bitcoin işlem izni olumlu bir gelişme.",
  "takvim": [
-  "Salı 21 Ekim: Solana'nın Alpenglow güncellemesi devreye girecek.",
-  "Fed faiz kararı ve sonraki enflasyon verileri: Faiz artışı beklentisi güçlenirse kripto baskı görebilir."
+  "Çarşamba 21 Ekim: Solana'nın Alpenglow güncellemesi devreye girecek.",
+  "Ekim ayı Fed toplantısı: Faiz artışı beklentisi güçlenirse kripto baskı altında kalabilir; gevşerse rahatlama gelebilir."
  ],
  "haberler": [
   {
-   "baslik": "Bitcoin 81 bin doların altında, Fed faiz belirsizliği sürüyor",
-   "ozet": "Çarşamba günkü enflasyon verisinin ardından Ekim'de Fed faiz artışı ihtimali kısa süre yüzde 50'ye yaklaştı, sonra azaldı. Bitcoin bu belirsizlikle 81 bin doların altına indi.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
-   "tarih": "2026-10-15T03:57+00:00"
-  },
-  {
-   "baslik": "Asya borsaları sert düştü, Bitcoin de geriledi",
-   "ozet": "Güney Kore'nin Kospi endeksi yüzde 8, Japonya'nın Nikkei 225 endeksi yüzde 5 değer kaybetti. Risk almaktan kaçış kriptoyu da aşağı çekti.",
+   "baslik": "Bitcoin 81 bin doların altına düştü",
+   "ozet": "Asya borsaları sert düşerken Kospi yüzde 8, Nikkei yüzde 5 geriledi. Risk iştahının azalması Bitcoin'e baskı yaptı.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -30,8 +19,8 @@
    "tarih": "2026-10-15T04:38+00:00"
   },
   {
-   "baslik": "Yaklaşık 1 milyar dolarlık kripto pozisyonu zorla kapandı",
-   "ozet": "Bitcoin, Ether ve XRP düşerken kaldıraçlı pozisyonlar tasfiye edildi. Ether bu tasfiyelerin yaklaşık yüzde 60'ını oluşturdu ve Bitcoin'in yaklaşık iki katı düştü.",
+   "baslik": "Yaklaşık 1 milyar dolarlık kripto pozisyonu tasfiye edildi",
+   "ozet": "Bitcoin, ether ve XRP düşerken kaldıraçlı pozisyonlar kapandı. Tasfiyelerin yaklaşık yüzde 60'ı ether'de yaşandı, ether Bitcoin'in yaklaşık iki katı düştü.",
    "etki": "olumsuz",
    "coinler": [
     "BTC",
@@ -43,57 +32,8 @@
    "tarih": "2026-10-15T04:25+00:00"
   },
   {
-   "baslik": "ABD enflasyonu eylülde yükseldi, Fed faiz artışı yeniden masada",
-   "ozet": "Reuters'e göre ABD'de eylül enflasyonu arttı ve bu ay Fed faiz artışı ihtimali tekrar gündeme geldi. Faiz artışı beklentisi kripto gibi riskli varlıklara baskı yapabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
-   "tarih": "2026-10-14T21:45+00:00"
-  },
-  {
-   "baslik": "Fed'den Daly: Faiz artışı gerekebilir ama acil değil",
-   "ozet": "Reuters'in özel haberine göre Fed yetkilisi Daly faiz artışlarının büyük olasılıkla gerekeceğini, ancak acele edilmediğini söyledi.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
-   "tarih": "2026-10-14T21:40+00:00"
-  },
-  {
-   "baslik": "Tahmincilerden biri Aralık'ta yarım puanlık Fed artışı görüyor",
-   "ozet": "Bloomberg'e göre önde gelen bir tahminci Fed'in Aralık'ta faizi yarım puan artırabileceğini söyledi. Daha yüksek faiz, kripto için olumsuz bir arka plan oluşturur.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2Jfd1g4Nll4Y1pBZWlnNXQ2U3VrQnpkT0pWRlZ4THNaaEtPSXJUblpMc3I3WEFhSUhyR3ZXVTFWOVFvdjgwOFlKU0ZGXzd6a0Z5OHUyNGRLZEdIWnlqa19JTzFXVW52cHdaVm9DSEpQYWdoQ1NSYXdqV2FreFU5Z2xnOWdFbmR4VFdaZ0JRTF9nblgtMkRwd0lFYTBLMnphbHNxS09hYmtXM1FIN1gxSHphOUQ?oc=5",
-   "tarih": "2026-10-14T22:35+00:00"
-  },
-  {
-   "baslik": "Dolar 18 ayın zirvesinden döndü, Fed artış beklentileri yumuşadı",
-   "ozet": "Reuters'e göre tahvil faizleri geriledi, dolar 18 ayın en yüksek seviyesinden döndü ve Fed artış beklentileri azaldı. Bu, kripto üzerindeki baskıyı bir miktar hafifletebilir.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5",
-   "tarih": "2026-10-15T01:49+00:00"
-  },
-  {
-   "baslik": "Bitcoin madencisi hisseleri yüzde 13'e kadar çakıldı",
-   "ozet": "TeraWulf, Core Scientific, Cipher Mining ve IREN yüzde 12'den fazla düştü. Sıcak enflasyon yapay zekâ altyapısı şirketlerini de vurdu.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-15T03:29+00:00"
-  },
-  {
    "baslik": "Binance Pool'un hash gücü yüzde 65 düştü, havuz kapanıyor",
-   "ozet": "Binance Pool'un işlem gücü Aralık'taki 26 EH/s'den yaklaşık 9 EH/s'ye indi. Kalan madencilerin 10 Kasım'a kadar başka havuza geçmesi gerekiyor.",
+   "ozet": "Havuzun gücü 26 EH/s'den yaklaşık 9 EH/s'ye geriledi. Madencilerin 10 Kasım'a kadar başka havuza geçmesi gerekiyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -103,8 +43,66 @@
    "tarih": "2026-10-15T04:13+00:00"
   },
   {
-   "baslik": "Rusya'nın en büyük bankası Sberbank'a kripto alım-satım izni",
-   "ozet": "Sberbank, Rusya'nın yeni kripto yasası kapsamında hem saklama hem borsa statüsü aldı. Bitcoin, Ethereum ve USDT'yi 110 milyon müşterisinin kullandığı uygulamalara getirmeyi planlıyor.",
+   "baslik": "Fed faiz belirsizliği Bitcoin'i aşağı çekti",
+   "ozet": "Çarşamba günkü enflasyon raporunun ardından ekimde Fed faiz artışı ihtimali kısa süre yüzde 50'ye yaklaştı, sonra bir miktar geriledi.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+   "tarih": "2026-10-15T03:57+00:00"
+  },
+  {
+   "baslik": "Bitcoin madencisi hisseleri yüzde 13'e kadar düştü",
+   "ozet": "Sıcak enflasyon yapay zekâ altyapısı şirketlerini vurdu. TeraWulf, Core Scientific, Cipher Mining ve IREN yüzde 12'den fazla kaybetti.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-15T03:29+00:00"
+  },
+  {
+   "baslik": "Dolar 18 aylık zirveden döndü, Fed artış beklentisi azaldı",
+   "ozet": "Hazine tahvil faizleri geriledi ve dolar yükselişine ara verdi. Zayıflayan dolar ve düşen faizler kripto için nefes aldırabilir.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbDE0ZWJRMm1PNWhpVzUwaDhHb2o1YkVXVExaeFVQWWFwcnJtemVfakY3WHV0aFFQWHR3dkR4eVN1OTZ3dXVqb0QzQ0ZuNkNhek1IbFRhVEtBXzNKcVpSQ1dHQm16ZGMxZHF1Z0txU2xHVUVsb0txUzhxLVljb0NXWWZzX2ZETk9QbHF1dm5XdmMybWFYRzl4d1VuS3J0NlU4enJvQVFuYTYydDNYUVVHM3pjandDUHdHbHhLT2otUU1HQk1PTVpReHpmTQ?oc=5",
+   "tarih": "2026-10-15T01:49+00:00"
+  },
+  {
+   "baslik": "ABD enflasyonu eylülde yükseldi, Fed faiz artışı gündemde",
+   "ozet": "Beklentiden sıcak gelen enflasyon, bu ay faiz artırımı ihtimalini yeniden masaya getirdi. Yüksek faiz genelde kripto gibi riskli varlıkları baskılar.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
+   "tarih": "2026-10-14T21:45+00:00"
+  },
+  {
+   "baslik": "Fed'den Daly: Faiz artışı gerekebilir ama acele yok",
+   "ozet": "Fed yetkilisi Daly'ye göre faiz artışları büyük olasılıkla gerekecek, ancak acil değil. Bu söz, ani bir artış korkusunu biraz hafifletiyor.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
+   "tarih": "2026-10-14T21:40+00:00"
+  },
+  {
+   "baslik": "Beyaz Saray kripto danışmanı Patrick Witt görevden ayrıldı",
+   "ozet": "Ayrılık, Clarity Act'in tıkandığı bir dönemde geldi. ABD'de kripto düzenlemesinin ilerleyişi belirsizliğini koruyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+   "tarih": "2026-10-14T20:30+00:00"
+  },
+  {
+   "baslik": "Rusya'da Sberbank'a Bitcoin alım-satım izni verildi",
+   "ozet": "Rusya'nın en büyük bankası Sberbank saklama ve borsa statüsü aldı. Bitcoin, Ethereum ve USDT'yi 110 milyon müşterisine sunmayı planlıyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC",
@@ -117,7 +115,7 @@
   },
   {
    "baslik": "Solana'nın Alpenglow güncellemesi 21 Ekim'de",
-   "ozet": "Güncelleme oylama sistemini değiştirip işlem kesinleşme süresini 12,8 saniyeden 150 milisaniye hedefine indirmeyi amaçlıyor.",
+   "ozet": "Güncelleme, işlem kesinleşme süresini 12,8 saniyeden hedef 150 milisaniyeye indirmeyi amaçlıyor.",
    "etki": "olumlu",
    "coinler": [
     "SOL"
@@ -127,28 +125,8 @@
    "tarih": "2026-10-14T19:16+00:00"
   },
   {
-   "baslik": "Beyaz Saray'ın kripto danışmanı Patrick Witt görevden ayrılıyor",
-   "ozet": "The Block, Clarity Yasası'nın durakladığı bir dönemde yönetimin kripto danışmanlığında yeniden değişiklik olduğunu yazıyor. Düzenleme belirsizliği sürebilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
-   "tarih": "2026-10-14T20:30+00:00"
-  },
-  {
-   "baslik": "VanEck, Lido stETH ETF başvurusunu geri çekmek istiyor",
-   "ozet": "VanEck geçen yıl Ekim'de yaptığı başvurunun geri çekilmesini talep etti.",
-   "etki": "olumsuz",
-   "coinler": [
-    "ETH"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-15T01:21+00:00"
-  },
-  {
-   "baslik": "AB, Circle'ın USDC'sini MiCA'da 'önemli' stablecoin saydı",
-   "ozet": "USDC, Fransız ve AB otoriteleri tarafından denetlenecek. Bu, AB'de stablecoin düzenlemesinin işlediğini gösteriyor.",
+   "baslik": "AB, Circle'ın USDC'sini MiCA'da 'önemli' olarak sınıfladı",
+   "ozet": "USDC, Fransız ve AB otoritelerinin denetimine girecek. Düzenleme çerçevesinin netleşmesi stablecoin piyasası için önemli.",
    "etki": "notr",
    "coinler": [
     "USDC"
