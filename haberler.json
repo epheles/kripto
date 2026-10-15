@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-15T09:10+00:00",
+ "guncelleme": "2026-10-15T12:05+00:00",
  "duygu": "olumsuz",
  "ozet": "Bitcoin 81 bin doların altına indi. Sıcak ABD enflasyon verisi Fed'in faiz artırabileceği endişesini artırdı; yapay zekâ ve çip hisseleri ile Asya borsaları sert düştü (Kospi yüzde 8) ve yaklaşık 1 milyar dolarlık kripto pozisyonu tasfiye edildi. Dolar ve tahvil faizlerindeki gerileme ile Fed yetkilisi Daly'nin 'acele yok' mesajı baskıyı biraz hafifletti. Rusya'da Sberbank'a verilen Bitcoin işlem izni olumlu bir gelişme.",
  "takvim": [
@@ -20,7 +20,7 @@
   },
   {
    "baslik": "Yaklaşık 1 milyar dolarlık kripto pozisyonu tasfiye edildi",
-   "ozet": "Bitcoin, ether ve XRP düşerken kaldıraçlı pozisyonlar kapandı. Tasfiyelerin yaklaşık yüzde 60'ı ether tarafında, ether Bitcoin'in yaklaşık iki katı düştü.",
+   "ozet": "Bitcoin, ether ve XRP düşerken kaldıraçlı pozisyonlar kapandı. Tasfiyelerin yaklaşık yüzde 60'ı ether tarafında; ether Bitcoin'in yaklaşık iki katı düştü.",
    "etki": "olumsuz",
    "coinler": [
     "BTC",
@@ -33,8 +33,8 @@
   },
   {
    "baslik": "Binance Pool'un hash gücü yüzde 65 düştü",
-   "ozet": "Bir zamanlar ağın yüzde 2,3'ünü yöneten madencilik havuzu kapanıyor; kalan madenciler 10 Kasım'dan önce başka havuz seçmek zorunda.",
-   "etki": "notr",
+   "ozet": "Eskiden ağın yüzde 2,3'ünü yöneten havuz kapanıyor. Hash gücü 26 EH/s'den yaklaşık 9 EH/s'ye indi; madenciler 10 Kasım'dan önce başka havuza geçmek zorunda.",
+   "etki": "olumsuz",
    "coinler": [
     "BTC"
    ],
@@ -43,8 +43,8 @@
    "tarih": "2026-10-15T04:13+00:00"
   },
   {
-   "baslik": "Fed faiz artışı belirsizliği Bitcoin'i aşağı çekti",
-   "ozet": "Çarşamba günkü enflasyon verisinden sonra Ekim'de faiz artışı ihtimali kısa süre yüzde 50'ye yaklaştı, sonra bir miktar geriledi.",
+   "baslik": "Fed faiz belirsizliği Bitcoin'i zayıflattı",
+   "ozet": "Enflasyon raporunun ardından Ekim'de faiz artışı ihtimali kısa süre yüzde 50'ye yaklaştı, sonra bir miktar geriledi.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -54,8 +54,8 @@
    "tarih": "2026-10-15T03:57+00:00"
   },
   {
-   "baslik": "Bitcoin madencisi hisseleri yüzde 13'e kadar düştü",
-   "ozet": "Hisse piyasasının Temmuz'dan beri en sert satış günlerinden birinde TeraWulf, Core Scientific, Cipher Mining ve IREN yüzde 12'den fazla kaybetti.",
+   "baslik": "Bitcoin madencilik hisseleri yüzde 13'e kadar düştü",
+   "ozet": "Sıcak enflasyon verisi yapay zekâ altyapı şirketlerini vurdu; TeraWulf, Core Scientific, Cipher Mining ve IREN yüzde 12'den fazla kaybetti.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -65,8 +65,8 @@
    "tarih": "2026-10-15T03:29+00:00"
   },
   {
-   "baslik": "Dolar 18 ayın zirvesinden geriledi",
-   "ozet": "Tahvil faizlerinin düşmesiyle dolar yükselişine ara verdi, Fed'in faiz artıracağı beklentisi azaldı. Zayıflayan dolar kriptoya nefes aldırabilir.",
+   "baslik": "Dolar 18 aylık zirveden geri çekildi",
+   "ozet": "Tahvil faizlerinin gerilemesiyle dolar düştü, Fed faiz artışı beklentileri yumuşadı. Zayıflayan dolar riskli varlıklara nefes aldırabilir.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Reuters",
@@ -74,8 +74,8 @@
    "tarih": "2026-10-15T01:49+00:00"
   },
   {
-   "baslik": "VanEck Lido stETH ETF başvurusunu geri çekmek istiyor",
-   "ozet": "VanEck, geçen Ekim'de yaptığı Lido staked Ether ETF başvurusunu geri çekmeyi talep etti.",
+   "baslik": "VanEck, Lido stake edilmiş ETH ETF başvurusunu geri çekmek istiyor",
+   "ozet": "VanEck başvurusunu geçen Ekim'de yapmıştı. Geri çekme talebi bu ürünün yakın zamanda gelmeyeceğini gösteriyor.",
    "etki": "olumsuz",
    "coinler": [
     "ETH"
@@ -86,7 +86,7 @@
   },
   {
    "baslik": "ABD'de enflasyon eylülde yükseldi",
-   "ozet": "Enflasyon verisi sıcak geldi ve Fed'in bu ay faiz artırması yeniden gündeme geldi. Faiz artışı beklentisi kripto gibi riskli varlıklara baskı yapar.",
+   "ozet": "Fed'in bu ay faiz artırması yeniden masada. Yüksek faiz beklentisi kripto gibi riskli varlıklara genelde baskı yapar.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -95,7 +95,7 @@
   },
   {
    "baslik": "Fed'den Daly: Faiz artışı gerekebilir ama acele yok",
-   "ozet": "Fed yetkilisi Daly faiz artışlarının büyük olasılıkla gerekeceğini, ancak bunun acil olmadığını söyledi.",
+   "ozet": "Daly'ye göre faiz artışları büyük olasılıkla gerekli, ancak acil değil. Bu mesaj piyasadaki baskıyı bir miktar hafifletti.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Reuters",
@@ -103,19 +103,8 @@
    "tarih": "2026-10-14T21:40+00:00"
   },
   {
-   "baslik": "Rusya Merkez Bankası Sberbank'a kripto işlem izni verdi",
-   "ozet": "Sberbank'ın Bitcoin ile ilgili ürünleri Aralık'ta başlayacak. Rusya'da kripto erişiminin büyümesi olumlu bir gelişme.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
-   "tarih": "2026-10-14T21:30+00:00"
-  },
-  {
-   "baslik": "Beyaz Saray'ın kripto danışmanı Patrick Witt ayrıldı",
-   "ozet": "Clarity Yasası'nın tıkandığı bir dönemde Beyaz Saray'ın kripto danışmanı görevden ayrıldı. ABD'de kripto düzenlemesinin ilerlemesi belirsizleşebilir.",
+   "baslik": "Beyaz Saray'ın kripto danışmanı Patrick Witt görevden ayrılıyor",
+   "ozet": "Ayrılık, Clarity Yasası'nın ilerlemekte zorlandığı bir döneme denk geldi; kripto düzenlemesinde belirsizlik sürüyor.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "The Block",
@@ -123,8 +112,21 @@
    "tarih": "2026-10-14T20:30+00:00"
   },
   {
+   "baslik": "Rusya'nın en büyük bankası Sberbank'a Bitcoin işlem izni",
+   "ozet": "Sberbank, Rusya'nın yeni kripto yasası kapsamında saklama ve borsa statüsü aldı; Bitcoin, Ethereum ve USDT'yi 110 milyon kullanıcılı uygulamalarına getirmeyi planlıyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC",
+    "ETH",
+    "USDT"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+   "tarih": "2026-10-14T19:46+00:00"
+  },
+  {
    "baslik": "Solana'nın Alpenglow güncellemesi 21 Ekim'de",
-   "ozet": "Güncelleme oylama sistemini değiştirecek ve işlem kesinleşme süresini 12,8 saniyeden 150 milisaniye hedefine indirecek.",
+   "ozet": "Güncelleme işlem kesinleşme süresini 12,8 saniyeden 150 milisaniye hedefine indirmeyi amaçlıyor.",
    "etki": "olumlu",
    "coinler": [
     "SOL"
