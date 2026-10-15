@@ -1,23 +1,35 @@
 {
- "guncelleme": "2026-10-14T23:05+00:00",
+ "guncelleme": "2026-10-15T00:10+00:00",
  "duygu": "olumsuz",
- "ozet": "Beklentiden sıcak gelen eylül enflasyonu Fed'in faiz artırabileceği beklentisini güçlendirdi. Dolar yükseldi, tahvil faizleri arttı ve Bitcoin 82 bin doların altına geriledi. Öte yandan kurumsal ilgi sürüyor: Sberbank ve Standard Chartered kripto işlemlerine başlıyor, Strive Bitcoin aldı. Fed'in faiz kararı ve enflasyon verileri izlenmeli.",
+ "ozet": "Beklentiden sıcak gelen eylül enflasyonu Fed'in faiz artırma ihtimalini güçlendirdi. Dolar mayıs 2025'ten beri en yüksek seviyede, Bitcoin ise 82 bin doların altına geriledi. Buna karşın kurumsal ilgi sürüyor: Sberbank ve Standard Chartered kripto hizmeti açıyor, Strive Bitcoin aldı. Fed'in faiz yönü ve 82 bin dolar seviyesi izlenmeli.",
  "takvim": [
-  "Fed'in bu ay faiz artırıp artırmayacağı piyasada tartışılıyor; Fed yetkililerinin açıklamaları BTC fiyatını oynatabilir."
+  "Çarşamba 21 Ekim: Solana'nın Alpenglow güncellemesi devreye girecek; SOL için teknik bir gelişme.",
+  "Bu ay içindeki Fed kararı: Faiz artışı gelirse kripto baskı altında kalabilir."
  ],
  "haberler": [
   {
-   "baslik": "Beyaz Saray kripto yetkilisi Patrick Witt ayrıldı",
-   "ozet": "Witt, Clarity Yasası'nın tıkandığı bir dönemde görevden ayrıldı. Kripto düzenlemesinde belirsizlik sürebilir.",
+   "baslik": "ABD'de eylül enflasyonu sıcak geldi, Fed faiz artırımı masada",
+   "ozet": "ABD'de eylül enflasyonu beklentiden yüksek çıktı ve Fed'in bu ay faiz artırması yeniden gündeme geldi. Yüksek faiz beklentisi kripto gibi riskli varlıklar için baskı yaratabilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
-   "tarih": "2026-10-14T20:30+00:00"
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX3hkV3J5em1xWWY4V0hQODFTamFtU3NvdkpPRUUzMGY0TnlKaVlneXZPc0J6bFpWdDZWb2hLRkZZaHhZVElDSXNFbGNYMVVBRGR6c1RlNDA4cEhkMEcwck5VMFRtZ1QxOFJqNTkyaGJzWWFLSXp2Z0l1Z19vMDh5bGd6N1FJSkJFR2tZUXd1UWUzeVlvZi1xNTVONk00ejJ5cE0xSGY4THFsaUo0RGxPV3dpaW4tbEZseUE?oc=5",
+   "tarih": "2026-10-14T21:45+00:00"
   },
   {
-   "baslik": "Dolar Mayıs 2025'ten beri en yüksek seviyede",
-   "ozet": "Fed'in faiz artıracağı beklentisiyle dolar yükseldi. Güçlü dolar genelde kripto üzerinde baskı yaratır.",
+   "baslik": "Bitcoin 82 bin doların altına düştü",
+   "ozet": "Çekirdek enflasyonun tahminleri aşmasının ardından Bitcoin 82.000 doların altına indi. Analistler fiyat hedeflerini ve ekim ayında olası faiz artışını tartışıyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
+   "tarih": "2026-10-14T16:51+00:00"
+  },
+  {
+   "baslik": "Dolar mayıs 2025'ten beri en yüksek seviyede",
+   "ozet": "Fed'in faiz artıracağı beklentisiyle dolar mayıs 2025'ten bu yana en yüksek seviyeye çıktı. Güçlü dolar genelde Bitcoin gibi varlıklar üzerinde baskı yaratır.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -27,39 +39,21 @@
    "tarih": "2026-10-14T20:21+00:00"
   },
   {
-   "baslik": "Rusya'da Sberbank'a Bitcoin alım-satımı izni",
-   "ozet": "Rusya Merkez Bankası, ülkenin en büyük bankası Sberbank'ın kripto para işlemi yapmasına izin verdi.",
+   "baslik": "Rusya'da Sberbank'a kripto alım-satım izni",
+   "ozet": "Sberbank, Rusya'nın yeni kripto yasası kapsamında hem saklama hem borsa statüsü aldı. Banka Bitcoin, Ethereum ve USDT'yi 110 milyon bireysel müşterisinin kullandığı uygulamalara getirmeyi planlıyor.",
    "etki": "olumlu",
    "coinler": [
-    "BTC"
+    "BTC",
+    "ETH",
+    "USDT"
    ],
    "kaynak": "Decrypt",
    "link": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
    "tarih": "2026-10-14T19:46+00:00"
   },
   {
-   "baslik": "AB, Circle'ın USDC'sini MiCA'da 'önemli' stablecoin saydı",
-   "ozet": "Avrupa otoritesi USDC'yi MiCA kapsamında 'önemli' olarak sınıflandırdı; bu, daha sıkı denetim anlamına gelebilir.",
-   "etki": "notr",
-   "coinler": [
-    "USDC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-14T19:03+00:00"
-  },
-  {
-   "baslik": "Fed Bej Kitap: bazı bölgelerde fiyat artışı hızlandı",
-   "ozet": "Fed raporu fiyat baskılarının bazı bölgelerde yoğunlaştığını gösterdi. Bu, faiz artışı ihtimalini destekliyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWV1LU13cmtOOUs1NE5qeFJYSDlYUjUyZEJrM3h6Qm1ZX0taSlhHVzNJWi1lQ3JiOERZQXlVVW0tYXp4Z0U3VlVfZ0hMZUV6S2IzLXMyMFFpR1RMNlkxUFFKck1HbTZiOTg4bjd3ZmhoSE55ZnUxaC1UYmNpY1lrNWpRZ3VkMzAyUFlLUDFVdjlaMDlpV2FDOXoteExrSzBXOXAxQUNfLU1VTFdwYlItalJRbw?oc=5",
-   "tarih": "2026-10-14T18:19+00:00"
-  },
-  {
-   "baslik": "Standard Chartered BAE'deki zengin müşterilere Bitcoin ve Ethereum sundu",
-   "ozet": "Büyük bir bankanın kripto işlemini açması, kurumsal kabulün sürdüğünü gösteriyor.",
+   "baslik": "Standard Chartered, BAE'de zengin müşterilere BTC ve ETH sunuyor",
+   "ozet": "İngiliz banka, Dubai'den onay alarak varlıklı müşterilerin banka hesabından doğrudan BTC ve ETH almasına izin verecek. Büyük bankaların kripto sunması kurumsal ilgiyi gösteriyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC",
@@ -70,19 +64,8 @@
    "tarih": "2026-10-14T17:46+00:00"
   },
   {
-   "baslik": "Bitcoin 82.000 doların altına düştü",
-   "ozet": "Beklentiden sıcak çıkan çekirdek enflasyon, Fed'in faiz artırabileceği endişesini geri getirdi ve Bitcoin 82 bin doların altına indi.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
-   "tarih": "2026-10-14T16:51+00:00"
-  },
-  {
    "baslik": "Strive 235 milyon dolarlık Bitcoin aldı",
-   "ozet": "Şirket, varant kullanımından gelen 369 milyon dolarlık gelirle 235 milyon dolarlık Bitcoin satın aldı.",
+   "ozet": "Strive, varant kullanımından elde ettiği 369,2 milyon dolarlık gelirin ardından 2.822 BTC satın aldı. Şirket alımları Bitcoin'e talep yaratıyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -92,8 +75,28 @@
    "tarih": "2026-10-14T14:32+00:00"
   },
   {
-   "baslik": "Ledger, şüpheli 86 milyon dolarlık çalıntı sonrası cihazları geri çağırdı",
-   "ozet": "Ledger, Asya'daki yedi pazarda satıcılardan cihazları çekmelerini istedi. Olay donanım cüzdanı güvenini sarsabilir.",
+   "baslik": "Beyaz Saray'ın kripto danışmanı Patrick Witt ayrılıyor",
+   "ozet": "Witt'in görevi sona eriyor; haberde Clarity Yasası'nın da durakladığı belirtiliyor. Kripto düzenlemelerinin ilerleyişi belirsizleşebilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+   "tarih": "2026-10-14T20:30+00:00"
+  },
+  {
+   "baslik": "AB, Circle'ın USDC'sini MiCA kapsamında 'önemli' olarak sınıflandırdı",
+   "ozet": "İkinci büyük stablecoin USDC, AB'de 'önemli e-para token'ı' olarak Fransız ve AB otoritelerinin denetimine girecek. Düzenleyici çerçevenin netleşmesi anlamına geliyor.",
+   "etki": "notr",
+   "coinler": [
+    "USDC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-14T19:03+00:00"
+  },
+  {
+   "baslik": "Ledger cihazlarında şüpheli 86 milyon dolarlık boşaltma",
+   "ozet": "Ledger, yedi Asya pazarındaki satıcılardan cihazları rafdan çekmelerini istedi. MediaMarkt Saturn da Almanya'da bir müşterinin cihazda implant bulduğunu bildirmesi üzerine satışları durdurdu. Donanım cüzdan güvenliği sorgulanıyor.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Decrypt",
@@ -101,31 +104,24 @@
    "tarih": "2026-10-14T13:47+00:00"
   },
   {
-   "baslik": "Piyasa Fed'den iki faiz artışı bekliyor",
-   "ozet": "Yatırımcılar Fed'in iki kez faiz artırabileceğine ya da aralıkta yarım puanlık artış yapabileceğine bahis oynuyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWctV1JqSkdmMDBERVRzbFVaT184aEhTUWxHM2FacHRETEZISXJPeERScWFMUlBQWURWdDlyY3p0a0I0TUhpbXR0eDBOYk40R1hueHdMWGZ0cHBnV3ZLTXlEYU5yRkNSY1V2bmhJWV9iMUtWZ2UtTXl4ZHI5TVNxR0N3blc1TUN2TWJWVmw2SDUtTC1Mc25aSHhhVXk3U01FNkxwdVpuVkEtR0VtZ3g1VjNHZDFWbFMtZjdF?oc=5",
-   "tarih": "2026-10-14T13:46+00:00"
+   "baslik": "Solana'nın Alpenglow güncellemesi 21 Ekim'de",
+   "ozet": "Alpenglow, TowerBFT oylama sisteminin yerini alacak ve nihai onay süresini 12,8 saniyeden 150 milisaniye hedefine indirecek. Solana'nın hızı için önemli bir adım.",
+   "etki": "olumlu",
+   "coinler": [
+    "SOL"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
+   "tarih": "2026-10-14T19:16+00:00"
   },
   {
-   "baslik": "Kraken'in sahibi Payward bir AB bankasını satın alacak",
-   "ozet": "Payward, Litvanya'daki Saldo Bank'ı alarak mevduat ve kredi alanına girmeyi hedefliyor; bir kripto şirketi için bir ilk.",
+   "baslik": "Kraken'in sahibi Payward, Litvanya'daki Saldo Bank'ı alıyor",
+   "ozet": "Payward, AB'de bir bankayı satın alan ilk kripto şirketi olacak ve mevduat ile kredi alanına açılacak. Kripto şirketlerinin geleneksel finansa yaklaşması sürüyor.",
    "etki": "olumlu",
    "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
-   "tarih": "2026-10-14T13:07+00:00"
-  },
-  {
-   "baslik": "ABD'de eylülde yıllık enflasyon %3,7 oldu",
-   "ozet": "Benzin fiyatlarındaki sert artışla tüketici fiyatları yıllık %3,7 yükseldi. Yüksek enflasyon riskli varlıklar için olumsuz okunuyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IZEUyWDE5aTVyU1VTMEhhNW9LV3pZdUkwcFI4WVlIOEhHUzBmUTZGbUlWTDVfN05zdzhFTlR4RERqUHROMDJ2T3dCN2I0UDI2dmZhOTBVTVRIYVlIYjRKQ2RZcjdNQWdWTTkyV0owQU1Xekt4U2ZHUFc4NnPSAYIBQVVfeXFMT3U1UnZTdHN4U2tIM1lZcHlGRGZLUXNaYjhDTHl4bllqdzY3ek9XYl9ZdzNBaUdJQjNndF9HSm1yci15X3ZnMEdaazNzMjVTZ204TzJ1cFJEOE81bUF0RFBJWTR6RWF2YU9BWm1PMnhTVGNWVnc5bkxNWlRpT0RuU2t2Zw?oc=5",
-   "tarih": "2026-10-14T12:31+00:00"
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/news/kraken-parent-company-to-buy-saldo-bank",
+   "tarih": "2026-10-14T16:30+00:00"
   }
  ]
 }
