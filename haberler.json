@@ -1,91 +1,105 @@
 {
- "guncelleme": "2026-10-16T04:05+00:00",
- "duygu": "olumsuz",
- "ozet": "Bitcoin, beklentiden yüksek çıkan ABD üretici enflasyonu sonrası 80.000 dolar desteğinin altına kısa süre indi. Enflasyon verisi Fed'in faiz artırabileceği beklentisini canlandırdı; yaklaşık 1 milyar dolarlık kaldıraçlı pozisyon tasfiye oldu. Teknoloji ve yapay zekâ satışları risk iştahını zayıflatıyor. Dikkat edilecek seviye 80.000 dolar.",
+ "guncelleme": "2026-10-16T07:10+00:00",
+ "duygu": "karisik",
+ "ozet": "Bitcoin 80.000 doların altına kısa süre indi ama iki saat içinde 82.500 dolara döndü. Yapay zekâ ve faiz endişeleri piyasayı sallıyor; öte yandan Warsh sonrası Fed'in Ekim'de faizi sabit tutma beklentisi ve zayıflayan dolar kripto için destek sağlıyor. Dikkat edilecek seviye 80.000 dolar.",
  "takvim": [
-  "11 Kasım: MSCI, yeni kurallardan etkilenecek şirketlerin son listesini açıklayacak; Strategy gibi kripto hazine şirketleri dışlanma riski altında."
+  "11 Kasım: MSCI, yeni kurallardan etkilenecek şirketlerin son listesini açıklayacak; Strategy gibi kripto hazine şirketleri endeksten çıkarılabilir."
  ],
  "haberler": [
   {
-   "baslik": "MSCI kuralları Strategy ve Metaplanet gibi şirketleri dışlayabilir",
-   "ozet": "MSCI yeni endeks dışlama kurallarını kabul etti. Strategy, Metaplanet ve Upexi daha önce silinecekler arasında anılmıştı; nihai liste 11 Kasım'da açıklanacak.",
-   "etki": "olumsuz",
+   "baslik": "Bitcoin 80.000 doların altından hızla döndü",
+   "ozet": "Bitcoin 80.000 doların altına kısa süre indi, iki saat içinde 82.500 dolara geri çıktı. Seul'de çip hisseleri de toparlandı.",
+   "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-16T00:48+00:00"
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+   "tarih": "2026-10-16T04:14+00:00"
   },
   {
-   "baslik": "Fed'den Goolsbee: Enflasyon cesaret kırıcı ama biraz iyimserlik var",
-   "ozet": "Fed yetkilisi Goolsbee enflasyon verilerini cesaret kırıcı buldu ama hâlâ bir miktar iyimserlik olduğunu söyledi. Faiz beklentileri kriptoyu doğrudan etkiliyor.",
-   "etki": "notr",
+   "baslik": "Warsh, Fed'in Ekim'de faizi sabit tutma beklentisini güçlendirdi",
+   "ozet": "Fed'in Ekim'de faizi değiştirmeyeceği beklentisi arttı. Faiz artışı korkusunun azalması riskli varlıklar için destekleyici olabilir.",
+   "etki": "olumlu",
    "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXR1ek9vWXFJUnhjSUhmTnNnd0o1MERLZ3Q5OWxEX2J4UERIT1dGNWMwaVI4MkpiajNzZmprSE1vZWRaSDZ4RjlkSjFlSG1FSWxYT2JkSVNSaVp5alFfbGQ1RHd0WHdaeGw2bU1aaHQ2cmJhSnM4STd2cS1odWZreU1nU0hqYm5WeVJkUmdxMmg2NFRiMkFmMkRtMWQxTWd5SHRNM2FR?oc=5",
-   "tarih": "2026-10-15T23:49+00:00"
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZhMDY1QkVFRU1NQ0c1NkxlNzR2cDR4NEgwbVFMSkQ3RzFSNlFYT1Q0d1BzOWpRUGtLcTg1YUk0UkxOc2tKWENkTGxkRWc5SFAwWDFMS3JxdXJfWUIyNmwzR1Z0T3B5SmF0R2hjc0lDdXppV0wzQmw2bHh0a0FZS1BsUXVJdkdyZF9YcWIxMlZ3RnMwOVZ0YlFDeHdFWE5nTXdSdlQwb2NfZw?oc=5",
+   "tarih": "2026-10-16T04:57+00:00"
   },
   {
-   "baslik": "Satış dalgası ve yükselen faizler yapay zekâ veri merkezi yatırımlarını zorluyor",
-   "ozet": "Piyasadaki satışlar ve yükselen faizler yapay zekâ veri merkezi anlaşmalarındaki patlamayı sınıyor. Teknoloji satışları kripto iştahını da zayıflatabilir.",
+   "baslik": "Yapay zekâ ve faiz korkuları piyasadaki sakinliği bozdu",
+   "ozet": "Yapay zekâ ve faiz endişelerinin birleşmesi piyasadaki sakin havayı dağıttı. Dalgalanma kripto fiyatlarına da yansıyabilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkF0Z0d5VTdCU1hISVI0eXNTUnpGOFlXc1BwM0dHWEJ6SWs2REc1TEdFdUtQRlRYTUM4TXRqcnFYZWlldDdjQnhLQ3ZQVmdrYXVvTWhwSGRnejRLLXBjbms5Z2pRMEJVWlp5Yks5WG5Tck9ZYXJaVDk5ZGZyanhEQVJUOXJMM0hBTzRTNnVheFlkcmpUSzdadi12VmZlbGFEWjA3SXEzcnJ2TTRXMkZv?oc=5",
-   "tarih": "2026-10-15T23:48+00:00"
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONlgta0RRakFuNGFHRU9mU3FJUGN1UnZCWUh3MUk0TFhXdEI3ZlNxUjZkNVhIbXpYTDE5UmpKZ0IyZFBCMF9ZbXdyQ2JyX1hRb3dSNDBnRUk0VktFZEd4Q3NNWHlKUGMtcDNydThJd2tJYVBtbEJ3V1ktd2w2YXJHc01kSTROYnBZNTJ2S2lHMzRKVVBiUVdUbTBYUWtnOXdu?oc=5",
+   "tarih": "2026-10-15T22:44+00:00"
   },
   {
-   "baslik": "Avustralya kripto vergi bildirim çerçevesi için taslak yasa açıkladı",
-   "ozet": "Avustralya, OECD'nin kripto vergi raporlama çerçevesini (CARF) benimsemek için taslak yasa yayımladı. İlk uluslararası vergi verisi paylaşımı 2028'de bekleniyor.",
+   "baslik": "CoreWeave şoku sonrası piyasalar sakin, ama ne kadar?",
+   "ozet": "Yapay zekâ altyapı şirketi CoreWeave kaynaklı şokun ardından piyasalar sakinleşti; bu sakinliğin sürüp sürmeyeceği belirsiz.",
    "etki": "notr",
    "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-15T23:34+00:00"
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44b1lGM1JLZENYQ1N1OEhhcmloOHVTUzl0X0JYZm5FZmFtLXhFTDVLWThlQzVxVnJRcjZkUDBVT20zYlJxRGRwVVBWQzRCVHNfbWt6QTFSWWtneFdWQ2I2LUxPZC15Tk95Z3d2dlBaXzlkX0dOdE44Z0RPdDQ2ZnM?oc=5",
+   "tarih": "2026-10-16T04:31+00:00"
   },
   {
-   "baslik": "Tayland'da Bitcoin ve Ether ETF'leri işlem görmeye başladı",
-   "ozet": "Tayland'da Bitcoin ve Ether ETF'leri işleme açıldı. Güney Kore ise 27 borsayı engelledi.",
+   "baslik": "Dolar yapay zekâ endişeleriyle bir aydan fazla sürenin en kötü gününü yaşadı",
+   "ozet": "Dolar bir aydan uzun sürenin en sert günlük düşüşünü gördü. Zayıf dolar genelde kripto gibi riskli varlıklara nefes aldırır.",
    "etki": "olumlu",
    "coinler": [
-    "BTC",
-    "ETH"
+    "BTC"
    ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-15T22:42+00:00"
-  },
-  {
-   "baslik": "Fed'den Hammack: Enflasyon beklentileri bozulursa Fed harekete geçebilir",
-   "ozet": "Hammack, enflasyon beklentilerindeki bozulmanın Fed'den bir tepki gerektirebileceği uyarısı yaptı. Faiz artışı ihtimali risk varlıklarına baskı yapabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnhMdGhwNHBETlB4SjVzT3pIb3NoNTlmR2FSVGJjR25xQU5VcVBxemQ5Q3JNRzMyZDJMNjRzZ0lfOWhSUmszQlkxdklrWGpTMXJveU9MUjc4TUttdHIyMGFpektjTkUzMDhGT1RYamxFLUdYQzU1cU5tcHdaYzJzaGtJY25LSUt5aE05NEhMR3VHWlE3N3I5NGl0LXExMlduQWUtdERKU1NRUlRHNFRSR051R1FKdVprYnNzTg?oc=5",
-   "tarih": "2026-10-15T21:54+00:00"
-  },
-  {
-   "baslik": "Rusya 2027'den itibaren kişiden kişiye kripto alım satımını yasaklıyor",
-   "ozet": "Rus merkez bankası, 1 Temmuz 2027'den sonra tüm kripto işlemlerinin onaylı aracı kurum veya borsalardan geçmesi gerekeceğini doğruladı.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
-   "tarih": "2026-10-15T20:31+00:00"
-  },
-  {
-   "baslik": "Dolar, yapay zekâ riski kaygılarıyla bir ayın en kötü gününü yaşadı",
-   "ozet": "Dolar, yapay zekâ kaynaklı risk endişeleriyle bir aydan uzun sürenin en sert günlük düşüşünü gördü.",
-   "etki": "notr",
-   "coinler": [],
    "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkN1V1ZwcG5ZSTYxRWR5SndIR2FQc0RrYkhldVduR2JncXRwcm1sNEpKazNSODFvWU8zc1RTYmVJMGRXVUhXNjBJS0FPRVYycTVQUWpZQXhWOFdFSzhXMGYxZ0U4OXFBeVZ0ZVBGUVFXMjluMW8xTlluOHVyUFRkVG5lT2QxenpCaXM1ajZELWRZZWFfQk1hS0YwSzVnZnZ1UzZqazZxNlh5U1pyalJqNklGdw?oc=5",
    "tarih": "2026-10-15T20:14+00:00"
   },
   {
-   "baslik": "Trump'ın kripto danışmanı ayrıldı, Beyaz Saray ofisi boş kaldı",
-   "ozet": "Danışman Patrick Witt'in ayrılmasıyla dijital varlık ofisi boş kaldı ve politika hedefleri belirsizleşti.",
+   "baslik": "MSCI kuralları Strategy gibi kripto hazine şirketlerini endeksten çıkarabilir",
+   "ozet": "MSCI yeni kuralları kesinleştirdi; Strategy, Metaplanet ve SharpLink gibi şirketler dışlanma riski taşıyor. Nihai liste 11 Kasım'da açıklanacak.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+   "tarih": "2026-10-15T22:15+00:00"
+  },
+  {
+   "baslik": "Rusya kişiler arası Bitcoin ticaretini yasaklayacak",
+   "ozet": "Merkez Bankası'na göre 1 Temmuz 2027'den sonra tüm kripto işlemleri onaylı aracı kurum veya borsa üzerinden yapılacak.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+   "tarih": "2026-10-15T20:31+00:00"
+  },
+  {
+   "baslik": "Bitwise: Bitcoin yapay zekâ senaryolarının hepsinde kazanabilir",
+   "ozet": "Bitwise'ın CIO'su, yapay zekâda bolluk, balon patlaması veya orta yol senaryolarının hepsinde Bitcoin'in öne çıkabileceğini savundu.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+   "tarih": "2026-10-15T19:16+00:00"
+  },
+  {
+   "baslik": "ABD'li hakim Gemini-CFTC'nin 5 milyon dolarlık uzlaşmayı bozma talebini reddetti",
+   "ozet": "Mahkeme, Gemini'nin duruşmadan üç hafta önce gönüllü uzlaştığını belirterek dosyanın yeniden açılmasını kabul etmedi.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+   "tarih": "2026-10-16T05:44+00:00"
+  },
+  {
+   "baslik": "Trump'ın kripto danışmanı Patrick Witt ayrıldı, Beyaz Saray kripto ofisi boş",
+   "ozet": "Witt'in ayrılmasıyla dijital varlık ofisi başkansız kaldı ve yönetimin kripto politikası belirsizleşti.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -93,33 +107,22 @@
    "tarih": "2026-10-15T18:48+00:00"
   },
   {
-   "baslik": "Mastercard ve BVNK stabil coin bakiyelerini bankacılığa taşıyor",
-   "ozet": "Mastercard, BVNK ile 'Global Money Platform'u başlattı; bankalar ve şirketler tek bir sistemle hem normal para hem stabil coin tutup harcayabilecek.",
-   "etki": "olumlu",
+   "baslik": "Avustralya OECD kripto vergi raporlama çerçevesi için taslak yasa yayımladı",
+   "ozet": "Avustralya, CARF'ı benimseyen 77 ülkeden biri; ilk uluslararası kripto vergi verisi paylaşımı 2028'de bekleniyor.",
+   "etki": "notr",
    "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
-   "tarih": "2026-10-15T16:28+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-15T23:34+00:00"
   },
   {
-   "baslik": "Ledger: Organize suç grubu donanım cüzdan kullanıcılarını hedef aldı",
-   "ozet": "Ledger, donanım cüzdan kullanıcılarını hedefleyen karmaşık bir tedarik zinciri saldırısı hakkında açıklama yaptı; grup milyonlar harcamış.",
-   "etki": "olumsuz",
+   "baslik": "Google kuantum bilgisayarlarda önemli bir engeli aştığını duyurdu",
+   "ozet": "Google'ın Willow çipi 'magic state' hatalarını 40 kat azalttı; daha küçük ve kullanışlı kuantum makinelere doğru bir adım.",
+   "etki": "notr",
    "coinler": [],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
-   "tarih": "2026-10-15T15:58+00:00"
-  },
-  {
-   "baslik": "Kripto piyasasında yaklaşık 1 milyar dolar tasfiye",
-   "ozet": "Sıcak enflasyon verisi Fed'in faiz artırabileceği beklentisini canlandırdı; kaldıraçlı alıcılar zarar etti ve yaklaşık 1 milyar dolarlık pozisyon tasfiye oldu.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
    "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
-   "tarih": "2026-10-15T15:20+00:00"
+   "link": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+   "tarih": "2026-10-15T21:46+00:00"
   }
  ]
 }
