@@ -1,20 +1,31 @@
 {
- "guncelleme": "2026-10-16T12:06+00:00",
+ "guncelleme": "2026-10-16T13:08+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin 80.000 doların altına kısa süre indi ama 82.000-82.500 dolar bandına döndü. Fed Başkanı Warsh faiz konusunda net konuşmadı; bu, Ekim'de faizin sabit kalacağı beklentisini güçlendirdi. Yapay zekâ hisselerindeki dalgalanma piyasayı geriyor, fonlardan ETH ve SOL çıkışı sürüyor. Dikkat edilecek seviye 80.000 dolar.",
+ "ozet": "Bitcoin 80.000 doların altına kısa süre indi, ardından 82.000-82.500 dolar bandına döndü. Fed Başkanı Warsh faiz konusunda net konuşmadı ve Ekim'de faizin sabit kalacağı beklentisi güçlendi. Yapay zekâ hisselerindeki dalgalanma piyasayı geriyor; ETH, SOL ve ZEC fonlarından çıkışlar sürüyor. Dikkat edilecek seviye 80.000 dolar.",
  "takvim": [
   "11 Kasım: MSCI, yeni kurallardan etkilenecek şirketlerin son listesini açıklayacak; Strategy gibi kripto hazine şirketleri endeksten çıkarılabilir."
  ],
  "haberler": [
   {
+   "baslik": "Kripto toparlandı, Google kuantum engelini aştı",
+   "ozet": "Decrypt'e göre sıcak gelen üretici enflasyonuna (PPI) rağmen büyük kripto paralar toparlandı. Google'ın kuantum adımına rağmen Bitcoin'in şimdilik güvende olduğu belirtiliyor.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
+   "tarih": "2026-10-16T11:46+00:00"
+  },
+  {
    "baslik": "Altcoinler Bitcoin'i geride bıraktı",
-   "ozet": "Celestia %16, Injective %7,7, LayerZero %7,3 yükseldi; Bitcoin 82.100 dolar civarında yatay kaldı. Fed Başkanı Warsh faiz konusunda sinyal vermedi.",
+   "ozet": "Celestia %16, Injective %7,7, LayerZero %7,3 yükseldi; Bitcoin 82.100 dolar civarında yatay kaldı. Fed Başkanı Warsh faiz planı konusunda işaret vermedi.",
    "etki": "olumlu",
    "coinler": [
+    "BTC",
     "TIA",
     "INJ",
-    "ZRO",
-    "BTC"
+    "ZRO"
    ],
    "kaynak": "CoinDesk",
    "link": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
@@ -22,8 +33,8 @@
   },
   {
    "baslik": "Bitcoin 82.000 dolar civarında dengede",
-   "ozet": "Bitcoin 80.000 doların altına kısa süre indikten sonra toparlandı. Yatırımcılar ETH, SOL ve ZEC fonlarından para çekmeye devam etti.",
-   "etki": "notr",
+   "ozet": "Bitcoin 80.000 doların altına kısa süre inmesinin ardından aldığı toparlanmayı korudu. Yatırımcılar ETH, SOL ve ZEC fonlarından para çekmeye devam etti.",
+   "etki": "karisik",
    "coinler": [
     "BTC",
     "ETH",
@@ -36,7 +47,7 @@
   },
   {
    "baslik": "Bitcoin 80.000 doların altından hızla döndü",
-   "ozet": "Bitcoin 80.000 doların altına indikten sonra iki saat içinde 82.500 dolara çıktı; Asya borsalarındaki toparlanma da destek oldu.",
+   "ozet": "Bitcoin, 80.000 doların altına indikten iki saat içinde 82.500 dolara çıktı. Asya borsalarının toparlanması da alıcıları destekledi.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -46,8 +57,35 @@
    "tarih": "2026-10-16T04:14+00:00"
   },
   {
+   "baslik": "Warsh'ın sessizliği faiz sabit beklentisini artırdı",
+   "ozet": "Fed Başkanı Warsh'ın faiz konusunda net konuşmaması, Ekim'de faizin sabit kalacağı beklentisini güçlendirdi. Faiz indirimi veya artışı beklentisi zayıfladı.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZhMDY1QkVFRU1NQ0c1NkxlNzR2cDR4NEgwbVFMSkQ3RzFSNlFYT1Q0d1BzOWpRUGtLcTg1YUk0UkxOc2tKWENkTGxkRWc5SFAwWDFMS3JxdXJfWUIyNmwzR1Z0T3B5SmF0R2hjc0lDdXppV0wzQmw2bHh0a0FZS1BsUXVJdkdyZF9YcWIxMlZ3RnMwOVZ0YlFDeHdFWE5nTXdSdlQwb2NfZw?oc=5",
+   "tarih": "2026-10-16T06:20+00:00"
+  },
+  {
+   "baslik": "Warsh sonrası dolar zayıfladı, euro yükselişte",
+   "ozet": "Warsh'ın açıklamaları dolara baskı yaptı; euro beş haftalık kayıp serisini bitirmeye gidiyor. Zayıf dolar genelde riskli varlıklar için destekleyici olabilir.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU2M5X0N2SV95RlVFbTFsZ09EZDRlcGpYbXVHR19FUWFWNHpqb2FBcDVDUi1QdW16TUUzX013LVVVaHR0eEM4RWZiQkhmT1FLQjNwTEExTVJTZUZpNzhTMGc4YlBrZWdfUWtTZkhpMEpXZkZFcFFrbVNkZ25MVUNNMVIwN0cxWDd2aHEwUDNZanZoN3kyVGhtdElWaFRQakMyYm9HanpzRlh4c280dUJlcldVRnZFQQ?oc=5",
+   "tarih": "2026-10-16T09:37+00:00"
+  },
+  {
+   "baslik": "Tahviller yapay zekâ endişeleriyle haftanın en iyisine gidiyor",
+   "ozet": "ABD tahvilleri şubat ayından beri en iyi haftasına gidiyor; yapay zekâ endişeleri tahvillerdeki satışı durdurdu. Faizlerin gerilemesi kripto için destekleyici olabilir.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeW9yUE1obkVWN1d0NzMtcm91X3BOSHNDQUxxemwweVdhdDZocXFKbEJqcHpORk5yaGpqNzNjUVpPeDJRaDdXSnYtQUZPRXp0cXhkX0c4V2tzVXg4Y2RSNXlhQ015a2lONUY0SFJocHdEdDQ3RGpyNWxvazhyQ3VaSEtpVXA?oc=5",
+   "tarih": "2026-10-16T10:08+00:00"
+  },
+  {
    "baslik": "MSCI, Strategy gibi şirketleri dışlayabilecek kuralı onayladı",
-   "ozet": "Esas olarak yatırım varlığı tutan şirketler endeks dışında kalabilir. Strategy ve Metaplanet bu kuraldan etkilenebilecek şirketler arasında.",
+   "ozet": "Yalnızca yatırım varlığı tutmak için var olan şirketler endeksten çıkarılabilecek. Strategy, Metaplanet ve Upexi daha önce listeye alınmıştı; son liste 11 Kasım'da açıklanacak.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -57,26 +95,8 @@
    "tarih": "2026-10-16T08:34+00:00"
   },
   {
-   "baslik": "Warsh'ın sessizliği Fed'in faizi sabit tutacağı beklentisini artırdı",
-   "ozet": "Bloomberg'e göre Warsh'ın faiz konusunda net konuşmaması, Ekim'de faizin sabit kalacağı beklentisini güçlendirdi.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZhMDY1QkVFRU1NQ0c1NkxlNzR2cDR4NEgwbVFMSkQ3RzFSNlFYT1Q0d1BzOWpRUGtLcTg1YUk0UkxOc2tKWENkTGxkRWc5SFAwWDFMS3JxdXJfWUIyNmwzR1Z0T3B5SmF0R2hjc0lDdXppV0wzQmw2bHh0a0FZS1BsUXVJdkdyZF9YcWIxMlZ3RnMwOVZ0YlFDeHdFWE5nTXdSdlQwb2NfZw?oc=5",
-   "tarih": "2026-10-16T06:20+00:00"
-  },
-  {
-   "baslik": "Tahviller yapay zekâ endişeleriyle haftanın en iyisine gidiyor",
-   "ozet": "FT'ye göre yapay zekâ kaygıları tahvil satışlarını durdurdu; Hazine tahvilleri Şubat'tan bu yana en iyi haftasına gidiyor.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeW9yUE1obkVWN1d0NzMtcm91X3BOSHNDQUxxemwweVdhdDZocXFKbEJqcHpORk5yaGpqNzNjUVpPeDJRaDdXSnYtQUZPRXp0cXhkX0c4V2tzVXg4Y2RSNXlhQ015a2lONUY0SFJocHdEdDQ3RGpyNWxvazhyQ3VaSEtpVXA?oc=5",
-   "tarih": "2026-10-16T10:08+00:00"
-  },
-  {
    "baslik": "Google kuantum bilgisayarda önemli adım attı",
-   "ozet": "Google, kuantum bilgisayarların önemli bir darboğazını aşmaya yardım edebilecek 'magic state cultivation' yöntemini gösterdi. Konu, Bitcoin'in uzun vadeli güvenliği tartışmasını yeniden gündeme getirdi.",
+   "ozet": "Google, kuantum bilgisayarların önündeki en büyük engellerden birine çözüm olabilecek 'magic state cultivation' yöntemini gösterdi. Gözlemciler 'Q-day' etkilerini tartışıyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -87,7 +107,7 @@
   },
   {
    "baslik": "Kripto şirketleri Kuantum İttifakı kurdu",
-   "ozet": "Dokuz kripto şirketi kuantum saldırılarına hazırlanmak için ittifak kurdu. Tehdidin ne zaman geleceği ve savunmasız BTC'lerin dondurulup dondurulmayacağı konusunda görüş ayrılığı var.",
+   "ozet": "Dokuz kripto şirketi kuantum saldırılarına hazırlanmak için ittifak kurdu. 6,4 milyon Bitcoin'in gelecekte risk altında olduğu uyarısı yapılıyor; şirketler tehdidin zamanı konusunda ayrışıyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -98,16 +118,16 @@
   },
   {
    "baslik": "Hakim, Gemini'nin 5 milyon dolarlık uzlaşmayı bozma talebini reddetti",
-   "ozet": "CFTC desteğine rağmen mahkeme, Gemini'nin 2025'teki uzlaşmasını geçersiz saymadı; borsa kısıtlamalarla yaşamaya devam edecek.",
-   "etki": "olumsuz",
+   "ozet": "CFTC'nin de desteklediği talebi reddeden hakim, politika değişikliklerinin kararı yeniden açmaya yetmediğini belirtti.",
+   "etki": "notr",
    "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
-   "tarih": "2026-10-16T09:36+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-16T07:43+00:00"
   },
   {
    "baslik": "Ledger casus çip açığında dolandırıcı 5 milyon dolarlık BTC kaybetti",
-   "ozet": "Chainalysis'e göre sahte iş ilanlarıyla insanları kandıran bir dolandırıcı, ele geçirilmiş donanım cüzdanlarının en büyük kurbanlarından biri oldu.",
+   "ozet": "Chainalysis'e göre sahte iş ilanlarıyla insanları dolandıran bir kişi, ele geçirilmiş donanım cüzdanlarının en büyük kurbanlarından biri oldu.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -118,7 +138,7 @@
   },
   {
    "baslik": "Solana'nın Şanghay etkinliği ertelendi",
-   "ozet": "Solana Vakfı Başkanı Lily Liu, kayıtların bir gecede dört katına çıkıp yerel makamlara bildirilen katılım sınırını aştığını söyledi.",
+   "ozet": "Solana Vakfı Başkanı Lily Liu, kayıtların bir gecede dört katına çıkması nedeniyle katılım sınırının aşıldığını söyledi.",
    "etki": "notr",
    "coinler": [
     "SOL"
@@ -126,28 +146,6 @@
    "kaynak": "Cointelegraph",
    "link": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "tarih": "2026-10-16T11:22+00:00"
-  },
-  {
-   "baslik": "Circle 40 yeni pazara açılmayı hedefliyor",
-   "ozet": "CEO Allaire, Asya, Afrika ve Latin Amerika'da dijital dolara talebin arttığını söyledi.",
-   "etki": "olumlu",
-   "coinler": [
-    "USDC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-   "tarih": "2026-10-16T10:54+00:00"
-  },
-  {
-   "baslik": "Visa Direct, USDC ön finansmanını canlıya aldı",
-   "ozet": "Visa Direct, Inyo Global ile USDC ön finansmanını ticari üretime taşıdı.",
-   "etki": "olumlu",
-   "coinler": [
-    "USDC"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
-   "tarih": "2026-10-16T11:25+00:00"
   }
  ]
 }
