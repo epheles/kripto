@@ -1,14 +1,23 @@
 {
- "guncelleme": "2026-10-16T10:10+00:00",
+ "guncelleme": "2026-10-16T11:05+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin 80.000 doların altına kısa süre indi ama iki saat içinde 82.500 dolara döndü. Yapay zekâ ve faiz endişeleri piyasayı sallıyor; öte yandan Warsh sonrası Fed'in Ekim'de faizi sabit tutma beklentisi ve zayıflayan dolar kripto için destek sağlıyor. Dikkat edilecek seviye 80.000 dolar.",
+ "ozet": "Bitcoin 80.000 doların altına kısa süre indi ama iki saat içinde 82.500 dolara döndü. Yapay zekâ kaynaklı endişeler piyasayı sallıyor; öte yandan Fed'in Ekim'de faizi sabit tutma beklentisi ve zayıflayan dolar kripto için destek sağlıyor. Dikkat edilecek seviye 80.000 dolar.",
  "takvim": [
   "11 Kasım: MSCI, yeni kurallardan etkilenecek şirketlerin son listesini açıklayacak; Strategy gibi kripto hazine şirketleri endeksten çıkarılabilir."
  ],
  "haberler": [
   {
+   "baslik": "ABD'li hakim Gemini-CFTC'nin 5 milyon dolarlık uzlaşmayı bozma talebini reddetti",
+   "ozet": "Mahkeme, Gemini'nin yargılamadan üç hafta önce gönüllü olarak uzlaştığını belirterek davanın yeniden açılmasını kabul etmedi.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
+   "tarih": "2026-10-16T05:44+00:00"
+  },
+  {
    "baslik": "Warsh sonrası Fed'in Ekim'de faizi sabit tutma beklentisi arttı",
-   "ozet": "Fed Başkanı Warsh'ın açıklamaları sonrası piyasalar Ekim'de faizin sabit kalacağı beklentisini güçlendirdi. Düşük faiz beklentisi genelde riskli varlıklara destek olur.",
+   "ozet": "Piyasalar Fed'in Ekim'de faizi değiştirmeyeceği beklentisini güçlendirdi. Faiz artışı endişesinin azalması riskli varlıklar için destekleyici.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -17,7 +26,7 @@
   },
   {
    "baslik": "CoreWeave şokunun ardından piyasalarda sakinlik, ama ne kadar sürer?",
-   "ozet": "Yapay zekâ veri merkezi şirketi CoreWeave kaynaklı sarsıntının ardından piyasa sakinleşti; yine de kalıcılığı belirsiz. Teknoloji satışları kriptoya da yansıyabiliyor.",
+   "ozet": "Yapay zekâ şirketi CoreWeave kaynaklı sarsıntının ardından piyasalar sakinleşti; bu sakinliğin kalıcı olup olmayacağı soru işareti. Yapay zekâ kaynaklı satışlar kriptoyu da etkiliyor.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Reuters",
@@ -26,7 +35,7 @@
   },
   {
    "baslik": "Bitcoin 80.000 doların altına indi, hızla toparlandı",
-   "ozet": "Bitcoin kısa süre 80.000 doların altına düştü, iki saat içinde 82.500 dolara geri döndü. Asya borsalarının toparlanması alıcıları destekledi.",
+   "ozet": "BTC kısa süre 80.000 doların altına düştü, iki saat içinde 82.500 dolara döndü. Dip seviyede alıcıların olduğunu gösteriyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -37,7 +46,7 @@
   },
   {
    "baslik": "Avustralya OECD kripto vergi raporlama çerçevesi için taslak yasa yayımladı",
-   "ozet": "Avustralya, 77 ülkenin katıldığı CARF çerçevesini benimsiyor; ilk uluslararası kripto vergi verisi paylaşımı 2028'de bekleniyor.",
+   "ozet": "Avustralya, 77 ülkenin taahhüt ettiği CARF sistemine geçiyor; ilk uluslararası kripto vergi verisi paylaşımı 2028'de bekleniyor.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -45,26 +54,8 @@
    "tarih": "2026-10-15T23:34+00:00"
   },
   {
-   "baslik": "Yapay zekâ ve faiz endişeleri piyasa sakinliğini bozdu",
-   "ozet": "Yapay zekâ şirketlerindeki kaygılar ile faiz korkuları aynı anda piyasaya yüklendi ve dalgalanma arttı. Riskli varlıklar bu tür günlerde baskı altında kalabiliyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONlgta0RRakFuNGFHRU9mU3FJUGN1UnZCWUh3MUk0TFhXdEI3ZlNxUjZkNVhIbXpYTDE5UmpKZ0IyZFBCMF9ZbXdyQ2JyX1hRb3dSNDBnRUk0VktFZEd4Q3NNWHlKUGMtcDNydThJd2tJYVBtbEJ3V1ktd2w2YXJHc01kSTROYnBZNTJ2S2lHMzRKVVBiUVdUbTBYUWtnOXdu?oc=5",
-   "tarih": "2026-10-15T22:44+00:00"
-  },
-  {
-   "baslik": "Fed'den Hammack: Enflasyon beklentileri bozulursa Fed harekete geçebilir",
-   "ozet": "Fed yetkilisi Hammack, enflasyon beklentilerindeki bozulmanın Fed'in müdahalesini gerektirebileceğini söyledi. Faiz artışı ihtimali kripto için olumsuz bir risk.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnhMdGhwNHBETlB4SjVzT3pIb3NoNTlmR2FSVGJjR25xQU5VcVBxemQ5Q3JNRzMyZDJMNjRzZ0lfOWhSUmszQlkxdklrWGpTMXJveU9MUjc4TUttdHIyMGFpektjTkUzMDhGT1RYamxFLUdYQzU1cU5tcHdaYzJzaGtJY25LSUt5aE05NEhMR3VHWlE3N3I5NGl0LXExMlduQWUtdERKU1NRUlRHNFRSR051R1FKdVprYnNzTg?oc=5",
-   "tarih": "2026-10-15T22:32+00:00"
-  },
-  {
    "baslik": "MSCI yeni kuralları onayladı: Strategy endeksten çıkabilir",
-   "ozet": "MSCI'nin yeni kuralları Strategy, Metaplanet ve SharpLink gibi kripto hazine şirketlerini endeksten çıkarabilir. Nihai liste 11 Kasım'da açıklanacak.",
+   "ozet": "MSCI'nin yeni kuralları Strategy, Metaplanet ve SharpLink gibi kripto hazine şirketlerini endeksten çıkarma riski taşıyor. Nihai liste 11 Kasım'da açıklanacak.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -74,8 +65,17 @@
    "tarih": "2026-10-15T22:15+00:00"
   },
   {
+   "baslik": "Google kuantum bilgisayarlarda önemli bir darboğazı aştığını söyledi",
+   "ozet": "Google'ın Willow çipi kuantum bilgisayarların ihtiyaç duyduğu 'magic state' hatalarını 40 kat azalttı. Bu adım, ileride bugünkü şifrelemeyi tehdit edebilecek makinelere doğru atılmış bir adım.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+   "tarih": "2026-10-15T21:46+00:00"
+  },
+  {
    "baslik": "Rusya'da kişiden kişiye Bitcoin ticareti yasaklanıyor",
-   "ozet": "Merkez Bankası'na göre Rusya'da 1 Temmuz 2027'den sonra tüm kripto işlemleri onaylı bir broker veya borsa üzerinden yapılacak.",
+   "ozet": "Rusya Merkez Bankası, 1 Temmuz 2027'den sonra kripto alım satımının yalnızca onaylı aracı kurum ve borsalardan yapılabileceğini doğruladı.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -86,7 +86,7 @@
   },
   {
    "baslik": "Binance.US yaklaşık 1 milyar dolar değerleme ile 100 milyon dolar fon arıyor",
-   "ozet": "Rapora göre borsa, Binance'in 2023'teki uzlaşmasının ardından kaybettiği pazar payını geri kazanmak için yeni fon topluyor.",
+   "ozet": "Rapora göre borsa, 2023'teki Binance uzlaşmasının ardından kaybettiği pazar payını geri kazanmak için fon topluyor.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -95,18 +95,16 @@
   },
   {
    "baslik": "Dolar, yapay zekâ endişeleriyle bir ayın en kötü gününü yaşadı",
-   "ozet": "Dolar, yapay zekâ riski kaygıları nedeniyle bir aydan uzun sürenin en sert düşüşünü yaşadı. Zayıf dolar genelde Bitcoin gibi varlıklara destek verir.",
+   "ozet": "Dolar, yapay zekâ risk endişeleri nedeniyle son bir ayın en sert düşüşünü gördü. Zayıf dolar genelde kripto için destek sayılır.",
    "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
+   "coinler": [],
    "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkN1V1ZwcG5ZSTYxRWR5SndIR2FQc0RrYkhldVduR2JncXRwcm1sNEpKazNSODFvWU8zc1RTYmVJMGRXVUhXNjBJS0FPRVYycTVQUWpZQXhWOFdFSzhXMGYxZ0U4OXFBeVZ0ZVBGUVFXMjluMW8xTlluOHVyUFRkVG5lT2QxenpCaXM1ajZELWRZZWFfQk1hS0YwSzVnZnZ1UzZqazZxNlh5U1pyalJqNklGdw?oc=5",
    "tarih": "2026-10-15T20:14+00:00"
   },
   {
    "baslik": "Bitwise: Yapay zekâ ister patlasın ister çökse, Bitcoin kazanır",
-   "ozet": "Bitwise yatırım sorumlusu Hougan'a göre yapay zekâ bolluğu, çöküşü ya da orta yol senaryolarının hepsi sonunda Bitcoin'e yarar.",
+   "ozet": "Bitwise yatırım direktörü, yapay zekâ senaryosu ne olursa olsun Bitcoin'in yükseleceğini savunan bir not yazdı. Bu bir görüş; kesin bir öngörü değil.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -117,7 +115,7 @@
   },
   {
    "baslik": "Beyaz Saray'da kripto danışmanı ayrıldı, ofis boş kaldı",
-   "ozet": "Trump'ın kripto danışmanı Patrick Witt'in ayrılmasıyla dijital varlık ofisi boşaldı; kripto politikasının yönü belirsizleşti.",
+   "ozet": "Trump'ın kripto danışmanı Patrick Witt'in ayrılmasıyla Beyaz Saray dijital varlık ofisi boş kaldı; politika hedefleri belirsiz.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CoinDesk",
