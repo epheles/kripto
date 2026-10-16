@@ -1,37 +1,26 @@
 {
- "guncelleme": "2026-10-16T18:05+00:00",
+ "guncelleme": "2026-10-16T19:05+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin 82.000 dolar civarında yatay seyrediyor ve 80.000 doların üzerinde tutunuyor. Fed Başkanı Warsh'ın faiz artışı sinyali vermemesi baskıyı azalttı, ancak ABD'de ithalat fiyatlarındaki sert artış ve yapay zekâ borçlanma endişeleri riskli varlıkları tedirgin ediyor. MSCI'nin yeni kuralları Strategy gibi Bitcoin biriktiren şirketleri endeksten çıkarabilir. Deutsche Bank'ın saklama hizmeti ise kurumsal ilgiyi destekliyor.",
+ "ozet": "Bitcoin 82.000 dolar civarında yatay seyrediyor ve 80.000 doların üzerinde tutunuyor. Fed Başkanı Warsh'ın faiz artışı sinyali vermemesi baskıyı azalttı, ancak ABD'de ithalat fiyatlarındaki sert artış ve yapay zekâ borçlanma endişeleri (CoreWeave) riskli varlıkları tedirgin ediyor. MSCI'nin yeni kuralları Strategy gibi Bitcoin biriktiren şirketleri endeksten çıkarabilir. Deutsche Bank'ın saklama hizmeti ise kurumsal ilgiyi destekliyor.",
  "takvim": [
-  "Ekim ayı Fed toplantısı: Piyasa faizin sabit kalmasını bekliyor. Warsh'dan beklenmedik bir sert mesaj gelirse kripto baskı görebilir.",
-  "Önümüzdeki günler: Deutsche Bank'ın Bitcoin saklama hizmetini başlatması bekleniyor."
+  "Ekim ayı Fed toplantısı: Piyasa faizin sabit kalmasını bekliyor. Warsh'dan beklenmedik sert bir mesaj gelirse kripto baskı görebilir.",
+  "Önümüzdeki haftalar: Deutsche Bank'ın Bitcoin saklama hizmetini başlatması bekleniyor."
  ],
  "haberler": [
   {
-   "baslik": "Bitcoin 82 bin dolar civarında tutunuyor",
-   "ozet": "Fed Başkanı Warsh faiz artışı sinyali vermedi, faiz artışı beklentileri azaldı. Bitcoin 80.000 doların üzerinde kaldı.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-16T15:45+00:00"
-  },
-  {
-   "baslik": "MSCI, Strategy'yi endeksten çıkarabilecek kuralları onayladı",
-   "ozet": "Yatırım tutmak için kurulmuş şirketler endekse giremeyecek. Strategy ve Metaplanet gibi Bitcoin biriktiren şirketler etkilenebilir.",
+   "baslik": "MSCI'nin yeni kuralları Strategy'yi endeksten çıkarabilir",
+   "ozet": "MSCI, ağırlıklı olarak yatırım varlığı tutan şirketleri endeksten çıkarabilecek kuralları onayladı. Strategy ve Metaplanet risk altında; Reuters'a göre pasif fonlarda milyarlarca dolar söz konusu.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
-   "tarih": "2026-10-16T08:34+00:00"
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/news/msci-could-exclude-strategy-from-index",
+   "tarih": "2026-10-16T16:32+00:00"
   },
   {
-   "baslik": "Deutsche Bank birkaç hafta içinde Bitcoin saklama hizmeti başlatıyor",
-   "ozet": "Almanya'nın en büyük bankasının kripto saklama hizmetine başlaması bildirildi. Kurumsal ilgi açısından olumlu bir adım.",
+   "baslik": "Deutsche Bank birkaç hafta içinde Bitcoin saklama hizmeti başlatacak",
+   "ozet": "Rapora göre Almanya'nın en büyük bankası kripto saklama hizmetini hızla devreye alıyor ve Asya'ya açılmayı hedefliyor. Kurumsal ilgiyi destekleyen bir gelişme.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -41,8 +30,55 @@
    "tarih": "2026-10-16T16:35+00:00"
   },
   {
+   "baslik": "Bitcoin 82 bin dolar civarında; Warsh faiz artışı sinyali vermedi",
+   "ozet": "Bitcoin 80.000 doların üzerinde tutundu. Fed Başkanı Warsh faiz artışına dair ima yapmayınca bu yöndeki beklentiler azaldı.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-16T15:45+00:00"
+  },
+  {
+   "baslik": "ABD ithalat fiyatları dört yılın en büyük yıllık artışını yaptı",
+   "ozet": "İthalat fiyatları son dört yıldan fazla sürenin en büyük yıllık artışını kaydetti. Enflasyon endişesi Fed'in faiz kararını zorlaştırabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXBPbnpTYVoxLUJfaDFHQjdrTFJXblFfN0FRVENPaEcxd0FfZWZJYk5kQ2tmUzRiYWhaSXdlUG9tVjgzVmRXZGlBaW1MQlZtRkFkQ0dxWkktQTNPdHM2anpjNGVMVnlWYUVuODlfVlZPbHp0T0pDcTNONU1RTDUyZDlIbkZUbnJNcjctWkdZQzZGeUpQOGkzcHY2R0RqRGM1?oc=5",
+   "tarih": "2026-10-16T16:08+00:00"
+  },
+  {
+   "baslik": "Yapay zekâ satışı sürüyor, kripto bir miktar geriledi",
+   "ozet": "CoinDesk'e göre yapay zekâ balonunun sönmesi endişeleri tahvillere talebi artırırken kripto bir miktar değer kaybetti.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+   "tarih": "2026-10-16T09:48+00:00"
+  },
+  {
+   "baslik": "CoreWeave tahvillerindeki satış yapay zekâ borçlanmasını sorgulatıyor",
+   "ozet": "CoreWeave tahvillerindeki sert satış, yapay zekâ yatırımlarının borçla finansmanı konusunda piyasada tedirginlik yaratıyor. Riskli varlıklar bu havadan etkilenebilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdm5VTll1VmRrVEdWNm9HMmh4dUtxaDN2alV3YnJxUmtZdVJjZV9obW5Kc2tOYTNEQVdQNE1XMnFNbk1PaFBTTHZqcWxFZklDOVRtYm9IOWhnMjRuZTYyM2U0NVA1WmY0a3ZGQTFJbFp5cU1ha3h2WXBwLVFBSmtjRnVmZm8xdUtCMWlaX1YyUkpCSDhZamRzRG9UV3paVU9MalVpa0FFbzRBZw?oc=5",
+   "tarih": "2026-10-16T16:37+00:00"
+  },
+  {
+   "baslik": "Merkez bankaları yapay zekâ kaynaklı nakit arayışı nedeniyle faiz artışına bakıyor",
+   "ozet": "Reuters'a göre yapay zekâ yatırımlarının yarattığı nakit ihtiyacı merkez bankalarını daha yüksek faize yöneltiyor. Yüksek faiz genelde kripto için olumsuz okunur.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUtKN0pzRWNldm1acUxBY0o2M0h6UWlxVHNpT0pWcmQ4c1VQdG8wVE5iaTM2RWVocXN3MDFKMUZwblpDTWNFcTZiUFhNSkpYdlRwMGZhc0Q1UUNCZENPVm5CcDZjYXFZQ2FLaDV0eG5lak1qZ1hlSDZXT05leFQtZ2FubWhKbXlrNWNqbTEybGo5V0dESzk3U2VhbTl4WWNQdHBRc3luM3F4cGIyMEI2RjFYVQ?oc=5",
+   "tarih": "2026-10-16T13:34+00:00"
+  },
+  {
    "baslik": "Altcoinler Bitcoin'i geride bıraktı: Celestia %16 yükseldi",
-   "ozet": "Injective %7,7, LayerZero %7,3 arttı; Bitcoin 82.100 dolar civarında yatay seyretti.",
+   "ozet": "Bitcoin 82.100 dolar civarında yatay kalırken Celestia %16, Injective %7,7 ve LayerZero %7,3 yükseldi.",
    "etki": "olumlu",
    "coinler": [
     "TIA",
@@ -54,44 +90,39 @@
    "tarih": "2026-10-16T10:41+00:00"
   },
   {
-   "baslik": "Warsh'ın sessizliği Fed'in faizi sabit tutacağı beklentisini güçlendirdi",
-   "ozet": "Warsh'ın faiz konusunda net bir şey söylememesi, ekimde faizin sabit kalacağı beklentisini artırdı.",
+   "baslik": "Hâkim Gemini'nin 5 milyon dolarlık uzlaşmayı iptal talebini reddetti",
+   "ozet": "CFTC de talebi desteklemesine rağmen mahkeme, Gemini'nin 2025 uzlaşmasındaki kısıtlamaları kaldırmadı. Düzenleyici belirsizlik sürüyor.",
    "etki": "notr",
    "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZms1aGNrLWRUb1BHWjJSSS1lOHdqODlJSlB0eDFHd1FDdjZyNEdBejdTZkc1ODhrcTZJUGhidWVpNE05Rm5wLThoT2ktb1BIcFhEWVhGLTV2V2R1S2FjZVNfZEFkNC1PXy1ibkt5YnU5ZkY1ODg1a0w3b0ZPQm9ROEt3ZlhSc25TcmthLUhiMXpObGNUMXlIcTVqMUZTdVNMQ19iUzM2NFk?oc=5",
-   "tarih": "2026-10-16T14:23+00:00"
-  },
-  {
-   "baslik": "ABD ithalat fiyatları 4 yılın en büyük yıllık artışını yaptı",
-   "ozet": "İthalat fiyatları son 4 yıldan fazla sürenin en büyük yıllık artışını kaydetti. Enflasyon kaygısı faiz beklentilerini yukarı çekebilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXBPbnpTYVoxLUJfaDFHQjdrTFJXblFfN0FRVENPaEcxd0FfZWZJYk5kQ2tmUzRiYWhaSXdlUG9tVjgzVmRXZGlBaW1MQlZtRkFkQ0dxWkktQTNPdHM2anpjNGVMVnlWYUVuODlfVlZPbHp0T0pDcTNONU1RTDUyZDlIbkZUbnJNcjctWkdZQzZGeUpQOGkzcHY2R0RqRGM1?oc=5",
-   "tarih": "2026-10-16T16:08+00:00"
-  },
-  {
-   "baslik": "Yapay zekâ satışı sürüyor, kripto bir miktar geri çekildi",
-   "ozet": "Yapay zekâ balonu endişeleri tahvillere talebi artırdı; kripto piyasası kısmen değer kaybetti.",
-   "etki": "olumsuz",
-   "coinler": [],
    "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
-   "tarih": "2026-10-16T09:48+00:00"
+   "link": "https://www.coindesk.com/policy/2026/10/16/u-s-judge-rejects-gemini-s-appeal-to-void-usd5-million-settlement-despite-cftc-backing",
+   "tarih": "2026-10-16T09:36+00:00"
   },
   {
-   "baslik": "CoreWeave tahvillerindeki satış yapay zekâ yatırımlarını sorgulatıyor",
-   "ozet": "Tahvil satışı, yapay zekâ altyapısı için yapılan borçlanmanın sürdürülebilirliği konusunda endişe yarattı. Riskli varlıklarda dalgalanma yaratabilir.",
+   "baslik": "Google kuantum bilgisayarda önemli bir engeli aştı",
+   "ozet": "Google 'magic state cultivation' yöntemini gösterdi. Decrypt, Bitcoin'in şimdilik güvende olduğunu belirtiyor; CoinDesk'e göre kuantum ittifakı 6,4 milyon BTC'nin gelecekte risk altında olduğu uyarısıyla kuruldu.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
+   "tarih": "2026-10-16T10:13+00:00"
+  },
+  {
+   "baslik": "Ledger casus çip açığında dolandırıcı yaklaşık 5 milyon dolarlık BTC kaybetti",
+   "ozet": "Chainalysis'e göre sahte iş ilanlarıyla insanları kandıran bir dolandırıcı, kurcalanmış Ledger cüzdanlarının en büyük kurbanlarından biri oldu.",
    "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdm5VTll1VmRrVEdWNm9HMmh4dUtxaDN2alV3YnJxUmtZdVJjZV9obW5Kc2tOYTNEQVdQNE1XMnFNbk1PaFBTTHZqcWxFZklDOVRtYm9IOWhnMjRuZTYyM2U0NVA1WmY0a3ZGQTFJbFp5cU1ha3h2WXBwLVFBSmtjRnVmZm8xdUtCMWlaX1YyUkpCSDhZamRzRG9UV3paVU9MalVpa0FFbzRBZw?oc=5",
-   "tarih": "2026-10-16T16:37+00:00"
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+   "tarih": "2026-10-16T10:24+00:00"
   },
   {
-   "baslik": "Strategy, STRC için günlük temettü ilan etti",
-   "ozet": "STRC hisseleri 100 dolarlık nominal değerin altında işlem görmeye devam ediyor.",
+   "baslik": "Strategy STRC için koşullu günlük temettü ilan etti",
+   "ozet": "Strategy, 100 dolarlık nominal değerin altında seyreden STRC için koşullu olarak günlük temettü ilan etti.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -101,35 +132,15 @@
    "tarih": "2026-10-16T14:11+00:00"
   },
   {
-   "baslik": "9 kripto şirketi kuantum tehditine karşı ittifak kurdu",
-   "ozet": "Şirketler tehdidin ne zaman geleceği ve savunmasız BTC'lerin dondurulup dondurulmayacağı konusunda anlaşamıyor.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-   "tarih": "2026-10-16T10:52+00:00"
-  },
-  {
-   "baslik": "Hâkim, CFTC ve Gemini'nin 5 milyon dolarlık anlaşmayı bozma talebini reddetti",
-   "ozet": "Mahkeme, politika değişikliklerinin kararın yeniden açılması için yeterli olmadığını belirtti.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/regulation/2026-10-16-us-judge-denies-joint-gemini-cftc-bid-418775",
-   "tarih": "2026-10-16T05:44+00:00"
-  },
-  {
-   "baslik": "Ledger cihazlarındaki açıktan dolandırıcı 4,8 milyon dolarlık Bitcoin kaybetti",
-   "ozet": "Chainalysis'e göre sahte iş ilanlarıyla insanları kandıran bir dolandırıcı, tehlikeye girmiş donanım cüzdanlarının kurbanı oldu.",
+   "baslik": "Capital B, Bitcoin değer düşüklüğü nedeniyle 78 milyon dolar zarar etti",
+   "ozet": "Şirketin yılın ilk yarısındaki net zararı büyüdü; zararın yaklaşık 75,9 milyon doları ek Bitcoin değer düşüklüğü kaynaklı.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
-   "tarih": "2026-10-16T10:24+00:00"
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
+   "tarih": "2026-10-16T09:30+00:00"
   }
  ]
 }
