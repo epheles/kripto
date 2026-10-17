@@ -1,14 +1,52 @@
 {
- "guncelleme": "2026-10-17T17:05+00:00",
+ "guncelleme": "2026-10-17T18:10+00:00",
  "duygu": "karisik",
- "ozet": "Bugün kripto için net bir yön yok. ABD'de rekor faiz yükü, artan enflasyon baskısı ve güçlü dolar riskli varlıklara baskı yapabilecek unsurlar. Jeopolitik tarafta Orta Doğu'daki gerginlik ve Rusya yaptırımlarındaki muafiyet izleniyor. Google'ın Willow çipi Bitcoin'e yönelik kuantum endişesini gündeme getirdi; Circle, Polygon ve Solana haberleri ise sektörün büyümeye devam ettiğini gösteriyor.",
+ "ozet": "Kripto için net bir yön yok. ABD'de rekor faiz yükü, artan enflasyon baskısı ve yapay zeka hisselerindeki sert düşüş riskli varlıklar için olumsuz işaretler. Öte yandan bankaların tokenizasyona ilgisi, Polygon ve Circle genişlemesi gibi sektör haberleri olumlu. Bitcoin için kuantum riski tartışması sürüyor.",
  "takvim": [
   "Gelecek hafta: Büyük teknoloji şirketlerinin bilanço dönemi. Hisselerdeki hareket kripto fiyatlarına da yansıyabilir."
  ],
  "haberler": [
   {
-   "baslik": "Polygon, Coinme alımıyla ödeme sektörüne giriyor",
-   "ozet": "Polygon CEO'su Marc Boiron, Coinme alımının müşteri ilişkilerini kontrol etmelerini ve ödeme aracılarına giden geliri almalarını sağlayacağını söyledi.",
+   "baslik": "Kripto PAC'i Sherrod Brown'a karşı 46 milyon doları aştı",
+   "ozet": "Fairshake'e bağlı grup, Ohio'lu Demokrat Brown'a karşı yaklaşık 7 milyon dolar daha reklam harcaması bildirdi. Kripto yanlısı siyasi lobinin ABD seçimlerindeki ağırlığı büyüyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+   "tarih": "2026-10-17T17:01+00:00"
+  },
+  {
+   "baslik": "Büyük ABD bankaları tokenizasyonu fırsat olarak görüyor",
+   "ozet": "Goldman, Wells Fargo ve Morgan Stanley tokenizasyonu tehdit değil büyüme alanı olarak değerlendiriyor. Geleneksel finansın blokzincire ilgisi sürüyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+   "tarih": "2026-10-17T17:00+00:00"
+  },
+  {
+   "baslik": "Kripto şirketleri kuantum ittifakı kurdu: 6 milyon BTC risk altında",
+   "ozet": "Dokuz üyeli grup, kuantum direnci iddialarını test edecek açık standartlar hedefliyor. İlk pratik saldırının 2020'lerin sonunu bulabileceği tahmin ediliyor.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+   "tarih": "2026-10-17T16:01+00:00"
+  },
+  {
+   "baslik": "Yapay zeka hisseleri sert düştü, enflasyon kızışıyor",
+   "ozet": "CNBC'ye göre yapay zeka hisselerinde sert düşüş ve artan enflasyon dikkat çekiyor. Riskli varlıklar genelde bu tür havadan olumsuz etkilenir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWIyUlNyQi13dVB2VVh3WTZjbWR1cV9OdlFZblJWVGdNeHhlQ2kzb2lfZHU2dzRjMGZLZWhnU2NFRmw3OWZFT2VSQktMQU9hc0VScWs1SGxfeURwTEtLbzVJMTVfbU9rVzFyY0FqZ3EwU0V2U2VkZjdlQjZ6X1ZDNFdyZjgxWnljY0RSZVVWY0F4a3BwaDFhamYzT0JCazJ4THpLSHN1Xy03SUQ3aVB0U21UYi1tVEdyLWVuX2gtNExRQlk?oc=5",
+   "tarih": "2026-10-17T15:42+00:00"
+  },
+  {
+   "baslik": "Polygon, Coinme'yi alarak ödeme sektörüne giriyor",
+   "ozet": "CEO Boiron, alımın müşteri ilişkisini kontrol etmeyi ve ödeme aracılarına giden geliri almayı sağlayacağını söyledi.",
    "etki": "olumlu",
    "coinler": [
     "POL"
@@ -18,9 +56,9 @@
    "tarih": "2026-10-17T14:00+00:00"
   },
   {
-   "baslik": "Fidelity: Solana dayanıklı ama bazı riskler izlenmeli",
-   "ozet": "Fidelity raporuna göre Solana'da son iki yılda ana ağ kesintisi olmadı. Ancak stake, barındırma ve istemci yazılımındaki yoğunlaşma izlenmeli.",
-   "etki": "olumlu",
+   "baslik": "Fidelity: Solana dayanıklı, ama bazı alanlar izlenmeli",
+   "ozet": "Solana iki yıldır ana ağda kesinti yaşamadı. Rapor stake, barındırma ve istemci yazılımındaki yoğunlaşmaya dikkat çekiyor.",
+   "etki": "notr",
    "coinler": [
     "SOL"
    ],
@@ -29,8 +67,17 @@
    "tarih": "2026-10-17T12:58+00:00"
   },
   {
-   "baslik": "ABD'nin faiz maliyeti rekor 1 trilyon dolara çıktı",
-   "ozet": "Bloomberg'e göre ABD'nin faiz harcamaları rekor seviye olan 1 trilyon dolara ulaştı ve borç yükü büyüme riski taşıyor. Yüksek faiz ve borç endişesi riskli varlıklar için baskı unsuru olabilir.",
+   "baslik": "BIS: Banka mevduat faizi artarsa stablecoin büyümesi yavaşlayabilir",
+   "ozet": "BIS çalışması, ABD mevduat faizindeki 1 baz puanlık artışın stablecoin büyümesini on haftada %15'ten %12'ye düşürdüğünü buldu.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+   "tarih": "2026-10-17T12:00+00:00"
+  },
+  {
+   "baslik": "ABD faiz maliyeti rekor 1 trilyon dolara çıktı",
+   "ozet": "Bloomberg'e göre ABD borç faiz yükü rekor seviyede. Borç kaygısı tahvil faizlerini ve dolar-kripto dengesini etkileyebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -38,35 +85,19 @@
    "tarih": "2026-10-17T12:00+00:00"
   },
   {
-   "baslik": "BIS: Banka faizleri artarsa stablecoin büyümesi yavaşlayabilir",
-   "ozet": "BIS çalışmasına göre ABD'de mevduat faizlerinin 1 baz puan artması stablecoin büyümesini yavaşlatıyor; on haftalık büyüme %15'ten %12'ye düşüyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-   "tarih": "2026-10-17T12:00+00:00"
-  },
-  {
    "baslik": "Circle 40 gelişmekte olan pazara girmeyi hedefliyor",
-   "ozet": "Circle'ın CEO'su Allaire, Güneydoğu Asya, Latin Amerika, Afrika ve Orta Doğu'daki artan stablecoin talebi nedeniyle 40 pazara açılmak istediklerini söyledi.",
+   "ozet": "Circle'ın Allaire'ine göre Güneydoğu Asya, Latin Amerika, Afrika ve Orta Doğu'da stablecoin talebi artıyor.",
    "etki": "olumlu",
-   "coinler": [],
+   "coinler": [
+    "USDC"
+   ],
    "kaynak": "Cointelegraph",
    "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "tarih": "2026-10-17T10:00+00:00"
   },
   {
-   "baslik": "Trump Rusya'ya yönelik yaptırım ve enerji tarifelerinden muafiyet tanıdı",
-   "ozet": "Trump, yeni yasanın öngördüğü ek Rusya yaptırımlarından Rusya'yı muaf tuttu. Jeopolitik gerginlik ve enerji fiyatları üzerinden riskli varlıkları dolaylı etkileyebilir.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
-   "tarih": "2026-10-17T09:45+00:00"
-  },
-  {
-   "baslik": "ABD'de enflasyon baskısı artıyor",
-   "ozet": "Bloomberg'in grafik derlemesi ABD'de enflasyon baskılarının arttığına işaret ediyor. Enflasyon yükselirse faiz indirimi beklentileri zayıflayabilir, bu da kripto için olumsuz.",
+   "baslik": "ABD'de enflasyon baskıları artıyor",
+   "ozet": "Bloomberg'in grafik yazısına göre ABD'de enflasyon baskıları yükseliyor. Faiz indirimi beklentilerini zayıflatabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -74,17 +105,8 @@
    "tarih": "2026-10-17T09:00+00:00"
   },
   {
-   "baslik": "Husiler Yemen'de havalimanını vurdu, Suudi Arabistan saldırıları engelledi",
-   "ozet": "Orta Doğu'daki gerginlik sürüyor. Petrol ve risk iştahı üzerinden piyasalara dolaylı baskı yapabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTVRhRmRvTXRqbWx3ZTdicWJGZ2o1NmtUd3ZjSERiSWxMUEh4RGxhOHg2RlF0ZElFbEJacFZzNno4cjNBcmZYdXNWUkJKSTAwdjQxcUF2UG5BYXNjSkp5UXNOblJLaWtCYWdWaFdDQ0RXMU5RUVpZeFRtTGJjQnFsR2ZmcHBjYXhBRVo2U3Q1bUZPNW8yRGxKTW1WSExWRlRYUHV2T1FwQXoxN0FoSDBlTA?oc=5",
-   "tarih": "2026-10-17T08:36+00:00"
-  },
-  {
-   "baslik": "Lagarde: Dijital euro çok yakında",
-   "ozet": "ECB Başkanı Lagarde euro bölgesi ekonomisinin dirençli olduğunu söyledi ve dijital euronun perakende ödemelerde yeniliği ve rekabeti artıracağını belirtti.",
+   "baslik": "Lagarde: Dijital euro çok yakın",
+   "ozet": "ECB Başkanı Lagarde, euro bölgesi ekonomisinin dirençli olduğunu ve dijital euronun yakında geleceğini söyledi.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -92,33 +114,13 @@
    "tarih": "2026-10-17T08:32+00:00"
   },
   {
-   "baslik": "Bitget bazı kullanıcılara hizmeti durduracak",
-   "ozet": "Bitget, tek seferlik bir uygulama kapsamında bazı kullanıcılara hizmeti sonlandıracağını, kullanıcı fonlarının güvende olduğunu ve borsanın çalışmaya devam edeceğini açıkladı.",
+   "baslik": "Bitget bazı kullanıcılara hizmeti durduruyor",
+   "ozet": "Bitget, tek seferlik bir uygulamayla bazı kullanıcılara hizmeti kesecek; kullanıcı fonlarının güvende olduğunu ve borsanın çalışmaya devam edeceğini açıkladı.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Cointelegraph",
    "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "tarih": "2026-10-17T07:26+00:00"
-  },
-  {
-   "baslik": "Claude, NSA'nın 25 yıllık sayı gizemini çözdü",
-   "ozet": "CoinDesk'e göre NSA'nın 1990'larda verdiği sayıların basit bir bilgisayar programından geldiği anlaşıldı. Bitcoin bu listede hiç yoktu; Bitcoin'in kuantum sorunu ise olduğu gibi duruyor.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-   "tarih": "2026-10-17T06:39+00:00"
-  },
-  {
-   "baslik": "Güçlü dolar ABD yönetimini zorluyor",
-   "ozet": "Reuters yorumuna göre güçlü dolar, Trump'ın seçim öncesindeki elini zayıflatıyor. Güçlü dolar genelde Bitcoin gibi riskli varlıklara baskı yapar.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHhCQTRkREZKSk45aHZsYUNiQUt3R1lMb1d1NTBxU2M0c3FOemhDZE5MOGNhTWtZbEY2bm1YZlNRNUZCekJNMXhQR09pRzNDWDNmaFpBNHFKNkFUbXZ1YXFUb1lBRVRfcGZtMTdMWjZES3pBTnllaTJQN25mblNKdHpaY1YtcWEybERGM2ZDeGU4YzhJaDF2UFlNYnA5MXVpNk1SV19qa3NhV2c5MC1jVl81c25qckV5WkRJQlp0S2k?oc=5",
-   "tarih": "2026-10-17T06:00+00:00"
   }
  ]
 }
