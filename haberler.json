@@ -1,42 +1,52 @@
 {
- "guncelleme": "2026-10-17T11:05+00:00",
- "duygu": "olumsuz",
- "ozet": "Kripto tarafında baskı ağır basıyor: sıcak enflasyon verileri Bitcoin'i zorlarken, ABD bütçe açığı 2 trilyon dolara yaklaştı, yapay zekâ hisselerindeki satış ve 110 dolarlık petrol borsalarda kaygı yaratıyor. Destek tarafında doların gevşemesi ve büyük kripto paraların çoğunlukla yükselişi var. Bitcoin biriktiren Strategy'nin MSCI endeksinden çıkarılma riski ise gündemde.",
+ "guncelleme": "2026-10-17T12:10+00:00",
+ "duygu": "karisik",
+ "ozet": "Bugünkü haber akışı kripto için net bir yön göstermiyor. Yapay zekâ hisselerindeki huzursuzluk ve güçlü dolar risk iştahını zayıflatıyor; Google'ın kuantum çipi haberi ise Bitcoin'e yönelik uzun vadeli kuantum endişesini yeniden gündeme getirdi. Olumlu tarafta Circle gibi stablecoin şirketlerinin yeni pazarlara açılma planları var.",
  "takvim": [
-  "Gelecek hafta: Büyük şirketlerin bilanço dönemi. Güçlü sonuçlar bile yapay zekâ kaynaklı endişeyi dindirmeyebilir; borsadaki sert hareket kriptoya yansıyabilir.",
-  "30 Kasım: MSCI'ın 'faaliyet dışı şirket' kuralı yürürlüğe giriyor; Strategy için endeks kararı takip edilmeli."
+  "Gelecek hafta: Büyük şirketlerin bilanço dönemi. Yapay zekâ hisselerindeki hareket kripto fiyatlarına yansıyabilir."
  ],
  "haberler": [
   {
-   "baslik": "Yapay zekâ satışı Çin borsalarına yayıldı",
-   "ozet": "Bloomberg'e göre küresel yapay zekâ alımlarındaki tökezleme Çin hisselerini en çok kaybettiren gruba soktu. Risk iştahı zayıfladığında kripto da genellikle baskı görür.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSm5XMW9DbkZqRlZJUDVKZ3k1a1FjLVR5NE12UGhaOEo2Yk93RWE0bTJZNTZraHFTdUZaOUZwdG1OYkVFdWlZVGF3UU04Y3RVSFRWTks4azd2ZU1wSDRnbFdrc1hIMlNZZWdLZzdYeFozeUxzTzV2aVZiaWVXTlN0YlV5cUNOWnpVR2VVV2h1MTFuWGt5dGtGb3o3cjVPOWV1T25HWW9leDFNTnAtMHI4ZURLbw?oc=5",
-   "tarih": "2026-10-17T00:00+00:00"
+   "baslik": "CNBC: Bitcoin için 'patlama mı, çöküş mü' tartışması",
+   "ozet": "CNBC, Bitcoin'in yükselişte mi yoksa düşüşte mi olduğunu tartışan bir yayın yaptı. Haber metni kısa; piyasada yön konusunda belirsizlik sürüyor.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4ydGtxaEdsV2RRYUdSVlBGWWs4ZVlJdkxDNE5OenNrRnFsa3FZWmhvbUtZZUFBWURNRFVVckJyU2d2dEE2TUI2dzZTYVVpaVlnc2ZXeQ?oc=5",
+   "tarih": "2026-10-17T10:20+00:00"
   },
   {
-   "baslik": "CoreWeave ile yapay zekâ coşkusu sınanıyor",
-   "ozet": "Bloomberg, CoreWeave hissesindeki sert düşüşün yapay zekâ coşkusunun sınırlarını test ettiğini yazıyor. Teknoloji hisselerindeki satış kripto piyasasına da yansıyabilir.",
-   "etki": "olumsuz",
+   "baslik": "Circle, 40 gelişmekte olan pazara açılmayı hedefliyor",
+   "ozet": "Circle'ın patronu Allaire, stablecoin ihraççısının Güneydoğu Asya, Latin Amerika, Afrika ve Orta Doğu'daki 40 pazara girmek istediğini söyledi. Bu bölgelerde stablecoin talebi artıyor.",
+   "etki": "olumlu",
    "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUxrOVR4ZnFuQ01UNEhONEtjT1BXSjBBNWhiemJGaEZTYVdIS2s4VVdDWEEwRG16ZmVZazJGdGlNZTJfdTdXTWZzQWJBT09EeVNFQk1nbmFhV1p3MlZ1YWp6eU03ZV9KOGRJVUlQcURkblZuNUp5MEFwbXNudWVFMG9PbWFIYTRSTGpkRXBsRHE1N2ZaeFkzTGFCeldoTFJVMnc?oc=5",
-   "tarih": "2026-10-17T03:19+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-17T10:00+00:00"
   },
   {
-   "baslik": "Trump, Rusya'yı yeni yasadan doğan ek yaptırımlardan muaf tuttu",
-   "ozet": "Financial Times'a göre Trump, Rusya'yı yeni yasanın zorunlu kıldığı ek yaptırımlardan muaf tuttu. Jeopolitik belirsizlik piyasalarda dalgalanma yaratabilir.",
+   "baslik": "Lagarde: Dijital euro çok yakında",
+   "ozet": "ECB Başkanı Lagarde, euro bölgesi ekonomisinin dirençli olduğunu ve dijital euronun yakında geleceğini söyledi. Merkez bankası dijital parası kripto ödemelerine rakip olabilir.",
    "etki": "notr",
    "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXNIdDdhLWJTcFJ3TmN4YUNHRGZSWmxRcWZ1NUVDVmYyLVBWNE04NWdCUExyTG1Jd3VDYW5BWVlFQWtlaFZEQV9BcjFyY2tkUmpxYWxMZjAtbGtfbGtCeUxJVmRJcDMtMk42N0hMSUFHRDdlbC1oYXVUTW13NC1Za2h2LWo?oc=5",
-   "tarih": "2026-10-17T03:07+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-17T08:32+00:00"
   },
   {
-   "baslik": "Google'ın Willow çipi eski Bitcoin'ler için kuantum riskini artırdı",
-   "ozet": "CoinDesk'e göre Google, Willow çipinin gelişmiş hesaplar için gereken kuantum durumlarını yaklaşık 40 kat daha az hatayla hazırlayabildiğini söylüyor. Bu, ileride Satoshi dönemi Bitcoin'lere yönelik bir saldırının önündeki engellerden birini azaltıyor.",
+   "baslik": "Bitget bazı kullanıcılar için hizmeti sonlandıracak",
+   "ozet": "Bitget, tek seferlik bir düzenlemeyle bazı kullanıcılara hizmet vermeyi bırakacağını açıkladı. Borsa, kullanıcı fonlarının güvende olduğunu ve çalışmaya devam edeceğini belirtti.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-17T07:26+00:00"
+  },
+  {
+   "baslik": "Google'ın Willow çipi Bitcoin için kuantum endişesini artırdı",
+   "ozet": "Google, Willow çipinin gelişmiş hesaplar için gereken kuantum durumlarını yaklaşık 40 kat daha az hatayla hazırlayabildiğini söyledi. CoinDesk'e göre bu, eski dönem Bitcoin'leri için kuantum tehdidini büyütüyor.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -46,93 +56,60 @@
    "tarih": "2026-10-17T02:30+00:00"
   },
   {
-   "baslik": "Orta Doğu ve Ukrayna'da çatışma alevlenince petrol yükseldi",
-   "ozet": "WSJ'ye göre Orta Doğu ve Ukrayna'daki çatışmalar petrolü yukarı itti. Yüksek petrol enflasyon endişesini canlı tutuyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5",
-   "tarih": "2026-10-16T22:17+00:00"
-  },
-  {
-   "baslik": "Strategy, yeni kurallarla MSCI endeksinden çıkarılma riskiyle karşı karşıya",
-   "ozet": "Reuters'a göre yeni kurallar uygulanırsa Strategy MSCI endeksinden çıkabilir ve pasif fonlardaki milyarlarca dolarlık pozisyon risk altında. Bitcoin biriktiren şirketler için baskı yaratabilir.",
-   "etki": "olumsuz",
+   "baslik": "Claude, NSA'nın 25 yıllık sayı gizemini çözdü",
+   "ozet": "CoinDesk'e göre 1990'larda NSA'nın verdiği sayıların bir arka kapı barındırdığı şüphesi vardı; sayıların basit bir bilgisayar programından geldiği anlaşıldı. Bitcoin bu listede yoktu, ancak kuantum sorunu çözülmüş değil.",
+   "etki": "notr",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWYxNV9CbUFxcmpWN2Q5S0tSUHJGVWxDZlBZZE9kdHd2TEhZOFJtdk9Oc3AtS1pfRWY2eDlTWXpSZUNxQTdEZFl4aTNJb0Ffd1ZMdnQ4WElmaEh4UUFoTE1YT0dVOTlKVk4yQUkwZldzSld3dF9POUlIZmNveGhBWjJ4aEZHbGE3ZEV1b1BuZTgzMF9VTjBRbEkxdnpXaWhBeDdmYlNSZGdidWdNMnVNb0FzZTBHM0pZU3IzNjBsenU5SWhZT0s4?oc=5",
-   "tarih": "2026-10-16T20:40+00:00"
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+   "tarih": "2026-10-17T06:39+00:00"
   },
   {
-   "baslik": "Yapay zekâ satışı ve 110 dolarlık petrol Wall Street'te kaygıyı artırdı",
-   "ozet": "Bloomberg'e göre yapay zekâ hisselerindeki sert düşüş ve 110 dolara çıkan petrol borsalarda endişeyi yaydı. Risk iştahı düşerse kripto da etkilenebilir.",
+   "baslik": "Küresel yapay zekâ ticareti sendeleyince Çin hisseleri düştü",
+   "ozet": "Bloomberg'e göre yapay zekâ temalı işlemlerdeki bozulma Çin hisselerini en çok kaybettiren piyasalar arasına itti. Risk iştahının düşmesi kriptoya da baskı yapabilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHNoVXVmaThlSEx4SkpxSzR2TEdOLVl0ZnlTWjhQT0FwRWxQOGJKSllUMEl1YzliOVVMTEtRM1FfclQwdWdnMDhremNOTmZJZjhMRVF5R3U0Z2NzQTZUOU5jV3Y1a1BtMXl2ZzhIX1ZvZ1Z5QURkdnJ5djVwTXpROC1xZGQwUkRXQmJhTGNXNURRWElIS0NpSEtlWkdwU2xNcWFocVF0QmFVXy01dUE?oc=5",
-   "tarih": "2026-10-16T20:31+00:00"
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSm5XMW9DbkZqRlZJUDVKZ3k1a1FjLVR5NE12UGhaOEo2Yk93RWE0bTJZNTZraHFTdUZaOUZwdG1OYkVFdWlZVGF3UU04Y3RVSFRWTks4azd2ZU1wSDRnbFdrc1hIMlNZZWdLZzdYeFozeUxzTzV2aVZiaWVXTlN0YlV5cUNOWnpVR2VVV2h1MTFuWGt5dGtGb3o3cjVPOWV1T25HWW9leDFNTnAtMHI4ZURLbw?oc=5",
+   "tarih": "2026-10-17T00:00+00:00"
   },
   {
-   "baslik": "TD Cowen, Strive için hedef fiyatı yüzde 27 artırdı",
-   "ozet": "The Block'a göre Strive bitcoin alımları için yeni finansman planlıyor; TD Cowen varantlardan gelen hisse baskısının hafifleyeceğini düşünüyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
-   "tarih": "2026-10-16T20:22+00:00"
+   "baslik": "CoreWeave, yapay zekâ coşkusunun sınırlarını test ediyor",
+   "ozet": "Bloomberg, CoreWeave'in yapay zekâ coşkusunun sınırını sınadığını yazıyor. Teknoloji hisselerindeki huzursuzluk kripto piyasasını da etkileyebilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeUxrOVR4ZnFuQ01UNEhONEtjT1BXSjBBNWhiemJGaEZTYVdIS2s4VVdDWEEwRG16ZmVZazJGdGlNZTJfdTdXTWZzQWJBT09EeVNFQk1nbmFhV1p3MlZ1YWp6eU03ZV9KOGRJVUlQcURkblZuNUp5MEFwbXNudWVFMG9PbWFIYTRSTGpkRXBsRHE1N2ZaeFkzTGFCeldoTFJVMnc?oc=5",
+   "tarih": "2026-10-17T08:45+00:00"
   },
   {
-   "baslik": "Gelecek hafta büyük bilançolar var, güçlü sonuç bile endişeyi dindirmeyebilir",
-   "ozet": "CNBC'ye göre piyasa gelecek haftaki büyük şirket bilançolarını bekliyor, ancak güçlü sonuçlar bile korkuları yatıştırmayabilir.",
+   "baslik": "Trump, Rusya'ya yönelik enerji tarifeleri ve yaptırımlardan vazgeçti",
+   "ozet": "Bloomberg ve FT'ye göre Trump, Graham yasasının öngördüğü ek Rusya yaptırım ve enerji tarifelerinden muafiyet verdi. Jeopolitik gerilim ve enerji fiyatları piyasaların gündeminde kalıyor.",
    "etki": "notr",
    "coinler": [],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDB5eUJodTlUZTZQNzNYdFhCVWFOWUdRZk5ENkFRNll3OEE0RjJkb0tMUzZRMkJYNktERG5pN1ZmR1JTUW1FczQ0UmQwSGRza2xUeUsyTndRajd0aVU3dXRTaE1nVkFKalpJZm9yMVVNWUJpYi1vUGp2VEJwQl85dmNzY0ExV015MGc?oc=5",
-   "tarih": "2026-10-16T19:39+00:00"
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQjdOTlgtZzZTczBVX3kxZFZGdUhKTFU5blRvREhYVGp6WTRhMEVUdHN0dkg4eHMzOXI1QXFZRVZROVVDejVJT2M0SjRNS3dHTW5ZTHNvaE9zdTlLb1JuTGlQSGx6eGVfTFE2cXBuTE9jbnE1Snd5Y0V2U0FlWkNLanVnWjEybUJpa0tmM2l0OGRyWHFIWW5nNXFGVkF1aDltZnYwR1BFY0RoWHdUR2c?oc=5",
+   "tarih": "2026-10-17T09:45+00:00"
   },
   {
-   "baslik": "Circle, USDC'yi yaklaşık 40 gelişmekte olan pazara götürecek",
-   "ozet": "Decrypt'e göre CEO Jeremy Allaire, Reuters'a Güneydoğu Asya, Latin Amerika, Afrika ve Orta Doğu'daki artan talep nedeniyle yaklaşık 40 pazara gireceklerini söyledi. Stablecoin kullanımının yaygınlaştığını gösteriyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "USDC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
-   "tarih": "2026-10-16T18:55+00:00"
-  },
-  {
-   "baslik": "ABD bütçe açığı 2 trilyon dolara yaklaştı, 5 yılın zirvesinde",
-   "ozet": "Reuters'a göre ABD yıllık bütçe açığı yaklaşık 2 trilyon dolara çıktı ve son 5 yılın en yükseği oldu. Borçlanma ve faiz endişesini artırabilir.",
+   "baslik": "Güçlü dolar, Trump'ın ara seçim öncesi elini zayıflatıyor",
+   "ozet": "Reuters yorumuna göre güçlü dolar Trump'ın ara seçimler öncesindeki konumunu zayıflatıyor. Güçlü dolar genellikle kripto için baskı unsuru sayılır.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWlhaU90MklTU2wtZDJ1OC1wcVZIeDF5Y3FGRGsyam90X1VCNF9NcGRSUFNwTG1PQ21fZXZndjN3WXM4UG9LSW82OW1xLVQ0Rng3ODZLcjdwRWZtYVEzTm5oYjdlZUZhMXVmVUhubUhuWVJrMzVndXdUN29sQ2h1SHRKMnF0UkdXQ2dkWXppOU50bDV2WXhLM0tHZjk3MGtiTm4xQWNkc2FpU0dXOUE?oc=5",
-   "tarih": "2026-10-16T18:53+00:00"
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbHhCQTRkREZKSk45aHZsYUNiQUt3R1lMb1d1NTBxU2M0c3FOemhDZE5MOGNhTWtZbEY2bm1YZlNRNUZCekJNMXhQR09pRzNDWDNmaFpBNHFKNkFUbXZ1YXFUb1lBRVRfcGZtMTdMWjZES3pBTnllaTJQN25mblNKdHpaY1YtcWEybERGM2ZDeGU4YzhJaDF2UFlNYnA5MXVpNk1SV19qa3NhV2c5MC1jVl81c25qckV5WkRJQlp0S2k?oc=5",
+   "tarih": "2026-10-17T06:00+00:00"
   },
   {
-   "baslik": "Dolar gevşeyince büyük kripto paralar çoğunlukla yükseldi",
-   "ozet": "WSJ'ye göre dolardaki geri çekilmeyle büyük kripto paraların çoğu yükselişte. Zayıflayan dolar genelde kripto için destekleyici sayılır.",
-   "etki": "olumlu",
+   "baslik": "IMF toplantısında ABD Hazine Bakanı Bessent'in yokluğu konuşuluyor",
+   "ozet": "Bloomberg'e göre Bessent'in toplantıya katılmaması ABD'yi gündemden düşürmedi. IMF üyeleri savaş şoklarına karşı daha fazla destek çağrısı yaptı.",
+   "etki": "notr",
    "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmxkcm5VeURLM1hlZXFIV2M0QzVZRFZrLWJEUWdPMjZ1QnNXVGFQbFhyZ1ZkRzVZeUFBVUZ5bjNIQ1BkMEJfbjVFb3ZBUV9uVUIyVEdaMlJGdGZwTThpNXhRUW5JenhhZVhJYm9VNGhDX3AxbHV1NVRHUkIwOFVoU2dvczE2eW0yOVFNNUJFOW05aVpQc0JRRjJXblNOS1ljQTh4OE9ybVFnMmxRTWh0QQ?oc=5",
-   "tarih": "2026-10-16T18:32+00:00"
-  },
-  {
-   "baslik": "Sıcak enflasyon verisi Bitcoin'e baskı yaptı, CoinShares sakin",
-   "ozet": "Bitcoin Magazine'e göre sıcak enflasyon verileri Bitcoin'i baskılıyor. CoinShares durumun 'zor' olduğunu ama bunun 'ayı' anlamına gelmediğini, uzun vadeli yatırımcıların endişelenmemesi gerektiğini söylüyor.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
-   "tarih": "2026-10-16T18:30+00:00"
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXhod2ozeE5tVkRuZHgtOEtaYnlIMS0xXzIxbmpzeldtRzNZRHhYeU5ZYUIwRHVmWVFUb3pBdElBUE5GOEZocTlrV2JiQWRnOWxKc2RwZnR3VXZlV05SajNla0ItZVhFVkdHazBmT2lXam0yaE14ZldaaE9XZW1EQnkzX3Nkb0lST2pxZVlqWmZxY1poN1FzbjZpT3J2bzZSaThOQU9n?oc=5",
+   "tarih": "2026-10-17T10:15+00:00"
   }
  ]
 }
