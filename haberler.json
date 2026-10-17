@@ -1,16 +1,26 @@
 {
- "guncelleme": "2026-10-17T06:10+00:00",
- "duygu": "karisik",
- "ozet": "Bitcoin 82 bin dolar civarında yatay seyrediyor. Warsh'ın faiz artışı sinyali vermemesi ve zayıflayan dolar destek olurken, sıcak enflasyon verileri, 2 trilyon dolara yaklaşan bütçe açığı ve yapay zekâ hisselerindeki satış baskı yaratıyor. Kripto tarafında Strategy'nin MSCI endeksinden çıkma riski ve Deutsche Bank'ın saklama hizmeti öne çıkıyor.",
+ "guncelleme": "2026-10-17T07:05+00:00",
+ "duygu": "olumsuz",
+ "ozet": "Kripto tarafında baskı ağır basıyor: sıcak enflasyon verileri Bitcoin'i zorlarken, ABD bütçe açığı 2 trilyon dolara yaklaştı, yapay zekâ hisselerindeki satış ve 110 dolarlık petrol borsalarda kaygı yaratıyor. Destek tarafında doların gevşemesi ve büyük kripto paraların çoğunlukla yükselişi var. Bitcoin biriktiren Strategy'nin MSCI endeksinden çıkarılma riski ise gündemde.",
  "takvim": [
-  "Ekim ayı Fed toplantısı: Piyasa faizin sabit kalmasını bekliyor. Beklenmedik sert bir mesaj çıkarsa kripto düşebilir.",
-  "30 Kasım: MSCI'ın 'faaliyet dışı şirket' kuralı yürürlüğe giriyor; Strategy için endeks kararı takip edilmeli.",
-  "Gelecek hafta: Büyük şirketlerin bilanço dönemi; yapay zekâ hisselerindeki tedirginlik kripto riskiyle birlikte hareket edebilir."
+  "Gelecek hafta: Büyük şirketlerin bilanço dönemi. Güçlü sonuçlar bile yapay zekâ kaynaklı endişeyi dindirmeyebilir; borsadaki sert hareket kriptoya yansıyabilir.",
+  "30 Kasım: MSCI'ın 'faaliyet dışı şirket' kuralı yürürlüğe giriyor; Strategy için endeks kararı takip edilmeli."
  ],
  "haberler": [
   {
-   "baslik": "Strategy, MSCI endeksinden çıkarılma riskiyle karşı karşıya",
-   "ozet": "MSCI'ın yeni kuralları altında Strategy endeksten çıkarılabilir; bu durumda endeks fonlarındaki milyarlarca dolarlık pay satılmak zorunda kalabilir. Bitcoin biriktiren şirketler için baskı unsuru.",
+   "baslik": "Google'ın Willow çipi eski Bitcoin'ler için kuantum riskini artırdı",
+   "ozet": "CoinDesk'e göre Google, Willow çipinin gelişmiş hesaplar için gereken kuantum durumlarını yaklaşık 40 kat daha az hatayla hazırlayabildiğini söylüyor. Bu, ileride Satoshi dönemi Bitcoin'lere yönelik bir saldırının önündeki engellerden birini azaltıyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+   "tarih": "2026-10-17T02:30+00:00"
+  },
+  {
+   "baslik": "Strategy, yeni kurallarla MSCI endeksinden çıkarılma riskiyle karşı karşıya",
+   "ozet": "Reuters'a göre yeni kurallar uygulanırsa Strategy MSCI endeksinden çıkabilir ve pasif fonlardaki milyarlarca dolarlık pozisyon risk altında. Bitcoin biriktiren şirketler için baskı yaratabilir.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -20,8 +30,66 @@
    "tarih": "2026-10-16T20:40+00:00"
   },
   {
-   "baslik": "Strive'ın Bitcoin alımları analistlerden hedef fiyat artışı aldı",
-   "ozet": "Strive yeni Bitcoin alımları için fon artırmayı planlıyor; TD Cowen hedef fiyatını %27 yükseltti ve varantlardan gelen satış baskısının azalacağını düşünüyor.",
+   "baslik": "MSCI kuralı 30 Kasım'dan itibaren tek varlık ağırlıklı şirketleri dışlıyor",
+   "ozet": "Decrypt'e göre endeks sağlayıcısı, bilançosu tek bir varlığın ağırlığında olan 'faaliyet dışı şirketleri' 30 Kasım'dan itibaren uygun saymayacak. Strategy bu kapsamda endeksten çıkarılabilir.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
+   "tarih": "2026-10-16T18:16+00:00"
+  },
+  {
+   "baslik": "Sıcak enflasyon verisi Bitcoin'e baskı yaptı, CoinShares sakin",
+   "ozet": "Bitcoin Magazine'e göre sıcak enflasyon verileri Bitcoin'i baskılıyor. CoinShares durumun 'zor' olduğunu ama bunun 'ayı' anlamına gelmediğini, uzun vadeli yatırımcıların endişelenmemesi gerektiğini söylüyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
+   "tarih": "2026-10-16T18:30+00:00"
+  },
+  {
+   "baslik": "Dolar gevşeyince büyük kripto paralar çoğunlukla yükseldi",
+   "ozet": "WSJ'ye göre dolardaki geri çekilmeyle büyük kripto paraların çoğu yükselişte. Zayıflayan dolar genelde kripto için destekleyici sayılır.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmxkcm5VeURLM1hlZXFIV2M0QzVZRFZrLWJEUWdPMjZ1QnNXVGFQbFhyZ1ZkRzVZeUFBVUZ5bjNIQ1BkMEJfbjVFb3ZBUV9uVUIyVEdaMlJGdGZwTThpNXhRUW5JenhhZVhJYm9VNGhDX3AxbHV1NVRHUkIwOFVoU2dvczE2eW0yOVFNNUJFOW05aVpQc0JRRjJXblNOS1ljQTh4OE9ybVFnMmxRTWh0QQ?oc=5",
+   "tarih": "2026-10-16T18:32+00:00"
+  },
+  {
+   "baslik": "ABD bütçe açığı 2 trilyon dolara yaklaştı, 5 yılın zirvesinde",
+   "ozet": "Reuters'a göre ABD yıllık bütçe açığı yaklaşık 2 trilyon dolara çıktı ve son 5 yılın en yükseği oldu. Borçlanma ve faiz endişesini artırabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWlhaU90MklTU2wtZDJ1OC1wcVZIeDF5Y3FGRGsyam90X1VCNF9NcGRSUFNwTG1PQ21fZXZndjN3WXM4UG9LSW82OW1xLVQ0Rng3ODZLcjdwRWZtYVEzTm5oYjdlZUZhMXVmVUhubUhuWVJrMzVndXdUN29sQ2h1SHRKMnF0UkdXQ2dkWXppOU50bDV2WXhLM0tHZjk3MGtiTm4xQWNkc2FpU0dXOUE?oc=5",
+   "tarih": "2026-10-16T18:53+00:00"
+  },
+  {
+   "baslik": "Yapay zekâ satışı ve 110 dolarlık petrol Wall Street'te kaygıyı artırdı",
+   "ozet": "Bloomberg'e göre yapay zekâ hisselerindeki sert düşüş ve 110 dolara çıkan petrol borsalarda endişeyi yaydı. Risk iştahı düşerse kripto da etkilenebilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHNoVXVmaThlSEx4SkpxSzR2TEdOLVl0ZnlTWjhQT0FwRWxQOGJKSllUMEl1YzliOVVMTEtRM1FfclQwdWdnMDhremNOTmZJZjhMRVF5R3U0Z2NzQTZUOU5jV3Y1a1BtMXl2ZzhIX1ZvZ1Z5QURkdnJ5djVwTXpROC1xZGQwUkRXQmJhTGNXNURRWElIS0NpSEtlWkdwU2xNcWFocVF0QmFVXy01dUE?oc=5",
+   "tarih": "2026-10-16T20:31+00:00"
+  },
+  {
+   "baslik": "Orta Doğu ve Ukrayna'da çatışma alevlenince petrol yükseldi",
+   "ozet": "WSJ'ye göre Orta Doğu ve Ukrayna'daki çatışmalar petrolü yukarı itti. Yüksek petrol enflasyon endişesini canlı tutuyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT2VNZDJQX0Z6SW1YbzFBdHlvYmtlVzdPZEcxRjRwWjVDZWJsRUNfdENWUWFjT29TVmdPSVVFc0JfVTQ2ZDZZUV9GTU05N3BBTWxwd0NOZE0zQlRzOFVyYWhoWWNyT3ZQejlzWGxQLVpiTXRPdjJKMk1lYXNMZTRkX19TMDJxZkpJU2xObzJ6SlpUbFdBNThySFhvMEs?oc=5",
+   "tarih": "2026-10-16T22:17+00:00"
+  },
+  {
+   "baslik": "TD Cowen, Strive için hedef fiyatı yüzde 27 artırdı",
+   "ozet": "The Block'a göre Strive bitcoin alımları için yeni finansman planlıyor; TD Cowen varantlardan gelen hisse baskısının hafifleyeceğini düşünüyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -31,90 +99,8 @@
    "tarih": "2026-10-16T20:22+00:00"
   },
   {
-   "baslik": "Yapay zekâ satışı ve 110 dolarlık petrol Wall Street'i tedirgin ediyor",
-   "ozet": "Teknoloji hisselerindeki sert satış ve yükselen petrol fiyatı piyasada endişeyi artırıyor. Riskli varlıklar olan kripto paralar da bu havadan etkilenebilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHNoVXVmaThlSEx4SkpxSzR2TEdOLVl0ZnlTWjhQT0FwRWxQOGJKSllUMEl1YzliOVVMTEtRM1FfclQwdWdnMDhremNOTmZJZjhMRVF5R3U0Z2NzQTZUOU5jV3Y1a1BtMXl2ZzhIX1ZvZ1Z5QURkdnJ5djVwTXpROC1xZGQwUkRXQmJhTGNXNURRWElIS0NpSEtlWkdwU2xNcWFocVF0QmFVXy01dUE?oc=5",
-   "tarih": "2026-10-16T20:31+00:00"
-  },
-  {
-   "baslik": "Warsh, Fed'in Ekim'de faizi sabit tutacağı beklentisini güçlendirdi",
-   "ozet": "Fed Başkanı Warsh'ın yaptığı konuşma sonrası piyasa Ekim'de faiz değişikliği beklemiyor. Faiz artışı korkusunun azalması risk iştahını destekleyebilir.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdHZhMDY1QkVFRU1NQ0c1NkxlNzR2cDR4NEgwbVFMSkQ3RzFSNlFYT1Q0d1BzOWpRUGtLcTg1YUk0UkxOc2tKWENkTGxkRWc5SFAwWDFMS3JxdXJfWUIyNmwzR1Z0T3B5SmF0R2hjc0lDdXppV0wzQmw2bHh0a0FZS1BsUXVJdkdyZF9YcWIxMlZ3RnMwOVZ0YlFDeHdFWE5nTXdSdlQwb2NfZw?oc=5",
-   "tarih": "2026-10-16T14:23+00:00"
-  },
-  {
-   "baslik": "Bitcoin 82 bin dolar civarında dengelendi",
-   "ozet": "Warsh'ın faiz artışına dair ipucu vermemesi ve Güney Kore teknoloji hisselerinin toparlanmasıyla Bitcoin 80 bin doların üzerinde kaldı.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-16T15:45+00:00"
-  },
-  {
-   "baslik": "CoinShares: Sıcak enflasyon verisi Bitcoin'i baskılıyor ama 'zor' demek 'düşüş' demek değil",
-   "ozet": "Güçlü enflasyon verisi kısa vadede Bitcoin'e baskı yapıyor; CoinShares uzun vadeli yatırımcıların endişelenmesi gerekmediğini söylüyor.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
-   "tarih": "2026-10-16T18:30+00:00"
-  },
-  {
-   "baslik": "ABD ithalat fiyatları dört yılın en büyük yıllık artışını gösterdi",
-   "ozet": "İthalat fiyatlarındaki sert artış enflasyon endişesini canlı tutuyor. Faizlerin yüksek kalması riskli varlıklar için olumsuz olabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOXBPbnpTYVoxLUJfaDFHQjdrTFJXblFfN0FRVENPaEcxd0FfZWZJYk5kQ2tmUzRiYWhaSXdlUG9tVjgzVmRXZGlBaW1MQlZtRkFkQ0dxWkktQTNPdHM2anpjNGVMVnlWYUVuODlfVlZPbHp0T0pDcTNONU1RTDUyZDlIbkZUbnJNcjctWkdZQzZGeUpQOGkzcHY2R0RqRGM1?oc=5",
-   "tarih": "2026-10-16T16:08+00:00"
-  },
-  {
-   "baslik": "ABD bütçe açığı 2026 mali yılında 2 trilyon dolara yaklaştı",
-   "ozet": "Bütçe açığı bir yılda %12 artarak yaklaşık 2 trilyon dolara çıktı. Borçlanma ihtiyacı tahvil faizlerini ve piyasa risk algısını etkileyebilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NQjQxTWFBNEVvdzNXTmtqZTI4eWMwYkF2NjN6MmZBSmNIX01yb1pxZzlCdko5eUQ0VERzcDdCdnAwS1NSWGVCeEYxN010ZVVvdGVCS1ZzZnV1dnZpOUF2Y1RNWWU0cVF5ckVR0gFwQVVfeXFMTTJOU0pFNzQ5REN0OEJ2LU9kaHNjbTRrUTI0ZFBvTTdJZEJlTnEwTFZpX0dTbDNEaXdxREhmd2h1Q0NjYXpXMFFBVW1Ba0dqOFM1Y2duRFFneE4tMzBIN2RaSUJRZU9hNHR2RWNUcVZuRQ?oc=5",
-   "tarih": "2026-10-16T18:00+00:00"
-  },
-  {
-   "baslik": "Dolar, bir aydan fazla sürenin en kötü haftasına gidiyor",
-   "ozet": "Warsh'ın sessiz kalmasıyla dolar zayıfladı. Zayıf dolar genelde Bitcoin gibi varlıklara destek olur.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNjlYZTc3VmxoQUdTbFlOekFzVUl2VEpRRjh6eWtwZWlNdkVyZ3I1dnB6R3N0U0YwUUhHN1hCQ012MW5HUXJ6ZnIyUmRYM2pYejlMOEVoMDR6dkVtSXBmV2tubTh3RnZBVVcycWxvWGhOMXU5NGZaaWVzN1UteGxzYlhEbHpzc2FLQTI4bzZrYWlYTUtyMjYxQi1DbG5MRFlSZU9NZFFlX3c3Y0F3ek1POWtyMTNrdw?oc=5",
-   "tarih": "2026-10-16T16:24+00:00"
-  },
-  {
-   "baslik": "Deutsche Bank birkaç hafta içinde Bitcoin saklama hizmeti başlatacak",
-   "ozet": "Almanya'nın en büyük bankası, rapora göre kısa süre içinde Bitcoin saklama hizmetini devreye alacak. Geleneksel finansın kripto ilgisini gösteriyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody",
-   "tarih": "2026-10-16T16:35+00:00"
-  },
-  {
-   "baslik": "Circle, 40 gelişmekte olan piyasaya açılmayı planlıyor",
-   "ozet": "USDC'yi çıkaran Circle'ın CEO'su Güneydoğu Asya, Latin Amerika, Afrika ve Orta Doğu'da artan talebe dikkat çekti. Stablecoin kullanımı yaygınlaşıyor.",
+   "baslik": "Circle, USDC'yi yaklaşık 40 gelişmekte olan pazara götürecek",
+   "ozet": "Decrypt'e göre CEO Jeremy Allaire, Reuters'a Güneydoğu Asya, Latin Amerika, Afrika ve Orta Doğu'daki artan talep nedeniyle yaklaşık 40 pazara gireceklerini söyledi. Stablecoin kullanımının yaygınlaştığını gösteriyor.",
    "etki": "olumlu",
    "coinler": [
     "USDC"
@@ -124,22 +110,13 @@
    "tarih": "2026-10-16T18:55+00:00"
   },
   {
-   "baslik": "Hakim, CFTC ve Gemini'nin 5 milyon dolarlık anlaşmayı iptal talebini reddetti",
-   "ozet": "Mahkeme, CFTC'nin öncelik değişikliğinin anlaşmayı yeniden açmaya yetmediğine karar verdi. Düzenleyici baskının sürdüğünü gösteriyor.",
+   "baslik": "Gelecek hafta büyük bilançolar var, güçlü sonuç bile endişeyi dindirmeyebilir",
+   "ozet": "CNBC'ye göre piyasa gelecek haftaki büyük şirket bilançolarını bekliyor, ancak güçlü sonuçlar bile korkuları yatıştırmayabilir.",
    "etki": "notr",
    "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPamRGbnhqOWFNVXc1dk9nVTI5ZExzTHcwbHZTdTQxVDNfdXNvQVhseGpMNDlneFB4TXJwU0FWa291YlB2OU1uRS1ITWJ3T3VIOVBtSkVaYzRwSTlUWVRUOWhwWG85UHI0RnBQOV9lLXE1NW5XZ0dtdXBsVk1oU0lJaHZMNFJYRUhtYmNMdHU4NXEyTmpneFdHeWZoQXJqXzBvN1hMUg?oc=5",
-   "tarih": "2026-10-16T16:10+00:00"
-  },
-  {
-   "baslik": "Ledger'a kurcalanmış cüzdan riski aylar önce bildirilmişti",
-   "ozet": "Mt. Gox'un eski CEO'su Karpelès, Ledger'ın uyarılara yeterince hızlı yanıt vermediğini söylüyor. Donanım cüzdan güvenliği tartışılıyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-16T13:51+00:00"
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMDB5eUJodTlUZTZQNzNYdFhCVWFOWUdRZk5ENkFRNll3OEE0RjJkb0tMUzZRMkJYNktERG5pN1ZmR1JTUW1FczQ0UmQwSGRza2xUeUsyTndRajd0aVU3dXRTaE1nVkFKalpJZm9yMVVNWUJpYi1vUGp2VEJwQl85dmNzY0ExV015MGc?oc=5",
+   "tarih": "2026-10-16T19:39+00:00"
   }
  ]
 }
