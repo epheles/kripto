@@ -1,14 +1,14 @@
 {
- "guncelleme": "2026-10-17T20:05+00:00",
- "duygu": "karisik",
- "ozet": "Kripto için net bir yön yok. ABD'de faiz yükü rekor seviyede, enflasyon baskısı artıyor ve yapay zeka hisseleri sert düştü; bunlar riskli varlıklar için olumsuz işaretler. Öte yandan bankaların tokenizasyona ilgisi, Polygon ve Circle'ın genişlemesi sektör için olumlu. Bitcoin için kuantum riski tartışması sürüyor; Hex kurucusunun Türkiye'de tutuklanması düzenleme gündemini canlı tutuyor.",
+ "guncelleme": "2026-10-17T21:05+00:00",
+ "duygu": "olumsuz",
+ "ozet": "Makro tarafta tablo zayıf: ABD'nin faiz yükü rekor 1 trilyon dolara çıktı, enflasyon baskısı artıyor ve yapay zeka hisseleri sert düştü. Bu durum Bitcoin gibi riskli varlıklar için olumsuz bir zemin oluşturuyor. Sektör içinde bankaların tokenizasyon ilgisi, Polygon ve Circle'ın genişlemesi olumlu. Hex kurucusunun Türkiye'de tutuklanması ve Bitcoin için kuantum riski tartışması gündemde.",
  "takvim": [
-  "Gelecek hafta: Büyük teknoloji şirketlerinin bilanço dönemi. Yapay zeka hisselerindeki hareket kripto fiyatlarına da yansıyabilir."
+  "Gelecek hafta: Büyük teknoloji şirketlerinin bilanço dönemi. Yapay zeka hisselerindeki düşüş sürerse kripto de baskı görebilir."
  ],
  "haberler": [
   {
-   "baslik": "Türkiye, Hex kurucusu Richard Heart'ın tutuklandığını doğruladı",
-   "ozet": "Polisin 15 adreste yaptığı aramalarda 7,15 milyon dolar nakit, altı soğuk cüzdan ve silah ele geçirildiği bildirildi. Hex ve ilgili tokenlar için düzenleme riski gündemde.",
+   "baslik": "Hex'in kurucusu Richard Heart Türkiye'de tutuklandı",
+   "ozet": "Türk polisi 15 adreste arama yaptı; 7,15 milyon dolar nakit ve altı soğuk cüzdana el koyduğu bildirildi. Düzenleme baskısı gündemde kalıyor.",
    "etki": "olumsuz",
    "coinler": [
     "HEX"
@@ -18,48 +18,8 @@
    "tarih": "2026-10-17T18:14+00:00"
   },
   {
-   "baslik": "Yapay zeka hisseleri sert düştü, enflasyon yükseliyor",
-   "ozet": "CNBC'ye göre yapay zeka hisselerinde sert düşüş yaşandı ve enflasyon baskısı artıyor. Riskli varlık iştahı zayıflarsa kripto da baskı görebilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWIyUlNyQi13dVB2VVh3WTZjbWR1cV9OdlFZblJWVGdNeHhlQ2kzb2lfZHU2dzRjMGZLZWhnU2NFRmw3OWZFT2VSQktMQU9hc0VScWs1SGxfeURwTEtLbzVJMTVfbU9rVzFyY0FqZ3EwU0V2U2VkZjdlQjZ6X1ZDNFdyZjgxWnljY0RSZVVWY0F4a3BwaDFhamYzT0JCazJ4THpLSHN1Xy03SUQ3aVB0U21UYi1tVEdyLWVuX2gtNExRQlk?oc=5",
-   "tarih": "2026-10-17T15:42+00:00"
-  },
-  {
-   "baslik": "ABD'nin faiz yükü ilk kez 1 trilyon doları aştı",
-   "ozet": "ABD'nin borç faiz maliyetleri rekor seviyeye çıktı. Borç yükü endişesi tahvil faizlerini ve doları etkileyebilir; bu da kriptoya dolaylı yansır.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWlGeXhGVXJxNnQ3LXhqM0h3UkZxeHUtNGxMRFU2dXh3b0ZOTTFZQ2lfMWJMX3ZlUVZRaTRpRTkyUFVqMGZRaW5JYUNpNEF0YWlta1YtMkp0OE9mSFNCRHJWckdHZzktZHRQY3p2dFRjUV96M1BYOEhCT05OWms5YlFPNGxNOFpqXzZRZXhZd1NBdDdCVmZYUXl1VVFSVEZFUldIcC1lRTBwSkx0NklQRTVR?oc=5",
-   "tarih": "2026-10-17T12:00+00:00"
-  },
-  {
-   "baslik": "ABD'de enflasyon baskıları artıyor",
-   "ozet": "Bloomberg'in grafik analizi ABD'de fiyat baskılarının yükseldiğini gösteriyor. Faiz indirimi beklentilerini zayıflatabilir, bu da riskli varlıklar için olumsuz.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeXl4SUV1NTFjOWVMZnRWUndTS1puajhGQ2cwZ21jcndqS2FPTmVBSC1Fbkc3ZjlYZDBLNlZPdUUyNEF1aWZVNlNIanJGRlNaX1lka1FDcXJTa0p6aEo1TDdxbEUzZTZDUmpZRVZYTWRjcmNGel9aZnRpaFlkSllCZ3RnWlN1X0dYeFVuZEJZRVExbVdhVWEyYVFKV09jN1htYXdiV21YcGhoUQ?oc=5",
-   "tarih": "2026-10-17T09:00+00:00"
-  },
-  {
-   "baslik": "CoreWeave sorunları yapay zeka borç piyasasını tehdit ediyor",
-   "ozet": "Bloomberg, CoreWeave kaynaklı sorunların yapay zeka şirketlerinin yüksek riskli borç piyasasını kapatabileceğini yazdı. Kredi piyasasındaki stres risk iştahını azaltabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
-   "tarih": "2026-10-17T14:27+00:00"
-  },
-  {
-   "baslik": "Kripto şirketleri kuantum ittifakı kurdu: 6 milyon BTC risk altında",
-   "ozet": "Dokuz üyeli grup, kuantum direnci iddialarını test edecek açık standartlar belirlemeyi hedefliyor. İlk pratik saldırının 2020'lerin sonunda olabileceği tahmin ediliyor.",
+   "baslik": "Kripto firmaları kuantum ittifakı kurdu",
+   "ozet": "Dokuz üyeli grup, kuantum direnci iddialarını test etmek için açık standartlar belirlemeyi hedefliyor. Yaklaşık 6 milyon Bitcoin risk altında görünüyor; ilk pratik saldırı 2020'lerin sonuna tahmin ediliyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -69,8 +29,46 @@
    "tarih": "2026-10-17T16:01+00:00"
   },
   {
-   "baslik": "Goldman, Wells Fargo ve Morgan Stanley tokenizasyonu fırsat görüyor",
-   "ozet": "Dünyanın büyük bankaları tokenizasyonu tehdit değil, yeni işlem ve hızlı ödeme fırsatı olarak görüyor. Geleneksel finansın blokzincire ilgisi artıyor.",
+   "baslik": "Yapay zeka hisseleri sert düştü, enflasyon yükseliyor",
+   "ozet": "CNBC, yapay zeka hisselerindeki sert düşüşe ve ısınan enflasyona dikkat çekiyor. Riskli varlıklar baskı altında kalabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWIyUlNyQi13dVB2VVh3WTZjbWR1cV9OdlFZblJWVGdNeHhlQ2kzb2lfZHU2dzRjMGZLZWhnU2NFRmw3OWZFT2VSQktMQU9hc0VScWs1SGxfeURwTEtLbzVJMTVfbU9rVzFyY0FqZ3EwU0V2U2VkZjdlQjZ6X1ZDNFdyZjgxWnljY0RSZVVWY0F4a3BwaDFhamYzT0JCazJ4THpLSHN1Xy03SUQ3aVB0U21UYi1tVEdyLWVuX2gtNExRQlk?oc=5",
+   "tarih": "2026-10-17T15:42+00:00"
+  },
+  {
+   "baslik": "ABD'nin faiz yükü rekor 1 trilyon dolara çıktı",
+   "ozet": "Bloomberg, ABD'nin faiz maliyetinin rekor 1 trilyon dolara ulaştığını ve borç yükünün büyüme riski taşıdığını yazıyor.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWlGeXhGVXJxNnQ3LXhqM0h3UkZxeHUtNGxMRFU2dXh3b0ZOTTFZQ2lfMWJMX3ZlUVZRaTRpRTkyUFVqMGZRaW5JYUNpNEF0YWlta1YtMkp0OE9mSFNCRHJWckdHZzktZHRQY3p2dFRjUV96M1BYOEhCT05OWms5YlFPNGxNOFpqXzZRZXhZd1NBdDdCVmZYUXl1VVFSVEZFUldIcC1lRTBwSkx0NklQRTVR?oc=5",
+   "tarih": "2026-10-17T12:00+00:00"
+  },
+  {
+   "baslik": "ABD'de enflasyon baskıları artıyor",
+   "ozet": "Bloomberg'in haftalık grafik özeti ABD'de enflasyon baskılarının yükseldiğini gösteriyor. Faiz indirimi beklentilerini zayıflatabilir.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeXl4SUV1NTFjOWVMZnRWUndTS1puajhGQ2cwZ21jcndqS2FPTmVBSC1Fbkc3ZjlYZDBLNlZPdUUyNEF1aWZVNlNIanJGRlNaX1lka1FDcXJTa0p6aEo1TDdxbEUzZTZDUmpZRVZYTWRjcmNGel9aZnRpaFlkSllCZ3RnWlN1X0dYeFVuZEJZRVExbVdhVWEyYVFKV09jN1htYXdiV21YcGhoUQ?oc=5",
+   "tarih": "2026-10-17T09:00+00:00"
+  },
+  {
+   "baslik": "CoreWeave sorunları yapay zeka tahvil piyasasını tehdit ediyor",
+   "ozet": "Bloomberg, CoreWeave'deki sıkıntıların yüksek riskli yapay zeka borçlanma piyasasını kapatabileceği uyarısını yapıyor. Risk iştahı zayıflayabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
+   "tarih": "2026-10-17T14:27+00:00"
+  },
+  {
+   "baslik": "Büyük bankalar tokenizasyonu fırsat olarak görüyor",
+   "ozet": "Goldman, Wells Fargo ve Morgan Stanley tokenizasyonu tehdit değil büyüme alanı olarak değerlendiriyor; yeni işlem fırsatları ve daha hızlı ödemeler bekleniyor.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -78,8 +76,8 @@
    "tarih": "2026-10-17T17:00+00:00"
   },
   {
-   "baslik": "Polygon, Coinme'yi satın alarak ödeme sektörüne giriyor",
-   "ozet": "CEO Marc Boiron, alımın Polygon'a müşteri ilişkilerini ve ödeme aracılarına giden geliri kontrol etme imkanı vereceğini söyledi.",
+   "baslik": "Polygon, Coinme alımıyla ödeme sektörüne giriyor",
+   "ozet": "CEO Marc Boiron, alımın müşteri ilişkilerini kontrol etmelerini ve Visa ile Stripe gibi aracılara giden geliri almalarını sağlayacağını söyledi.",
    "etki": "olumlu",
    "coinler": [
     "POL"
@@ -89,8 +87,8 @@
    "tarih": "2026-10-17T14:00+00:00"
   },
   {
-   "baslik": "Circle, 40 gelişmekte olan pazara girmeyi planlıyor",
-   "ozet": "Circle CEO'su Allaire, Güneydoğu Asya, Latin Amerika, Afrika ve Orta Doğu'da stablecoin talebinin arttığını belirtti.",
+   "baslik": "Circle 40 gelişmekte olan pazara girmeyi planlıyor",
+   "ozet": "Circle'ın CEO'su Allaire, Güneydoğu Asya, Latin Amerika, Afrika ve Orta Doğu'daki artan stablecoin talebine yönelmek istediklerini söyledi.",
    "etki": "olumlu",
    "coinler": [
     "USDC"
@@ -100,8 +98,17 @@
    "tarih": "2026-10-17T10:00+00:00"
   },
   {
-   "baslik": "Fidelity: Solana dayanıklı, ancak bazı alanlar izlenmeli",
-   "ozet": "Rapora göre Solana'da iki yıldır ana ağ kesintisi yok; ancak stake, barındırma ve istemci yazılımındaki yoğunlaşma takip edilmeli.",
+   "baslik": "Banka faizleri stablecoin büyümesini yavaşlatabilir",
+   "ozet": "BIS makalesine göre ABD mevduat faizlerindeki 1 baz puanlık artış, on haftalık stablecoin büyümesini %15'ten %12'ye düşürüyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+   "tarih": "2026-10-17T12:00+00:00"
+  },
+  {
+   "baslik": "Fidelity: Solana dayanıklı, ama bazı alanlar izlenmeli",
+   "ozet": "Solana'da iki yıldır ana ağ kesintisi bildirilmedi; ancak stake, barındırma ve istemci yazılımındaki yoğunlaşma izlenmeli.",
    "etki": "olumlu",
    "coinler": [
     "SOL"
@@ -111,17 +118,8 @@
    "tarih": "2026-10-17T12:58+00:00"
   },
   {
-   "baslik": "BIS: Banka mevduat faizleri stablecoin büyümesini yavaşlatabilir",
-   "ozet": "BIS makalesine göre ABD mevduat faizlerindeki 1 baz puanlık artış, on haftalık stablecoin büyümesini %15'ten %12'ye düşürüyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
-   "tarih": "2026-10-17T12:00+00:00"
-  },
-  {
-   "baslik": "Lagarde: Dijital euro çok yakında",
-   "ozet": "ECB Başkanı Lagarde euro bölgesi ekonomisinin dirençli olduğunu ve dijital euronun perakende ödemelerde rekabeti artıracağını söyledi.",
+   "baslik": "Lagarde: Euro bölgesi dirençli, dijital euro yakında",
+   "ozet": "ECB Başkanı Lagarde, dijital euronun perakende ödemelerde yeniliği ve rekabeti artıracağını söyledi.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Cointelegraph",
