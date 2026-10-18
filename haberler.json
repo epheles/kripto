@@ -1,14 +1,14 @@
 {
- "guncelleme": "2026-10-18T01:10+00:00",
+ "guncelleme": "2026-10-18T03:10+00:00",
  "duygu": "karisik",
- "ozet": "Hafta sonu haber akışı sakin; makroda yapay zeka hisselerindeki sert düşüş, ısınan enflasyon ve yüksek petrol fiyatları risk iştahı için baskı unsuru. Kripto tarafında büyük bankaların tokenizasyon ilgisi ve Polygon'un ödeme hamlesi olumlu, Hex kurucusunun Türkiye'de tutuklanması ise olumsuz. Bitcoin için kuantum riskine karşı yeni bir sektör ittifakı kuruldu.",
+ "ozet": "Hafta sonu haber akışı sakin. Makroda yapay zeka hisselerindeki düşüş, ısınan enflasyon ve yüksek petrol fiyatları risk iştahına baskı yapıyor. Kripto tarafında büyük bankaların tokenizasyon ilgisi ve Polygon'un ödeme hamlesi olumlu; Hex kurucusunun Türkiye'de tutuklanması olumsuz. Bitcoin için kuantum riskine karşı yeni bir sektör ittifakı kuruldu.",
  "takvim": [
-  "Gelecek hafta: Yapay zeka ve teknoloji hisselerindeki hareketler ile enflasyon verileri risk iştahını belirleyebilir; zayıflık sürerse kripto da baskı görebilir."
+  "Gelecek hafta: Yapay zeka hisseleri ve enflasyon gelişmeleri risk iştahını belirleyebilir; zayıf seyir kriptoya da yansıyabilir."
  ],
  "haberler": [
   {
-   "baslik": "Tokenize hisseler piyasalarda 'köklü değişim' getirebilir",
-   "ozet": "WSJ'ye göre Cuomo, tokenize hisse senetlerinin piyasalara köklü bir değişim getireceğini söyledi. Geleneksel finansın blokzincire yönelmesi kripto altyapısı için olumlu bir sinyal.",
+   "baslik": "Cuomo: Tokenize hisseler piyasalarda 'köklü değişim' getirecek",
+   "ozet": "WSJ'ye göre Cuomo, tokenize hisselerin piyasaları kökten değiştireceğini söyledi. Geleneksel finansın blokzincire yaklaşması kripto sektörü için olumlu bir sinyal.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "WSJ",
@@ -16,17 +16,17 @@
    "tarih": "2026-10-17T21:01+00:00"
   },
   {
-   "baslik": "Dokuz şirket hisselerinin OKXICE'ta tokenize işlemine itiraz etti",
-   "ozet": "CoreWeave, Broadcom ve Verizon gibi şirketler hisselerinin tokenize alım satımına karşı çıktı. Bir şirket, tokenizasyonun hisse fiyatı ve likiditeye etkisinden emin olmadığını söyledi; bu, tokenize hisse planlarında sürtünme yaratabilir.",
-   "etki": "olumsuz",
+   "baslik": "Dokuz şirket hisselerinin OKXICE'ta tokenize işlem görmesine itiraz etti",
+   "ozet": "CoreWeave, Broadcom ve Verizon aralarında dokuz şirket itiraz etti. Bir şirket, tokenizasyonun hisse fiyatı, likidite ve oynaklığa etkisinden emin olmadığını belirtti.",
+   "etki": "notr",
    "coinler": [],
    "kaynak": "The Block",
    "link": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
    "tarih": "2026-10-17T19:56+00:00"
   },
   {
-   "baslik": "Hex kurucusu Richard Heart Türkiye'de tutuklandı",
-   "ozet": "Türkiye tutuklamayı doğruladı; polis 7,15 milyon dolar nakit, altı soğuk cüzdan ve silahlara el koydu. Hex ve ilgili tokenlar için belirsizlik doğurabilir.",
+   "baslik": "Türkiye, Hex kurucusu Richard Heart'ın tutuklandığını doğruladı",
+   "ozet": "Polisin 15 adreste yaptığı aramalarda 7,15 milyon dolar nakit, altı soğuk cüzdan ve silah ele geçirildiği bildirildi. Olay Türkiye'deki kripto denetiminin sertleştiğini gösteriyor.",
    "etki": "olumsuz",
    "coinler": [
     "HEX"
@@ -36,17 +36,8 @@
    "tarih": "2026-10-17T18:14+00:00"
   },
   {
-   "baslik": "Kripto lobisi Fairshake, Sherrod Brown'a karşı harcamayı artırdı",
-   "ozet": "FEC kaydına göre bağlı kuruluş yaklaşık 7 milyon dolar daha reklam harcadı; toplam 46 milyon doları aştı. Kripto sektörü, seçimlerde düzenleme tutumunu etkilemeye çalışıyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
-   "tarih": "2026-10-17T17:01+00:00"
-  },
-  {
-   "baslik": "Büyük bankalar tokenizasyonu fırsat olarak görüyor",
-   "ozet": "Goldman, Wells Fargo ve Morgan Stanley tokenizasyonu tehdit değil büyüme alanı olarak değerlendiriyor. Kurumsal ilgi blokzincir sektörü için olumlu.",
+   "baslik": "Büyük bankalar tokenizasyonu tehdit değil büyüme alanı olarak görüyor",
+   "ozet": "Goldman, Wells Fargo ve Morgan Stanley tokenizasyonda yeni işlem fırsatı, daha hızlı ödeme ve danışmanlık rolü görüyor. Bankaların ilgisi sektöre kurumsal güven katıyor.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -54,8 +45,8 @@
    "tarih": "2026-10-17T17:00+00:00"
   },
   {
-   "baslik": "Kripto şirketleri kuantum ittifakı kurdu, 6 milyon BTC risk altında",
-   "ozet": "Dokuz üyeli grup, kuantum dayanıklılığı iddialarını test edecek açık standartlar hazırlamayı hedefliyor. İlk pratik saldırının 2020'lerin sonunu bulabileceği öngörülüyor.",
+   "baslik": "Kripto şirketleri kuantum ittifakı kurdu: 6 milyon Bitcoin risk altında",
+   "ozet": "Dokuz üyeli grup, kuantum direnci iddialarını test edecek açık standartlar oluşturmayı hedefliyor. İlk pratik saldırının 2020'lerin sonunda olabileceği öngörülüyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -65,26 +56,17 @@
    "tarih": "2026-10-17T16:01+00:00"
   },
   {
-   "baslik": "Yapay zeka hisseleri sert düştü, enflasyon yükseliyor",
-   "ozet": "CNBC, yapay zeka hisselerindeki sert düşüşe ve ısınan enflasyona dikkat çekti. Risk iştahının azalması kripto gibi riskli varlıkları baskılayabilir.",
-   "etki": "olumsuz",
+   "baslik": "Kripto süper PAC'i Fairshake, Sherrod Brown'a karşı harcamayı artırdı",
+   "ozet": "FEC kaydına göre yaklaşık 7 milyon dolar daha harcandı ve toplam 46 milyon doları aştı. Grup ayrıca 32 Meclis yarışına da genişledi; kripto yanlısı siyasi baskıyı gösteriyor.",
+   "etki": "olumlu",
    "coinler": [],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWIyUlNyQi13dVB2VVh3WTZjbWR1cV9OdlFZblJWVGdNeHhlQ2kzb2lfZHU2dzRjMGZLZWhnU2NFRmw3OWZFT2VSQktMQU9hc0VScWs1SGxfeURwTEtLbzVJMTVfbU9rVzFyY0FqZ3EwU0V2U2VkZjdlQjZ6X1ZDNFdyZjgxWnljY0RSZVVWY0F4a3BwaDFhamYzT0JCazJ4THpLSHN1Xy03SUQ3aVB0U21UYi1tVEdyLWVuX2gtNExRQlk?oc=5",
-   "tarih": "2026-10-17T15:42+00:00"
-  },
-  {
-   "baslik": "CoreWeave sıkıntıları yapay zeka tahvil piyasasını riske atıyor",
-   "ozet": "Bloomberg'e göre CoreWeave'in sorunları yapay zekaya bağlı yüksek riskli borç piyasasını kapatma riski taşıyor. Risk iştahı zayıflarsa kripto de etkilenebilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
-   "tarih": "2026-10-17T14:27+00:00"
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+   "tarih": "2026-10-17T17:01+00:00"
   },
   {
    "baslik": "Polygon, Coinme alımıyla ödeme sektörüne giriyor",
-   "ozet": "CEO Marc Boiron, alımın müşteri ilişkisini kontrol etmeye ve aracılara giden geliri almaya yardım edeceğini söyledi; hedef Visa ve Stripe'ın alanı.",
+   "ozet": "CEO Marc Boiron, alımın müşteri ilişkisini ve aracılara giden geliri Polygon'a kazandıracağını söyledi. Hedef Visa ve Stripe'ın hakim olduğu ödeme alanı.",
    "etki": "olumlu",
    "coinler": [
     "POL"
@@ -95,7 +77,7 @@
   },
   {
    "baslik": "Fidelity: Solana dayanıklı ama bazı alanlar izlenmeli",
-   "ozet": "Rapora göre Solana'da iki yıldır mainnet kesintisi olmadı; ancak stake, barındırma ve istemci yazılımındaki yoğunlaşma izlenmeli.",
+   "ozet": "Rapora göre Solana'da iki yıldır bildirilen ana ağ kesintisi yok. Stake, barındırma ve istemci yazılımındaki yoğunlaşma ise takip edilmeli.",
    "etki": "olumlu",
    "coinler": [
     "SOL"
@@ -105,8 +87,26 @@
    "tarih": "2026-10-17T12:58+00:00"
   },
   {
+   "baslik": "Yapay zeka hisseleri sert düştü, enflasyon ısınıyor",
+   "ozet": "CNBC'ye göre yapay zeka hisselerinde sert düşüş ve artan enflasyon var. Risk iştahının zayıflaması kripto için baskı unsuru olabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWIyUlNyQi13dVB2VVh3WTZjbWR1cV9OdlFZblJWVGdNeHhlQ2kzb2lfZHU2dzRjMGZLZWhnU2NFRmw3OWZFT2VSQktMQU9hc0VScWs1SGxfeURwTEtLbzVJMTVfbU9rVzFyY0FqZ3EwU0V2U2VkZjdlQjZ6X1ZDNFdyZjgxWnljY0RSZVVWY0F4a3BwaDFhamYzT0JCazJ4THpLSHN1Xy03SUQ3aVB0U21UYi1tVEdyLWVuX2gtNExRQlk?oc=5",
+   "tarih": "2026-10-17T15:42+00:00"
+  },
+  {
+   "baslik": "CoreWeave sorunları yapay zeka kredi piyasasını zorlayabilir",
+   "ozet": "Bloomberg, CoreWeave kaynaklı sıkıntıların yapay zeka şirketlerinin borçlanma piyasasını kapatma riski taşıdığını yazdı. Teknoloji kaynaklı bir risk kaçışı kripto fiyatlarına da yansıyabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1Z0ODZTMmZ1cGhteHZXUXRpemdYenhIVWJNR0h4bnBublpZRlBRdUxGRUg4Q2hOSU1uYWR6MlMtVXF0Q0NjOGVJaTJPR24wVG1kT0hmWDdNVEFmZmFBRU8zRTZ0bUpsTHNVUHVqcHotUjd1VFY3OENsSGZWcWlrRjlvRF9CSjRvZmRNdDg0bXdJQ3ZmdmE5Z0x3NHIwS2VaTjVwZzFtdVhOQm5FSzU5am5Oaw?oc=5",
+   "tarih": "2026-10-17T14:27+00:00"
+  },
+  {
    "baslik": "Macklem: Yüksek petrol fiyatları büyümeyi ve enflasyonu artırıyor",
-   "ozet": "Kanada Merkez Bankası Başkanı Macklem, yüksek petrol fiyatlarının hem büyümeyi hem enflasyonu desteklediğini söyledi. Enflasyon baskısı faiz indirimi beklentilerini zayıflatabilir.",
+   "ozet": "Kanada Merkez Bankası Başkanı Macklem, yüksek petrolün büyümeyi ve enflasyonu desteklediğini söyledi. Enflasyon baskısı faiz beklentilerini etkileyebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
