@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-18T18:10+00:00",
+ "guncelleme": "2026-10-18T19:05+00:00",
  "duygu": "karisik",
  "ozet": "Cuma günü Wall Street'te korku endeksi VIX yükseldi, hisseler düştü; Bitcoin ise bu dalgada sakin kaldı. Bitcoin ETF'leri son iki haftada yaklaşık 1 milyar dolar çıkış yaşadı ve Ekim ayı kırmızı kapanma yolunda. Analistler yıl sonu için ikiye ayrılmış durumda: enflasyon ve faiz belirsizliği ana risk. Yapay zekâ kaygıları ve Orta Doğu/Ukrayna'daki gerginlik de piyasaların tonunu etkiliyor.",
  "takvim": [
@@ -11,7 +11,9 @@
    "baslik": "Cuma paniği Pazartesi sönebilir, Bitcoin sakin",
    "ozet": "Wall Street'in korku endeksi VIX cuma günü yükseldi, hisseler düştü. Geçmişte cuma paniklerinin pazartesi genelde yatıştığı belirtiliyor; Bitcoin de sakin seyrediyor.",
    "etki": "notr",
-   "coinler": ["BTC"],
+   "coinler": [
+    "BTC"
+   ],
    "kaynak": "CoinDesk",
    "link": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
    "tarih": "2026-10-18T16:33+00:00"
@@ -20,7 +22,10 @@
    "baslik": "Cysic köprüsü durdu: saldırgan 10 milyon CYS bastı",
    "ozet": "Saldırgan izinsiz 10 milyon CYS basıp yaklaşık 727 bin doları Ethereum'a taşıdı. Cysic köprüyü askıya aldı; ana ağın etkilenmediğini söyledi.",
    "etki": "olumsuz",
-   "coinler": ["CYS", "ETH"],
+   "coinler": [
+    "CYS",
+    "ETH"
+   ],
    "kaynak": "The Block",
    "link": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
    "tarih": "2026-10-18T16:07+00:00"
@@ -38,7 +43,9 @@
    "baslik": "Bitcoin ETF'lerinden iki haftada neredeyse 1 milyar dolar çıkış",
    "ozet": "Bu hafta 228,6 milyon dolar, geçen hafta 681,1 milyon dolar net çıkış oldu. Ekim ayı beklenenin aksine zayıf geçiyor.",
    "etki": "olumsuz",
-   "coinler": ["BTC"],
+   "coinler": [
+    "BTC"
+   ],
    "kaynak": "Decrypt",
    "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
    "tarih": "2026-10-18T15:01+00:00"
@@ -74,7 +81,9 @@
    "baslik": "Bankaların faiz artışı stabilcoin büyümesini yavaşlatıyor",
    "ozet": "BIS çalışmasına göre ABD bankaları mevduat faizini artırınca stabilcoin büyümesi yavaşlıyor; en çok USDC etkileniyor.",
    "etki": "olumsuz",
-   "coinler": ["USDC"],
+   "coinler": [
+    "USDC"
+   ],
    "kaynak": "Decrypt",
    "link": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
    "tarih": "2026-10-18T13:01+00:00"
@@ -83,7 +92,9 @@
    "baslik": "Bitcoin'in 100 bin dolar hedefi analistleri böldü",
    "ozet": "Bitwise yıl sonuna doğru 100 bin doların üzerine dönüş görebiliyor; LO:TECH ise faiz belirsizliği nedeniyle dar bir bant bekliyor. Enflasyon görünümü bulutlu.",
    "etki": "notr",
-   "coinler": ["BTC"],
+   "coinler": [
+    "BTC"
+   ],
    "kaynak": "CoinDesk",
    "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
    "tarih": "2026-10-18T13:00+00:00"
