@@ -1,14 +1,43 @@
 {
- "guncelleme": "2026-10-18T08:05+00:00",
+ "guncelleme": "2026-10-18T10:05+00:00",
  "duygu": "karisik",
- "ozet": "Hafta sonu haber akışı sakin ve kriptoya doğrudan fiyat haberi sınırlı. Yapay zeka hisselerindeki gerileme ve sıkılaşan faiz beklentileri risk iştahına baskı yapıyor. Kripto tarafında Hex kurucusunun tutuklanması ve cüzdan cihazlarındaki casusluk iddiası olumsuz; tokenize hisse tartışması ise sürüyor.",
+ "ozet": "Hafta sonu haber akışı sakin; kriptoya doğrudan fiyat haberi sınırlı. Yapay zeka hisselerindeki geri çekilme ve çip kontratlarındaki ani düşüş risk iştahını zayıflatıyor. Kripto tarafında cüzdan cihazlarında casusluk iddiası olumsuz; stabilcoin pazarında Circle ile rakipler arasındaki rekabet sürüyor.",
  "takvim": [
-  "Gelecek hafta: Yapay zeka hisseleri ve İngiltere enflasyon verisi risk iştahını belirleyebilir; zayıf seyir kriptoya da yansıyabilir."
+  "Pazartesi 19 Ekim: ABD borsaları açılınca yapay zeka ve çip hisselerinin seyri risk iştahını belirleyebilir; zayıf açılış kriptoya da yansıyabilir."
  ],
  "haberler": [
   {
-   "baslik": "Kripto cüzdan cihazlarında casus yazılım bulundu",
-   "ozet": "Bloomberg'e göre hackerlara karşı üretilen bazı kripto cihazlarının içinde casusluk bileşenleri çıktı. Donanım cüzdanlarına güveni sarsabilir.",
+   "baslik": "Bangkok'ta 75 milyon dolarlık suç ağı şüphelisi yakalandı",
+   "ozet": "Polis, Çinli şüphelinin 133'ten fazla hesap üzerinden suç grupları için kripto ve döviz işlemleri yaptığını öne sürdü. Kripto ile suç bağlantısı gündemde kalıyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-18T09:14+00:00"
+  },
+  {
+   "baslik": "7/24 işlem gören çip hisse kontratlarında 10 dakikada 52 milyon dolar kayıp",
+   "ozet": "ABD borsaları kapalıyken çip hisselerine bağlı sürekli işlem gören kontratlarda 10 dakikalık sert düşüş yaşandı. Yatırımcılar dayanacak gerçek bir hisse fiyatı bulamadı.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+   "tarih": "2026-10-18T07:13+00:00"
+  },
+  {
+   "baslik": "Tether, AIsa'ya stratejik yatırımcı olarak girdi",
+   "ozet": "Tether'in katılımıyla AIsa'nın tohum turu tamamlandı; toplam fonlama 9 milyon doları aştı. Tether'in yeni alanlara yatırımı sürüyor.",
+   "etki": "notr",
+   "coinler": [
+    "USDT"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-18T06:26+00:00"
+  },
+  {
+   "baslik": "Hacker'lara karşı üretilen kripto cihazlarında casusluk iddiası",
+   "ozet": "Bloomberg'e göre hırsızlığa karşı geliştirilen bazı kripto cihazlarının içinde casuslar bulunuyordu. Cüzdan güvenliği konusunda güveni zedeleyebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -16,8 +45,8 @@
    "tarih": "2026-10-18T04:01+00:00"
   },
   {
-   "baslik": "Circle USDC gelir modelini savundu",
-   "ozet": "Circle'ın en büyük USDC ortağı Coinbase, rezerv gelirini ortaklara daha fazla aktaran rakip Open USD ağını da destekliyor. Stablecoin rekabeti kızışıyor.",
+   "baslik": "Circle USDC gelir modelini savundu, rakipler ortaklara daha fazla pay sunuyor",
+   "ozet": "Circle'ın en büyük USDC ortağı Coinbase, rezerv gelirini ortaklara aktaran rakip Open USD ağını da destekliyor. Stabilcoin pazarında rekabet kızışıyor.",
    "etki": "notr",
    "coinler": [
     "USDC"
@@ -27,37 +56,8 @@
    "tarih": "2026-10-18T01:06+00:00"
   },
   {
-   "baslik": "Hex kurucusu Richard Heart Türkiye'de tutuklandı",
-   "ozet": "Türkiye tutuklamayı doğruladı; polis 7,15 milyon dolar nakit, altı soğuk cüzdan ve silah ele geçirdi. Hex ve ilgili projeler için olumsuz bir gelişme.",
-   "etki": "olumsuz",
-   "coinler": [
-    "HEX"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
-   "tarih": "2026-10-17T18:14+00:00"
-  },
-  {
-   "baslik": "Cuomo: Tokenize hisseler piyasalarda 'köklü değişim' getirecek",
-   "ozet": "WSJ'ye göre Cuomo, hisse senetlerinin tokenize edilmesinin piyasaları kökten değiştireceğini söyledi. Zincir üstü finansa ilgiyi destekleyen bir görüş.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmtzT2tCeEoxY3FCVGNlellPVGlHVkdQX0lBT2dtTk1FUV9vQjJ2Z3hZNEZRamI1Z2VHRVc1bjdKM0w2YlFLYVdkZzhxV2Vfd2FhOXlNQWUtMUVJR0o0c2VHSktPNVpJcDFpTUMtUWpmOTRXaGlidGdZVFhqdVE0enhOYzlfYjRqYzRYX3J2cDdJXzVPME5CbDJoUjdiZW9IemxYM05hOTFaQQ?oc=5",
-   "tarih": "2026-10-17T21:01+00:00"
-  },
-  {
-   "baslik": "Dokuz şirket, hisselerinin OKX'te tokenize işlem görmesine itiraz etti",
-   "ozet": "CoreWeave, Broadcom ve Verizon gibi şirketler tokenize hisse işlemine karşı çıktı. Bazıları likidite ve oynaklık etkisinden emin olmadığını söyledi.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
-   "tarih": "2026-10-17T19:56+00:00"
-  },
-  {
-   "baslik": "Yapay zeka hisselerindeki geri dönüş Asya'yı vurdu",
-   "ozet": "Bloomberg'e göre yapay zeka rallisindeki tersine dönüş Asya'daki önde gelen çip ve altyapı hisselerini düşürdü. Risk iştahı zayıflarsa kripto da baskı görebilir.",
+   "baslik": "Yapay zeka alımlarında geri dönüş Asya hisselerini vurdu",
+   "ozet": "Yapay zeka temalı hisselerde geri çekilme Asya'nın öne çıkan altyapı hisselerine de yansıdı. Risk iştahı zayıflarsa kripto da baskı görebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -65,8 +65,8 @@
    "tarih": "2026-10-18T00:00+00:00"
   },
   {
-   "baslik": "ABD'nin 10 trilyon dolarlık yapay zeka altyapı yatırımı sorun yaşıyor",
-   "ozet": "FT'ye göre yapay zeka altyapı patlaması çatlamaya başladı. Teknoloji hisseleriyle birlikte hareket eden kripto için dikkat edilecek bir risk.",
+   "baslik": "ABD'de 10 trilyon dolarlık yapay zeka altyapı patlaması aksıyor",
+   "ozet": "FT'ye göre ABD'deki yapay zeka altyapı yatırım dalgası zayıflama belirtileri gösteriyor. Teknoloji hisseleri kriptoyla birlikte hareket edebiliyor.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Financial Times",
@@ -74,31 +74,22 @@
    "tarih": "2026-10-18T04:00+00:00"
   },
   {
-   "baslik": "İngiltere enflasyonu BoE'nin Kasım faiz artışını netleştirebilir",
-   "ozet": "Bloomberg, yaklaşan enflasyon verisinin Merkez Bankası'nın Kasım'daki faiz artışını kesinleştirebileceğini yazdı. Sıkı para politikası riskli varlıklara baskı yapabilir.",
-   "etki": "olumsuz",
+   "baslik": "FT anketi: Küresel ekonomi yapay zeka ile hızlanabilir",
+   "ozet": "FT anketine göre küresel ekonominin yapay zeka sayesinde güçlü bir büyüme yaşaması bekleniyor. Büyüme beklentisi risk varlıklarına destek olabilir.",
+   "etki": "olumlu",
    "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFIxNENhNGRYUmJLQ0hiZW82dE4zSVVrTkp6ZExjbWk5djg5X1Fad0VIZVRGcVQ2R3ZySWZHOFZoTDZ3UWVXakdldk12T04tSWo5Z3pTR2JkMFpNRFhXTGtsbnRNZWdLRVR5QUItWnJnTGdXWVpaV2tUOG1IN3RGLTVRZHlXMkZlYldEc2JfR0h1NkhGejJfQk8ybVpZWHdmTVJmUzVVb28tYkdpMmNGM3VwRQ?oc=5",
-   "tarih": "2026-10-17T20:00+00:00"
+   "kaynak": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPek5iaXFoTHVyNTRqTXQzcW5JMldUdU85LXV1eEkzQ3JQSVRLOXNndmkxOW5JWmxjZld0UjZfRzBVemYzZ3ppNmFYd1ZpcXcwN0ZmaG9nME55elQ0Wk5rdmhQU0dKWTNKZXhxV2gwcXhtajZiM3ZiUHVBcy1qMlNFWVVzZVk?oc=5",
+   "tarih": "2026-10-18T04:02+00:00"
   },
   {
    "baslik": "Trump'ın Rusya yaptırım muafiyeti kendi müttefiklerinden eleştiri aldı",
-   "ozet": "Cumhuriyetçi müttefikler muafiyeti hata olarak niteledi; WSJ de dizel anlaşmasının yasallığının sorgulandığını yazdı. Jeopolitik belirsizlik sürüyor.",
+   "ozet": "Cumhuriyetçi müttefikler muafiyeti hata olarak niteledi. Jeopolitik belirsizlik risk iştahını etkileyebilir.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBhMEdBRVg3TkZWNHNYNDc3ZVdfRVhpVmtWQUlhY2t2eW9vTW5wdTNLX0pUUDdyUXdUcU5neVFrLVp1ZXZ2R1VVM1h5YnZFQ3NVM0hraDZwUzBJMHRBb0NYa2JjRTZEbmJnMW5MNW9FcV9vbzhBSU5odzlBcTRTTGIzSEJHLU1NZVFnRHRHSGdfZVdmSnJzRzFVQTlsbTRfS05Pd05kb3lDWWE5cEJKbTMzRncyQQ?oc=5",
-   "tarih": "2026-10-17T19:31+00:00"
-  },
-  {
-   "baslik": "Venezuela beş yılda yaklaşık 76 milyar dolarlık petrol yatırımı bekliyor",
-   "ozet": "Bloomberg'e göre yatırım beklentisi enerji arzı açısından önemli. Petrol fiyatları enflasyon beklentilerini etkilediği için dolaylı olarak piyasayı ilgilendiriyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZVFXSEJ5V0lrTERaLTI0SGFGdDNkXy1ydHp0MjNKMHVWSGYzaE14b3VSWmhfUzc3MmhudW16VUp4LUtJUE9feVdtcHUyT1NhbHVQNlZEWW1HTUZtSWNxM1dmMk1WZnFPc1pLeExobWtyVVJsTlBLSkNLSTBTLXFBRFRDN2FXMXMtYVQ5dllhX1I5aEQ0ZEZqUk44dzd5ZUhkZzFZVWNicGJGNGlEXzNyLUdfRnI?oc=5",
-   "tarih": "2026-10-18T00:48+00:00"
+   "tarih": "2026-10-18T02:41+00:00"
   }
  ]
 }
