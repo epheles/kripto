@@ -1,23 +1,26 @@
 {
- "guncelleme": "2026-10-18T11:10+00:00",
+ "guncelleme": "2026-10-18T15:10+00:00",
  "duygu": "karisik",
- "ozet": "Hafta sonu kriptoya doğrudan fiyat haberi az. Yapay zeka ve çip hisselerindeki geri çekilme risk iştahını zayıflatıyor; ABD borsaları kapalıyken çip kontratlarında ani düşüş yaşandı. Kripto tarafında cüzdan cihazlarında casusluk iddiası olumsuz, stabilcoin pazarında Circle ile rakipler arasında rekabet sürüyor.",
+ "ozet": "Hafta sonu kriptoya doğrudan fiyat haberi az. Analistler Bitcoin'in yıl sonu görünümü konusunda ikiye ayrılmış durumda; enflasyon ve faiz belirsizliği ana risk. Borsa kapalıyken çip kontratlarındaki ani düşüş ve cüzdan cihazlarında casusluk iddiası ile hack kayıpları tarafı olumsuz; stabilcoin ödemelerindeki büyüme ise olumlu.",
  "takvim": [
-  "Pazartesi 19 Ekim: ABD borsaları açılınca yapay zeka ve çip hisselerinin seyri risk iştahını belirleyebilir; zayıf açılış kriptoya da yansıyabilir."
+  "Pazartesi 19 Ekim: ABD borsaları açılınca yapay zeka ve çip hisselerinin seyri risk iştahını belirleyebilir; zayıf açılış kriptoya da yansıyabilir.",
+  "Önümüzdeki hafta: Meta ve Tesla bilanço açıklayacak (CNBC); sonuçlar yapay zeka hisselerinin ve risk iştahının yönünü etkileyebilir."
  ],
  "haberler": [
   {
-   "baslik": "Bangkok'ta 75 milyon dolarlık suç ağı şüphelisi yakalandı",
-   "ozet": "Tayland polisi, 133'ten fazla hesap üzerinden suç örgütleri için kripto ve döviz işlemleri yapan bir Çinli şüpheliyi yakaladı. Kripto kaynaklı suç haberleri düzenleme baskısını artırabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-18T09:14+00:00"
+   "baslik": "Bitcoin'in yıl sonu 100 bin dolar umudu analistleri böldü",
+   "ozet": "Bitwise yıl sonuna doğru 100 bin doların üzerine dönüş görüyor; LO:TECH ise faiz belirsizliği yüzünden daha dar bir bantta işlem bekliyor. Enflasyon endişesi görünümü bulandırıyor.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+   "tarih": "2026-10-18T13:00+00:00"
   },
   {
-   "baslik": "Çip hisse kontratlarında 10 dakikada 52 milyon dolar kayıp",
-   "ozet": "ABD borsaları kapalıyken 7/24 işlem gören çip hissesi kontratlarında ani düşüş yaşandı; yatırımcılar referans alacak gerçek hisse fiyatı bulamadı. Risk iştahı zayıflarsa kripto da etkilenebilir.",
+   "baslik": "Borsa kapalıyken çip kontratlarında 10 dakikada 52 milyon dolar silindi",
+   "ozet": "ABD borsaları kapalıyken 7/24 işlem gören çip hissesi kontratlarında ani düşüş yaşandı. Gerçek hisse fiyatı olmadığı için yatırımcılar referanssız kaldı; yapay zeka hisselerindeki dalgalanma risk iştahını etkileyebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -25,80 +28,91 @@
    "tarih": "2026-10-18T07:13+00:00"
   },
   {
-   "baslik": "Hacker'lara karşı üretilen kripto cihazlarının içinden casus çıktı",
-   "ozet": "Bloomberg'e göre güvenlik amacıyla üretilen bazı kripto cihazları casusluk riski taşıyordu. Cüzdan güvenliğine duyulan güveni sarsabilecek bir gelişme.",
+   "baslik": "Hacklere karşı üretilen kripto cihazlarının içinde casus çıktı",
+   "ozet": "Bloomberg, güvenlik amacıyla satılan bazı kripto cihazlarının içine casusluk yerleştirildiğini yazdı. Cüzdan güvenliğine olan güveni zedeleyebilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Bloomberg.com",
+   "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWU96Q2NYUFpFWC15Z09ScDdIRjNBeG1Sb3U4T0N3ZG54MGdLTGRIcUVmb2VLaWlTbHhVMWNpbTJWdGMwQ0pybUd1TVdtMWZQcnkxYnpFaXRYWHRwb3l3Y3BrS3lWd1VXdVRmRmxLb3NOOXpNNlBfZGFtQmhSWkdTUnVqcS1BaWpRX3BpVkZvME05QUNSX09zUTc0emQ0cHpTMTJhd1FDQ25CVk0zLW51Ylg2YmI?oc=5",
    "tarih": "2026-10-18T04:01+00:00"
   },
   {
-   "baslik": "Circle, USDC gelir modelini savundu",
-   "ozet": "Circle'ın en büyük USDC ortağı Coinbase, rezerv gelirini ortaklara daha fazla aktaran rakip Open USD ağını da destekliyor. Stabilcoin pazarında rekabet kızışıyor.",
-   "etki": "notr",
+   "baslik": "3. çeyrekte hack kayıpları 1,18 milyar dolara ulaştı",
+   "ozet": "Hacken'e göre kayıpların %77'si ele geçirilmiş tedarikçiler, geç yapılan düzeltmeler veya denetim kapsamı dışındaki sistemlerden kaynaklandı. Denetim yaptırmak tek başına güvence vermiyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+   "tarih": "2026-10-18T13:00+00:00"
+  },
+  {
+   "baslik": "Cysic köprüsünde izinsiz 10 milyon CYS basıldı, köprü durduruldu",
+   "ozet": "Cysic olayın yalnızca köprü mesaj işleme ve basım kısmıyla sınırlı olduğunu, ana ağı etkilemediğini söyledi.",
+   "etki": "olumsuz",
+   "coinler": [
+    "CYS"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-18T10:46+00:00"
+  },
+  {
+   "baslik": "Stabilcoin arzı durdu ama ödemeler yüzde 45 arttı",
+   "ozet": "Allium'a göre bu yıl stabilcoin ödemeleri 482 milyar dolara ulaştı. Visa, Mastercard ve Stripe gibi şirketler kriptoyu nakitle bağlıyor; kullanım alanı büyüyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+   "tarih": "2026-10-18T14:00+00:00"
+  },
+  {
+   "baslik": "BIS: Banka mevduat faizi artınca stabilcoin büyümesi yavaşlıyor",
+   "ozet": "BIS çalışması, ABD bankaları mevduat faizini yükselttiğinde stabilcoin büyümesinin yavaşladığını, en çok USDC'nin etkilendiğini buldu.",
+   "etki": "olumsuz",
    "coinler": [
     "USDC"
    ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-   "tarih": "2026-10-18T01:06+00:00"
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+   "tarih": "2026-10-18T13:01+00:00"
   },
   {
-   "baslik": "Tether, yapay zeka girişimi AIsa'ya yatırım yaptı",
-   "ozet": "Tether, AIsa'nın tohum turuna stratejik yatırımcı olarak katıldı; girişimin toplam fonu 9 milyon doları aştı.",
+   "baslik": "Binance ve Coinbase Batı Afrika dolandırıcılık operasyonuna katıldı",
+   "ozet": "Özel sektör ortakları 11 milyon dolarlık fonu işaretledi; bu paralar dondurulabilir. Borsaların kolluk kuvvetleriyle iş birliği düzenleyici ilişkiler açısından olumlu bir işaret.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+   "tarih": "2026-10-18T12:00+00:00"
+  },
+  {
+   "baslik": "Bangkok'ta 75 milyon dolarlık suç ağı şüphelisi yakalandı",
+   "ozet": "Tayland polisi, 133'ten fazla hesap üzerinden suç örgütleri için kripto ve döviz işlemi yapan Çinli şüpheliyi yakaladı.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-18T09:14+00:00"
+  },
+  {
+   "baslik": "Tether yapay zeka girişimi AIsa'ya yatırım yaptı",
+   "ozet": "Tether, AIsa'nın tohum turu uzatmasında stratejik yatırımcı oldu; toplam fonlama 9 milyon doları aştı.",
    "etki": "notr",
    "coinler": [
     "USDT"
    ],
    "kaynak": "Cointelegraph",
    "link": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-18T06:26+00:00"
+   "tarih": "2026-10-18T06:29+00:00"
   },
   {
-   "baslik": "Yapay zeka alımındaki dönüş Asya'nın çip hisselerini vurdu",
-   "ozet": "Bloomberg'e göre yapay zeka rallisindeki geri dönüş Asya'daki önemli altyapı hisselerini sert biçimde etkiledi. Teknoloji hisseleri kriptoyla birlikte hareket edebiliyor.",
+   "baslik": "Reuters anketi: Amerikalıların çoğu seçim bahsine karşı",
+   "ozet": "Ankete göre çoğunluk, tahmin piyasalarında seçimlere bahis oynanmasına karşı. Bu sektör için düzenleme baskısı anlamına gelebilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOREtWM3dzNTRIb29DY2pnS3JHYmJpLVRURzBlT1RQX0FSZGMzWkFuS0w0dXVhXzlSQTR3MVhZdm9nTm90S21JWWp1UjhLTjdPamxGSUMxVFd1ekZVWGp4bXBsTlFyVDJLRWpvalFqMlpldURMUXpPbFR5MlY0RWNMc3dTdW9BaFFEemc5bEJIbnBseEJkN3hlbGhMTEpaenVzMGJpa052RmZKbzU4bTF3cGpIQQ?oc=5",
-   "tarih": "2026-10-18T00:00+00:00"
-  },
-  {
-   "baslik": "ABD'nin 10 trilyon dolarlık yapay zeka yatırım patlaması aksıyor",
-   "ozet": "Financial Times, ABD'deki yapay zeka altyapı yatırımlarında çatlaklar oluştuğunu yazdı. Teknoloji hisselerindeki zayıflık risk iştahını düşürebilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUlwOUY2SXQzRy00SDBweWtyS0hkQ3I1ak5XNlBnNXlPbmktcDJCZ2N4MGdlVGhScmRoWGZRZWl1aGlpVjIxZVVENVB2blExdnpENzNrZkk1Z2xPcXlOakFxYVBXYlE5NkRWamdqZU9nZkg1SF9PNTJkXzFwQUJTdUViT0c?oc=5",
-   "tarih": "2026-10-18T04:00+00:00"
-  },
-  {
-   "baslik": "FT anketi: Küresel ekonomi yapay zeka ile hızlanabilir",
-   "ozet": "Financial Times'ın anketine göre küresel ekonominin yapay zeka sayesinde büyüme ivmesi kazanması bekleniyor. Büyüme beklentisi risk iştahını destekleyebilir.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPek5iaXFoTHVyNTRqTXQzcW5JMldUdU85LXV1eEkzQ3JQSVRLOXNndmkxOW5JWmxjZld0UjZfRzBVemYzZ3ppNmFYd1ZpcXcwN0ZmaG9nME55elQ0Wk5rdmhQU0dKWTNKZXhxV2gwcXhtajZiM3ZiUHVBcy1qMlNFWVVzZVk?oc=5",
-   "tarih": "2026-10-18T04:02+00:00"
-  },
-  {
-   "baslik": "Trump'ın Rusya yaptırım muafiyeti müttefiklerden tepki aldı",
-   "ozet": "Bloomberg'e göre Cumhuriyetçi müttefikler Trump'ın Rusya yaptırım muafiyetini hata olarak nitelendirdi. Jeopolitik belirsizlik piyasalarda dalgalanma yaratabilir.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdlBhMEdBRVg3TkZWNHNYNDc3ZVdfRVhpVmtWQUlhY2t2eW9vTW5wdTNLX0pUUDdyUXdUcU5neVFrLVp1ZXZ2R1VVM1h5YnZFQ3NVM0hraDZwUzBJMHRBb0NYa2JjRTZEbmJnMW5MNW9FcV9vbzhBSU5odzlBcTRTTGIzSEJHLU1NZVFnRHRHSGdfZVdmSnJzRzFVQTlsbTRfS05Pd05kb3lDWWE5cEJKbTMzRncyQQ?oc=5",
-   "tarih": "2026-10-18T02:41+00:00"
-  },
-  {
-   "baslik": "Hindistan dijital ödeme ücretlerini artırdı",
-   "ozet": "Financial Times'a göre Hindistan dijital ödemelere yönelik ücretleri yükseltti ve nakit yeniden öne çıkıyor. Alternatif ödeme araçlarına ilgiyi etkileyebilir.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2dNVHQ1M1NMT29rVE9JR1ZWaGJtOVdrY01HS1pETi01MndGYU9zYTNhNXhwcWpyeVVsU2xjRnNoeUJZTDlXRWJkYUI5dGx4dmpQcGtqUTk0c2RfUlBKNkJKSlJ5eUttNWZRSVdPcW1hQ0hiVFhTSXJrQkx3aWRFN1ZKa0Q?oc=5",
-   "tarih": "2026-10-18T04:11+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-18T13:45+00:00"
   }
  ]
 }
