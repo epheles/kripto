@@ -1,15 +1,15 @@
 {
- "guncelleme": "2026-10-19T07:08+00:00",
+ "guncelleme": "2026-10-19T08:06+00:00",
  "duygu": "karisik",
  "ozet": "Bitcoin, beklentiden güçlü Çin büyüme verisi ve düşen petrolle birlikte yükselişte; Nasdaq vadelileri de artıda. Fed faiz artırımı beklentilerinin azalması destek veriyor. Öte yandan Brent petrol 110 dolar civarında ve Fransa'daki protestolar doları güçlendiriyor. Qubic hack'i ve Starknet'teki sert düşüş altcoin tarafında olumsuz.",
  "takvim": [
   "Bu hafta: ABD'de yoğun şirket kazanç raporları haftası. Sonuçlar teknoloji hisselerini, dolayısıyla kripto risk iştahını etkileyebilir.",
-  "Warsh'ın konuşması piyasada izleniyor. Faiz artırımı yönünde ton çıkarsa kripto baskı görebilir."
+  "Yakında: Fed Başkanı Warsh'ın konuşması. Faiz artırımı vurgusu çıkarsa kripto baskı görebilir."
  ],
  "haberler": [
   {
-   "baslik": "Bitcoin, Çin büyüme verisiyle yükselişte",
-   "ozet": "Beklentiden güçlü Çin GDP verisi ve düşen petrol risk iştahını artırdı; Bitcoin, Nasdaq vadelileri ve Asya borsaları yükseldi.",
+   "baslik": "Bitcoin ve Nasdaq vadelileri Çin verisiyle yükseldi",
+   "ozet": "Beklentiden güçlü Çin büyümesi ve düşen petrol risk iştahını artırdı; Bitcoin, Nasdaq vadelileri ve Asya borsaları yükseldi.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -19,8 +19,8 @@
    "tarih": "2026-10-19T03:36+00:00"
   },
   {
-   "baslik": "Çin ekonomisi üçüncü çeyrekte %4,5 büyüdü",
-   "ozet": "Büyüme beklentiyi aştı ve yıllık hedef erişilebilir göründü. Küresel risk iştahını destekleyebilir.",
+   "baslik": "Çin ekonomisi yüzde 4,5 büyüdü",
+   "ozet": "Çin'in büyümesi toparlandı ve yıllık hedef ulaşılabilir görünüyor. Küresel risk iştahına destek olabilir.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -28,37 +28,17 @@
    "tarih": "2026-10-19T02:47+00:00"
   },
   {
-   "baslik": "Altın, Fed faiz artırımı beklentilerinin azalmasıyla yükseldi",
-   "ozet": "Yatırımcılar Warsh konuşması öncesinde faiz artırımı bahislerini azalttı. Faiz beklentisinin yumuşaması kripto için de destekleyici olabilir.",
+   "baslik": "Altın yükseldi, Fed faiz artırımı beklentisi azaldı",
+   "ozet": "Yatırımcılar Warsh konuşması öncesi faiz artırımı beklentilerini azalttı. Daha düşük faiz beklentisi genelde kripto gibi riskli varlıklara destek olur.",
    "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
+   "coinler": [],
    "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREhDWC00MVloSzQ4QWFaYzl1MTdFTG1fRURVRmZzZF8yTms3MGpaYkhYSWd6Z2V6U1U2a1pNVDVKRl80OHdZY0YxSklldWVPR1g0YklVTGQ1MVhNdDJlUXh4dDNsQm1TQnBrMkp5NV9CTzlnS2VEeGR2a3V0bFhNNVBRejRlZlVRUE9sSUtEakxmMUlyQlQzdEYyanI1WXJaVjV2WXFUQjd1Tm9NR29tZUJCMWRGZw?oc=5",
    "tarih": "2026-10-19T02:50+00:00"
   },
   {
-   "baslik": "Petrol, Rusya yaptırım muafiyetiyle sert düştü",
-   "ozet": "Trump'ın Rusya yaptırım muafiyeti daha fazla yakıt arzına yol açabilir. Düşen petrol enflasyon endişesini azaltıp riskli varlıklara yarayabilir.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
-   "tarih": "2026-10-18T22:23+00:00"
-  },
-  {
-   "baslik": "Brent petrol Orta Doğu ve Ukrayna gerilimiyle 110 dolar civarında",
-   "ozet": "Çatışmalar petrolü yüksek tutuyor. Yüksek petrol enflasyon ve faiz baskısını canlı tutabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZW11ZjRDTUdpUHpzY1JpNFZtWjZ1bGhZejdHX2h3Q0NTb1pKU0pxM0NtSDR5QlA4YnQ5NHUybkxGS0VxSWJQcHo0NWcyb3A4S21SbVNld2cyLTQ5eFowV2lqRlh1QUMteG1taWQ5b0dPUGg1SnpxVUlRYmlDWkkxZzBQWVpBTjlwdzEyZDBTRWRacVU1ZFhZMjhrMGd5dw?oc=5",
-   "tarih": "2026-10-18T22:02+00:00"
-  },
-  {
-   "baslik": "Fransa'daki şiddetli protestolar doları güçlendirdi, avroyu zayıflattı",
-   "ozet": "Fransa'da protestolar şiddetlendi; dolar güçlenirken avro geriledi. Güçlü dolar genelde kripto üzerinde baskı yaratır.",
+   "baslik": "Fransa'daki şiddetli protestolar doları güçlendirdi",
+   "ozet": "Protestolar şiddetlendikçe euro zayıfladı, dolar güçlendi. Güçlü dolar kripto üzerinde baskı yaratabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CNBC",
@@ -66,17 +46,35 @@
    "tarih": "2026-10-19T04:14+00:00"
   },
   {
-   "baslik": "ABD faiz artışları küresel piyasalarda daha güçlü hissediliyor",
-   "ozet": "FT'ye göre ABD faiz artışlarının etkisi küresel piyasalarda büyüyor. Sıkı para politikası riskli varlıklar için baskı unsuru.",
+   "baslik": "Brent petrol 110 dolar civarında",
+   "ozet": "Orta Doğu ve Ukrayna çatışmaları petrolü yüksek tutuyor; yüksek petrol enflasyon ve faiz endişesini canlı tutabilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92RWVoUExPdG1BTDN2am82TnZpTXhyaXB6c092ZHJraVpQaW0tY2pUdGtJUDNjSjBrMHVoVlBrV09vdm1GdUdFRnpRWkNEMUhiU0w3dDllSW1oLURmeWRmMjlvVkloRUJOT2l4NnRTVHA?oc=5",
-   "tarih": "2026-10-18T23:01+00:00"
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZW11ZjRDTUdpUHpzY1JpNFZtWjZ1bGhZejdHX2h3Q0NTb1pKU0pxM0NtSDR5QlA4YnQ5NHUybkxGS0VxSWJQcHo0NWcyb3A4S21SbVNld2cyLTQ5eFowV2lqRlh1QUMteG1taWQ5b0dPUGg1SnpxVUlRYmlDWkkxZzBQWVpBTjlwdzEyZDBTRWRacVU1ZFhZMjhrMGd5dw?oc=5",
+   "tarih": "2026-10-18T22:02+00:00"
   },
   {
-   "baslik": "Qubic, saldırgan 1,4 bin cüzdanı boşaltınca zinciri dondurdu",
-   "ozet": "Zayıf tohum kelimeli cüzdanlar boşaltıldı; çalınan fonların %87,1'i zincir üstünde, kalanı MEXC'te donduruldu. Doğrulayıcılar kurtarma planını oylayacak.",
+   "baslik": "Trump'ın Rusya yaptırım muafiyeti petrolü düşürdü",
+   "ozet": "Muafiyetin daha fazla yakıt arzı getirebileceği beklentisiyle petrol düştü. Düşen petrol enflasyon baskısını azaltabilir.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmVLc19hd0VSYXIydVNTWENKZ2J5WVNvVDRQUjRfTUJXWGhjOGxGZkFHVm9SNnZzeU9TWUhrYnJTRU1sVFRnX1BwZVd3NHB5a0NLdThkbDRldlg2eHdhTll2b3RnQTJ4U3dHVGczM25FdjJHRGQ5WGJDV2Qxd1hzLV9EcjNWaUQ4cXEzbWVHRzNuS1dGVVNBSmdXWGR6THN1dXhvSUdFS0dMMTJZTnBBZEFfZ2JoYVVFSWNMZw?oc=5",
+   "tarih": "2026-10-18T22:23+00:00"
+  },
+  {
+   "baslik": "DeepSeek modeli Kore çip hisselerini sarstı",
+   "ozet": "Yapay zeka ve çip hisselerindeki satış Asya borsalarını aşağı çekti. Teknoloji hisselerindeki zayıflık kripto risk iştahını da etkileyebilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU1ZhLTY1VVQwT2xSZUl1N3o4b0JwcklmSlV4bUJfTGk0em5raU5SY0NGcVItbmtGUndSZkJhTUhsLTR1UFBPNVZHYmdYOHU2b1BxMHl2cVdkV3d4cE5tbGFnZ0tBdnZqZ0JDWWZkQmRoTEVCM3RxTE1VTG5VNnVPc0FnSVNHX1FWOE5BcU9oQmt1Rnc0NHFBRjJTOXl2dDV3NWE2Tk54bkJ0NmliWS1VckdTZ3c?oc=5",
+   "tarih": "2026-10-19T00:17+00:00"
+  },
+  {
+   "baslik": "Qubic zinciri durdu: 1.400 cüzdan boşaltıldı",
+   "ozet": "Zayıf anahtar kelimeli cüzdanlar boşaltıldı; çalınan fonların yüzde 87,1'i zincirde duruyor, kalanı MEXC'te donduruldu. Doğrulayıcılar kurtarma planı için oy verecek.",
    "etki": "olumsuz",
    "coinler": [
     "QUBIC"
@@ -86,8 +84,28 @@
    "tarih": "2026-10-19T01:03+00:00"
   },
   {
-   "baslik": "Deutsche Bank kripto saklama hizmetini 2027'de Asya'ya genişletecek",
-   "ozet": "Hizmet başta BTC, ETH ve USDC, EURC, EURAU stablecoin'lerini destekleyecek. Büyük bir bankanın kripto girişi kurumsal kabulü artırıyor.",
+   "baslik": "Starknet yaklaşık yüzde 50 düştü",
+   "ozet": "Starknet'in L1 olma oylamasıyla sert düştüğü, HEX kurucusu Richard Heart'ın da İstanbul'da gözaltına alındığı bildirildi. Bitwise ise 'Kripto Baharı' sinyalleri görüyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "STRK"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-18T22:58+00:00"
+  },
+  {
+   "baslik": "SEC'in tokenize hisse çerçevesine şirketlerden itiraz",
+   "ozet": "Broadcom ve Verizon dahil sekiz şirket daha OKX-ICE işlem platformuna itiraz etti; Nasdaq da çerçevenin dışında kalacağını söyledi.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+   "tarih": "2026-10-18T23:28+00:00"
+  },
+  {
+   "baslik": "Deutsche Bank kripto saklama hizmeti başlatıyor",
+   "ozet": "Hizmet başta Bitcoin, Ether ve USDC, EURC, EURAU stabil coinlerini destekleyecek; Asya'ya genişleme 2027'de hedefleniyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC",
@@ -98,34 +116,13 @@
    "tarih": "2026-10-19T02:00+00:00"
   },
   {
-   "baslik": "SEC'in tokenize hisse çerçevesine şirketlerden itiraz",
-   "ozet": "Broadcom ve Verizon dahil şirketler OKX-ICE işlem platformuna itiraz etti; Nasdaq da çerçevenin dışında kalacağını söyledi.",
-   "etki": "olumsuz",
+   "baslik": "Beyaz Saray'ın kripto sorumlusu Patrick Witt ayrıldı",
+   "ozet": "Witt geçen hafta Beyaz Saray'dan ayrılacağını duyurdu. Kripto politikasının yönü açısından izlenecek bir gelişme.",
+   "etki": "notr",
    "coinler": [],
    "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-   "tarih": "2026-10-18T23:28+00:00"
-  },
-  {
-   "baslik": "BlackRock: Tokenize fonlar Wall Street altyapısına taşınıyor",
-   "ozet": "BlackRock tokenize fonların finans sisteminin altyapısına girdiğini öngörüyor. Blokzincir tabanlı finans için olumlu bir işaret.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUw4cmlZM2RnQXlkMkQ0VWZGbzFBVFloZGo5dDUxd1I2WEs1a24welZlbTFBSDI2WW81TFlUX2dXR015bk43aG8ybm1GdmpGOUtvTi15c0hUVGNkT0dxVWFPMktFcDZMbUE0YTlaeXluVU5zQ2VmNGdrdmNITnJ5a1lmNTQ0UWlTNXdHdFR6Zm5qVjFXWGJzWGVOMXBTSlIyZ08wc2VzaVJJN1NTNFBpOTJiQ3k?oc=5",
-   "tarih": "2026-10-19T00:15+00:00"
-  },
-  {
-   "baslik": "Starknet yaklaşık %50 düştü, HEX kurucusu İstanbul'da gözaltında",
-   "ozet": "Starknet L1 olmak için oy verirken neredeyse yarı yarıya düştü; Richard Heart İstanbul'da sabah baskınıyla gözaltına alındı.",
-   "etki": "olumsuz",
-   "coinler": [
-    "STRK",
-    "HEX"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-18T22:58+00:00"
+   "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+   "tarih": "2026-10-18T18:30+00:00"
   }
  ]
 }
