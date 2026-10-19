@@ -1,15 +1,15 @@
 {
- "guncelleme": "2026-10-19T01:10+00:00",
+ "guncelleme": "2026-10-19T02:05+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin ETF'lerinden iki haftada yaklaşık 1 milyar dolar çıkış oldu ve Ekim ayı kırmızı gidiyor. Cuma günü yükselen korku endeksi VIX ve yapay zekâ kaygıları piyasanın tonunu belirliyor. Petrol 110 dolar civarında; faiz artırımı beklentilerinin hafiflemesi ise kısmen destek veriyor. Üçüncü çeyrekte hack kayıpları 1,18 milyar dolara ulaştı.",
+ "ozet": "Bitcoin ETF'lerinden iki haftada yaklaşık 1 milyar dolar çıkış oldu ve Ekim ayı kripto için zayıf gidiyor. Cuma günkü Wall Street korkusunun Pazartesi hafiflemesi bekleniyor; faiz artırımı beklentilerinin azalması kısmen destek. Petrol 110 dolar civarında, yapay zekâ kaygıları oynaklığı artırıyor. Üçüncü çeyrekte hack kayıpları 1,18 milyar dolara ulaştı.",
  "takvim": [
   "Pazartesi 19 Ekim: Cuma günkü korku dalgasının sönüp sönmediği izlenecek. Hisseler yeniden düşerse Bitcoin de baskı altında kalabilir.",
   "Bu hafta: Meta ve Tesla bilançoları. Teknoloji hisselerindeki tepki kripto piyasasının havasını da etkileyebilir."
  ],
  "haberler": [
   {
-   "baslik": "Fed'de faiz artırımı beklentisi yumuşadı, altın yükseldi",
-   "ozet": "Bloomberg'e göre yatırımcılar Warsh konuşması öncesinde faiz artırımı beklentilerini azalttı. Faiz baskısının hafiflemesi kripto gibi riskli varlıklar için destekleyici olabilir.",
+   "baslik": "Altın yükseldi, Fed'de faiz artırımı beklentisi hafifledi",
+   "ozet": "Bloomberg'e göre yatırımcılar, Warsh konuşması öncesinde faiz artırımı bahislerini azalttı. Daha gevşek faiz beklentisi riskli varlıklar için destekleyici olabilir.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -17,65 +17,9 @@
    "tarih": "2026-10-18T23:47+00:00"
   },
   {
-   "baslik": "SEC'in tokenize hisse planına şirketlerden itiraz",
-   "ozet": "Sekiz şirket daha OKX-ICE'ın planlanan işlem platformuna itiraz etti; Nasdaq da SEC çerçevesinden ayrı duracağını söyledi. Tokenize hisse piyasasının önü henüz net değil.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
-   "tarih": "2026-10-18T23:28+00:00"
-  },
-  {
-   "baslik": "HEX kurucusu İstanbul'da gözaltında, Starknet sert düştü",
-   "ozet": "Cointelegraph'a göre Richard Heart İstanbul'da sabah baskınında gözaltına alındı; Starknet L1 olma oylamasıyla yaklaşık %50 geriledi. Bitwise ise 'Kripto Baharı' işaretlerinden söz ediyor.",
-   "etki": "olumsuz",
-   "coinler": [
-    "STRK"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-18T22:58+00:00"
-  },
-  {
-   "baslik": "Brent petrol 110 dolar civarında, çatışmalar sürüyor",
-   "ozet": "Bloomberg'e göre Orta Doğu ve Ukrayna'daki çatışmalar nedeniyle Brent petrol 110 dolar yakınında seyrediyor. Yüksek enerji fiyatı enflasyon ve faiz endişesini canlı tutuyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZW11ZjRDTUdpUHpzY1JpNFZtWjZ1bGhZejdHX2h3Q0NTb1pKU0pxM0NtSDR5QlA4YnQ5NHUybkxGS0VxSWJQcHo0NWcyb3A4S21SbVNld2cyLTQ5eFowV2lqRlh1QUMteG1taWQ5b0dPUGg1SnpxVUlRYmlDWkkxZzBQWVpBTjlwdzEyZDBTRWRacVU1ZFhZMjhrMGd5dw?oc=5",
-   "tarih": "2026-10-18T22:02+00:00"
-  },
-  {
-   "baslik": "Crypto.com ve Novig, Missouri'ye dava açtı",
-   "ozet": "İki şirket spor etkinliği sözleşmeleri nedeniyle Missouri'yi dava etti. Kalshi, Polymarket ve Robinhood henüz dava açmadı.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
-   "tarih": "2026-10-18T19:50+00:00"
-  },
-  {
-   "baslik": "Tahvildeki büyük açığa satış bahsi yapay zekâ dalgalanmasıyla sarsıldı",
-   "ozet": "Bloomberg'e göre tahvil piyasasındaki büyük kısa pozisyonlar yapay zekâ hisselerindeki dalgalanmayla zorlandı. Faiz ve risk iştahı kripto için izlenen göstergeler.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWFfUWVYbDM3OXlSc2Zfcjg5THNXeDlYS21oVFF5MTJKMXhuemNtU3J0aVRPMVNtMEczeG5KdE5sbTNZdUFkZEF4eDNuNGFFc0huTmtuNWlFZ2JXN3BKd2lMRmJTMGMyREE4ODhXT3gzQmF1U1h5RWI4eWVmT3I1Z2lfZVhyS1JwTXRXZWRXUzl5Q1BJME1VWWlOV2dPQXl6RUY3dEhiNlROdU14SmwwZ2JHUE8zQQ?oc=5",
-   "tarih": "2026-10-18T19:00+00:00"
-  },
-  {
-   "baslik": "Beyaz Saray'ın kripto sorumlusu Patrick Witt görevden ayrılıyor",
-   "ozet": "CoinDesk'e göre Witt geçen hafta Beyaz Saray'dan ayrılacağını duyurdu. Yeni isim ve politika etkisi haberde belirtilmedi.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
-   "tarih": "2026-10-18T18:30+00:00"
-  },
-  {
-   "baslik": "Cuma korkusu pazartesi sönebilir mi?",
-   "ozet": "Wall Street'in korku endeksi VIX cuma günü hisselerle birlikte sıçradı. CoinDesk'e göre cuma paniği genelde pazartesi yatışıyor; Bitcoin sakin kaldı.",
-   "etki": "notr",
+   "baslik": "Cuma günkü Wall Street paniğinin Pazartesi sönmesi bekleniyor",
+   "ozet": "CoinDesk'e göre korku endeksi VIX Cuma günü sıçradı; geçmişte Cuma panikleri genelde Pazartesi hafifliyor. Bitcoin işlemlerinde de korkunun azalabileceği görülüyor.",
+   "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
@@ -84,8 +28,69 @@
    "tarih": "2026-10-18T16:33+00:00"
   },
   {
-   "baslik": "Cysic köprüsü hacklendi, 727 bin dolar Ethereum'a taşındı",
-   "ozet": "Saldırgan 10 milyon CYS bastı ve kazancı köprüler üzerinden Ethereum'a aktardı. Cysic köprüyü durdurdu.",
+   "baslik": "Bitcoin ETF'lerinden iki haftada yaklaşık 1 milyar dolar çıkış",
+   "ozet": "Bu hafta net 228,6 milyon dolar, önceki hafta 681,1 milyon dolar çıkış oldu. Ekim ayı kripto için zayıf geçiyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+   "tarih": "2026-10-18T15:01+00:00"
+  },
+  {
+   "baslik": "Bitcoin'de 100 bin dolar umudu analistleri böldü",
+   "ozet": "Bitwise yıl sonuna doğru 100 bin doların üzerine dönüş görürken, LO:TECH faiz belirsizliği nedeniyle daha dar bir bant bekliyor. Enflasyon endişesi görünümü bulandırıyor.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+   "tarih": "2026-10-18T13:00+00:00"
+  },
+  {
+   "baslik": "Brent petrol Orta Doğu ve Ukrayna gerilimiyle 110 dolara yakın",
+   "ozet": "Petrol 110 dolar civarında seyrediyor. Yüksek petrol enflasyon kaygısını artırarak riskli varlıklara baskı yapabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZW11ZjRDTUdpUHpzY1JpNFZtWjZ1bGhZejdHX2h3Q0NTb1pKU0pxM0NtSDR5QlA4YnQ5NHUybkxGS0VxSWJQcHo0NWcyb3A4S21SbVNld2cyLTQ5eFowV2lqRlh1QUMteG1taWQ5b0dPUGg1SnpxVUlRYmlDWkkxZzBQWVpBTjlwdzEyZDBTRWRacVU1ZFhZMjhrMGd5dw?oc=5",
+   "tarih": "2026-10-18T22:02+00:00"
+  },
+  {
+   "baslik": "Opsiyon yatırımcıları oynaklık artışına hazırlanıyor",
+   "ozet": "Yapay zekâ kaygıları piyasayı sarsarken opsiyon yatırımcıları dalgalanmanın artmasına karşı pozisyon alıyor. Hisse tarafındaki oynaklık kriptoya da yansıyabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW1tRVVVWVR1dzZ0a1oyQWZVZVhyTnZ6aTBpYlhIWjV1UjJVUGNvaTloT3dwZHZhMEY3bzA1emFFaVZ5MmM0OEFFOS1aYmNOY2lvRXlWaDhlZmJDZ1dOT28wVlBtSUJKQWtoaS14ems0dmJqVHpEWTZoNXo1dkMwMFZoZkljRWtIa2I4NlM5R096NlpKd004QnFfLW1nR2lkcHNNd29DeHJKRktyMnoyTg?oc=5",
+   "tarih": "2026-10-18T14:00+00:00"
+  },
+  {
+   "baslik": "SEC'in tokenize hisse planına şirketlerden itiraz",
+   "ozet": "Broadcom ve Verizon dahil sekiz şirket daha OKX-ICE işlem platformuna itiraz etti; Nasdaq da SEC çerçevesinden çıkacağını söyledi. Tokenize hisse pazarının yolu pürüzlü görünüyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+   "tarih": "2026-10-18T23:28+00:00"
+  },
+  {
+   "baslik": "Starknet yaklaşık yüzde 50 düştü, HEX kurucusu gözaltında",
+   "ozet": "Starknet L1 olma oylamasının ardından neredeyse yarı yarıya düştü. HEX kurucusu Richard Heart İstanbul'daki bir baskında gözaltına alındı.",
+   "etki": "olumsuz",
+   "coinler": [
+    "STRK",
+    "HEX"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-18T22:58+00:00"
+  },
+  {
+   "baslik": "Cysic köprüsü durduruldu, saldırgan 727 bin dolar çıkardı",
+   "ozet": "Saldırgan 10 milyon CYS bastı ve yaklaşık 727 bin dolarlık geliri Ethereum'a taşıdı. Köprü işlemleri askıya alındı.",
    "etki": "olumsuz",
    "coinler": [
     "CYS",
@@ -96,8 +101,26 @@
    "tarih": "2026-10-18T16:07+00:00"
   },
   {
-   "baslik": "Letonya 2027'de kripto vergisi tahsil etmeyi planlıyor",
-   "ozet": "Parlamento, tek tek işlemler yerine yatırılan tutarı aşan çekimleri vergilendiren bir yasa kabul etti.",
+   "baslik": "Üçüncü çeyrekte hack kayıpları 1,18 milyar dolar",
+   "ozet": "Hacken'e göre kayıpların yüzde 77'sinde ele geçirilen tedarikçiler veya geciken düzeltmeler rol oynadı. Denetimler yatırımcıya yanlış güven veriyor olabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+   "tarih": "2026-10-18T13:00+00:00"
+  },
+  {
+   "baslik": "Stablecoin arzı durdu ama ödemeler yüzde 45 arttı",
+   "ozet": "Allium'a göre stablecoin ödemeleri bu yıl 482 milyar dolara ulaştı. Visa, Mastercard ve Stripe kripto ile nakit arasında bağ kuruyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+   "tarih": "2026-10-18T14:00+00:00"
+  },
+  {
+   "baslik": "Letonya kripto vergisini yeniden düzenledi",
+   "ozet": "Parlamento, işlem başına değil çekimler mevcut yatırımları aşınca vergi alan bir yasa çıkardı. 2027'den itibaren vergi ödemeleri kriptoyla yapılabilir.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -105,44 +128,13 @@
    "tarih": "2026-10-18T16:00+00:00"
   },
   {
-   "baslik": "Bitcoin ETF'lerinden iki haftada yaklaşık 1 milyar dolar çıkış",
-   "ozet": "Bu hafta net 228,6 milyon dolar, önceki hafta 681,1 milyon dolar çıkış oldu. Ekim ETF girişleri açısından kırmızı kapanma yolunda.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
-   "tarih": "2026-10-18T15:01+00:00"
-  },
-  {
-   "baslik": "Yapay zekâ endişeleri opsiyon piyasasında oynaklık beklentisini artırdı",
-   "ozet": "Bloomberg'e göre opsiyon yatırımcıları yapay zekâ kaygıları nedeniyle oynaklık artışına hazırlanıyor. Hisselerdeki dalgalanma kriptoya da yansıyabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYW1tRVVVWVR1dzZ0a1oyQWZVZVhyTnZ6aTBpYlhIWjV1UjJVUGNvaTloT3dwZHZhMEY3bzA1emFFaVZ5MmM0OEFFOS1aYmNOY2lvRXlWaDhlZmJDZ1dOT28wVlBtSUJKQWtoaS14ems0dmJqVHpEWTZoNXo1dkMwMFZoZkljRWtIa2I4NlM5R096NlpKd004QnFfLW1nR2lkcHNNd29DeHJKRktyMnoyTg?oc=5",
-   "tarih": "2026-10-18T14:00+00:00"
-  },
-  {
-   "baslik": "Bitcoin'de 100 bin dolar umudu analistleri böldü",
-   "ozet": "Bitwise yıl sonuna doğru 100 bin doların üzerine dönüş görüyor; LO:TECH faiz belirsizliği nedeniyle daha dar bir bant bekliyor.",
+   "baslik": "Beyaz Saray'ın kripto sorumlusu Patrick Witt ayrılıyor",
+   "ozet": "CoinDesk'e göre Witt geçen hafta Beyaz Saray'dan ayrılacağını duyurdu. ABD'nin kripto politikasındaki süreklilik sorusu gündemde.",
    "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-   "tarih": "2026-10-18T13:00+00:00"
-  },
-  {
-   "baslik": "Üçüncü çeyrek hack kayıpları 1,18 milyar dolar",
-   "ozet": "Hacken'e göre kayıpların %77'si ele geçirilen tedarikçiler, geç yapılan düzeltmeler veya son güvenlik denetimleri dışındaki sistemlerden kaynaklandı.",
-   "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
-   "tarih": "2026-10-18T13:00+00:00"
+   "link": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+   "tarih": "2026-10-18T18:30+00:00"
   }
  ]
 }
