@@ -1,48 +1,120 @@
 {
- "guncelleme": "2026-10-19T14:10+00:00",
+ "guncelleme": "2026-10-19T18:05+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin, güçlü Çin büyüme verisi ve gerileyen petrol sayesinde 82.000-83.000 dolar bandına çıktı; 83.000 dolara değince satış geldi. Analistler 80.000 dolar desteğinin yeniden sınanabileceğini söylüyor. Bitcoin ve Ether ETF'lerinden çıkışlar sürüyor, Fransa'daki olaylar ise doları güçlendirip euroyu zayıflatıyor. Bu hafta teknoloji kazançları yönü belirleyebilir.",
+ "ozet": "Bitcoin 82.000 dolar civarında; petrolün gerilemesi ve hisselerin toparlanması destek verdi ama 83.000 dolarda satış duvarına takıldı. Analistler 80.000 dolar desteğinin yeniden sınanabileceğini söylüyor. Bitcoin ve Ether ETF'lerinden çıkışlar sürerken Strategy, Strive ve Metaplanet gibi şirketler alım yapmayı sürdürüyor. Bu hafta teknoloji şirketlerinin kazanç raporları yönü belirleyebilir.",
  "takvim": [
-  "Bu hafta: Teknoloji şirketlerinin kazanç raporları. Yapay zeka işlemi sınanırken hisselerdeki düşüş kriptoya da yansıyabilir.",
-  "Salı 20 Ekim: Güney Kore maliye yetkilileri kripto borsalarıyla vergi konusunda görüşecek. Erteleme çıkarsa Koreli yatırımcılar için belirsizlik azalabilir."
+  "Bu hafta: Teknoloji şirketlerinin kazanç raporları. Yapay zekâ kaynaklı satışlar sürerse kripto da baskı altında kalabilir."
  ],
  "haberler": [
   {
-   "baslik": "Bitcoin 83.000 doları gördü, geri çekildi",
-   "ozet": "Geçen haftaki %5,5'lik teknoloji düşüşünün ardından vadeliler toparlandı, Bitcoin de yükseldi ama satıcılar fiyatı geri itti. Bu haftaki kazanç raporları yapay zeka işlemini yeniden sınayacak.",
+   "baslik": "CFTC, CME'nin sürekli vadeli işlem itirazını reddetti",
+   "ozet": "CFTC, CME'nin yeni politikanın kendisine zarar verdiğini kanıtlamadığını savundu; ABD'de perp işlemlerinin geleceği bu davaya bağlı.",
    "etki": "notr",
    "coinler": [
     "BTC"
    ],
    "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
-   "tarih": "2026-10-19T11:05+00:00"
+   "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
+   "tarih": "2026-10-19T16:47+00:00"
   },
   {
-   "baslik": "Bitcoin 82.000 doları aştı, DeFi coinleri öne çıktı",
-   "ozet": "Çin büyümesinin beklentiyi aşması ve Nasdaq vadelilerinin toparlanmasıyla Bitcoin %0,8 artıp 82.700 dolar civarına çıktı. DeFi tokenları altcoinlerde öncü oldu.",
+   "baslik": "Metaplanet, Super League'in %93,7'sini 2.100 BTC'ye alacak",
+   "ozet": "Anlaşma Metaplanet'e ABD sermaye piyasalarına erişim sağlayacak; şirket yeni Bitcoin alımlarını imtiyazlı hisse ihraçlarıyla finanse etmeyi planlıyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
-   "tarih": "2026-10-19T10:26+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-19T16:41+00:00"
   },
   {
-   "baslik": "Petrolün gerilemesi Bitcoin'i 82.000 doların üstüne taşıdı",
-   "ozet": "Petroldeki düşüş risk iştahını artırdı ve Bitcoin 82.000 doların üzerine döndü.",
+   "baslik": "Teknoloji hisseleri toparlandı, tahvil fiyatları düştü",
+   "ozet": "Hisselerdeki toparlanma güvenli liman talebini azalttı ve ABD tahvilleri geriledi.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSWVWX2tkb0V0dUlpT21xa2hDNjFBUWdYSzNNeTllOGdPaWhCT2x2NVV6ZG5wdDFLZ2dyb2VmNGR4c3pkNl9vZlc0Nm5VY1ZzamtwMUFSc1FIRktEbUJGZDdnNXBUT0IwMjZCTGQ5Y3EtajE5YzhQbElVeDZKcTFYVkZTaks1QjhBbHN6aFFFdjVMVTJtZlM0LWZVWjFCellVOEtYRm5QQkI0ZllKQVVtNWdB?oc=5",
+   "tarih": "2026-10-19T16:34+00:00"
+  },
+  {
+   "baslik": "Strive 335 milyon dolarlık Bitcoin aldı",
+   "ozet": "Strive 1.223 BTC daha ekledi ve toplam varlığı 36.818 BTC oldu.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-19T16:30+00:00"
+  },
+  {
+   "baslik": "Strategy bu ay üçüncü Bitcoin alımını yaptı",
+   "ozet": "Strategy ekimde üçüncü kez Bitcoin aldı; ekim ayı harcaması 73 milyon dolara ulaştı.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/news/strategy-third-october-bitcoin-buy",
+   "tarih": "2026-10-19T16:14+00:00"
+  },
+  {
+   "baslik": "Bitcoin 83.000 dolarda reddedildi",
+   "ozet": "BTC 83.000 dolardaki satış duvarına takıldı ve dar bir bantta kaldı; ABD tahvil faizleri hisselerle birlikte yeniden yükseldi.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-19T16:05+00:00"
+  },
+  {
+   "baslik": "Bitcoin kritik desteği yine sınıyor",
+   "ozet": "Petrolün 108 dolar, tahvil faizlerinin yüzde 5 civarında olması riskli varlıkları baskılıyor; grafik trend değil, sıkışma gösteriyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
+   "tarih": "2026-10-19T16:05+00:00"
+  },
+  {
+   "baslik": "Fed başkanı Warsh konuşması öncesi faiz artışı beklentisi azaldı",
+   "ozet": "Yatırımcılar Warsh'ın konuşması öncesinde faiz artırımı bahislerini hafifletti; bu durum altına destek verdi.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREhDWC00MVloSzQ4QWFaYzl1MTdFTG1fRURVRmZzZF8yTms3MGpaYkhYSWd6Z2V6U1U2a1pNVDVKRl80OHdZY0YxSklldWVPR1g0YklVTGQ1MVhNdDJlUXh4dDNsQm1TQnBrMkp5NV9CTzlnS2VEeGR2a3V0bFhNNVBRejRlZlVRUE9sSUtEakxmMUlyQlQzdEYyanI1WXJaVjV2WXFUQjd1Tm9NR29tZUJCMWRGZw?oc=5",
+   "tarih": "2026-10-19T16:04+00:00"
+  },
+  {
+   "baslik": "Petrol geriledi, Bitcoin 82.000 doları aştı",
+   "ozet": "Petroldeki geri çekilme risk iştahını artırdı ve Bitcoin 82.000 doların üstüne çıktı.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
    "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjNOcnl1dkZVdVpHMDVrSzhVU2FpVFZiUGQ2Wmp4ZWlyd2RFQ0xqNkRlWjJGOHBCY1lIMDN2RXBHZkhtQzcxdklTQk90Um5iblpOTU1adHRNNTk3TWs3VjBucGdOcHN0NVNIaFY1RWVId3NTLXVNTTlHOU1mYnFmSGVmZ1pMWG1HVmRtQjFmdEFUZTVzQkZmRkc4a2FobGJXd1Fyc2I5bTZGcEgxSkotbUhsRQ?oc=5",
-   "tarih": "2026-10-19T10:22+00:00"
+   "tarih": "2026-10-19T15:43+00:00"
   },
   {
-   "baslik": "Bu hafta Bitcoin'de dikkat edilecekler",
-   "ozet": "Analistler, hisse senetleri geçen haftaki kayıpları telafi etmeye çalışırken Bitcoin'in 80.000 dolar desteğini yeniden sınamasını bekliyor.",
+   "baslik": "SkyAI tüm Solana varlığını sattı",
+   "ozet": "Şirket tüm SOL'unu satıp 201 milyon dolarlık hisse geri alımı başlattı.",
+   "etki": "olumsuz",
+   "coinler": [
+    "SOL"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
+   "tarih": "2026-10-19T15:28+00:00"
+  },
+  {
+   "baslik": "Bu hafta Bitcoin'de üç ana başlık",
+   "ozet": "Analistler, hisseler son haftadaki kayıpları telafi etmeye çalışırken Bitcoin'in 80.000 dolar desteğini yeniden sınamasını bekliyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -52,49 +124,8 @@
    "tarih": "2026-10-19T10:20+00:00"
   },
   {
-   "baslik": "Bitcoin ve Ether ETF'lerinden 549 milyon dolar çıkış",
-   "ozet": "ABD spot Ether ETF'lerinde ekim ayı net çıkışı yaklaşık 955 milyon dolara ulaştı. Bitcoin fonlarında haftalık çıkış serisi iki haftaya uzadı.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC",
-    "ETH"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-19T07:54+00:00"
-  },
-  {
-   "baslik": "Fransa'daki şiddetli protestolarla dolar güçlendi, euro zayıfladı",
-   "ozet": "Fransa'daki protestoların şiddetlenmesi euroyu zayıflatırken doları güçlendirdi. Güçlü dolar genelde riskli varlıklar için baskı unsuru sayılır.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYUQyU1Itd0VIWG9TX0VsaXJ0VEZTY19LTjUwYVFWRmdnQkFzaWJVOElfUkNTNzZ6Z0RWb0MxMXF5X0RXaVZHS3NLZ2hsYlJrcnJaN1ducDA1UkdMczFwX0cxU1pHbWV2OF9jWWNzNHpkcXcycHBOWUMtbDlGN0JiRFRGWl9LRlNlVC1DWWtCbW5uNnZTa185RTNRTdIBoAFBVV95cUxOa3VZMk1lZHFUZTFVZnBYYWlKSmFnRW1MNjlkY21UMUNCRW5FOHF4M1dobUtmbDlUbFBMMTh0UlVyUHpoVGt6VEthOWR5UWNGTllzQWs5X214a0FZYUt2UmYxcG9uME1pRENBSmhLSWdLMEd5SkFxYXVyRUp0YzBUb1JNQ29lekNlUkRvbjlwOU9STmtwTVJQbDhiRW9pSEkt?oc=5",
-   "tarih": "2026-10-19T04:14+00:00"
-  },
-  {
-   "baslik": "Fransa tahvilleri düştü, hükümete baskı artıyor",
-   "ozet": "Fransa'daki olaylar hükümet üzerindeki baskıyı artırırken Fransız tahvilleri değer kaybetti.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVg0eHBZcTVSdUEyTlhhb0F5RFVaSFBsdFFZQkpMWDN0TDhwNnBLZHBLNDhSMy0xMU5LdlN3YjlSRUFtZS1ORFlMYTRWWDltZ01iazlDMDd5elhDOVA0RTJRNU53ZmFhN1MzUzE1bDV3OHo1aE5KblZ5NGc4bWNiMm1KU2Nmc2s2TFp5c0p0TWpXQU5tMXdPSHFRMVlGU3JWMFBfMXpHQmctWmR6bW93?oc=5",
-   "tarih": "2026-10-19T07:43+00:00"
-  },
-  {
-   "baslik": "Çin büyümesi beklentiyi aştı, Bitcoin ve vadeliler yükseldi",
-   "ozet": "Beklentiden güçlü Çin GDP verisi ve düşen petrol fiyatları risk iştahını artırdı. Bitcoin, Nasdaq vadelileri ve Asya borsaları yükseldi.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-   "tarih": "2026-10-19T03:36+00:00"
-  },
-  {
-   "baslik": "JPMorgan'ın JPM Coin'i Ethereum'a geliyor",
-   "ozet": "JPMorgan dolar mevduatını temsil eden JPM Coin'i daha geniş bir kurumsal müşteri kitlesine sunmak için Ethereum'a getiriyor.",
+   "baslik": "JPMorgan, JPM Coin'i Ethereum'a getiriyor",
+   "ozet": "Bankanın dolar mevduat token'ı kurumsal müşteriler için Ethereum ağında kullanılacak.",
    "etki": "olumlu",
    "coinler": [
     "ETH"
@@ -104,42 +135,25 @@
    "tarih": "2026-10-19T10:03+00:00"
   },
   {
-   "baslik": "Kripto kasalarındaki mevduat 10 milyar doları aştı",
-   "ozet": "Kurucu yönetimli borç verme stratejileri kurumsal sermaye çekiyor; ancak teminat, likidite ve akıllı kontrat riskleri düzenleyicilerin dikkatini çekiyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
-   "tarih": "2026-10-19T09:32+00:00"
-  },
-  {
-   "baslik": "Fransa stablecoin takaslarına vergi getiriyor",
-   "ozet": "Fransa Ulusal Meclisi bazı stablecoin takaslarını hedefleyen bir kripto vergisi değişikliğini kabul etti. Çıkış vergisi ve kendi cüzdan raporlama önerileri de masada.",
+   "baslik": "Fransa'da protestolar sonrası tahvil satışı sertleşti",
+   "ozet": "Şiddetli protestoların ardından Fransız tahvillerindeki satış hızlandı; Avrupa'daki siyasi gerilim piyasalarda risk algısını artırıyor.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-19T10:22+00:00"
+   "kaynak": "Financial Times",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjg1eWFJemt6T2ZpNXA2WURucC0wamlNeGg5N3ZmeWJ6alVPNUpTNTdNOWtyUHdXRDdCNUxWaDVmTUVZOF9ldUlnaldFTXRpUlpRdGtGSEpNR1VGaFhQTVBHM2tLdHhacXI0dUxRcHpIVDNxNzhUeU84ajl4NU1BX050SWk?oc=5",
+   "tarih": "2026-10-19T08:29+00:00"
   },
   {
-   "baslik": "Güney Kore kripto vergisinin ertelenmesi tartışılıyor",
-   "ozet": "Maliye yetkililerinin salı günü büyük borsalarla görüşeceği bildirildi. Bir milletvekili verginin başlangıcını iki yıl ertelemeyi öneren yasa teklifi sundu.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-19T05:14+00:00"
-  },
-  {
-   "baslik": "Qubic saldırı sonrası zinciri dondurdu",
-   "ozet": "Zayıf anahtar kelimeler yüzünden yaklaşık 1.400 cüzdan boşaltıldı. Çalınan fonların %87,1'i zincir üzerinde, kalanı MEXC borsasında donduruldu.",
+   "baslik": "Bitcoin ve Ether ETF'lerinden 549 milyon dolar çıkış",
+   "ozet": "Bitcoin fonlarında haftalık çıkış iki haftaya uzadı; Ether ETF'lerinde ekimdeki net çıkış yaklaşık 955 milyon dolara ulaştı.",
    "etki": "olumsuz",
    "coinler": [
-    "QUBIC"
+    "BTC",
+    "ETH"
    ],
    "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-19T01:03+00:00"
+   "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-19T07:54+00:00"
   }
  ]
 }
