@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-10-20T14:10+00:00",
+ "guncelleme": "2026-10-20T15:06+00:00",
  "duygu": "olumsuz",
  "ozet": "Bitcoin, Asya'daki yapay zeka hisse satışı ve 110 doları aşan petrol nedeniyle yaklaşık 81.400 dolara geriledi. ABD Bitcoin ETF'lerine eylülden bu yana en büyük giriş (527 milyon dolar) olsa da hisse zayıflığı talebi baskılıyor. Fransa tahvil faizlerinin yükselmesi ve stablecoin vergisi risk algısını artırıyor. JPMorgan'ın olumlu uzun vadeli Bitcoin tahmini dengeleyici.",
  "takvim": [
@@ -7,41 +7,26 @@
  ],
  "haberler": [
   {
-   "baslik": "Bitcoin 81.400 dolara geriledi",
-   "ozet": "Güney Kore'nin Kospi endeksi yapay zeka endişeleriyle %3,7 düştü; Bitcoin yaklaşık %0,5 kayıpla 81.400 dolara indi. Opsiyon yatırımcıları düşüşe karşı korunma arıyor.",
+   "baslik": "Fransa stablecoin işlemlerine %31 vergi getiriyor",
+   "ozet": "Fransa parlamentosu, MiCA uyumlu stablecoin'lere tanınan vergi ertelemesini Ocak 2027'den itibaren kaldıran değişikliği onayladı.",
    "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
+   "coinler": [],
    "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-   "tarih": "2026-10-20T10:22+00:00"
+   "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+   "tarih": "2026-10-20T11:25+00:00"
   },
   {
-   "baslik": "ABD Bitcoin ETF'lerine 527 milyon dolar giriş",
-   "ozet": "Eylülden bu yana en büyük günlük giriş oldu; BlackRock'ın IBIT fonu 665 milyon dolarla öncü oldu. Fidelity ve Grayscale'den çıkış görüldü.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
+   "baslik": "Kazakistan mahkemesi Coinbase ve BingX'e kısıtlama getirdi",
+   "ozet": "Aralarında Coinbase ve BingX'in olduğu altı platform için kısıtlama kararı verildi; dokuz platform erişimi kendisi kısıtladı.",
+   "etki": "olumsuz",
+   "coinler": [],
    "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-20T05:39+00:00"
+   "link": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-20T11:12+00:00"
   },
   {
-   "baslik": "BlackRock üçüncü Bitcoin ETF'si için başvurdu",
-   "ozet": "Yeni fon, opsiyonlarla hem olası kayıpları hem kazançları sınırlayacak. Solana veya XRP için başvuru yok.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-20T08:12+00:00"
-  },
-  {
-   "baslik": "JPMorgan: Bitcoin on yılda yıllık %10 getiri sağlayabilir",
-   "ozet": "Banka ilk kez Bitcoin getirisine aralık verdi; hisse, tahvil ve altından yüksek bekliyor. Yine de portföydeki rolü konusunda temkinli.",
+   "baslik": "JPMorgan: Bitcoin on yılda yıllık %10 getirebilir",
+   "ozet": "Banka ilk kez Bitcoin için getiri aralığı verdi ve BTC'nin hisse, tahvil ve altını geride bırakabileceğini söyledi; oynaklık uyarısı da yaptı.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -51,73 +36,48 @@
    "tarih": "2026-10-20T11:10+00:00"
   },
   {
-   "baslik": "Yapay zeka satışı geri döndü, petrol 110 doları aştı",
-   "ozet": "Hisselerdeki yapay zeka kaynaklı satış ve yüksek petrol fiyatları piyasada risk iştahını azaltıyor.",
+   "baslik": "Fransa tahvil faizleri 24 yılın zirvesine yakın",
+   "ozet": "Yeni protestolar öncesi Fransa tahvil faizleri yükseldi. Avrupa'daki mali risk, küresel risk algısını artırabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzNSV1VKT0t1WFIzSE9fT0Mzck9VVWRTWktvUTFOYXM5Q0w3NWZVWGEyWkROMl9FaGQ0Zk1pbU1WS3lwT1FaQkhxM2NsbEQ2cUtOY01RUi1TR3U0YVhPYlo1N2MwRG5IMzdKMjRqUmJLczAxOXJqSTgzRFMyNmZ2TFdIaldhUXRlN0daZmROMXY5SFBfakpTb3F3eWdqRW80MTl3?oc=5",
+   "tarih": "2026-10-20T10:41+00:00"
+  },
+  {
+   "baslik": "Orta Doğu riskleri petrolü 100 doların üzerinde tutuyor",
+   "ozet": "Petrol varil başına 100 doların üstünde; enerji kaynaklı enflasyon endişesi faiz beklentilerini etkileyebilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFIwYTNvY1RkcV9BYS02QWZBTTczUmVPTUtmaGs0d2JCZFB5eHVMUzd5RkNhVU5EUnJMYlEza1RhS1UyRjhCYlYzZTZER3hDcVI0R2g0SzhxenFDRDl3VjA4dFhrWC1YV0p4UVdaZFg1bHVRSElOVnMycDliaHZRWUdRLU5Nd09aS08wTQ?oc=5",
-   "tarih": "2026-10-20T08:47+00:00"
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUxmM3AtZ2FXSDFNbHBRTVlickI1OXNDdU1BeGZwOHZ6NVd5SW9RaUx0ZFlMTGVTN3J1QXFzUEc2Z3JOaVFzTTRQV1VXVVVpTktIaV9HYnU3Z2U1UmJCZExNdlZiWlhyMzlJRmh3X0Z5bHhNYW02R09JbE1nSWxEVW9hbXFsdTZuOVVuVjVvYlFEazFqR012VU40cTdnS096MmFQY1h0VQ?oc=5",
+   "tarih": "2026-10-20T10:28+00:00"
   },
   {
-   "baslik": "Fransa'da protestolar sonrası risk göstergesi kritik seviyeyi aştı",
-   "ozet": "Fransa tahvil faizleri 24 yılın zirvesine yakın. Avrupa'daki mali endişe risk varlıklarına baskı yapabilir.",
+   "baslik": "Bitcoin 81.400 dolara geriledi",
+   "ozet": "Güney Kore'nin Kospi endeksi %3,7 düştü; Bitcoin ETF girişlerine rağmen yaklaşık %0,5 kayıpla 81.400 dolar civarına indi. Opsiyon yatırımcıları düşüşe karşı korunma arıyor.",
    "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmhpRjVRaVVodE9Cd2d2eG85UmNpalpXaXk5dUdUYWVUYzFqbUtUMGFEcFpOaDV1LVFrSHB4OXRiQkNMMUJaOUZPdlBnenpTVTFtZGF2eHZ5cjFvc0xlTmNCNmFNSFBPMVB5YW02NWI3TUJzajlqMjEyNVk4VnF1azZJcTNzci16Szd1dFlnQUFMNmtjWC1GT3VhSUJlcG1CdUZuUGJnRXltVmtLcFZz?oc=5",
-   "tarih": "2026-10-20T08:49+00:00"
-  },
-  {
-   "baslik": "Altın, gelecek haftaki Fed toplantısı öncesi geriledi",
-   "ozet": "Yatırımcılar önümüzdeki hafta yapılacak Fed toplantısını bekliyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTllclNrcTJwXzluajYzYkkxM3VWNjFWUVZOcWo0ZjBKelNQTlNKVGcyQjdHVkNLZldxWWlFWE9Sc3VUNmZza0NMX2xXWDhFUE15c1RhWXVES3ZoRDNXVjZzQnJlT1BXSDZsV2ROSjhlTWljcW1kMDhDcnViQ3RfRy12WFFJMDNHV3VaZDRKeVhxa0U3blJTRXVHQ1E?oc=5",
-   "tarih": "2026-10-20T08:55+00:00"
-  },
-  {
-   "baslik": "Fransa stablecoin işlemlerine %31 vergi getiriyor",
-   "ozet": "Fransa parlamentosu, MiCA uyumlu stablecoin'lere de Ocak 2027'den itibaren vergi ertelemesini kaldıran değişikliği onayladı.",
-   "etki": "olumsuz",
-   "coinler": [],
+   "coinler": [
+    "BTC"
+   ],
    "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
-   "tarih": "2026-10-20T11:25+00:00"
+   "link": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+   "tarih": "2026-10-20T10:22+00:00"
   },
   {
    "baslik": "Mt. Gox geri ödeme süresini 2027'ye uzattı",
-   "ozet": "Hâlâ yaklaşık 2,8 milyar dolarlık Bitcoin dağıtılmayı bekliyor. Bazı alacaklılar işlemlerini tamamlamadı.",
+   "ozet": "Altıncı uzatma; bazı alacaklılar işlemlerini tamamlamadığı için dağıtılacak yaklaşık 2,8 milyar dolarlık Bitcoin hâlâ bekliyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
-   "tarih": "2026-10-20T10:55+00:00"
-  },
-  {
-   "baslik": "Kazakistan mahkemesi Coinbase ve BingX dahil borsalara kısıtlama getirdi",
-   "ozet": "Dokuz platform ise uygulama erişimini gönüllü kısıtladı; düzenleyici bunlara karşı iddialarını geri çekti.",
-   "etki": "olumsuz",
-   "coinler": [],
    "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-20T11:12+00:00"
+   "link": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-20T10:20+00:00"
   },
   {
-   "baslik": "Bitget, 388 milyon dolarlık hack'ten haftalar sonra Tayland borsası almayı planlıyor",
-   "ozet": "Satın alma Bitget'e Tayland piyasasına lisanslı bir yoldan giriş sağlayacak.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-20T10:00+00:00"
-  },
-  {
-   "baslik": "XRP'de borsalara giriş 6 milyar adedi aştı",
-   "ozet": "Son 30 günde borsalara 6 milyardan fazla XRP gitti; bu mart ayından beri en yüksek seviye. Balinalar kenara çekiliyor.",
+   "baslik": "XRP'nin borsalara girişi son 30 günde 6 milyar tokeni aştı",
+   "ozet": "CryptoQuant verilerine göre Mart'tan bu yana en yüksek seviye; büyük yatırımcıların kenara çekildiği yorumu yapıldı.",
    "etki": "olumsuz",
    "coinler": [
     "XRP"
@@ -125,6 +85,46 @@
    "kaynak": "Cointelegraph",
    "link": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "tarih": "2026-10-20T10:20+00:00"
+  },
+  {
+   "baslik": "BlackRock 'tampon' Bitcoin ETF'i için başvurdu",
+   "ozet": "Fon, IBIT üzerindeki opsiyonlarla kayıpları sınırlıyor, karşılığında yükselişin bir kısmından vazgeçiyor. Kurumsal ürün çeşitliliğini artırıyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
+   "tarih": "2026-10-20T09:13+00:00"
+  },
+  {
+   "baslik": "Altın, gelecek haftaki Fed toplantısı öncesi geriledi",
+   "ozet": "Yatırımcılar gelecek hafta yapılacak Fed toplantısını bekliyor; faiz yönü kripto için de belirleyici olacak.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTllclNrcTJwXzluajYzYkkxM3VWNjFWUVZOcWo0ZjBKelNQTlNKVGcyQjdHVkNLZldxWWlFWE9Sc3VUNmZza0NMX2xXWDhFUE15c1RhWXVES3ZoRDNXVjZzQnJlT1BXSDZsV2ROSjhlTWljcW1kMDhDcnViQ3RfRy12WFFJMDNHV3VaZDRKeVhxa0U3blJTRXVHQ1E?oc=5",
+   "tarih": "2026-10-20T08:55+00:00"
+  },
+  {
+   "baslik": "Yapay zeka hisse satışı döndü, petrol 110 doları aştı",
+   "ozet": "Teknoloji hisselerindeki satış ve yüksek petrol fiyatı risk iştahını azaltıyor; bu genelde kripto üzerinde de baskı yaratabiliyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFIwYTNvY1RkcV9BYS02QWZBTTczUmVPTUtmaGs0d2JCZFB5eHVMUzd5RkNhVU5EUnJMYlEza1RhS1UyRjhCYlYzZTZER3hDcVI0R2g0SzhxenFDRDl3VjA4dFhrWC1YV0p4UVdaZFg1bHVRSElOVnMycDliaHZRWUdRLU5Nd09aS08wTQ?oc=5",
+   "tarih": "2026-10-20T08:47+00:00"
+  },
+  {
+   "baslik": "ABD Bitcoin ETF'lerine 527 milyon dolar giriş",
+   "ozet": "Eylülden bu yana en büyük günlük giriş oldu; BlackRock IBIT 665 milyon dolar çekerken Fidelity ve Grayscale'den çıkış yaşandı.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-20T05:39+00:00"
   }
  ]
 }
