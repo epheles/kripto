@@ -1,46 +1,15 @@
 {
- "guncelleme": "2026-10-20T21:10+00:00",
+ "guncelleme": "2026-10-20T22:10+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin hisselerdeki yükseliş ve petrolün gerilemesiyle 83 bin doları aştı, ancak 21 günlük trend çizgisinde geri döndü. ETF'lere para girişi sürüyor ve JPMorgan uzun vadeli getiri beklentisi açıkladı. Öte yandan Fed'in Aralık'ta faiz artırması beklentisi, yapay zeka kaynaklı hisse endişeleri ve Fransa'daki stablecoin vergisi baskı yaratıyor. Dikkat edilecek yer 83 bin dolar civarındaki direnç.",
+ "ozet": "Bitcoin 83 bin doları kısa süre aştı, ancak 21 günlük trend çizgisinde geri döndü ve yaklaşık 81-83 bin dolar bandında dalgalanıyor. ETF'lere pazartesi 526,7 milyon dolar girdi ve JPMorgan Bitcoin için olumlu uzun vadeli tahmin yaptı. Buna karşın yapay zeka hisselerindeki endişe, 111 doları aşan Brent petrol ve Fed'in Aralık'ta faiz artırma beklentisi baskı yaratıyor. Dikkat edilecek yer 83 bin dolar direnci.",
  "takvim": [
-  "Gelecek hafta: Fed toplantısı. Ekonomistler Ekim'de faiz değişikliği beklemiyor ama Aralık'ta artış bekliyor; mesajlar sertleşirse kripto baskı görebilir.",
-  "Önümüzdeki günler: OKX-ICE tokenize hisse planına itirazlar artıyor; yeni itirazlar ve düzenleyici adımlar izlenmeli."
+  "Gelecek hafta: Fed toplantısı. Ekonomistler Ekim'de değişiklik beklemiyor ama Aralık'ta artış bekliyor; mesajlar sertleşirse kripto baskı görebilir.",
+  "Önümüzdeki günler: OKX-ICE tokenize hisse planına itirazlar artıyor; SEC'in kripto düzenleme önerisi için yorum süresi kapanıyor."
  ],
  "haberler": [
   {
-   "baslik": "Drift saldırganı 61 milyon dolarlık ETH'i Tornado Cash'e yolladı",
-   "ozet": "Kuzey Kore bağlantılı saldırgan iki saatte 25.700 ETH'i karıştırıcıdan geçirdi; elinde yaklaşık 198 milyon dolar daha var.",
-   "etki": "olumsuz",
-   "coinler": [
-    "ETH"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-   "tarih": "2026-10-20T20:46+00:00"
-  },
-  {
-   "baslik": "Microsoft, Alphabet ve Goldman Sachs tokenize hisse planına itiraz etti",
-   "ozet": "OKX-ICE'ın tokenize hisse platformuna itiraz eden şirket sayısı dört günde 9'dan 16'ya çıktı. Bu, tokenizasyon planına karşı direnç olduğunu gösteriyor.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
-   "tarih": "2026-10-20T20:16+00:00"
-  },
-  {
-   "baslik": "İsviçre, Bitcoin'i doğrudan tutan ilk bireysel fonu onayladı",
-   "ozet": "FINMA, fon için çeşitlendirme kurallarını esnetti ve saklama ile yatırımcı koruması şartları getirdi. Bireysel yatırımcının Bitcoin'e erişimini genişletiyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
-   "tarih": "2026-10-20T19:31+00:00"
-  },
-  {
-   "baslik": "Bitcoin ETF'lerine ayın en büyük girişi: 526,7 milyon dolar",
-   "ozet": "Pazartesi girişi 22 Eylül'den beri en yüksek seviye. Girişin tamamı BlackRock'ın IBIT fonundan geldi; Fidelity ve Grayscale fonlarından çıkış oldu.",
+   "baslik": "Bitcoin ETF'lerine 526,7 milyon dolar giriş",
+   "ozet": "ABD spot Bitcoin ETF'leri pazartesi 526,7 milyon dolar çekti; 22 Eylül'den beri en iyi gün. Girişin tamamı BlackRock'ın IBIT fonundan geldi, Fidelity ve Grayscale çıkış yaşadı.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -50,19 +19,8 @@
    "tarih": "2026-10-20T18:31+00:00"
   },
   {
-   "baslik": "JPMorgan: Bitcoin'den yıllık %10 getiri beklentisi",
-   "ozet": "JPMorgan Asset Management ilk uzun vadeli Bitcoin tahminini verdi, ancak %55'lik oynaklığın portföylere girişte engel olduğunu belirtti.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
-   "tarih": "2026-10-20T18:14+00:00"
-  },
-  {
-   "baslik": "Bitcoin 83.300 dolara çıktı, 21 günlük trend çizgisinde geri döndü",
-   "ozet": "ABD'de güçlü şirket kazançları ve düşen petrol hisseleri yükseltti; BTC bu seviyede 21 günlük trend çizgisine takılıp geri çekildi.",
+   "baslik": "Bitcoin 83,3 bin dolara çıktı, 21 günlük çizgide döndü",
+   "ozet": "Güçlü şirket bilançoları ve düşen petrolle hisseler yükselirken BTC 83.300 dolara değdi, ancak 21 günlük trend çizgisinde geri döndü.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -72,20 +30,28 @@
    "tarih": "2026-10-20T16:14+00:00"
   },
   {
-   "baslik": "Zcash %8,5 yükseldi, Bitcoin 83 bin doları geri aldı",
-   "ozet": "Genel kripto toparlanmasında Zcash 1.215 dolara çıktı; Bitcoin %1,6 arttı ve ETF girişleri devam etti.",
-   "etki": "olumlu",
-   "coinler": [
-    "ZEC",
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
-   "tarih": "2026-10-20T17:03+00:00"
+   "baslik": "Ekonomistler: Fed Ekim'i atlayacak, Aralık'ta faiz artıracak",
+   "ozet": "Reuters anketinde neredeyse tüm ekonomistler Fed'in Ekim'de değişiklik yapmayacağını, Aralık'ta tekrar faiz artıracağını bekliyor. Yüksek faiz riskli varlıklara baskı yapabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+   "tarih": "2026-10-20T13:27+00:00"
   },
   {
-   "baslik": "BlackRock zarar tamponlu Bitcoin ETF için başvurdu",
-   "ozet": "Önerilen fon IBIT üzerindeki opsiyonlarla kayıpları sınırlayacak, karşılığında getiri tavanı olacak.",
+   "baslik": "JPMorgan: Bitcoin on yılda yıllık %10 getirebilir",
+   "ozet": "JPMorgan ilk kez Bitcoin için uzun vadeli getiri tahmini yaptı: yıllık %10, hisse, tahvil ve altından yüksek. Ancak yüksek oynaklık nedeniyle portföylerdeki rolünü sınırlı görüyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+   "tarih": "2026-10-20T11:10+00:00"
+  },
+  {
+   "baslik": "BlackRock'tan zarar tamponlu Bitcoin ETF başvurusu",
+   "ozet": "BlackRock, IBIT üzerindeki opsiyonlarla kayıpları sınırlayan, karşılığında yükselişin bir kısmından vazgeçen bir ETF için SEC'e başvurdu.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -95,28 +61,8 @@
    "tarih": "2026-10-20T09:13+00:00"
   },
   {
-   "baslik": "Fransa'da stablecoin takas vergisi tek oyla geçti",
-   "ozet": "Değişiklik, kriptonun euro veya dolar stablecoin'e çevrilmesini 2027'den itibaren vergilendirecek. Oylamanın sonucu çok yakındı.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
-   "tarih": "2026-10-20T14:04+00:00"
-  },
-  {
-   "baslik": "Ekonomistler: Fed Ekim'i atlayıp Aralık'ta faiz artıracak",
-   "ozet": "Reuters anketine göre neredeyse tüm ekonomistler Aralık'ta faiz artışı bekliyor. Yüksek faiz riskli varlıkları genelde baskılar.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
-   "tarih": "2026-10-20T13:27+00:00"
-  },
-  {
-   "baslik": "Asya'da çip hisseleri düştü, Bitcoin 81.400 dolara indi",
-   "ozet": "Güney Kore'nin Kospi endeksi yapay zeka endişeleriyle %3,7 düştü; opsiyon yatırımcıları düşüşe karşı korunma arıyor.",
+   "baslik": "Asya'da çip hisseleri düştü, BTC 81.400 dolara indi",
+   "ozet": "Güney Kore'de Kospi %3,7 düştü; yapay zeka endişeleri sürerken BTC kısa süre 81.400 dolara geriledi, opsiyon yatırımcıları düşüşe karşı korunma arıyor.",
    "etki": "olumsuz",
    "coinler": [
     "BTC"
@@ -127,7 +73,7 @@
   },
   {
    "baslik": "Brent petrol 111 doları aştı, yapay zeka endişeleri sürüyor",
-   "ozet": "Güney Kore'deki halka arz zayıflığı yapay zeka değerleme endişelerini artırdı; yüksek petrol belirsizliği büyütüyor.",
+   "ozet": "Kore'deki halka arz zayıflığı yapay zeka değerlemelerine dair kaygıyı artırdı; yükselen petrol belirsizliği büyüttü.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "CoinDesk",
@@ -135,15 +81,66 @@
    "tarih": "2026-10-20T09:32+00:00"
   },
   {
-   "baslik": "Mt. Gox ödeme süresini 2027'ye uzattı",
-   "ozet": "Altıncı uzatma; bazı alacaklılara işlemler tamamlanmadığı için ödeme yapılamadı. Dağıtılacak Bitcoin satış baskısı riski olarak izleniyor.",
-   "etki": "notr",
+   "baslik": "Strive 630 milyon dolarlık SATS halka arzını kapattı",
+   "ozet": "Bitcoin hazine şirketi Strive'ın net geliri tahmini 7.372 BTC alımına yetebilir; ancak şirket Bitcoin payını belirtmedi.",
+   "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
    "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-20T10:20+00:00"
+   "link": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-20T17:40+00:00"
+  },
+  {
+   "baslik": "Fransa'da stablecoin takas vergisi bir oyla geçti",
+   "ozet": "Fransız milletvekilleri, kriptonun euro veya dolar stablecoin'e çevrilmesini 2027'den itibaren vergilendiren değişikliği tek oyla onayladı.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+   "tarih": "2026-10-20T14:04+00:00"
+  },
+  {
+   "baslik": "Microsoft, Alphabet, Goldman OKX-ICE tokenize hisse planına itiraz etti",
+   "ozet": "Planlanan OKX-ICE tokenize hisse platformuna itiraz eden şirket sayısı 16'ya çıktı; plan için engel oluşturabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+   "tarih": "2026-10-20T12:40+00:00"
+  },
+  {
+   "baslik": "Drift saldırganı 61 milyon dolarlık ETH'yi Tornado Cash'e gönderdi",
+   "ozet": "Kuzey Kore bağlantılı saldırgan iki saatte 25.700 ETH'yi mikser üzerinden geçirdi; hâlâ yaklaşık 198 milyon dolar kontrol ediyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "ETH"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+   "tarih": "2026-10-20T20:46+00:00"
+  },
+  {
+   "baslik": "İsviçre ilk perakende spot Bitcoin ETF'sini onayladı",
+   "ozet": "İsviçre düzenleyicisi FINMA, perakende yatırımcılar için ilk spot Bitcoin fonunu onayladı; başka sağlayıcıların da başvurduğu belirtildi.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
+   "tarih": "2026-10-20T12:15+00:00"
+  },
+  {
+   "baslik": "Mt. Gox ödeme süresini 2027'ye uzattı",
+   "ozet": "Mt. Gox ödeme tarihini altıncı kez erteledi; dağıtılacak yaklaşık 2,8 milyar dolarlık Bitcoin kaldı.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
+   "tarih": "2026-10-20T10:55+00:00"
   }
  ]
 }
