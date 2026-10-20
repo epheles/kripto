@@ -1,14 +1,14 @@
 {
- "guncelleme": "2026-10-20T09:10+00:00",
+ "guncelleme": "2026-10-20T12:06+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin petroldeki geri çekilmeyle 82.000 doların üzerine çıktı. ABD Bitcoin ETF'leri eylülden bu yana en büyük girişi (527 milyon dolar) gördü; Strive ve Metaplanet gibi şirket alımları talebi destekliyor. Öte yandan enerji kaynaklı enflasyon ve Fed'in yapay zekaya bağlı enflasyon endişesi faiz beklentilerini zorluyor.",
+ "ozet": "Bitcoin petroldeki geri çekilmeyle 82.000 doların üzerine çıktı. ABD Bitcoin ETF'leri eylülden bu yana en büyük girişi (527 milyon dolar) gördü; Strive ve Metaplanet gibi şirket alımları talebi destekliyor. Öte yandan enerji kaynaklı enflasyon, yükselen tahvil faizleri ve Fed'in yapay zekaya bağlı enflasyon endişesi faiz beklentilerini zorluyor.",
  "takvim": [
   "Bu hafta: Yapay zeka şirketlerinin bilançoları piyasa risk iştahını etkileyebilir; teknoloji hisselerindeki sert hareketler kripto fiyatlarına yansıyabilir."
  ],
  "haberler": [
   {
    "baslik": "ABD Bitcoin ETF'lerine 527 milyon dolar giriş",
-   "ozet": "Eylülden bu yana en büyük günlük giriş oldu; BlackRock'ın IBIT'i 665,2 milyon dolarla başı çekti, Fidelity ve Grayscale'den çıkış oldu.",
+   "ozet": "Eylülden bu yana en büyük günlük giriş oldu; BlackRock'ın IBIT'i 665,2 milyon dolar çekti, Fidelity ve Grayscale'den çıkış oldu. Kurumsal talep fiyatı destekleyebilir.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -18,8 +18,52 @@
    "tarih": "2026-10-20T05:39+00:00"
   },
   {
+   "baslik": "Bitcoin petrolün gerilemesiyle 82.000 doları aştı",
+   "ozet": "Petroldeki geri çekilme risk iştahını artırdı ve Bitcoin 82.000 doların üzerine çıktı.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjNOcnl1dkZVdVpHMDVrSzhVU2FpVFZiUGQ2Wmp4ZWlyd2RFQ0xqNkRlWjJGOHBCY1lIMDN2RXBHZkhtQzcxdklTQk90Um5iblpOTU1adHRNNTk3TWs3VjBucGdOcHN0NVNIaFY1RWVId3NTLXVNTTlHOU1mYnFmSGVmZ1pMWG1HVmRtQjFmdEFUZTVzQkZmRkc4a2FobGJXd1Fyc2I5bTZGcEgxSkotbUhsRQ?oc=5",
+   "tarih": "2026-10-19T20:50+00:00"
+  },
+  {
+   "baslik": "Strive 335 milyon dolarlık Bitcoin aldı",
+   "ozet": "Nasdaq'ta işlem gören şirket, varant sahiplerinin kullanımıyla gelen 369 milyon doları Bitcoin'e çevirdi ve 630 milyon dolarlık yeni hisse satışı planlıyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
+   "tarih": "2026-10-19T21:46+00:00"
+  },
+  {
+   "baslik": "Metaplanet'in 2.100 BTC'lik yatırımı onaylandı",
+   "ozet": "Super League hissedarları Metaplanet'in yaklaşık %96 hisse alımını onayladı; anlaşma 2.100 BTC'lik yatırım içeriyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
+   "tarih": "2026-10-19T19:32+00:00"
+  },
+  {
+   "baslik": "BlackRock yeni bir Bitcoin ETF için başvurdu",
+   "ozet": "IBIT'e bağlı, düşüşe karşı koruma ve yükselişe katılım sunan fon BlackRock'ın bu varlıkla ilgili üçüncü fonu olacak.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
+   "tarih": "2026-10-19T22:00+00:00"
+  },
+  {
    "baslik": "Bitcoin yükselişi şirket alımlarını canlandırabilir",
-   "ozet": "Bitfinex yöneticisi, geçen yılki gibi gelişigüzel sermaye toplamanın olası görünmediğini söylüyor.",
+   "ozet": "Bitfinex yöneticisine göre geçen yılki gibi gelişigüzel sermaye toplama dönemi tekrarlanmayabilir.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -30,7 +74,7 @@
   },
   {
    "baslik": "Fed: yapay zeka patlaması enflasyonu artırabilir",
-   "ozet": "Reuters'a göre Fed, yapay zeka yatırımlarının enflasyon baskısını artırmasından endişeli.",
+   "ozet": "Fed yapay zeka yatırımlarının enflasyon baskısını artırmasından endişe ediyor; bu faiz beklentilerini sıkı tutabilir.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -39,60 +83,25 @@
   },
   {
    "baslik": "Enerji kaynaklı enflasyon faiz beklentisini zorluyor",
-   "ozet": "Altın düşüşünü korudu; enerji fiyatlarının yol açtığı enflasyon faiz yolunu belirsizleştiriyor.",
+   "ozet": "Enerji fiyatlarının yol açtığı enflasyon faiz indirimi beklentilerini zayıflatıyor; altın da düşüşünü sürdürdü.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Bloomberg.com",
+   "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUlBORHhHSWt0MDQzVVdWSkpKcHhLeVFia0U1M2VDT1Y5eGZYSWJZdDJLX09heXV6eGxUWGZuMGwzMlJZWFBoOEJxWjloWFZRVEtZMEhsUEhlTWctcFNyWXFNSDFQMTNiU3ozelhkWFJFeGNVOVUxcUNNNHR2WTJiTHJ4TkdkeXBkU3RrOExfTzNMU3hMeFkzNDZyQ2RBWk5NaHlMNW1EWnplYm1kTmdCLXYxOA?oc=5",
    "tarih": "2026-10-19T23:55+00:00"
   },
   {
-   "baslik": "BlackRock yeni bir Bitcoin ETF için başvurdu",
-   "ozet": "IBIT'e yükseliş maruziyeti ve aşağı yönlü koruma sunacak fon, BlackRock'ın bu varlıkla ilgili üçüncü fonu.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
-   "tarih": "2026-10-19T22:00+00:00"
-  },
-  {
-   "baslik": "Strive 335 milyon dolarlık Bitcoin aldı",
-   "ozet": "Şirket, warrant sahiplerinin kullanımıyla gelen 369 milyon doları kullandı; 630 milyon dolarlık tercihli hisse satışı planlıyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
-   "tarih": "2026-10-19T21:46+00:00"
-  },
-  {
-   "baslik": "Metaplanet'in 2.100 BTC yatırımı onaylandı",
-   "ozet": "Super League hissedarları Metaplanet'in 2.100 BTC'lik yatırımına onay verdi.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
-   "tarih": "2026-10-19T19:32+00:00"
-  },
-  {
-   "baslik": "Bitcoin petrolün gerilemesiyle 82.000 doları aştı",
-   "ozet": "Petroldeki geri çekilme risk iştahını artırdı ve Bitcoin 82.000 doların üzerine çıktı.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSjNOcnl1dkZVdVpHMDVrSzhVU2FpVFZiUGQ2Wmp4ZWlyd2RFQ0xqNkRlWjJGOHBCY1lIMDN2RXBHZkhtQzcxdklTQk90Um5iblpOTU1adHRNNTk3TWs3VjBucGdOcHN0NVNIaFY1RWVId3NTLXVNTTlHOU1mYnFmSGVmZ1pMWG1HVmRtQjFmdEFUZTVzQkZmRkc4a2FobGJXd1Fyc2I5bTZGcEgxSkotbUhsRQ?oc=5",
-   "tarih": "2026-10-19T20:50+00:00"
+   "baslik": "ABD tahvil faizleri petrolle birlikte yükseldi",
+   "ozet": "Petrolle birlikte ABD tahvil faizleri ve Fransa'daki protestolar nedeniyle Fransız tahvil faizleri yükseldi; yüksek faiz riskli varlıklara baskı yapabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSk1wWWp6WG1vZjdfYjZXX1hRU0lPVEl6WnVGbkozSXB5eTU5UHN2aG9nRHRpc1VMNlI5eF92YXNZNTFUOGFBMnk1anY0cUxFcG5YTTF0NFRhaGZ0VjkwbjNETmpiWkVXUHlNMmZJV014MlJ2LXRKZWlmS3E1N21wZHdnUXZybnJBRzlVSmdwUQ?oc=5",
+   "tarih": "2026-10-19T19:27+00:00"
   },
   {
    "baslik": "Solana hazine şirketi SkyAI tüm SOL'unu sattı",
-   "ozet": "Şirket SOL varlıklarını tasfiye etti ve 201 milyon dolarlık hisse geri alımı başlattı.",
+   "ozet": "Şirket Solana varlıklarını satıp 223,8 milyon dolarlık nakdiyle 201 milyon dolarlık geri alım başlattı.",
    "etki": "olumsuz",
    "coinler": [
     "SOL"
@@ -102,31 +111,22 @@
    "tarih": "2026-10-19T21:04+00:00"
   },
   {
-   "baslik": "SEC'in kripto düzenleme önerisi için yorum süreci kapanıyor",
-   "ozet": "'Regulation Crypto Assets' önerisinde kamuoyu yorumları kapanmak üzere; piyasa katılımcıları görüş bildirdi.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-19T19:54+00:00"
-  },
-  {
-   "baslik": "Blockchain Association GENIUS Yasası kuralları için netlik istedi",
-   "ozet": "Dernek, Hazine'nin stablecoin kuralları taslağında DeFi ve yabancı ihraççılar için daha net hükümler istiyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
-   "tarih": "2026-10-20T04:07+00:00"
-  },
-  {
    "baslik": "Visa ve Mesh: 175 milyon noktada kripto harcaması",
-   "ozet": "Mesh, kripto ve stablecoin cüzdanlarını Visa ağına bağlayarak ayrı kart olmadan harcamayı mümkün kılacak.",
+   "ozet": "Mesh, kripto ve stablecoin cüzdanlarını Visa ağına bağlayarak ayrı kart olmadan harcamaya imkân verecek.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Cointelegraph",
    "link": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "tarih": "2026-10-19T19:16+00:00"
+  },
+  {
+   "baslik": "Büyük şirketler tokenlaştırılmış hisselere karşı çıkıyor",
+   "ozet": "Verizon, Broadcom ve UnitedHealth dahil 9 şirket, hisselerinin planlanan OKX-ICE tokenlı hisse platformunda işlem görmesine itiraz etti.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
+   "tarih": "2026-10-19T18:46+00:00"
   }
  ]
 }
