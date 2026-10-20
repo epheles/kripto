@@ -1,11 +1,22 @@
 {
- "guncelleme": "2026-10-20T02:10+00:00",
+ "guncelleme": "2026-10-20T03:05+00:00",
  "duygu": "karisik",
  "ozet": "Bitcoin petrolün gerilemesiyle 82.000 doların üzerine çıktı, ancak 83.000 dolardaki satış baskısına takıldı. 108 dolar civarındaki petrol ve %5 seviyesindeki tahvil faizleri riskli varlıkları baskılamaya devam ediyor. Strategy, Strive ve Metaplanet'in alımları ile BlackRock'ın yeni Bitcoin fonu başvurusu talebi destekliyor. Dikkat edilecek seviye 83.000 dolar direnci ve haberlerde anılan destek bölgesi.",
  "takvim": [
   "Bu hafta: Fed yetkililerinin ve Warsh'ın faiz yönündeki açıklamaları. Faiz artırımı beklentisi güçlenirse kripto baskı altında kalabilir."
  ],
  "haberler": [
+  {
+   "baslik": "AnchorWatch Bitcoin saklama şirketi kurdu",
+   "ozet": "Nevada merkezli yeni şirket, Bitcoin saklama ücretini aylık 10.000 dolarla sınırladı. Kurumsal Bitcoin altyapısının genişlemesine işaret ediyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
+   "tarih": "2026-10-19T22:28+00:00"
+  },
   {
    "baslik": "BlackRock, IBIT'e bağlı yeni bir Bitcoin fonu için başvurdu",
    "ozet": "Şirketin Bitcoin ile ilgili üçüncü fonu; düşüşe karşı koruma ve yükselişe katılım sunacak. Büyük kurumun ilgisinin sürdüğünü gösteriyor.",
@@ -60,6 +71,15 @@
    "tarih": "2026-10-19T20:16+00:00"
   },
   {
+   "baslik": "Visa ve Mesh, kriptoyla 175 milyon işyerinde ödeme sağlayacak",
+   "ozet": "Mesh, kripto ve stablecoin cüzdanlarını Visa ağına bağlayacak. Kripto harcamasının günlük hayatta yaygınlaşmasına katkı sağlayabilir.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-19T19:16+00:00"
+  },
+  {
    "baslik": "JPMorgan'ın JPM Coin'i Ethereum'a geldi",
    "ozet": "Bankanın dolar destekli token'ı kurumsal müşteriler için Ethereum üzerinde saniyeler içinde, haftanın her günü çalışacak.",
    "etki": "olumlu",
@@ -111,50 +131,6 @@
    "kaynak": "Bitcoin Magazine",
    "link": "https://bitcoinmagazine.com/markets/no-uptober-yet-as-bitcoin-slips",
    "tarih": "2026-10-19T16:18+00:00"
-  },
-  {
-   "baslik": "Strategy ekim ayındaki üçüncü Bitcoin alımını yaptı",
-   "ozet": "Şirketin ekim ayındaki toplam harcaması 73 milyon dolara ulaştı. Düzenli kurumsal alım sürüyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/strategy-third-october-bitcoin-buy",
-   "tarih": "2026-10-19T16:14+00:00"
-  },
-  {
-   "baslik": "Bitcoin 83.000 dolarda satış duvarına takıldı",
-   "ozet": "Tahvil faizleri hisselerle birlikte yeniden yükselirken 83.000 dolardaki satış baskısı BTC'yi dar bir bantta tuttu.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-19T16:05+00:00"
-  },
-  {
-   "baslik": "Petrol ve yapay zekâ endişeleri Bitcoin'i destek bölgesinde tutuyor",
-   "ozet": "108 dolar civarındaki petrol ve %5 seviyesindeki tahvil faizleri riskli varlıkları baskılıyor; Bitcoin yine aynı destek bölgesini test ediyor.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
-   "tarih": "2026-10-19T16:05+00:00"
-  },
-  {
-   "baslik": "Bitmine 12.535 ETH daha aldı, hazinesi 6,04 milyon ETH'ye ulaştı",
-   "ozet": "Toplam yatırım varlıkları 15,1 milyar dolar oldu. Ethereum için kurumsal alım sürüyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "ETH"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018",
-   "tarih": "2026-10-19T13:36+00:00"
   }
  ]
 }
