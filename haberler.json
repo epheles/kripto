@@ -1,47 +1,14 @@
 {
- "guncelleme": "2026-10-20T00:10+00:00",
+ "guncelleme": "2026-10-20T01:10+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin petrolün gerilemesiyle 82.000 doların üzerine çıktı, ancak 83.000 dolar civarındaki satış baskısına takıldı. Yüksek petrol ve %5 civarı tahvil faizleri riskli varlıklar üzerinde baskı yapmaya devam ediyor. Strategy ve Strive'ın alımları, BlackRock'ın yeni ETF başvurusu ile Visa ve Mastercard'ın stablecoin adımları talebi destekliyor. İzlenecek seviyeler: 83.000 direnci ve mevcut destek bölgesi.",
+ "ozet": "Bitcoin petrolün gerilemesiyle 82.000 doların üzerine çıktı, ancak 83.000 dolardaki satış baskısına takıldı. Yüksek petrol ve %5 civarı tahvil faizleri riskli varlıklara baskı yapmaya devam ediyor. Strategy, Strive ve Metaplanet'in alımları ile BlackRock'ın yeni ETF başvurusu talebi destekliyor. Dikkat edilecek seviyeler 83.000 dolar direnci ve haberlerde anılan destek bölgesi.",
  "takvim": [
-  "SEC'in 'Regulation Crypto Assets' önerisi için kamuoyu yorum dönemi kapanıyor; sonraki adımlar düzenleme beklentisini etkileyebilir."
+  "Bu hafta: Fed yetkililerinin ve Warsh'ın faiz yönündeki açıklamaları. Faiz artırımı beklentisi güçlenirse kripto baskı altında kalabilir."
  ],
  "haberler": [
   {
-   "baslik": "BlackRock, IBIT için yeni bir Bitcoin ETF'i başvurusu yaptı",
-   "ozet": "Fon, düşüşe karşı koruma ve yükselişe katılım sunacak. BlackRock'ın Bitcoin'e bağlı üçüncü fonu olacak; kurumsal ilgiyi gösteriyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
-   "tarih": "2026-10-19T22:00+00:00"
-  },
-  {
-   "baslik": "Strive 335 milyon dolarlık Bitcoin aldı",
-   "ozet": "Şirket, yatırımcılardan gelen 369 milyon dolarla alım yaptı ve %15'lik imtiyazlı hisse satışı planlıyor. Kurumsal Bitcoin talebi sürüyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
-   "tarih": "2026-10-19T21:46+00:00"
-  },
-  {
-   "baslik": "SkyAI tüm Solana varlığını sattı, 201 milyon dolarlık geri alım başlattı",
-   "ozet": "Şirket SOL hazinesini bozdurup 223,8 milyon dolarlık nakdiyle hisse ve varant geri alımı yapacak. SOL için kurumsal talep açısından olumsuz.",
-   "etki": "olumsuz",
-   "coinler": [
-    "SOL"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-19T21:04+00:00"
-  },
-  {
-   "baslik": "Petrol geriledi, Bitcoin 82.000 doların üzerine çıktı",
-   "ozet": "Petroldeki düşüş risk iştahını artırdı ve Bitcoin 82.000 doların üzerine toparlandı.",
+   "baslik": "Bitcoin petrolün gerilemesiyle 82.000 doların üzerine çıktı",
+   "ozet": "Petrol fiyatlarındaki geri çekilme risk iştahını artırdı ve Bitcoin 82.000 doların üzerine döndü.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -51,55 +18,105 @@
    "tarih": "2026-10-19T20:50+00:00"
   },
   {
-   "baslik": "Warsh konuşması sonrası faiz artırımı beklentileri azaldı",
-   "ozet": "Yatırımcılar faiz artırımı ihtimalini daha düşük görüyor. Faiz artışı beklentisinin azalması riskli varlıklar için destekleyici olabilir.",
-   "etki": "olumlu",
+   "baslik": "Bitcoin 83.000 dolarda satış duvarına takıldı",
+   "ozet": "Tahvil faizleri hisselerle birlikte yeniden yükselince BTC 83.000 dolardaki satış baskısını aşamadı ve dar aralıkta kaldı.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-19T16:05+00:00"
+  },
+  {
+   "baslik": "Yüksek petrol ve %5 faiz Bitcoin'i destek seviyesinde tutuyor",
+   "ozet": "Haberde petrolün 108 dolar, tahvil faizlerinin %5 civarında olduğu belirtiliyor; BTC yine aynı destek bölgesini test ediyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
+   "tarih": "2026-10-19T16:05+00:00"
+  },
+  {
+   "baslik": "Altın, Warsh konuşması öncesi faiz artırımı beklentilerinin azalmasıyla yükseldi",
+   "ozet": "Yatırımcıların faiz artırımı beklentisini hafifletmesi altını yukarı itti; faiz beklentileri kripto için de yön belirleyici.",
+   "etki": "notr",
    "coinler": [],
    "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREhDWC00MVloSzQ4QWFaYzl1MTdFTG1fRURVRmZzZF8yTms3MGpaYkhYSWd6Z2V6U1U2a1pNVDVKRl80OHdZY0YxSklldWVPR1g0YklVTGQ1MVhNdDJlUXh4dDNsQm1TQnBrMkp5NV9CTzlnS2VEeGR2a3V0bFhNNVBRejRlZlVRUE9sSUtEakxmMUlyQlQzdEYyanI1WXJaVjV2WXFUQjd1Tm9NR29tZUJCMWRGZw?oc=5",
    "tarih": "2026-10-19T20:16+00:00"
   },
   {
-   "baslik": "SEC'in kripto düzenleme önerisi için yorum süresi doluyor",
-   "ozet": "Ağustosta önerilen 'Regulation Crypto Assets' taslağında kamuoyu yorum dönemi kapanıyor; piyasa katılımcıları görüş bildiriyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-19T19:54+00:00"
-  },
-  {
-   "baslik": "Metaplanet, Super League'i 2.100 BTC karşılığında alıyor",
-   "ozet": "Super League hissedarları anlaşmayı onayladı; Metaplanet şirketin yaklaşık %94'ünü alacak.",
+   "baslik": "BlackRock, IBIT'e bağlı yeni bir Bitcoin ETF için başvurdu",
+   "ozet": "Başvurulan fon aşağı yönlü koruma ve yukarı yönlü getiri sunmayı hedefliyor; BlackRock'ın Bitcoin'e bağlı üçüncü fonu olacak.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
-   "tarih": "2026-10-19T19:32+00:00"
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
+   "tarih": "2026-10-19T22:00+00:00"
   },
   {
-   "baslik": "Visa ve Mesh, kripto harcamasını 175 milyon işyerine getiriyor",
-   "ozet": "Mesh, kripto ve stablecoin cüzdanlarını Visa ağına bağlayacak; kullanıcılar ayrı kart olmadan harcama yapabilecek.",
+   "baslik": "Strategy 267 BTC daha aldı, tercihli hisse geri alımını artırdı",
+   "ozet": "Şirket 22 milyon dolarlık alım yaptı, STRC geri alım limitini 3 milyar dolara çıkardı; toplam 848.517 BTC'ye ulaştı.",
    "etki": "olumlu",
-   "coinler": [],
+   "coinler": [
+    "BTC"
+   ],
    "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-19T19:16+00:00"
+   "link": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-19T12:30+00:00"
   },
   {
-   "baslik": "Mastercard stablecoin ödemeleri için risk taraması başlattı",
-   "ozet": "Bankalar ve ödeme şirketleri, şüpheli stablecoin işlemlerini takas öncesinde tespit edebilecek. Stablecoin'in ana akım finansa girişini gösteriyor.",
+   "baslik": "Strive 335 milyon dolarlık Bitcoin aldı, toplamı 36.818 BTC oldu",
+   "ozet": "Şirket, yatırımcılardan gelen kaynakla 1.223 BTC daha ekledi ve MARA'yı geride bıraktı.",
    "etki": "olumlu",
-   "coinler": [],
+   "coinler": [
+    "BTC"
+   ],
    "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-19T19:03+00:00"
+   "link": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-19T16:30+00:00"
+  },
+  {
+   "baslik": "Metaplanet, 2.100 BTC karşılığı Super League'in %93,7'sini alacak",
+   "ozet": "Anlaşma Metaplanet'e ABD sermaye piyasalarına erişim sağlayacak; şirket tercihli hisselerle yeni BTC alımı planlıyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-19T16:41+00:00"
+  },
+  {
+   "baslik": "SkyAI tüm Solana varlıklarını sattı, 201 milyon dolarlık geri alım başlattı",
+   "ozet": "Şirket SOL hazinesini tamamen nakde çevirip hisse geri alımına yöneldi; kurumsal SOL talebi için olumsuz işaret.",
+   "etki": "olumsuz",
+   "coinler": [
+    "SOL"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
+   "tarih": "2026-10-19T15:28+00:00"
+  },
+  {
+   "baslik": "Bitmine 12.535 ETH daha aldı, hazinesi 6,04 milyon ETH oldu",
+   "ozet": "Bu miktar ETH arzının yaklaşık %4,9'una denk geliyor ve şirketin %5 hedefine yaklaştı.",
+   "etki": "olumlu",
+   "coinler": [
+    "ETH"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line",
+   "tarih": "2026-10-19T15:13+00:00"
   },
   {
    "baslik": "JPMorgan'ın JPM Coin'i Ethereum'a geldi",
-   "ozet": "Dolar karşılığı token, kurumsal müşteriler için saniyeler içinde, haftanın her günü işlem görecek. Büyük bankaların halka açık zincire girmesi Ethereum için olumlu.",
+   "ozet": "Banka, dolar bazlı tokenını kurumsal müşteriler için Ethereum üzerinde kullanıma açıyor; bankaların halka açık zincirlere ilgisini gösteriyor.",
    "etki": "olumlu",
    "coinler": [
     "ETH"
@@ -109,37 +126,22 @@
    "tarih": "2026-10-19T17:31+00:00"
   },
   {
-   "baslik": "CFTC, sürekli vadeli işlemlerde CME'ye karşı çıktı",
-   "ozet": "CFTC, CME'nin yeni politikanın kendisine zarar verdiğini kanıtlayamadığını savundu. ABD'de perpetual işlemlerin geleceği bu tartışmaya bağlı.",
+   "baslik": "Mesh ve Visa, kripto bakiyesiyle harcamayı mümkün kılacak",
+   "ozet": "Kullanıcılar kripto ve stablecoin bakiyelerini ayrı kart gerekmeden Visa ağında harcayabilecek.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
+   "tarih": "2026-10-19T16:10+00:00"
+  },
+  {
+   "baslik": "CFTC, vadeli işlemlerde sürekli (perp) kontratlar konusunda CME'ye karşı çıktı",
+   "ozet": "ABD'de perp türevlerinin geleceğini belirleyebilecek bir hukuki tartışma sürüyor.",
    "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
+   "coinler": [],
    "kaynak": "CoinDesk",
    "link": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures",
    "tarih": "2026-10-19T16:47+00:00"
-  },
-  {
-   "baslik": "Bitcoin 83 bin dolarda dirençle karşılaştı",
-   "ozet": "83.000 dolardaki satış duvarı fiyatı dar aralıkta tuttu; tahvil faizleri hisselerle birlikte yeniden yükseldi.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-19T16:05+00:00"
-  },
-  {
-   "baslik": "Bitcoin kritik destekte: petrol 108 dolar, tahvil faizi %5",
-   "ozet": "Yüksek petrol ve %5 civarındaki faizler riskli varlıklara baskı yapıyor; Bitcoin aynı destek bölgesine yeniden geliyor.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
-   "tarih": "2026-10-19T16:05+00:00"
   }
  ]
 }
