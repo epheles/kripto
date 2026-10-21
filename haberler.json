@@ -1,37 +1,37 @@
 {
- "guncelleme": "2026-10-21T17:05+00:00",
+ "guncelleme": "2026-10-21T20:05+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin SpaceX bilançosu ve teknoloji hisselerindeki yükselişle 84-85 bin dolara çıktı. 87 bin dolar civarı güçlü direnç olarak görülüyor. Ether ETF'lerinden çıkış sürüyor; Grayscale ise kurumsal girişi kolaylaştıran yeni bir uygulama başlattı. Oynaklık düşük; Fed kararı ve ABD ara seçimleri sert hareket getirebilir.",
+ "ozet": "Bitcoin, SpaceX bilançosu ve teknoloji hisselerindeki yükselişle haftanın zirvesi olan 84-85 bin dolar bandına çıktı. Glassnode'a göre 87 bin dolar civarı güçlü direnç. Ether ETF'lerinden çıkış sürerken, Standard Chartered ve Grayscale gibi kurumsal hamleler ve ABD stablecoin kuralları olumlu haber akışı sağlıyor. Oynaklık düşük; Fed kararı ve ABD ara seçimleri sert hareket getirebilir.",
  "takvim": [
-  "Önümüzdeki günler: Fed kararı ve ABD ara seçimleri. Piyasa oynaklığı düşük olduğundan sürpriz sert fiyat hareketi yaratabilir.",
+  "Önümüzdeki günler: Fed kararı ve ABD ara seçimleri. Oynaklık düşük olduğundan sürpriz sert fiyat hareketi yaratabilir.",
   "5 Kasım: Zcash NU7 güncellemesi hedefleniyor."
  ],
  "haberler": [
   {
-   "baslik": "DATA kendi blokzincirini kapatip 30 milyon dolarlik anlasmayla Sui'ye geciyor",
-   "ozet": "a16z destekli DATA, kendi zincirini emekli edip Sui'ye geciyor ve yapay zeka egitim verisine odaklaniyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "SUI"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-   "tarih": "2026-10-21T15:22+00:00"
-  },
-  {
-   "baslik": "Bitcoin 84.600 dolara çıktı, SpaceX bilançosu borsayı uçurdu",
-   "ozet": "SpaceX'in beklentiden iyi bilançosu ABD borsalarını yükseltti, Bitcoin de 85 bin dolara yaklaştı. Kripto bu gün teknoloji hisseleriyle birlikte hareket ediyor.",
+   "baslik": "SpaceX-Tesla birleşmesi olursa dev bir Bitcoin hazinesi doğacak",
+   "ozet": "Musk, iki şirketin yönetim kurullarının birleşmeyi değerlendirmek için komite kurduğunu söyledi. Tesla'nın 11.509, SpaceX'in 18.712 BTC'si tek çatı altında toplanabilir.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
    ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T15:13+00:00"
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+   "tarih": "2026-10-21T16:16+00:00"
   },
   {
-   "baslik": "Grayscale 10 kripto fonunda ayni cinsinden alima izin veriyor",
-   "ozet": "Grayscale, uygun yatirimcilarin elindeki tokenlari satmadan fon payi almasina izin veriyor; bu, 10 ETF ve tröste uygulanacak. Kurumsal girisi kolaylastirabilir.",
+   "baslik": "Bitcoin SpaceX bilançosuyla 85 bin dolara yaklaştı",
+   "ozet": "SpaceX'in beklentilerin üzerindeki bilançosu hisse piyasasında risk iştahını artırdı, Bitcoin de hisselerle birlikte yükseldi.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
+   "tarih": "2026-10-21T15:46+00:00"
+  },
+  {
+   "baslik": "Grayscale 10 kripto fonunda ayni (in-kind) alımı açtı",
+   "ozet": "Uygun yatırımcılar artık tokenlarını satmadan doğrudan fon payı ile takas edebilecek. Kurumsal girişi kolaylaştırabilir.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "The Block",
@@ -39,17 +39,8 @@
    "tarih": "2026-10-21T15:12+00:00"
   },
   {
-   "baslik": "Trump yurtdisi kripto dolandiricilarina yonelik operasyonu anlatacak",
-   "ozet": "Trump, Beyaz Saray'daki etkinlikte sahte kripto sitelerine el koyma calismalarini vurgulayacak. FBI verilerine gore 2025'te ABD'de kripto dolandiriciligi kaybi 11,3 milyar dolar.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
-   "tarih": "2026-10-21T14:52+00:00"
-  },
-  {
-   "baslik": "Solana'da Alpenglow canlıya geçti: işlem onayı 150 milisaniyeye indi",
-   "ozet": "Solana ağı 2020'den beri kullandığı sistemi değiştirdi; işlem kesinleşme süresi 12,8 saniyeden yaklaşık 150 milisaniyeye düştü.",
+   "baslik": "Solana'da Alpenglow yükseltmesi canlıya alındı",
+   "ozet": "Solana, TowerBFT'nin yerine geçen Alpenglow'u devreye aldı; işlem kesinleşme süresi yaklaşık 12,8 saniyeden 150 milisaniyeye iniyor. Ağın hız ve kullanım rekabetini güçlendirebilir.",
    "etki": "olumlu",
    "coinler": [
     "SOL"
@@ -59,8 +50,8 @@
    "tarih": "2026-10-21T14:24+00:00"
   },
   {
-   "baslik": "JPMorgan ilk Bitcoin tahminini yayımladı: 2036'ya kadar en iyi varlık",
-   "ozet": "Banka, uzun vadeli raporunda Bitcoin'in 10 yıl boyunca öne çıkan varlık olacağını öngörüyor. Baz senaryo getirisi %10, iyimser senaryo %16.",
+   "baslik": "JPMorgan ilk Bitcoin fiyat tahminini açıkladı",
+   "ozet": "Banka uzun vadeli raporunda Bitcoin'i önümüzdeki 10-15 yılda gayrimenkul, hisse ve altını geride bırakacak varlık olarak gösteriyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -70,17 +61,8 @@
    "tarih": "2026-10-21T13:56+00:00"
   },
   {
-   "baslik": "OCC, GENIUS Yasası stablecoin kurallarını kesinleştirdi",
-   "ozet": "Kurallar stablecoin ihracı ve bazı saklama faaliyetlerini kapsıyor; çerçeve Ocak ortasında yürürlüğe giriyor. Düzenleme netliği sektör için olumlu.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T12:26+00:00"
-  },
-  {
-   "baslik": "Standard Chartered, kripto saklama şirketi Zodia'yı satın alıyor",
-   "ozet": "Banka, Zodia Custody'yi almak için kesin anlaşma imzaladı. Düzenleyici onaylar bekleniyor; büyük bankaların kriptoya girişine işaret ediyor.",
+   "baslik": "Standard Chartered, Zodia Custody'yi satın alıyor",
+   "ozet": "İngiliz banka kripto saklama şirketi Zodia Custody'yi almak için kesin anlaşma imzaladı; düzenleyici onaylar bekleniyor.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -88,8 +70,8 @@
    "tarih": "2026-10-21T12:06+00:00"
   },
   {
-   "baslik": "Bitcoin oynaklığı 2026'nın en düşük seviyelerine yaklaştı",
-   "ozet": "K33'e göre işlem hacmi zayıf. Piyasa Fed kararı ve ABD ara seçimleri gibi gelişmeleri bekliyor; bunlar sert hareket başlatabilir.",
+   "baslik": "Bitcoin oynaklığı 2026'nın en düşük seviyelerine yakın",
+   "ozet": "K33'e göre işlem hacmi zayıf. Fed kararı ve ABD ara seçimleri gibi olaylar sert fiyat hareketi tetikleyebilir.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -99,17 +81,17 @@
    "tarih": "2026-10-21T11:55+00:00"
   },
   {
-   "baslik": "Fransa, DeFi'ye erisim sunan borsalara sorumluluk getirmek istiyor",
-   "ozet": "Fransa, AB kurallarinda degisiklik onererek borsalarin DeFi protokollerini kontrol etmesini ve bazi musteri kayiplarindan sorumlu olmasini istiyor.",
-   "etki": "olumsuz",
+   "baslik": "OCC, GENIUS Yasası stablecoin kurallarını kesinleştirdi",
+   "ozet": "Kural; stablecoin ihraççıları için rezerv, itfa ve risk standartlarını belirliyor. Başvuruların ne zaman alınacağı henüz açıklanmadı.",
+   "etki": "olumlu",
    "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access",
-   "tarih": "2026-10-21T10:46+00:00"
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381502/occ-finalizes-genius-act-stablecoin-rules-ahead-of-january-deadline",
+   "tarih": "2026-10-21T11:52+00:00"
   },
   {
-   "baslik": "Glassnode: Bitcoin'de 87.000-87.700 dolar bölgesi güçlü direnç",
-   "ozet": "2025 sonunda alım yapan yatırımcılar 87 bin dolar civarındaki direnci güçlendirdi. Fiyatın yukarı gidebilmesi için bu bölgenin aşılması gerekiyor.",
+   "baslik": "Glassnode: Bitcoin'de 87 bin dolar civarı güçlü direnç",
+   "ozet": "2025 sonunda alım yapan yatırımcıların bu seviyede satış baskısı yarattığı belirtiliyor; 87,7 bin dolar kritik seviye olarak görülüyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -119,8 +101,8 @@
    "tarih": "2026-10-21T10:39+00:00"
   },
   {
-   "baslik": "Zcash %12 yükseldi, NU7 güncellemesi için 5 Kasım hedefleniyor",
-   "ozet": "Geliştiriciler güncelleme tarihi üzerinde anlaştı. Düğüm senkronizasyon çalışmaları sürüyor.",
+   "baslik": "Zcash NU7 güncellemesi için 5 Kasım hedefleniyor",
+   "ozet": "Geliştiriciler aktivasyon blok yüksekliği üzerinde anlaştı; ZEC yaklaşık %12 yükseldi.",
    "etki": "olumlu",
    "coinler": [
     "ZEC"
@@ -128,6 +110,29 @@
    "kaynak": "Cointelegraph",
    "link": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "tarih": "2026-10-21T10:15+00:00"
+  },
+  {
+   "baslik": "Drift saldırganı 109 milyon dolarlık Ether'i Tornado Cash'e gönderdi",
+   "ozet": "Nisandaki 295 milyon dolarlık hackle bağlantılı cüzdanlar iki günde 109 milyon dolarlık ETH'i karıştırıcıya aktardı; hâlâ 138 milyon dolar tutuyorlar.",
+   "etki": "olumsuz",
+   "coinler": [
+    "ETH"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-21T10:13+00:00"
+  },
+  {
+   "baslik": "Ether ETF'lerinden çıkış sürüyor: Ekimde 1 milyar doları aştı",
+   "ozet": "ABD spot Ether ETF'leri Ekimde 1,08 milyar dolar kaybetti; bu yılın en büyük aylık çıkışı. Bitcoin ETF girişleri ise Pazartesi'den sonra yavaşladı.",
+   "etki": "olumsuz",
+   "coinler": [
+    "ETH",
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-21T08:11+00:00"
   }
  ]
 }
