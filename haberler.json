@@ -1,12 +1,22 @@
 {
- "guncelleme": "2026-10-21T07:07+00:00",
+ "guncelleme": "2026-10-21T08:05+00:00",
  "duygu": "karisik",
  "ozet": "Bitcoin 83 bin dolar civarında; yapay zekâ hisselerindeki toparlanma ve zayıflayan dolar destek veriyor. Spot Bitcoin ETF'lerine pazartesi 526,7 milyon dolar girdi, JPMorgan'ın uzun vadeli tahmini ve İsviçre'deki ilk perakende Bitcoin fonu da olumlu haberler. Öte yandan BOJ'un aralıkta faiz artırması beklentisi, hack haberleri ve İran konusundaki çelişkili sinyaller baskı yaratabilir.",
  "takvim": [
-  "Çarşamba 21 Ekim: Solana'da Alpenglow güncellemesi canlıya geçiyor. Sorunsuz geçerse SOL için olumlu olabilir.",
-  "Çarşamba 28 Ekim: ABD CFTC'nin yapay zekâ ve ajan tabanlı finans forumu. Kripto düzenlemesi için ipucu verebilir."
+  "Çarşamba 21 Ekim: Solana'da Alpenglow güncellemesi canlıya geçiyor. Sorunsuz geçerse SOL için olumlu, sorun çıkarsa baskı yaratabilir."
  ],
  "haberler": [
+  {
+   "baslik": "Solana'nın büyük güncellemesi Alpenglow çarşamba canlıya geçiyor",
+   "ozet": "2020'den beri kullanılan oylama sisteminin yerini alacak; yaklaşık 150 milisaniyelik nihailik hedefleniyor. Önceki bir geçiş denemesi geri alınmıştı.",
+   "etki": "notr",
+   "coinler": [
+    "SOL"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+   "tarih": "2026-10-21T04:35+00:00"
+  },
   {
    "baslik": "Bitcoin 83 bin dolar civarında, yapay zekâ hisseleri ZEC'i de çekti",
    "ozet": "SpaceX ve Super Micro'nun güçlü sonuçları Asya çip hisselerini yükseltti. ZEC, ağ güncellemesi için tarih belirlenmesiyle %11 arttı.",
@@ -20,17 +30,6 @@
    "tarih": "2026-10-21T04:07+00:00"
   },
   {
-   "baslik": "Solana'nın büyük güncellemesi Alpenglow çarşamba canlıya geçiyor",
-   "ozet": "2020'den beri kullanılan oylama sisteminin yerini alacak; yaklaşık 150 milisaniyelik nihailik hedefleniyor. Önceki bir geçiş denemesi geri alınmıştı.",
-   "etki": "notr",
-   "coinler": [
-    "SOL"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
-   "tarih": "2026-10-21T04:35+00:00"
-  },
-  {
    "baslik": "Netanyahu İran'a yeniden saldırı için baskı yapıyor",
    "ozet": "Financial Times'a göre Netanyahu saldırıların yeniden başlaması için çabalıyor. İran konusundaki belirsizlik petrol ve risk iştahı üzerinden kripto fiyatlarını etkileyebilir.",
    "etki": "olumsuz",
@@ -40,8 +39,8 @@
    "tarih": "2026-10-21T04:00+00:00"
   },
   {
-   "baslik": "Dolar zayıfladı: ABD tahvil faizleri ve petrol geriledi",
-   "ozet": "Avustralya'nın şahin Merkez Bankası tonu Avustralya dolarını desteklerken dolar baskı altında kaldı. Zayıf dolar genellikle riskli varlıklara destek olur.",
+   "baslik": "Dolar zayıfladı, ABD tahvil faizleri ve petrol geriledi",
+   "ozet": "Reuters'a göre dolar baskı altında; ABD tahvil faizleri ve ham petrol fiyatları düştü. Zayıf dolar ve düşen faizler genelde riskli varlıklara destek olur.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Reuters",
@@ -49,8 +48,17 @@
    "tarih": "2026-10-21T01:20+00:00"
   },
   {
+   "baslik": "RBA: Avustralya'da enflasyon görünümü 'belirgin şekilde kötüleşti'",
+   "ozet": "Avustralya Merkez Bankası yetkilisi Hauser enflasyon görünümünün belirgin şekilde kötüleştiğini söyledi. Sıkı para politikası beklentisi riskli varlıklar için baskı unsuru.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNclp6TUhaUTN6OVpoNm9UUzQwcWRSSXVMeHV5aUtsQ2M0U1J4aXZRLUE4V3hzQ0lEdmJjVm50N2pZcVN0TVhNSWV3MWV0N0ZfSGFpdWcxaS1nSk1MTEs1ejl2bWpTZ0J4b0kzUWZQRmJCcm5XSnc3aElLU0laUHI1dzkxWk1xRk41LUFpVk40Q3QtZjFuWldmcWxBbzZ0aUNCS2h6eUJZX295M3AzR0VDUDNhNA?oc=5",
+   "tarih": "2026-10-20T23:51+00:00"
+  },
+  {
    "baslik": "BOJ'un aralıkta faizi %1,50'ye çıkarması bekleniyor",
-   "ozet": "Reuters anketine göre Japonya Merkez Bankası üç aylık tempoyu sürdürecek. Japonya'da faiz artışı küresel likiditeyi daraltabilir.",
+   "ozet": "Reuters anketine göre Japonya Merkez Bankası üç ayda bir faiz artırma temposunu sürdürecek. Japonya'daki faiz artışları geçmişte küresel piyasalarda dalgalanma yaratabildi.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Reuters",
@@ -58,52 +66,8 @@
    "tarih": "2026-10-20T22:44+00:00"
   },
   {
-   "baslik": "Spot Bitcoin ETF'lerine bir ayın en büyük girişi",
-   "ozet": "Pazartesi 526,7 milyon dolar girdi; 22 Eylül'den beri en yüksek gün. Girişin tamamı BlackRock'ın IBIT fonundan geldi, Fidelity ve Grayscale çıkış yaşadı.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
-   "tarih": "2026-10-20T18:31+00:00"
-  },
-  {
-   "baslik": "JPMorgan'dan Bitcoin için yıllık %10 getiri tahmini",
-   "ozet": "10-15 yıllık tahminde yüzde 10 getiri öngörülüyor, ancak %55'lik oynaklık portföylere eklenmesinin önünde engel olarak gösterildi.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
-   "tarih": "2026-10-20T18:14+00:00"
-  },
-  {
-   "baslik": "İsviçre'de Bitcoin tutan ilk perakende fon onaylandı",
-   "ozet": "FINMA fon için çeşitlendirme kurallarını esnetti, saklama ve yatırımcı koruması şartlarını öne çıkardı.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
-   "tarih": "2026-10-20T19:31+00:00"
-  },
-  {
-   "baslik": "Strive 630 milyon dolarlık SATS halka arzını kapattı",
-   "ozet": "Şirketin net gelirle yaklaşık 7.372 BTC alabileceği tahmin ediliyor, ancak Bitcoin ayrımı belirtilmedi.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-20T17:40+00:00"
-  },
-  {
-   "baslik": "Drift saldırganı 61 milyon dolarlık ETH'i Tornado Cash'e yolladı",
-   "ozet": "Kuzey Kore bağlantılı saldırgan iki saatte 25.700 ETH'i karıştırıcıdan geçirdi; elinde yaklaşık 198 milyon dolar daha var.",
+   "baslik": "Drift saldırganı 61 milyon dolarlık ETH'yi Tornado Cash'e gönderdi",
+   "ozet": "Kuzey Kore bağlantılı saldırgan, nisandaki 295 milyon dolarlık Drift hırsızlığından 25.700 ETH'yi iki saatte karıştırıcıya aktardı. Elinde yaklaşık 198 milyon dolar daha var.",
    "etki": "olumsuz",
    "coinler": [
     "ETH"
@@ -113,19 +77,8 @@
    "tarih": "2026-10-20T20:46+00:00"
   },
   {
-   "baslik": "Qubic ağı 1,4 milyon dolarlık hack sonrası yeniden başlatıldı",
-   "ozet": "Doğrulayıcılar kurtarma planını onayladı; talepler 1 Mayıs 2027'ye kadar açık.",
-   "etki": "olumsuz",
-   "coinler": [
-    "QUBIC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-20T23:26+00:00"
-  },
-  {
-   "baslik": "Microsoft, Alphabet ve Goldman tokenize hisselere itiraz etti",
-   "ozet": "OKX-ICE'in planlanan tokenize hisse platformuna itiraz eden şirket sayısı dört günde 9'dan 16'ya çıktı.",
+   "baslik": "Microsoft, Alphabet ve Goldman tokenlaştırılmış hisselere itiraz etti",
+   "ozet": "OKX-ICE'ın planladığı tokenlaştırılmış hisse platformuna itiraz eden şirket sayısı dört günde 9'dan 16'ya çıktı.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Decrypt",
@@ -133,13 +86,57 @@
    "tarih": "2026-10-20T20:16+00:00"
   },
   {
-   "baslik": "Kripto firmaları ve Wall Street SEC'ten kural değişikliği istedi",
-   "ozet": "SEC'in kripto varlık düzenlemesi önerisinde yorum süresi kapanırken sektör ve büyük kurumlar değişiklik talep etti.",
+   "baslik": "İsviçre'de Bitcoin tutan ilk perakende fon onaylandı",
+   "ozet": "İsviçre'nin finans düzenleyicisi, doğrudan Bitcoin tutan ilk perakende fona izin verdi. Daha önce bu tür ürünler yalnızca kurumsal yatırımcılara açıktı.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
+   "tarih": "2026-10-20T19:31+00:00"
+  },
+  {
+   "baslik": "Kripto şirketleri ve Wall Street SEC'ten düzenleme değişikliği istiyor",
+   "ozet": "SEC'in kripto varlık düzenlemesi taslağı için yorum süresi kapanırken Bitwise, Hyperliquid ve büyük finans kuruluşları değişiklik talep etti.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "The Block",
    "link": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
    "tarih": "2026-10-20T19:19+00:00"
+  },
+  {
+   "baslik": "Spot Bitcoin ETF'lerine pazartesi 526,7 milyon dolar girdi",
+   "ozet": "Girişler 22 Eylül'den bu yana en yüksek günlük seviye oldu. Tamamı BlackRock'ın IBIT fonundan geldi; Fidelity ve Grayscale fonlarından çıkış yaşandı.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
+   "tarih": "2026-10-20T18:31+00:00"
+  },
+  {
+   "baslik": "JPMorgan ilk kez Bitcoin için uzun vadeli getiri tahmini verdi",
+   "ozet": "J.P. Morgan Asset Management yıllık %10 getiri öngörüyor ancak %55 oynaklığı nedeniyle Bitcoin'i ana portföy modellerine eklemiyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+   "tarih": "2026-10-20T18:14+00:00"
+  },
+  {
+   "baslik": "Bitcoin 83 bin doların hemen altında, takip edilen seviyeler",
+   "ozet": "Decrypt'e göre Bitcoin hem kısa hem uzun vadeli hareketli ortalamaların üzerinde işlem görüyor; yatırımcılar kritik seviyeleri izliyor.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
+   "tarih": "2026-10-20T17:45+00:00"
   }
  ]
 }
