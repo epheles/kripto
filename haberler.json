@@ -1,35 +1,26 @@
 {
- "guncelleme": "2026-10-21T22:06+00:00",
+ "guncelleme": "2026-10-21T23:10+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin, SpaceX bilançosu ve teknoloji hisselerindeki yükselişle 84-85 bin dolar bandına, haftanın zirvesine çıktı. Glassnode'a göre 87 bin dolar civarı güçlü direnç. Ether ETF'lerinden çıkış sürerken, Standard Chartered'ın Zodia hamlesi ve ABD stablecoin kuralları olumlu haber akışı sağlıyor. Oynaklık düşük; Fed kararı ve ABD ara seçimleri sert hareket getirebilir.",
+ "ozet": "Bitcoin, SpaceX bilançosu ve teknoloji hisselerindeki yükselişle 84-85 bin dolar bandında, haftanın zirvesine yakın. Bitcoin oynaklığı 2026'nın en düşük seviyelerine yaklaştı. Orta Doğu gerilimi petrolü ve tahvil faizlerini yukarı itiyor; bu riskli varlıklar için baskı unsuru. ABD'de stablecoin kuralları kesinleşti, bankalarla kripto arasındaki tartışma sürüyor.",
  "takvim": [
-  "Önümüzdeki günler: Fed kararı ve ABD ara seçimleri. Oynaklık düşükken bu tür olaylar sert fiyat hareketi yaratabilir.",
-  "5 Kasım: Zcash NU7 yükseltmesi hedefleniyor."
+  "Önümüzdeki günler: Fed kararı ve ABD ara seçimleri. Oynaklık düşükken bu tür olaylar sert fiyat hareketi getirebilir."
  ],
  "haberler": [
   {
-   "baslik": "Trump yurt dışı kripto dolandırıcılıklarına karşı operasyonları öne çıkaracak",
-   "ozet": "Beyaz Saray'daki etkinlikte yabancı suç örgütlerinin işlettiği kripto dolandırıcılıklarına karşı yürütülen çalışmalar vurgulanacak.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
-   "tarih": "2026-10-21T16:23+00:00"
-  },
-  {
-   "baslik": "SpaceX-Tesla birleşmesi dev bir Bitcoin hazinesi yaratabilir",
-   "ozet": "Musk, iki şirketin yönetim kurullarının birleşmeyi inceleyen komiteler kurduğunu söyledi. Tesla'nın 11.509 BTC'si ile SpaceX'in 18.712 BTC'si tek çatı altında toplanabilir.",
+   "baslik": "Bitcoin haftanın zirvesinde: 84.500 dolar",
+   "ozet": "Bitcoin 84.500 dolar civarına çıktı; XRP ve Zcash'ın öncülüğünde piyasa ekimdeki düşüşten toparlanıyor.",
    "etki": "olumlu",
    "coinler": [
-    "BTC"
+    "BTC",
+    "XRP"
    ],
    "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
-   "tarih": "2026-10-21T16:16+00:00"
+   "link": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
+   "tarih": "2026-10-21T17:31+00:00"
   },
   {
-   "baslik": "Bitcoin 84,6 bin dolara çıktı",
-   "ozet": "SpaceX'in beklentiyi aşan bilançosuyla ABD borsaları yükselirken Bitcoin 85 bin dolara yaklaştı. Risk iştahı kriptoyu da yukarı taşıdı.",
+   "baslik": "Bitcoin 85 bin dolara yaklaştı, hisseler yükselişte",
+   "ozet": "SpaceX'in beklenenden iyi bilançosu ABD borsalarını yukarı çekti, Bitcoin de 84.600 dolara kadar çıktı.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -39,19 +30,19 @@
    "tarih": "2026-10-21T15:13+00:00"
   },
   {
-   "baslik": "Solana'da Alpenglow yükseltmesi canlıya alındı",
-   "ozet": "Yeni uzlaşma protokolü işlem kesinleşme süresini 12,8 saniyeden yaklaşık 150 milisaniyeye indiriyor. Solana'nın 2020'den beri en büyük teknik değişikliği.",
+   "baslik": "SpaceX-Tesla birleşmesi dev bir Bitcoin hazinesi yaratabilir",
+   "ozet": "İki şirketin yönetim kurulları birleşmeyi inceliyor. Tesla'nın 11.509, SpaceX'in 18.712 BTC'si tek çatı altında toplanabilir.",
    "etki": "olumlu",
    "coinler": [
-    "SOL"
+    "BTC"
    ],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
-   "tarih": "2026-10-21T14:24+00:00"
+   "kaynak": "Decrypt",
+   "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+   "tarih": "2026-10-21T16:16+00:00"
   },
   {
-   "baslik": "J.P. Morgan ilk kez Bitcoin fiyat tahmini yayımladı",
-   "ozet": "Banka, uzun vadeli raporunda Bitcoin'in önümüzdeki 10-15 yılda gayrimenkul, hisse ve altını geride bırakacağını öngörüyor.",
+   "baslik": "J.P. Morgan ilk kez Bitcoin için uzun vadeli tahmin yaptı",
+   "ozet": "Banka, Bitcoin'i önümüzdeki 10-15 yılda gayrimenkul, hisse ve altını geride bırakacak varlık olarak gösteriyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -61,26 +52,8 @@
    "tarih": "2026-10-21T13:56+00:00"
   },
   {
-   "baslik": "Tahvil faizleri yükseldi, borç satışları ertelendi",
-   "ozet": "Yükselen faizler yılın en büyük borç satışı erteleme dalgasına yol açtı. Yüksek faiz risk varlıkları için baskı yaratabilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHdLTElEQmZFQ0hnSHAwWndtLU1PSUN5LWY5Tk94WVNrdnFhVlc2MkhzemxaaVRzZEFuTmxtNTlEaUI4SXU1QnZoVUNCYmtEMGNoTEdsdlVWRG13ZWhmX01QNkpqU2pvZ2d2c2EtcWNHbWU4UjVKN196eGhjVUN1VnE4WWd2elpEOUVRTjJkSnBKWm15RXpXZDJzMTN6aUg0YjhzckFPZV9wTzdTQ3hRWjdQdnpZQQ?oc=5",
-   "tarih": "2026-10-21T13:36+00:00"
-  },
-  {
-   "baslik": "Standard Chartered, kripto saklama şirketi Zodia'yı satın alıyor",
-   "ozet": "İngiliz banka Zodia Custody'yi almak için kesin anlaşma imzaladı; işlem düzenleyici onaylara bağlı. Büyük bankaların kripto altyapısına girmesi sektör için olumlu.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
-   "tarih": "2026-10-21T12:44+00:00"
-  },
-  {
-   "baslik": "OCC, GENIUS Yasası stablecoin kurallarını kesinleştirdi",
-   "ozet": "Kural, stablecoin ihraççıları için rezerv, itfa ve risk standartlarını belirliyor ve 18 Ocak'ta yürürlüğe giriyor. Net kurallar sektöre netlik getiriyor.",
+   "baslik": "OCC stablecoin için GENIUS Yasası kurallarını kesinleştirdi",
+   "ozet": "Kural, stablecoin ihracı ve saklama faaliyetlerini kapsıyor. Üçüncü taraf getiri düzenlemesindeki karar bankalarla kripto arasında tartışmayı yeniden alevlendirdi.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -88,8 +61,39 @@
    "tarih": "2026-10-21T12:26+00:00"
   },
   {
+   "baslik": "Bankacılar derneği OCC'nin stablecoin kurallarına karşı çıktı",
+   "ozet": "American Bankers Association, OCC'nin getiri maddelerindeki değişikliğin Kongre'yi 'zayıflattığını' savunuyor.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-21T21:53+00:00"
+  },
+  {
+   "baslik": "Standard Chartered, kripto saklama şirketi Zodia'yı satın alıyor",
+   "ozet": "İngiliz banka bağlayıcı anlaşmayı imzaladı; düzenleyici onaylar bekleniyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
+   "tarih": "2026-10-21T17:28+00:00"
+  },
+  {
+   "baslik": "Solana'da Alpenglow yükseltmesi canlıya alındı",
+   "ozet": "Yeni uzlaşma protokolü işlem kesinleşme süresini 12,8 saniyeden yaklaşık 150 milisaniyeye indiriyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "SOL"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+   "tarih": "2026-10-21T14:24+00:00"
+  },
+  {
    "baslik": "Bitcoin oynaklığı 2026'nın en düşük seviyelerine yaklaştı",
-   "ozet": "K33'e göre işlem hacmi zayıf; piyasa Fed kararı ve ABD ara seçimlerini bekliyor. Düşük oynaklık sonrası sert hareket gelebilir.",
+   "ozet": "K33'e göre işlem hacmi zayıf; Fed kararı ve ABD ara seçimleri oynaklığı artırabilecek gelişmeler olarak bekleniyor.",
    "etki": "notr",
    "coinler": [
     "BTC"
@@ -99,49 +103,36 @@
    "tarih": "2026-10-21T11:55+00:00"
   },
   {
-   "baslik": "Glassnode: Bitcoin'de 87,7 bin dolar kritik seviye",
-   "ozet": "2025 sonunda alım yapan yatırımcılar 87 bin dolar civarındaki direnci güçlendirdi. Fiyatın bu bölgeyi aşıp aşamayacağı izleniyor.",
-   "etki": "olumsuz",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T10:39+00:00"
-  },
-  {
-   "baslik": "Zcash NU7 yükseltme tarihi netleşti, ZEC %12 yükseldi",
-   "ozet": "Geliştiriciler NU7 için 5 Kasım hedefini belirledi. Yükseltme blok süresini 75 saniyeden 25 saniyeye indirecek.",
+   "baslik": "Kalshi, Bitcoin teminatlı kredilerle kaldıraçlı vadeli işlem sunacak",
+   "ozet": "Platform kullanıcıları Bitcoin karşılığı borçlanıp kaldıraçlı işlem yapabilecek.",
    "etki": "olumlu",
    "coinler": [
-    "ZEC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T10:15+00:00"
-  },
-  {
-   "baslik": "Drift saldırganı 109 milyon dolarlık Ether'i Tornado Cash'e gönderdi",
-   "ozet": "Nisandaki 295 milyon dolarlık hackle bağlantılı cüzdanlar iki günde 109 milyon dolarlık Ether'i karıştırıcıya yolladı; 138 milyon dolar daha cüzdanlarda duruyor.",
-   "etki": "olumsuz",
-   "coinler": [
-    "ETH"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T10:13+00:00"
-  },
-  {
-   "baslik": "Ether ETF'lerinden çıkış sürüyor: Ekimde 1,08 milyar dolar",
-   "ozet": "ABD spot Ether ETF'leri ekimde 1,08 milyar dolar çıkış gördü; bu, 2026'nın en büyük aylık çıkışı. Bitcoin ETF girişleri de pazartesi sonrası yavaşladı.",
-   "etki": "olumsuz",
-   "coinler": [
-    "ETH",
     "BTC"
    ],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWNtM2t3aWlnWjJMa3Y1SnE2dXFiYVZZTktlZzZXekxpenVsUVdKMktZRHM1Z1Y4ZWdXcHhzY19RVmw5X2NsaXk5NzJ6ZjNDaXhFQmpxZ3hpV01XZVNDWTJTMEQ5b2RZeEhMNkQzYzM2d3pkbTBzdTd1SEcyYlZUdk8xdk5JOHViMndzQUZHUDBRT1hxOUJEYnRmNWhqYzhxVjFHQ3FUVU1xS3FJak9rS2VsZG1mQQ?oc=5",
+   "tarih": "2026-10-21T14:26+00:00"
+  },
+  {
+   "baslik": "Orta Doğu gerilimi petrolü yükseltti, ABD tahvilleri düştü",
+   "ozet": "Orta Doğu haberleri petrol fiyatlarını artırdı, tahvil faizleri yükseldi. Yüksek faiz riskli varlıklar için baskı yaratabilir.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS1NpTjhYQmpDMUFOVUJRdC1WRTdYNFBRd0V4cl9KZFF4NDVjU3Nkbzdjblh4TXhDaDBQa2hicElLWXFjSlUzWTh0eHB2WHNwSXZnZ2RwTVdGVUpvRE04ZVpMQnB4blBGQlVkdW8yQWV4NXVUOUl4YVZVVU1xc205OGhwTHYxN1Q4M3JCUnlMRUszSzIzeXFmS2FUTURIakRHUGpjMWpXUng4OFY5M1l1MkswaEZ5QQ?oc=5",
+   "tarih": "2026-10-21T19:46+00:00"
+  },
+  {
+   "baslik": "Blockchain kuruluşları SEC'den daha net kripto kuralları istedi",
+   "ozet": "Altı büyük grup, SEC'in önerdiği çerçevede dijital emtiaların menkul kıymet sayılmamasını talep etti.",
+   "etki": "olumlu",
+   "coinler": [
+    "ADA",
+    "LINK"
+   ],
    "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T08:11+00:00"
+   "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-21T16:09+00:00"
   }
  ]
 }
