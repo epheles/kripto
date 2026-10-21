@@ -1,12 +1,23 @@
 {
- "guncelleme": "2026-10-21T16:10+00:00",
+ "guncelleme": "2026-10-21T17:05+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin SpaceX bilançosu ve teknoloji hisselerindeki yükselişle 84-85 bin dolara çıktı. 87 bin dolar civarı güçlü direnç olarak görülüyor. Ether ETF'lerinden çıkış sürüyor ve Avrupa'da tahvil faizleri yükseliyor. Oynaklık düşük; Fed kararı ve ABD ara seçimleri sert hareket getirebilir.",
+ "ozet": "Bitcoin SpaceX bilançosu ve teknoloji hisselerindeki yükselişle 84-85 bin dolara çıktı. 87 bin dolar civarı güçlü direnç olarak görülüyor. Ether ETF'lerinden çıkış sürüyor; Grayscale ise kurumsal girişi kolaylaştıran yeni bir uygulama başlattı. Oynaklık düşük; Fed kararı ve ABD ara seçimleri sert hareket getirebilir.",
  "takvim": [
   "Önümüzdeki günler: Fed kararı ve ABD ara seçimleri. Piyasa oynaklığı düşük olduğundan sürpriz sert fiyat hareketi yaratabilir.",
   "5 Kasım: Zcash NU7 güncellemesi hedefleniyor."
  ],
  "haberler": [
+  {
+   "baslik": "DATA kendi blokzincirini kapatip 30 milyon dolarlik anlasmayla Sui'ye geciyor",
+   "ozet": "a16z destekli DATA, kendi zincirini emekli edip Sui'ye geciyor ve yapay zeka egitim verisine odaklaniyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "SUI"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+   "tarih": "2026-10-21T15:22+00:00"
+  },
   {
    "baslik": "Bitcoin 84.600 dolara çıktı, SpaceX bilançosu borsayı uçurdu",
    "ozet": "SpaceX'in beklentiden iyi bilançosu ABD borsalarını yükseltti, Bitcoin de 85 bin dolara yaklaştı. Kripto bu gün teknoloji hisseleriyle birlikte hareket ediyor.",
@@ -19,60 +30,22 @@
    "tarih": "2026-10-21T15:13+00:00"
   },
   {
-   "baslik": "SpaceX ve Tesla birleşmeyi inceliyor, 30 bin bitcoin tek çatıda",
-   "ozet": "Bağımsız komiteler iki şirketin olası birleşmesini değerlendiriyor. Birleşirse 30 binden fazla bitcoin aynı şirkette toplanacak.",
+   "baslik": "Grayscale 10 kripto fonunda ayni cinsinden alima izin veriyor",
+   "ozet": "Grayscale, uygun yatirimcilarin elindeki tokenlari satmadan fon payi almasina izin veriyor; bu, 10 ETF ve tröste uygulanacak. Kurumsal girisi kolaylastirabilir.",
    "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "CoinDesk",
-   "link": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
-   "tarih": "2026-10-21T09:23+00:00"
-  },
-  {
-   "baslik": "Glassnode: Bitcoin'de 87.000-87.700 dolar bölgesi güçlü direnç",
-   "ozet": "2025 sonunda alım yapan yatırımcılar 87 bin dolar civarındaki direnci güçlendirdi. Fiyatın yukarı gidebilmesi için bu bölgenin aşılması gerekiyor.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T10:39+00:00"
-  },
-  {
-   "baslik": "JPMorgan ilk Bitcoin tahminini yayımladı: 2036'ya kadar en iyi varlık",
-   "ozet": "Banka, uzun vadeli raporunda Bitcoin'in 10 yıl boyunca öne çıkan varlık olacağını öngörüyor. Baz senaryo getirisi %10, iyimser senaryo %16.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
-   "tarih": "2026-10-21T13:56+00:00"
-  },
-  {
-   "baslik": "Ether ETF'lerinden Ekim'de 1,08 milyar dolar çıkış",
-   "ozet": "ABD'deki spot Ether ETF'leri yılın en büyük aylık çıkışını yaşıyor. Bitcoin ETF'lerine giriş ise pazartesi günkü sıçramadan sonra yavaşladı.",
-   "etki": "olumsuz",
-   "coinler": [
-    "ETH",
-    "BTC"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T08:11+00:00"
-  },
-  {
-   "baslik": "Bitcoin oynaklığı 2026'nın en düşük seviyelerine yaklaştı",
-   "ozet": "K33'e göre işlem hacmi zayıf. Piyasa Fed kararı ve ABD ara seçimleri gibi gelişmeleri bekliyor; bunlar sert hareket başlatabilir.",
-   "etki": "notr",
-   "coinler": [
-    "BTC"
-   ],
+   "coinler": [],
    "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
-   "tarih": "2026-10-21T11:55+00:00"
+   "link": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
+   "tarih": "2026-10-21T15:12+00:00"
+  },
+  {
+   "baslik": "Trump yurtdisi kripto dolandiricilarina yonelik operasyonu anlatacak",
+   "ozet": "Trump, Beyaz Saray'daki etkinlikte sahte kripto sitelerine el koyma calismalarini vurgulayacak. FBI verilerine gore 2025'te ABD'de kripto dolandiriciligi kaybi 11,3 milyar dolar.",
+   "etki": "notr",
+   "coinler": [],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
+   "tarih": "2026-10-21T14:52+00:00"
   },
   {
    "baslik": "Solana'da Alpenglow canlıya geçti: işlem onayı 150 milisaniyeye indi",
@@ -86,15 +59,15 @@
    "tarih": "2026-10-21T14:24+00:00"
   },
   {
-   "baslik": "Zcash %12 yükseldi, NU7 güncellemesi için 5 Kasım hedefleniyor",
-   "ozet": "Geliştiriciler güncelleme tarihi üzerinde anlaştı. Düğüm senkronizasyon çalışmaları sürüyor.",
+   "baslik": "JPMorgan ilk Bitcoin tahminini yayımladı: 2036'ya kadar en iyi varlık",
+   "ozet": "Banka, uzun vadeli raporunda Bitcoin'in 10 yıl boyunca öne çıkan varlık olacağını öngörüyor. Baz senaryo getirisi %10, iyimser senaryo %16.",
    "etki": "olumlu",
    "coinler": [
-    "ZEC"
+    "BTC"
    ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T10:15+00:00"
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
+   "tarih": "2026-10-21T13:56+00:00"
   },
   {
    "baslik": "OCC, GENIUS Yasası stablecoin kurallarını kesinleştirdi",
@@ -115,24 +88,46 @@
    "tarih": "2026-10-21T12:06+00:00"
   },
   {
-   "baslik": "Drift saldırganı iki günde 109 milyon dolarlık Ether'i Tornado Cash'e yolladı",
-   "ozet": "Nisan'daki 295 milyon dolarlık saldırıyla bağlantılı cüzdanlarda hâlâ 138 milyon dolarlık Ether var; satış baskısı yaratabilir.",
-   "etki": "olumsuz",
+   "baslik": "Bitcoin oynaklığı 2026'nın en düşük seviyelerine yaklaştı",
+   "ozet": "K33'e göre işlem hacmi zayıf. Piyasa Fed kararı ve ABD ara seçimleri gibi gelişmeleri bekliyor; bunlar sert hareket başlatabilir.",
+   "etki": "notr",
    "coinler": [
-    "ETH"
+    "BTC"
    ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T10:13+00:00"
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
+   "tarih": "2026-10-21T11:55+00:00"
   },
   {
-   "baslik": "Avro bölgesinde tahvil faizleri yükseldi, Fransa 24 yılın zirvesinde",
-   "ozet": "Fransa'nın borçlanma maliyeti 24 yılın en yüksek seviyesine çıktı. Tahvil piyasasındaki stres risk iştahını azaltabilir.",
+   "baslik": "Fransa, DeFi'ye erisim sunan borsalara sorumluluk getirmek istiyor",
+   "ozet": "Fransa, AB kurallarinda degisiklik onererek borsalarin DeFi protokollerini kontrol etmesini ve bazi musteri kayiplarindan sorumlu olmasini istiyor.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Reuters",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk5MTWU0OHd6RWtKSTFHNTZ4Q0Q0dFhaNnQzeHBHeTE4Q3BmY2FpaGdCbERYWVItcWE1ejJ2RUtMQ044Q1hGemNOY05vcDl1bHp0Z1pmbF81UW1nQnBCLThwYkh6LXhEOUQ4NGJGYmZ3WGRzTmxqWTV1NThkS3IzWGp4WXlUdjVUWFBlTnJQaw?oc=5",
-   "tarih": "2026-10-21T10:49+00:00"
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/france-liability-crypto-exchange-defi-access",
+   "tarih": "2026-10-21T10:46+00:00"
+  },
+  {
+   "baslik": "Glassnode: Bitcoin'de 87.000-87.700 dolar bölgesi güçlü direnç",
+   "ozet": "2025 sonunda alım yapan yatırımcılar 87 bin dolar civarındaki direnci güçlendirdi. Fiyatın yukarı gidebilmesi için bu bölgenin aşılması gerekiyor.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-21T10:39+00:00"
+  },
+  {
+   "baslik": "Zcash %12 yükseldi, NU7 güncellemesi için 5 Kasım hedefleniyor",
+   "ozet": "Geliştiriciler güncelleme tarihi üzerinde anlaştı. Düğüm senkronizasyon çalışmaları sürüyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "ZEC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/zcash-zec-rallies-12-percent-nu7-mainnet-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-21T10:15+00:00"
   }
  ]
 }
