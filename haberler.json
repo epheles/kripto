@@ -1,41 +1,119 @@
 {
- "guncelleme": "2026-10-22T04:10+00:00",
+ "guncelleme": "2026-10-22T08:10+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin SpaceX bilançosu ve hisselerdeki yükselişle 84-85 bin dolar civarında, haftanın en yükseğine yakın. Öte yandan Suudi Arabistan'daki saldırılar petrolü ve tahvil faizlerini yukarı itti; vadeli hisseler bu sabah hafif geriledi. Hisselerle birlikte hareket eden Bitcoin için teknoloji hisseleri ve petrol izlenmeli.",
+ "ozet": "Bitcoin yapay zekâ endişeleriyle 83 bin doların altına indi; 84-85 bin dolar bölgesi direnç, 82.500 dolar destek olarak izleniyor. ABD spot Bitcoin ETF'lerine üç günde 1,08 milyar dolar giriş oldu, ancak analistlere göre bu henüz sert bir yükseliş için yeterli değil. Dolar üç haftanın dibinde, Asya hisseleri üç aylık dipte; Fed toplantısı yaklaşırken tahvil faizleri ve teknoloji hisseleri kripto için belirleyici.",
  "takvim": [
-  "Cuma 23 Ekim: Piyasa için önemli bir test başlıyor (CNBC); ayrıntı ham haberde yok, hisse ve kripto oynaklığı artabilir."
+  "Fed toplantısı yaklaşıyor (tarih ham haberde yok): Faiz yönü ya da tahvil faizlerinde çıkış kripto fiyatlarını oynatabilir.",
+  "Çin'in 61.800 BTC müsadere davası: Gelişmeler Bitcoin arz algısını etkileyebilir."
  ],
  "haberler": [
   {
-   "baslik": "ABD vadeli hisseler geriledi, teknoloji rallisi zayıfladı",
-   "ozet": "Bilanço sonrası gelen teknoloji yükselişi soldu. Kripto hisselerle birlikte hareket ettiği için dikkat edilmeli.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
-   "tarih": "2026-10-22T01:06+00:00"
+   "baslik": "Bitcoin 83 bin doların altına indi",
+   "ozet": "Yapay zekâ endişeleri risk iştahını zayıflattı ve Bitcoin 83 bin doların altına geriledi.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEg5MlR0cUtacXN1aGtzX2FxMFdqYkhhSGNPQnhkZHNLb0FqSVNuQS1FdHViQi0xcVlpeUhHUFpYRHM5YUkxVWtfV1ZkTExvbUhDMm52eVFJYldwQ1hFUWNNeXVWVU8zcFJIWkZ4RTV1S3BTUEVNS0htMjVUaFU3cHNoUzZYSk4tWmJLSERYUm5kaElhdnBfQ1BSTFIwNHJWcXU0a3FBXy1nZDd6X2U4?oc=5",
+   "tarih": "2026-10-22T04:54+00:00"
   },
   {
-   "baslik": "Suudi Arabistan'daki saldırı petrolü yükseltti",
-   "ozet": "Aramco petrol sahasına ve bir havalimanına yapılan saldırı Orta Doğu'da arz endişesini artırdı. Petrol ve tahvil faizi yükselirse riskli varlıklar baskı görebilir.",
+   "baslik": "Bitcoin 85 bin dolara yaklaşıp geri çekildi",
+   "ozet": "BTC 84 bin dolar direncini aştı, sonra teknoloji vadelileri düşünce 82.500 dolar desteğine döndü. Analistler bu seviyeyi izliyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+   "tarih": "2026-10-22T03:51+00:00"
+  },
+  {
+   "baslik": "Bitcoin ETF'lerine 528 milyon dolar daha girdi",
+   "ozet": "ABD spot Bitcoin ETF'leri üç işlem gününde 1,08 milyar dolar çekti; ekim ayı girişleri artıya döndü. Talep fiyatı destekleyebilir.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-22T07:37+00:00"
+  },
+  {
+   "baslik": "ETF girişleri sert yükseliş için henüz yetersiz",
+   "ozet": "Geçmiş sert yükselişler günde yaklaşık 235 milyon dolarlık net girişle gelmişti; fonlar bu hıza henüz ulaşmadı.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+   "tarih": "2026-10-22T04:41+00:00"
+  },
+  {
+   "baslik": "Çin, 61.800 BTC'ye el koymak istiyor",
+   "ozet": "Çin savcıları 5,7 milyar dolarlık dolandırıcılık dosyasındaki 61.800'den fazla Bitcoin'in müsaderesini talep ediyor. Bu BTC ileride satılırsa piyasaya arz baskısı gelebilir.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+   "tarih": "2026-10-22T06:24+00:00"
+  },
+  {
+   "baslik": "ABD tahvil faizlerinde çıkış ihtimali, Fed toplantısı yaklaşıyor",
+   "ozet": "BMO, Fed toplantısının tahvil faizleri için tetikleyici olabileceğini söylüyor. Faizler yükselirse kripto gibi riskli varlıklar baskı görebilir.",
    "etki": "olumsuz",
    "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcGpORlFHazhXTnJBNnc2TndhSzgzUGRSLXd1Zm9fb0xKRzJZTUs1NGRPdE9McUpmZFlFenhNaGYwOGNIREM5NXRMMTZ4VXg5clJDaWFqcGRKRDRBSUh1bUpLenQ4ZTdyQi1qT1p3RjhRT0V6UVdUdGFuLWJxakVvMHRRanRvUGduVXA1bkZmaWlNRHFlOEdhVFhxTHAzUQ?oc=5",
-   "tarih": "2026-10-22T00:36+00:00"
+   "kaynak": "CNBC",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lbGJYZXRXMEZYcGp3ZTUxMU5nbmNtNzdXM213VWpCaUtUMFhnVjFKVXQ1ZGNPaXJMQjNzczluWEhZWDR6TFBKUmgyZGNudTFXZVlMRzA1NEE0REQ4bC1qSVpTUk1ZSzZGNmJXSjJ3ejFUS3NOSjNscmF3cDFlQQ?oc=5",
+   "tarih": "2026-10-22T06:11+00:00"
   },
   {
-   "baslik": "Altın, Orta Doğu ve Fed beklentisiyle hafif düştü",
-   "ozet": "Yatırımcılar Orta Doğu işaretlerini ve Fed'in faiz yolunu tartıyor. Faiz görünümü belirsizliğini koruyor.",
-   "etki": "notr",
+   "baslik": "Dolar üç haftanın en düşüğünde",
+   "ozet": "Yeni yapay zekâ endişeleri doları üç haftalık dip seviyesine çekti. Zayıf dolar genelde kripto için destekleyici sayılır.",
+   "etki": "olumlu",
    "coinler": [],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm9iTkZnZUdhMG5jYWozVjdVVnFsNDFKbmNoSGZMMkZINmxkNkRzNU1MTVdCaDhlQms1S2F4OTVuaHkyWmpLQ1JjNnFfS3M1bDE1RlZ6Zm1saUVURXJKcmRhWVNkV292Sl9PYWlJVkdFVHdSZnREOGpHeno0dVZ2V19BWE9JbXdSYkh1VzVvMU14T1BrbW5rZkxiZWxueVRYQktRaGRPTTZyRExYRUZfOHpWaGc?oc=5",
-   "tarih": "2026-10-21T23:56+00:00"
+   "kaynak": "WSJ",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlk3OFJDQVMtZXpTSlpOUUhORWhBWGJ1TnZHZi1pdllyLW9iWGlNYmtSTFljV21LaGNHOTAxNExCUWMyTEdxdU1fbEVuRTVPSlh2eVdGUnNtdDczdUZNVzlVUDhBRjRjV2N0dFNtU05YUTVnY2p0bWdGTzlFanc5Umt4NnpRN3V5Z3gxRTI0eXJVcWs3cHFsR0dsVC1Tb08yUzhteHJFYlhqNnpYR2lGRg?oc=5",
+   "tarih": "2026-10-22T07:02+00:00"
   },
   {
-   "baslik": "Üç şirket SEC'e tokenlaştırılmış hisse işlemi bildirdi",
-   "ozet": "SEC, tokenlaştırılmış hisse listelemek isteyen şirketlerin başvurusunu alıyor. Zincir üstü finansın düzenleme altında büyümesi anlamına geliyor.",
+   "baslik": "Teknoloji bilançoları sonrası yapay zekâ hisseleri sendeledi, petrol yükseldi",
+   "ozet": "Hisseler zayıfladı, petrol yükseldi. Bitcoin son dönemde teknoloji hisseleriyle birlikte hareket ediyor.",
+   "etki": "olumsuz",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bloomberg",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
+   "tarih": "2026-10-22T06:00+00:00"
+  },
+  {
+   "baslik": "Asya hisseleri 3 ayın dibinde",
+   "ozet": "Teknoloji kaygıları ve Körfez'deki gerginlik Asya borsalarını üç aylık en düşük seviyeye itti.",
+   "etki": "olumsuz",
+   "coinler": [],
+   "kaynak": "Reuters",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
+   "tarih": "2026-10-22T02:15+00:00"
+  },
+  {
+   "baslik": "Solana'da 2020'den beri en büyük ağ değişikliği devrede",
+   "ozet": "Yeni oylama sistemi yaklaşık 150 milisaniyelik işlem kesinliği hedefliyor; ödeme ve para yatırma beklemelerini kısaltabilir.",
+   "etki": "olumlu",
+   "coinler": [
+    "SOL"
+   ],
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+   "tarih": "2026-10-22T05:24+00:00"
+  },
+  {
+   "baslik": "Üç şirket tokenize hisse işlemi için SEC'e bildirim yaptı",
+   "ozet": "Üç şirket tokenize hisse senedi işlemi başlatma niyetini SEC'e bildirdi.",
    "etki": "olumlu",
    "coinler": [],
    "kaynak": "Bitcoin Magazine",
@@ -43,88 +121,27 @@
    "tarih": "2026-10-21T20:55+00:00"
   },
   {
-   "baslik": "Standard Chartered, kripto saklama şirketi Zodia'yı alıyor",
-   "ozet": "İngiliz banka Zodia Custody ile anlaştı ve Bitcoin ile kripto saklama hizmetlerini kendi bünyesine katacak.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
-   "tarih": "2026-10-21T17:28+00:00"
-  },
-  {
-   "baslik": "OCC stablecoin kuralları netleşti, bankalar itiraz ediyor",
-   "ozet": "GENIUS Yasası kuralları kesinleşti. Bankacılar, getiri (faiz) hükümlerinin Kongre'yi zayıflattığını savunuyor.",
-   "etki": "notr",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T17:10+00:00"
-  },
-  {
-   "baslik": "Tesla-SpaceX birleşirse dev Bitcoin sahibi doğar",
-   "ozet": "İki şirketin yönetim kurulları birleşmeyi inceliyor. Tesla'nın 11.509, SpaceX'in 18.712 BTC'si tek bilançoda toplanır (yaklaşık 2,5 milyar dolar).",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Decrypt",
-   "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
-   "tarih": "2026-10-21T16:16+00:00"
-  },
-  {
-   "baslik": "Kalshi, Bitcoin teminatlı kaldıraçlı vadeli işlem sunacak",
-   "ozet": "Platform Bitcoin karşılığı kredi ile kaldıraçlı bahis imkânı tanıyacak; BitGo ile üçlü bir yapı kuruluyor.",
+   "baslik": "Bankacılar OCC'nin stablecoin kurallarına karşı çıktı",
+   "ozet": "Amerikan Bankacılar Birliği, OCC'nin GENIUS yasası kurallarındaki getiri (faiz) değişikliklerinin Kongre'yi zayıflattığını savunuyor.",
    "etki": "notr",
    "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWNtM2t3aWlnWjJMa3Y1SnE2dXFiYVZZTktlZzZXekxpenVsUVdKMktZRHM1Z1Y4ZWdXcHhzY19RVmw5X2NsaXk5NzJ6ZjNDaXhFQmpxZ3hpV01XZVNDWTJTMEQ5b2RZeEhMNkQzYzM2d3pkbTBzdTd1SEcyYlZUdk8xdk5JOHViMndzQUZHUDBRT1hxOUJEYnRmNWhqYzhxVjFHQ3FUVU1xS3FJak9rS2VsZG1mQQ?oc=5",
-   "tarih": "2026-10-21T15:47+00:00"
-  },
-  {
-   "baslik": "Bitcoin 84.600 dolara çıktı, hisseler yükseldi",
-   "ozet": "SpaceX'in beklenenden iyi bilançosu ABD borsalarını yukarı çekti; Bitcoin 85 bin dolara yaklaştı. Risk iştahı kripto fiyatını destekliyor.",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
+    "USDT",
+    "USDC"
    ],
    "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T15:13+00:00"
+   "link": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-21T21:53+00:00"
   },
   {
-   "baslik": "Grayscale, 10 kripto fonunda ayni alım-satım getirdi",
-   "ozet": "Uygun yatırımcılar token vererek fon payı alabilecek; nakde çevirmeye gerek kalmıyor.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "The Block",
-   "link": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
-   "tarih": "2026-10-21T15:12+00:00"
-  },
-  {
-   "baslik": "Solana'da Alpenglow yayında, işlem kesinliği saniyenin altında",
-   "ozet": "Solana'nın ilk büyük konsensüs güncellemesi canlıya alındı; kesinlik süresi 12,8 saniyeden yaklaşık 150 milisaniyeye düşüyor.",
-   "etki": "olumlu",
+   "baslik": "XRP Ledger hata düzeltmesi Kasım'a kaldı",
+   "ozet": "Doğrulayıcı desteği iki saat boyunca düştüğü için güncelleme ertelendi; destek şu an 31'e geri çıktı.",
+   "etki": "notr",
    "coinler": [
-    "SOL"
+    "XRP"
    ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T13:57+00:00"
-  },
-  {
-   "baslik": "JPMorgan ilk kez Bitcoin için uzun vade tahmini yaptı",
-   "ozet": "Banka, 2036'ya kadar Bitcoin'i en iyi performans gösteren varlık olarak görüyor; hedef getirisi %10 (temel) ve %16 (iyimser).",
-   "etki": "olumlu",
-   "coinler": [
-    "BTC"
-   ],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
-   "tarih": "2026-10-21T13:56+00:00"
+   "kaynak": "CoinDesk",
+   "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+   "tarih": "2026-10-22T04:36+00:00"
   }
  ]
 }
