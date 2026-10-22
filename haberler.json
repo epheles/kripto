@@ -1,14 +1,14 @@
 {
- "guncelleme": "2026-10-22T00:05+00:00",
+ "guncelleme": "2026-10-22T01:10+00:00",
  "duygu": "karisik",
- "ozet": "Bitcoin, SpaceX bilançosu ve teknoloji hisselerindeki yükselişle 84-85 bin dolar bandında, haftanın zirvesine yakın. Gece saatlerinde ABD hisse vadelileri geriliyor. Orta Doğu gerilimi petrolü ve tahvil faizlerini yukarı itiyor; bu riskli varlıklar için baskı unsuru. ABD'de stablecoin kuralları kesinleşti, banka-kripto tartışması sürüyor.",
+ "ozet": "Bitcoin, SpaceX bilançosunun getirdiği risk iştahıyla 84.500-85.000 dolar bandında, haftanın zirvesine yakın. Gece saatlerinde ABD hisse vadelileri geriliyor; Orta Doğu gerilimi petrolü ve tahvil faizlerini yukarı itiyor, bu da riskli varlıklara baskı olabilir. Bitcoin oynaklığı yılın en düşük seviyelerine yakın; Fed kararı ve ABD ara seçimleri öncesi sert hareket gelebilir.",
  "takvim": [
-  "Önümüzdeki günler: Orta Doğu gelişmeleri ve tahvil faizleri takip edilmeli. Faizler yükselmeye devam ederse riskli varlıklar baskı görebilir."
+  "Önümüzdeki günler: Fed kararı ve ABD ara seçimleri piyasanın ana gündemi. Orta Doğu gelişmeleri ve tahvil faizleri de takip edilmeli."
  ],
  "haberler": [
   {
-   "baslik": "ABD vadelileri geriledi, teknoloji bilanço rallisi zayıflıyor",
-   "ozet": "Bloomberg'e göre teknoloji bilançolarının yarattığı yükseliş hız kaybediyor ve ABD hisse vadelileri hafif düşüyor; riskli varlıklar için kısa vadeli baskı işareti.",
+   "baslik": "ABD vadelileri geriledi, teknoloji rallisi zayıflıyor",
+   "ozet": "Bloomberg'e göre teknoloji bilançolarının yarattığı yükseliş hız kaybediyor ve hisse vadelileri düşüyor. Kripto genelde hisse piyasasının havasını izlediği için dikkat gerektiriyor.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -16,8 +16,8 @@
    "tarih": "2026-10-21T22:13+00:00"
   },
   {
-   "baslik": "Bankacılar derneği OCC'nin stablecoin kurallarına karşı çıktı",
-   "ozet": "ABA, kesinleşen kuralların stablecoin getirisiyle ilgili hükümlerde Kongre'yi zayıflattığını savundu. Banka-kripto tartışması sürüyor.",
+   "baslik": "Bankalar, stablecoin kurallarına tepki gösterdi",
+   "ozet": "Amerikan Bankacılar Birliği, OCC'nin kesinleşen GENIUS Yasası kurallarının Kongre'yi zayıflattığını savunuyor. Banka-kripto sürtüşmesi stablecoin düzenlemesinde sürüyor.",
    "etki": "notr",
    "coinler": [],
    "kaynak": "Cointelegraph",
@@ -25,26 +25,8 @@
    "tarih": "2026-10-21T21:53+00:00"
   },
   {
-   "baslik": "ABD, Suudi Arabistan'daki bazı personelini çıkarıyor",
-   "ozet": "Husi saldırıları sonrası ABD bazı personelini Suudi Arabistan'dan ayrılmaya yönlendirdi. Jeopolitik risk artarsa piyasalarda dalgalanma görülebilir.",
-   "etki": "olumsuz",
-   "coinler": [],
-   "kaynak": "Financial Times",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFN3LVkzSWF1d1BMQzZBNVBaYXlrdW9VVjY2TGxYcUltN2dPaklUZDRKUFJLQ2hpOUNvaVhPRDh6OHkwWDRWNHYzOFJNY2F6dzBUTm92LUQyZmV2dTNWSTA4OFVCOF9nb1BoV0xWQlphZmE1ekNidW1HMExEZ280aXc5SlU?oc=5",
-   "tarih": "2026-10-21T20:58+00:00"
-  },
-  {
-   "baslik": "Üç şirket SEC'ye tokenize hisse işlemi başlatma niyetini bildirdi",
-   "ozet": "SEC'ye tokenize hisse işlemleri için başvuru bildirimi yapıldı; geleneksel piyasaların zincir üstüne taşınması hızlanıyor.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Bitcoin Magazine",
-   "link": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
-   "tarih": "2026-10-21T20:55+00:00"
-  },
-  {
-   "baslik": "Orta Doğu gerilimi petrolü yükseltti, ABD tahvilleri düştü",
-   "ozet": "Orta Doğu'daki gerilim haberi petrolü yukarı itti, ABD tahvilleri değer kaybetti. Yükselen faizler riskli varlıklar için baskı unsuru olabilir.",
+   "baslik": "Orta Doğu gerilimi petrolü yükseltti, tahviller düştü",
+   "ozet": "Bloomberg'e göre Orta Doğu'daki gerilim haberi petrolü yukarı itti, ABD tahvilleri değer kaybetti. Faizlerin yükselmesi kripto gibi riskli varlıklar için genelde baskı demek.",
    "etki": "olumsuz",
    "coinler": [],
    "kaynak": "Bloomberg",
@@ -52,8 +34,8 @@
    "tarih": "2026-10-21T19:46+00:00"
   },
   {
-   "baslik": "Bitcoin haftanın zirvesinde: 84.500 dolar",
-   "ozet": "Bitcoin 84.500 dolar civarına çıktı; XRP ve Zcash öncülüğünde piyasa ekim ayındaki düşüşten toparlanıyor.",
+   "baslik": "Bitcoin haftanın zirvesinde, kripto toparlanıyor",
+   "ozet": "Bitcoin 84.500 dolar civarına çıktı; XRP ve Zcash toparlanmayı öne çıkardı. Ekim ayındaki düşüşün ardından 'Uptober' beklentisi geri döndü.",
    "etki": "olumlu",
    "coinler": [
     "BTC",
@@ -66,25 +48,18 @@
   },
   {
    "baslik": "Standard Chartered, kripto saklama şirketi Zodia'yı satın alıyor",
-   "ozet": "İngiliz banka Zodia Custody'yi satın almak için anlaşma imzaladı; büyük bankaların kripto altyapısına girişi sürüyor.",
+   "ozet": "İngiliz bankası Standard Chartered, Zodia Custody'yi almak için anlaşma imzaladı. Büyük bir bankanın kripto saklama alanına girmesi kurumsal ilgiyi gösteriyor.",
    "etki": "olumlu",
-   "coinler": [],
+   "coinler": [
+    "BTC"
+   ],
    "kaynak": "Bitcoin Magazine",
    "link": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
    "tarih": "2026-10-21T17:28+00:00"
   },
   {
-   "baslik": "OCC stablecoin için GENIUS Yasası kurallarını kesinleştirdi",
-   "ozet": "OCC, stablecoin rezervleri ve geri ödemelerine ilişkin kuralları kesinleştirdi. Bakan Bessent yasayı ABD finansı için 'dönüm noktası' olarak niteledi.",
-   "etki": "olumlu",
-   "coinler": [],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T17:10+00:00"
-  },
-  {
-   "baslik": "SpaceX-Tesla birleşmesi dev bir Bitcoin hazinesi yaratabilir",
-   "ozet": "Musk, iki şirketin yönetim kurullarının birleşmeyi incelediğini söyledi. Tesla'nın 11.509, SpaceX'in 18.712 BTC'si tek çatı altında toplanabilir.",
+   "baslik": "SpaceX-Tesla birleşirse dev bir Bitcoin hazinesi doğar",
+   "ozet": "Musk, iki şirketin yönetim kurullarının birleşmeyi incelediğini söyledi. Birleşirse Tesla'nın 11.509 BTC'si ile SpaceX'in 18.712 BTC'si tek bilançoda toplanacak.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -94,20 +69,8 @@
    "tarih": "2026-10-21T16:16+00:00"
   },
   {
-   "baslik": "Blockchain kuruluşları SEC'den daha net kripto kuralları istedi",
-   "ozet": "Altı büyük blockchain kuruluşu, SEC'nin önerdiği çerçevede dijital emtiaların menkul kıymet sayılmaması çağrısı yaptı.",
-   "etki": "olumlu",
-   "coinler": [
-    "LINK",
-    "ADA"
-   ],
-   "kaynak": "Cointelegraph",
-   "link": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "tarih": "2026-10-21T16:09+00:00"
-  },
-  {
-   "baslik": "Bitcoin 85 bin dolara yaklaştı, hisseler yükselişte",
-   "ozet": "SpaceX'in beklentilerin üzerinde bilanço açıklaması ABD borsalarını yukarı çekti, Bitcoin de 85 bin dolara yaklaştı.",
+   "baslik": "Bitcoin SpaceX bilançosuyla 84.600 dolara çıktı",
+   "ozet": "Cointelegraph'a göre SpaceX'in beklentilerin üstündeki bilançosu ABD hisselerini yükseltti, Bitcoin de 85.000 dolara yaklaştı.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -118,7 +81,7 @@
   },
   {
    "baslik": "Kalshi, Bitcoin teminatlı kredilerle kaldıraçlı vadeli işlem sunacak",
-   "ozet": "Kalshi, Bitcoin teminatlı kredilerle kaldıraçlı vadeli işlem imkânı tanıyacak; kripto türev piyasası genişliyor.",
+   "ozet": "Bloomberg'e göre Kalshi, Bitcoin karşılığı alınan kredilerle kaldıraçlı vadeli işlem bahislerine izin verecek. Kripto türev piyasasına yeni bir kanal açılıyor.",
    "etki": "olumlu",
    "coinler": [
     "BTC"
@@ -126,6 +89,48 @@
    "kaynak": "Bloomberg",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWNtM2t3aWlnWjJMa3Y1SnE2dXFiYVZZTktlZzZXekxpenVsUVdKMktZRHM1Z1Y4ZWdXcHhzY19RVmw5X2NsaXk5NzJ6ZjNDaXhFQmpxZ3hpV01XZVNDWTJTMEQ5b2RZeEhMNkQzYzM2d3pkbTBzdTd1SEcyYlZUdk8xdk5JOHViMndzQUZHUDBRT1hxOUJEYnRmNWhqYzhxVjFHQ3FUVU1xS3FJak9rS2VsZG1mQQ?oc=5",
    "tarih": "2026-10-21T14:26+00:00"
+  },
+  {
+   "baslik": "Solana'da Alpenglow yükseltmesi canlıya alındı",
+   "ozet": "Solana, işlem kesinleşme süresini 12,8 saniyeden yaklaşık 150 milisaniyeye indiren Alpenglow'u devreye aldı. Ağın hızı için büyük bir adım.",
+   "etki": "olumlu",
+   "coinler": [
+    "SOL"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+   "tarih": "2026-10-21T14:24+00:00"
+  },
+  {
+   "baslik": "JPMorgan ilk kez Bitcoin fiyat öngörüsü yayımladı",
+   "ozet": "JPMorgan, uzun vadeli raporunda Bitcoin'i 2036'ya kadar en iyi performans gösteren varlık olarak gösterdi; temel senaryoda yıllık %10, iyimser senaryoda %16 getiri hedefliyor.",
+   "etki": "olumlu",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "Bitcoin Magazine",
+   "link": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
+   "tarih": "2026-10-21T13:56+00:00"
+  },
+  {
+   "baslik": "OCC, GENIUS Yasası stablecoin kurallarını kesinleştirdi",
+   "ozet": "OCC'nin nihai kuralı stablecoin ihracını ve bazı saklama faaliyetlerini kapsıyor; çerçeve Ocak ortasında yürürlüğe giriyor. Stablecoin sektörü için netlik sağlıyor.",
+   "etki": "olumlu",
+   "coinler": [],
+   "kaynak": "Cointelegraph",
+   "link": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "tarih": "2026-10-21T12:26+00:00"
+  },
+  {
+   "baslik": "Bitcoin oynaklığı 2026'nın en düşük seviyelerine yaklaştı",
+   "ozet": "K33'e göre işlem hacmi zayıf; piyasa Fed kararı ve ABD ara seçimlerini bekliyor. Düşük oynaklık sonrası sert bir hareket gelebilir.",
+   "etki": "notr",
+   "coinler": [
+    "BTC"
+   ],
+   "kaynak": "The Block",
+   "link": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
+   "tarih": "2026-10-21T11:55+00:00"
   }
  ]
 }
