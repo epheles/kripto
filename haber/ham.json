@@ -1,7 +1,966 @@
 {
- "adet": 87,
+ "adet": 143,
  "hatalar": [],
  "haberler": [
+  {
+   "kaynak": "Decrypt",
+   "tarih": "2026-11-09T19:06+00:00",
+   "baslik": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+   "aciklama": "U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday’s inflation report set to test bets on a December Fed rate hike.",
+   "link": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation"
+  },
+  {
+   "kaynak": "WSJ",
+   "tarih": "2026-11-09T18:50+00:00",
+   "baslik": "France, U.S. Suspect Iran Was Behind Cyberattack on European Fridges - WSJ",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU5pb3psb2FBQVpFOHg3c2xOb25DQzBmMGpmb2ZxMHBpRUF5MXhQZ2Y1Tmw4UXhxLVNxTnBmc05TelMxUURxUlNSZjFib2pHTGZydk9RSzdtZ18tdi1MaGJneWRRUFY5YTc0WlZuSjBnWHBmM084Q3hmZndYclVqSnd6U2ZEbnpPcWVscmNLMnpIa3BRc2xfX1pvVkhxb1l2NnpxZWx0X3hOMEFJ?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T18:46+00:00",
+   "baslik": "Fed’s Goolsbee Says Officials Must Address Inflation Failure - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0Q1dF91TjRsdE8tTy0wZ3hOSEtjYUxwVHJzd2N5YmUxcmFMbG9YMEp2UHZJbUZERUh3cGFrcEthM25rNHF6U0pJTnNuUXJYeGdWRWNvbEJ4TC1yNTNPUGZfT3NRM3JNRjlVOXBhaHRCNDAydEQxQW5hTXFTcXo1NjQ2aXdkRjFhdHNmZDBxUnhjZi11azgwLWJxV2wxTUZPY3dwWmROaE9aX2NJVGlwbw?oc=5"
+  },
+  {
+   "kaynak": "Decrypt",
+   "tarih": "2026-11-09T18:31+00:00",
+   "baslik": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
+   "aciklama": "Nvidia shares slid as much as 8% amid spy allegations. The stock was already weakening, and investors now face a bigger question: Who replaces Jensen Huang if he suddenly leaves?",
+   "link": "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T18:30+00:00",
+   "baslik": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
+   "aciklama": "Fulton’s complaint cites a recorded Buterin conversation and alleges discrimination and retaliation.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T18:25+00:00",
+   "baslik": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+   "aciklama": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.",
+   "link": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T18:25+00:00",
+   "baslik": "France accuses Iran of cyber attacks on supermarket refrigerators - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzNibTYzS0dDZzM1NDJweV9ac1M2TkJfS3daVmVhV0l4dWxDYklNNzlBT3E3d2xCZXh1dE9qLThhcU1abUVZdWxfUHl5cG53Wk9RenBqdE1BNXp5UHdnQndSMllsQm9vZVdNcF80T0Y4bmNFQjJSUmxmM2xGQjl6UXMxc08?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T18:13+00:00",
+   "baslik": "Russian strikes aim to cut Ukraine in half, Zelenskyy warns - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeHBnamJTa0pVQ0g3dVFFNlVIOXRvLTE0QVRmbVVNcnY5c3d5MHVHUEdCQXhlZEpUZU1XaUFHZWMyUkFoRHVva2Mwc3FhdEtKRy1Vdl9kbERTYndCalNWMXpFQXUzZTI2ZnBRSWkyTUs3bFlRRUNDMF9zY2liSHJIajBsSjE?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T17:57+00:00",
+   "baslik": "The AI Situation Has Never Been More Fraught - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0JOX21MVTN5Sm9Fc3Jpc3dNS3V5UkZScmZqcWIyYnFFTHBwM3lXOUJpcnItMGg4UlhsWkJPVmtWRFRpNTFCYllDYTRpV2trdGtnZjVvbTNJcVUzbkJXM21abXZwXzUzMkFCQ2NFOWtQaThGMGpJWDVlaTlIZGVYMDRYckFDRGdZOW9QQV9FTWh6OW5Mai1XY3RNX1NQRXc?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T17:52+00:00",
+   "baslik": "How the world became too reliant on Jensen Huang - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTV9xQktxRHFpcEZCeXBzNThaRnVtYzc1NEVUTEZlV1hzelhvQ1dPUEJmQUJyWHVuSVFSVTkzS2RudVh4aGtvTEo5d1FzX042QXl5M2YtQkRfVkQ1dnlJc1pmYlA2NHVEWG94XzdTcmRjUTJObUlkNUptRmZVaTRMa0luaXU?oc=5"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T17:48+00:00",
+   "baslik": "PNC Bank tests turning USDC payments into dollar deposits",
+   "aciklama": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
+   "link": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "Decrypt",
+   "tarih": "2026-11-09T17:46+00:00",
+   "baslik": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
+   "aciklama": "Operating under the SEC’s “Innovation Exemption,” the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock.",
+   "link": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T17:41+00:00",
+   "baslik": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+   "aciklama": "Avalanche’s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
+   "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "WSJ",
+   "tarih": "2026-11-09T17:41+00:00",
+   "baslik": "U.S. Stocks Jump Despite Nvidia Slide - WSJ",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0N4MG4xaFJUQjN1c2hSV2dIbjI3UlptZ3BDenpiYmFNdVkzOFVlSFcxSGJiSDY1bTBkckZnMldxaTBzaWxqWkRzaGlaTmtzVXI3MkRqM2NHeHhsZHJsVDNSQWdtRTA1cEM1OWNkYnlYeVZGRjBlZldWSklJVVIxN0NFQnhsbFF4dGRocHRSa1BuZXJaMmRLOFpCQ3A0RlY4cC0xbEVYU2gzeW0xTkhoSjRPSEx3cEV0?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T17:39+00:00",
+   "baslik": "Mexico’s Inflation Accelerates With Banxico Rate Policy in Focus - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOUdzZDMzcmFwSkU4OE1WWWtFVU4yMEt0TURNMWxCRzdMTDdScW9yb0ZVWjlmTXBhZ2NmVjZvM3ZMSmRLbTBJb2d6ZHVQMnJmQkdwWGUwaTFMc0thcHVCTmFKVVZtandqbEpfeG40aUZibW5UZkhmMkg5M3B3ZFpzTy1EcHl6OVhhT1llMXZzNTZrdXdYa3JTYzljQS13S2htcDhfM2RJUWJBYlR5S3ZNTTlIZ0lFZw?oc=5"
+  },
+  {
+   "kaynak": "Bitcoin Magazine",
+   "tarih": "2026-11-09T17:26+00:00",
+   "baslik": "North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot",
+   "aciklama": "Bitcoin Magazine North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot Elliptic says North Korean launderers created six throwaway meme tokens on NEAR between Nov. 5 and 7, moving about $430,000 of stolen Binance funds through homemade liquidity pools. This post North Korea Is Minting Its Own Meme Coin",
+   "link": "https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack"
+  },
+  {
+   "kaynak": "Reuters",
+   "tarih": "2026-11-09T17:23+00:00",
+   "baslik": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts - Reuters",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYVZsYWtjTnU4dVhYU3o4LWJCeVdPOUNhNGdUVUhLdG1iZTE3REw3QmR6RHRzblFjc3RKYmlvS1JkRlFJakFpMExqdGx2ZDU1OGcxME5OazNFVTVGYTRQLTlSTjFhTk5Wc041TnV5dUtRdGdWWVQwWXRhMzdMaE9sdmdWOFROSGVoOTR1Z201THNOb25PTmdzWkdraGNkWEg2bFljcld6SDM0MzJvdG84amJkNGRBYjJyMDRCemVFMVhUMzZvcTZR?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T17:20+00:00",
+   "baslik": "US regulator orders makers of weight-loss drugs to carry blindness risk warning - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVZsTFdFc2FxSEQzeGgxRUpNbXdUUTNZa1V0aTQ5dlhoRnRLQ1M5bGthNV9SSXhFekF6WkhrX0lvdUtDcVF6aVVBdEZRM1I4MmJtdkFmNFl2Mk0wZmJmbmdOcUNkS0E5elIxY0dQam51NTFvZDNjY1duc2R2dkVTLUxrTmM?oc=5"
+  },
+  {
+   "kaynak": "Decrypt",
+   "tarih": "2026-11-09T17:14+00:00",
+   "baslik": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
+   "aciklama": "The Ethereum co-founder says ETH's value comes from stability, not fee burns, citing its decentralization, censorship resistance and security.",
+   "link": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T17:13+00:00",
+   "baslik": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
+   "aciklama": "Bitcoin rebounded from an 11-week low near $73,500 as the Nasdaq Composite rallied despite sell-off in Nvidia shares.",
+   "link": "https://cointelegraph.com/markets/bitcoin-stocks-nvidia-analyst-68k-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "Decrypt",
+   "tarih": "2026-11-09T17:08+00:00",
+   "baslik": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
+   "aciklama": "The firm’s stash reached 6.07 million ETH—4.97% of supply and 99% of the way to its “Alchemy of 5%” goal—as chairman Tom Lee called Vitalik Buterin’s “ETH is money” comments a “seismic shift.”",
+   "link": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money"
+  },
+  {
+   "kaynak": "Bitcoin Magazine",
+   "tarih": "2026-11-09T17:06+00:00",
+   "baslik": "TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress",
+   "aciklama": "Bitcoin Magazine TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress TD Cowen's Jaret Seiberg puts only a 10% chance on a congressional ban on platform stablecoin yield over the next two years, even as banks renew their push after Democratic midterm wins. This post TD Cowen Gives St",
+   "link": "https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T17:03+00:00",
+   "baslik": "Treasuries Fall Before Auction as Investors Regain Risk Appetite - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzN1VjZIT2ZXUWhseEJDdHFSLS0xUDIyc1ItaW1KRHFpdDJMYVJDWFNib05FTWN5VnlvRzNqbXd4cWpYY2xpcFVYN1J3Smh4WWFJOHY0NEdmRzJWcGxXVnRIbFl2Y3NkTGN1WGpPU29IbU9JVGRVTXNrVDM4ZHRYTDJ4NXpTS21vSVVXZGxra24zeG9EZTlielJ4MnFVZzk5SWpDRFhvZXdrN1FURTBvblp1TVVuZw?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T17:02+00:00",
+   "baslik": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal? - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMmlpMktRVHFwem9ISXJpQ2Y1VjRVa0cwaDhtZWFVSE9talBVVUticlFIUF9ocTBraXBHQUwzZXNqdjVnaC1YcnJFTzhhWVU0UHBwMkhob1JQYWc3SEVLVE0zTFJJcGM3S1V1eFBUMkVIN0Z1b3NmN3ZsdmNWeFlGejRLYmY?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T17:00+00:00",
+   "baslik": "Uber Debuts Parking Reservation Feature After Buying SpotHero - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbktyemJLVVFOOGVJSGxVZUk1RnE2UGMwajlEUzcxbkx5b2JBekhNb3pDeFJDbmp5SlVlV1A1OUY4OTlyYWVCbkx3SGJjWjV4QUJ5R3FwcE5xVlAxVE9qUlhPaWYtRHd4MVJnSlVrekRGN0NObzFoLTlBUXo3OWM3SzdoODRmU0ZieEFjVEIwUHM0Rmk4WFRRZTB3bm9LQnVMbDVLLVZMc3NBX3NZRGh1dXB3?oc=5"
+  },
+  {
+   "kaynak": "Reuters",
+   "tarih": "2026-11-09T16:55+00:00",
+   "baslik": "Honda to build new $3 billion auto plant in Ohio, adding 2,000 jobs - Reuters",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSkdXYUpKY3UyMTliQ3RzNzV5cmJVRGNmdEFuclpHRnNCbm9TblBsQkJJeXcxZDhEZlJhQ3Q3SGI1MWFYbGRkNFhWa0p2dEpfbV9pcmdsTUlzWThScHczTVgwckk2S1JELV9nWnZrbVZxODRIX2xNUFNFODJTQ05HYlI3VDhoNGlaS1pQd05FOG5tOWJ1Z3BTZjdDUkZxYlJPRzhYdnBZSjlWVGs0ZjlkVGlTRmJXOTZ0dTJwd0tPdW8wdw?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T16:49+00:00",
+   "baslik": "Botswana to double De Beers holding to 30% - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQczZ5aFctQll4TzhKenFNb1lvdTdxbXFTSjNKNnAyWW9iYkhnNlF5LVpwTG1lSlJKUlZvTUp2eXNTN2wtVlY2RWxyeXhtYzZ0Q0ZjeXR1NDE5U2UxV0RPZkFWVElHRUw3aFVxQzNHbGhDZFcySXBUOWJaZmt6WDI2VE5DVmI?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T16:45+00:00",
+   "baslik": "Carney Recruits Bridgewater Co-CIO to Run Canada Sovereign Wealth Fund - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNVRvSTdlcFlWQmhWaE84VEhUelVORVRqc0FlVTRHdDFqTW1GWTBGRzBrbVFhbE9ua3R3T21pOEYyM1ZhRUkyOV9fVlhjNDg3VS1LRWhfSVE5d3FhRlVPN29CdkcwOG5LWWZ6bVBySXlKQXkwb0x0dHhsNGdSNzNHb3VPaFkzMzRlMEV5cUdodFRTNXpVQjE1MUI3YjdUMTdPRkZNUi1aTTNtYjR4azBmQUx4UER5U2RNbzd4WW5WZ3lWaUtsSkpWeA?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T16:45+00:00",
+   "baslik": "Tractor Maker CNH Gears Up for Farm Recovery With Plant Revamp - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnZlVE92dGxna1FuejlxaE1xR090Z2w4LVprcDRnM0tGLWJTdnYxUmdfd3F0VjVOc1VRZnNkdWJIY051d0s0dTZyek52TGlyX2VPMGZMNEFEeTZ2TzE0dGhLUmNjYnctTjI1SHFoVlZ6Z05HdElMWEh3dENGMW5MVGRBQ1h2V3A2cklwdVVXVm0wcnlXVDhmTGVSc2cwcTRrcXJzX2Y3clBzTjJ5VTdNZVhtbw?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T16:35+00:00",
+   "baslik": "Oil prices hit 10-week low after Donald Trump says strikes on Iran ‘highly unlikely’ - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcVdMbllYT0JtVGNxZ2ZKdlpxUjBLMWJESlU0emF1eDk0NDdweHBndXV1MEtYV0I3UlZVTTljS1NoUnBLX1VpMVUwVE5jNmM2OU9iMEV5WklTUENZdTlqTUpGMS1nRlNpNzVyclZxbTJGM3B2ODcwem5xNVhVX1I4NldLVUs?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T16:33+00:00",
+   "baslik": "Honda to Spend $3 Billion on New Hybrid Car Plant in Ohio - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdHM2N0JLYjU5WGVIWXRENVhIWkktQmV6OEVMLWh2MzBBb0o5MFFPU1BwQm5Td2cyS01iaW5scjZYY3BnRnV6Y0RwNDRjc2dCTy1DWFpTU2tzLXlHT1A1cUJrRks1b1lwcUdvMU0xWDE3VXBJTV9tZnpXX3lWQXZBWFk2cEZsZnpDY18yTEJfZXFLRlJXMUoxN3hROTFBU2lBR25Yd0JEYjk0UTVjN09DXw?oc=5"
+  },
+  {
+   "kaynak": "Bitcoin Magazine",
+   "tarih": "2026-11-09T16:30+00:00",
+   "baslik": "BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT",
+   "aciklama": "Bitcoin Magazine BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT BlackRock's Robbie Mitchnick told Barron's demand to swap directly held bitcoin for IBIT shares is at its highest yet, with \"security and peace of mind\" the top reason as kidnappings and hacks rise. This post BlackRock: Security Fears Are D",
+   "link": "https://bitcoinmagazine.com/news/blackrock-bitcoin-whales-self-custody-ibit"
+  },
+  {
+   "kaynak": "CNBC",
+   "tarih": "2026-11-09T16:29+00:00",
+   "baslik": "CNBC PRO – Key Moments from Today’s News - CNBC",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sZzBGWC04dWpoQXFUXy1XMzVLRjBndTIwRW5xdUkzMTFNR3daSUU3ZEtvd2ROMnducFRSaDNjZUtsRUhoUE5MZERDbzA4Unc?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T16:26+00:00",
+   "baslik": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalBuZXBLSkx6bEJtdVU0djlRbHRwdlVRNWdTbWJDM2NrRmZVcGg4SV9mdEVONXVWeml3OFgxZWRKMEoxenRCLXVaSXhDdUdRNG55V3ZWS0drMzJwaUJYN3A5cFlpWEt5anBMMEtoa0R1LTIxa3BnS3luNUdPWFIweTY0NEJhS2thcnpqY0YyVEJwZHhxclFyQ3c0OTNETy1aQlFaeHN2R1A3dXg1T0NDU21ycw?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T16:21+00:00",
+   "baslik": "Fund manager Nick Train has best month since 2000 on back of AI sell-off - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVQ5Z2h3ZlNxV2RZb0czWXRPTjZrQ3EwQ0JXVWNZXzFZN0p6cURJVmVaVGpxVmRuejBQQVpZcFRtR3JfeldVX2d3anJhdy1hVXJEci1HbWhIMXpuMGlEMUs2TDBOaFFTRFJaQ19NNUJJZlo1T3VicWlqSy1VOFkwV0ctZVE?oc=5"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T16:19+00:00",
+   "baslik": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+   "aciklama": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.",
+   "link": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T16:12+00:00",
+   "baslik": "Binance Hackers Made Memecoins to Launder Stolen Crypto - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ255QTZlQ3VrTm1FdU1SZ19TZDNVYVB5WVlPWC1tU1k5d0xFdDRrVzUydWQ2YkszdGdxV2txcGVOM09tXzVRRVpSb1JldUstQWN5OWlVNnRlSVQ2ZW5zVS1ENUcxck1hVEg5YkJNNXpnMzJvenNSOWc1TUlzVC00LV9ESWRFd2lNd2xYekt4R0h5ZUlXcVRNT0dTWC1WZWw5VS1TMC1GM3ZIQQ?oc=5"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T16:07+00:00",
+   "baslik": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market",
+   "aciklama": "StoneX initiated coverage of Bullish with a Buy rating and a $42 price target, implying roughly 97% upside from its current levels.",
+   "link": "https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464"
+  },
+  {
+   "kaynak": "Reuters",
+   "tarih": "2026-11-09T16:03+00:00",
+   "baslik": "NY Fed survey finds Americans more worried over future jobless levels - Reuters",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXhtQ01sMkNWc05UbEI3bVUxc2t4ZDM1Vm15aC1iMFV4MXc0OXNsMXpWSmE2TVdzVldTLWljanY5QUlvRm1UUjZ6VEwtZW9uWkZvYVlxczFrY0hjMktLczhmSGdTYmptMGU4YTdjQ3lmZkgwTWl0OWVxUExlV2tYeW45dHNLWjZTdkdoMHlVbVZEUTlXdGNDWjJjSjhETkxoMlJfM3VlVnZsWTFpZHNveE9ZWmg?oc=5"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T16:01+00:00",
+   "baslik": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
+   "aciklama": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase.",
+   "link": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466"
+  },
+  {
+   "kaynak": "Bloomberg",
+   "tarih": "2026-11-09T16:01+00:00",
+   "baslik": "S&P 500 Futures Rise as Oil Falls; Nvidia Sinks on Huang Affair - Bloomberg",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkRSbWhPaUtmRFBUSy10cUNCTFJFSGFWUGJrYUlZcEF0eE9vLWN4azVnVU1HQmYxRDQ4V1lUbGtzM3czZzBKZTNPVWhONkI5V2lxMUVObXFmczNpMWRmMW1vXzU5S0tfa3pubzlra1V0NmRVMjZPM1oxbjJ1Z3VVNUdjY2VMdWZieEVERjRMWGpSQzcyeHdXc1NpaGtWS1VMRlVQbHdpbnlDRTc1TG5FLXFEOA?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T15:56+00:00",
+   "baslik": "Jain’s Equities Head Townie Wells Leaves to Start Own Hedge Fund - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZG5IdmpHSjdqRXhGYmkyWFJQRlFFQkZldTJFU2ZjcXQ2S2VVaFVlRTJWYVh4ZkZhRzJrc3RHU1BucExfWDZUTFdFT1lnMVdRcllOQUhrNTlPOWpEelp2Z2ZLQUt2endHekhMaVc2MjhzSWtrUTVRcTZPUXo2ZXBhcDNWTVhTeDI1dUFPSlJVM0xLS1lqVjJ2eVBiSUdIZzU1YWItbTFUWFRDU2pmVkRRYXdoVUZxUQ?oc=5"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T15:54+00:00",
+   "baslik": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
+   "aciklama": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain.",
+   "link": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440"
+  },
+  {
+   "kaynak": "Bitcoin Magazine",
+   "tarih": "2026-11-09T15:53+00:00",
+   "baslik": "Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29",
+   "aciklama": "Bitcoin Magazine Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29 Binance told users in France, Spain, Italy and Poland to withdraw their crypto, with deposits blocked, accounts closing Dec. 31 and a monthly fee starting Nov. 29, as the exchange still lacks an EU license. This",
+   "link": "https://bitcoinmagazine.com/news/binance-closing-accounts-four-eu-countries"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T15:53+00:00",
+   "baslik": "Stocks Climb as Buyers Step In Despite Nvidia Woes: Markets Wrap - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5"
+  },
+  {
+   "kaynak": "Reuters",
+   "tarih": "2026-11-09T15:51+00:00",
+   "baslik": "French bond turmoil shines spotlight on hedge funds - Reuters",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0Z3RaSkVnaHI1M1YyZXNKZ2dtcFNseHJtZ19uSmJMVV83WW5ZTzNMbVVYSUszaUhCNTQyQTZoVkJPbXJhMXJrNEFPVkhSNlJzMTNkc2ZKaXNQT255R25MdmJzTUdCZ19ORjB1TTVpMkNNV1NhOUhFMlEzVHFzQQ?oc=5"
+  },
+  {
+   "kaynak": "Decrypt",
+   "tarih": "2026-11-09T15:49+00:00",
+   "baslik": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
+   "aciklama": "Ava Labs said Avalanche will serve as the “core ledger technology” for the clearing firm behind the NYSE-affiliated venue, which aims to bring 24/7 trading, clearing and settlement of tokenized securities onchain.",
+   "link": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T15:40+00:00",
+   "baslik": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
+   "aciklama": "Sharplink posted Q3 revenue of $13.5 million and net income of $751.4 million, driven by unrealized ETH gains.",
+   "link": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T15:33+00:00",
+   "baslik": "Russia rations petrol after new Ukrainian strikes on refineries - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVd1TTl3TGdIcE1yeWtZVUJ0UFhsUVZBWVZYaHczRWFWa1lqZndtd1loTS1NcVMxWmNGOGM0bVdDbERZcTRWSGtjSVdFb003NFN2SDhKRWlYTW9iRkVTSXRMeDczaENXclBRVWp5eW1CYkYydFQzWjYyaVJ6WklTYXpiVG8?oc=5"
+  },
+  {
+   "kaynak": "CNBC",
+   "tarih": "2026-11-09T15:31+00:00",
+   "baslik": "Weekend trading of Nvidia scandal shines light on new financial products - CNBC",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXVYUVZFSnB6TkZBTm43ZDdMT2FRckd0Tml4Z3hKU0ZEdlNLbWVQX3ktX0c1SE0xR2xOeC1UMEpvNEs4ank2NVVza0FhdG9qdURieVpFRUZSSVF2cC11Q01VcW9xaFhHWXZuTzhNOG1SM2U4Vkw0WVdzb0V3Mjdqc3M4UzlCOWFzZ2xjLUc3bmJwNS1HbE5qeE1BYlU2T1ZUb09PRnUwVFlRZFU0QlE?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T15:29+00:00",
+   "baslik": "DOJ Civil Division Head Is Latest to Resign After Midterms - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX09rbGpMeUM1OXpXU1FGdTMtTXlqaExONm9TYnFYem9jS1FuQ0R6ZFNyT2hwWU83X1k1aFBSejM2LTRtMndUYzV6NVcySUJtVm91UjJrU19JR1gtSUg5czNhNEgtSXBfUHU0eFpIT3p3dGVVcG5pM1A0b0ZocW56OXpoQU1uQkk0NHh2VFg1YVRrbm5MVG5XVWlhcjZDd1JaTzM4WnZGbFVxX1lVeFE?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T15:27+00:00",
+   "baslik": "Whitbread investors slap down activist Corvex’s bid for board seat - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc2t3MVEzRV9CZERPeF91VXppbW5LMGZ3MFE0RUIzX0FWTy1YTU9SR3BycU5uQlFKaGdzTXRYODZrbWxxcUp5RXgtbG83WEl3UnV3VnJreENIWWoyV1Nra3l6ei1MS2hjUDhnbkJuS3hWaVRHSnVsQkl4MHpHajJEbXZnc0w?oc=5"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T15:20+00:00",
+   "baslik": "Google’s AI chip push adds more pressure on Nvidia",
+   "aciklama": "Google’s specialised AI chips threaten greater competition as Nvidia faces a leadership investigation.",
+   "link": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia"
+  },
+  {
+   "kaynak": "CNBC",
+   "tarih": "2026-11-09T15:20+00:00",
+   "baslik": "Stock Market News - CNBC",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aUzVMTThVN0pvb3RTS0FEQ0Fic2puR01RdHNWYVpSUFI1V1pMcG9Wa2xkUVc5eHA5aVI4MXVsaTFKUQ?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T15:15+00:00",
+   "baslik": "Europe’s No. 1 Pension Manager Ends Active Equities Strategy - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMnNSUFBZb1ZiWk9TelBKOFl5cEtOVGlST1FEaTFuaEN5bkJ3dVRKcThnTlE5cVctNzdsMmlEZnU5TnpiY2dFMlp0eHN2d2g0M3VzUVhfakRZY0pDNFdHQmVVV1l2M2hBaEF1UGpoUG4tRVR6X29mODYzVEFBNGppaWNRUEhHQWZkQy1xTVc3SzhXSGdIVE5yWndQUF81Z3ZfdXAwZ2xGamVuRzItTDdZakZZYzQ?oc=5"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T15:05+00:00",
+   "baslik": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
+   "aciklama": "River Markets' affiliate registered with CFTC as an FCM as it builds a prime brokerage for institutional prediction market traders.",
+   "link": "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T15:00+00:00",
+   "baslik": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+   "aciklama": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.",
+   "link": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack"
+  },
+  {
+   "kaynak": "Bitcoin Magazine",
+   "tarih": "2026-11-09T15:00+00:00",
+   "baslik": "U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too",
+   "aciklama": "Bitcoin Magazine U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too FinCEN and the Federal Reserve formally withdrew a 2020 proposal that would have cut the cross-border funds-transfer threshold from $3,000 to $250 and spelled out that the rules cover crypto, saying any future version needs a fresh comment",
+   "link": "https://bitcoinmagazine.com/news/fincen-fed-withdraw-travel-rule-250"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T15:00+00:00",
+   "baslik": "AI Developers Face 2027 Rate Shock After $1 Trillion Debt Binge - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZFhlUF9VQ1lUclVQSENzZmtEa1l4dGVwZDNZTWZTT1czYTAxSHVyYld2NjB6QWExS1o3U2xWdzhnNXJCVURraUEtcHE5eVJyY01WOG9KNWMzVjRSNnlfX3g4VU44LVpFN2VZemViWVNSOE9ldzlveEwxTldIRTA4T0lhVnUyc05GWXFlaEl4NGtNSG1jOHRvbmRjYWFDdEdVX1VGVG9WTTlKTnBDNXlFWU9TSQ?oc=5"
+  },
+  {
+   "kaynak": "Bitcoin Magazine",
+   "tarih": "2026-11-09T14:37+00:00",
+   "baslik": "Kraken’s Dave Ripley: “That Was the Bear Market” and Bitcoin Is “On Our Way Out of It”",
+   "aciklama": "▶ Bitcoin Magazine Kraken’s Dave Ripley: “That Was the Bear Market” and Bitcoin Is “On Our Way Out of It” Kraken’s Dave Ripley explains why Bitcoin’s rebound past $80K hints the bear market is over, marking the softest macro pullback in the asset’s history. This post Kraken’s Dave Ripley: “That Was the Bear Market” and",
+   "link": "https://bitcoinmagazine.com/videos/krakens-dave-ripley-that-was-the-bear-market-and-bitcoin-is-on-our-way-out-of-it"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T14:32+00:00",
+   "baslik": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
+   "aciklama": "Bitmine bought another 9,587 ETH last week, closing in on its target of 5% of Ethereum's circulating supply.",
+   "link": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T14:28+00:00",
+   "baslik": "Russell Brand jailed for 10 years and six months for rape and sexual assault - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaFo3VEpKQ3J5RWl3MHVESWRfNGg4RU9xR2E5aHZlNWVhUGRuWklPRDZLMUQ1WlpRR3FRVDJ2ZlN0Q0JiYXBVanVLdHZqWk10QnFQMDJacWh6VHJUNjVOdTFSLXNfOURialNPRHhHRUQwRzdTUlVYYWkyRmUyWnZIdllaekk?oc=5"
+  },
+  {
+   "kaynak": "Bitcoin Magazine",
+   "tarih": "2026-11-09T14:26+00:00",
+   "baslik": "Strive (ASST) Adds 29 Bitcoin for $2.2 Million as Weekly Buys Slow After Crossing 43,000",
+   "aciklama": "Bitcoin Magazine Strive (ASST) Adds 29 Bitcoin for $2.2 Million as Weekly Buys Slow After Crossing 43,000 Strive purchased 29 bitcoin from Oct. 31 to Nov. 6 at an average of $75,721, lifting holdings to 43,153 BTC while cash slipped to $487.6 million and SATS preferred shares edged higher. This post Strive (ASST) Adds ",
+   "link": "https://bitcoinmagazine.com/news/strive-asst-adds-29-bitcoin-holdings-43153"
+  },
+  {
+   "kaynak": "WSJ",
+   "tarih": "2026-11-09T14:24+00:00",
+   "baslik": "U.S. Natural Gas Futures Pick Up As Cold Spell Emerges - WSJ",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHdFTnlnUjFxZHdRNGNqcU1CdFotU3ExdFhHS1hYMk5Zdjd5b2hvQzdCWUt6Ujh5WEpTXy0wM3BqWjJyMzU2dHBWaERDUVQwVVE3MnlBN3JBOUxQUk1JbmlUZTQ2ZWRKdUtUNzZVQ05hZDU3QUw1T254aVE3aS1KTktrWEt3b1BSbVd1X0tENUtJUkllSUpseGRyNWR5eEtOUENXNXl3TEdHUXhJeEhZ?oc=5"
+  },
+  {
+   "kaynak": "Bitcoin Magazine",
+   "tarih": "2026-11-09T14:18+00:00",
+   "baslik": "Coinbase Wins Full Federal Trust Charter From OCC",
+   "aciklama": "Bitcoin Magazine Coinbase Wins Full Federal Trust Charter From OCC Coinbase's custody arm has completed its national trust bank charter with the OCC, upgrading April's conditional approval, but the license does not let it take deposits, make loans or issue stablecoins. This post Coinbase Wins Full Federal Trust Charter",
+   "link": "https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter"
+  },
+  {
+   "kaynak": "WSJ",
+   "tarih": "2026-11-09T14:17+00:00",
+   "baslik": "SiriusXM Chooses Board Member to Be CEO as Witz Steps Down - WSJ",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWpWV3hyMWJXc2tnS0tTVlJicDVGclNOa2dVakJRUk1mQ0N4cFpfZVpNNnh2bjRDaFN3M1Jqa0Qwb2NjR3E5QkNUUlBFSjNXUjZsWHRRbDBZZ01RekN5T3BvQk90akc4ZlJoWHExdVlyVWIzX3lYN21ibzhoRnhzX25ScENfVzdDTHVWeWc2ZVI4Ul9Ec2xhOHpsczdXVUZaZ3V5anhaaw?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T14:09+00:00",
+   "baslik": "Germany issues ultimatum to secure Ukraine funding - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMEZHeDdVWDlfZXBiMmJQYU5RSDhWTEJ0ckNVMWNoQlE5TkJ6MjI0cVpwbGthMnowRzloOXVOTlZZS0J0ZDFNZFdpZlJkWnB1dUwwOE9JMWhndjNSYlg5V0x4WF9NYmV4M1JrN2p2QTVCMzdoY21jM0ZIc2JYRm03bzh0Qmo?oc=5"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T14:07+00:00",
+   "baslik": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
+   "aciklama": "NYSE picked Avalanche to supply the core ledger technology for the clearing firm of its affiliated tokenized-securities platform.",
+   "link": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208"
+  },
+  {
+   "kaynak": "Reuters",
+   "tarih": "2026-11-09T14:07+00:00",
+   "baslik": "PNC to offer stablecoin payments to clients in Coinbase partnership - Reuters",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVdjV2lHeWNUbU1tbm4tVlhFZ1dreUc5QWdQaE9wdXpTaURqdnFWZWh4RkFaNEp1czBNUFUweHFaMlVMQ2ZDdk9xYWJ5eGdldy1oY2NYd0xaU3dWRzR0ZmZQWEUtcVZvbVNOUHBMU0VraTJBdllIMzBnc3ZsSE94QzNQNDJVaElGQUllWjkyTS1qX0ExQ2IyZTVDdEdyVU93NVJWVGVmdFR5ZGhJSklJWWJrQVM?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T14:00+00:00",
+   "baslik": "The labour left is back in America - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTN0VUJpZGllQkktdUpBYll4Zll5bzV6RjdFUUVWNW4yaVVEcEs5amFDVVFMMGhZVDk0WlJmME1UaXQ5enNKZkNMNVQ5ZFRkTjAzSXF2eDVxcGxtOXdDaTlWemc5MlF6TlhHRnp6MkxhUnZDUUNvMmJONi1HYjRvNHgyT0s?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T14:00+00:00",
+   "baslik": "Charles Schwab Makes Solana, Avalanche and Chainlink Available to Trade Through Schwab Crypto™ Accounts - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVFDd3l2cGFNeWJyX3B0ZFBrejl5Ml9WNHY2VzY0RUxkV0xYc3ZKWXJTSWM5M2RCcXY4V1BMcEJvakpaRjJ6U3lLMjNGVlZULUZTaFhfQkJRSHlHRzRReTFmRjFzY3d2Sy0yOUlQNGZoLWQxaVR1MGJHcVlrekctLXQ2cGFHRTE3cldlY3N5LWlwZXU0ZDRLWXM1UUo2MEVTMHFYaGV3?oc=5"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T13:52+00:00",
+   "baslik": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
+   "aciklama": "Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said.",
+   "link": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "Bitcoin Magazine",
+   "tarih": "2026-11-09T13:52+00:00",
+   "baslik": "Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations",
+   "aciklama": "Bitcoin Magazine Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations Bitcoin price fell to $73,477 overnight, its lowest since August, before bouncing to about $74,700 Monday morning as a Nvidia probe, Democratic regulation fears and ETF outflows hit risk appetite. Th",
+   "link": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-to-73477"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T13:50+00:00",
+   "baslik": "Alleged Chinese spy linked to Nvidia chief pitched AI chip deals to investors - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVdBVmhnUnpvZmd0dWRaZjYyWktobjJJQWVEakd1emFsY2M3VHJweE1YbkV1ZDhaWWd0NEJ5VUNRNURZTzl4WGN1ZDg1QXdFTFh0OWVSaldXZmhBN1FyZElrdDMyNUI0S0VoM3dDODdwd0ExQlprR3Y1STRGRHVWMEE0UzA?oc=5"
+  },
+  {
+   "kaynak": "Bitcoin Magazine",
+   "tarih": "2026-11-09T13:49+00:00",
+   "baslik": "Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost",
+   "aciklama": "Bitcoin Magazine Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost Strategy bought 1,036 bitcoin last week for $81.9 million at an average of $79,012, lifting its stack to 850,364 BTC. This post Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost first appeare",
+   "link": "https://bitcoinmagazine.com/news/strategy-mstr-adds-1036-bitcoin-holdings"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T13:40+00:00",
+   "baslik": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+   "aciklama": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market",
+   "link": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T13:36+00:00",
+   "baslik": "Here’s what happened in crypto today",
+   "aciklama": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T13:34+00:00",
+   "baslik": "How AI May Be Aiding, Not Hurting, US Employment Growth - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbkZZeF9UUmkzcE9ZdVZQZGhaeTdXeEdjV0xGSTQ2RF94dDBlSms1dHYwbVNaSDd1TXU3M2RHbGNDNm1mdkVLT0NMNFBHWmNhbkJ1Mm9uN0Fqak81UVc3TFpCMTVVQXVyMFR3c21rdktjbm02anVfRDhLMHJrQWxZZV9vanlxeUhkYVlfSHF4bWpORFpZOHM3amlsLWhrMmRYWUxFbXotZVVlQTU3WmRyYU5MbE1qWG1PTWs3bTg5aEJKaG9MZGlN?oc=5"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T13:30+00:00",
+   "baslik": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
+   "aciklama": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins.",
+   "link": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T13:30+00:00",
+   "baslik": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.07 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $14.3 Billion – Company Announcement - FT.co",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGVzOU1YTEZxb1gwQW14Wl83Q0RGcWFjVWJjeVpmdXhubURMa1JZVXJtVi1MS2JRZm5WalJzR25haVM2Z3UwMm5pcUcwRjRUYTFQbl9RMGRKRnZhUUVPSXhiOWNMbnk3SW1GR29fZ2RVUGtpNWh2Z2RwcHJGLUpZVXZJT3NCQWc1aWh3OWFlVk9hX3ctdWpXVw?oc=5"
+  },
+  {
+   "kaynak": "CNBC",
+   "tarih": "2026-11-09T13:30+00:00",
+   "baslik": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE04aFpjdlVJOWtmLXFJOUtmQjhqUFpEd0xoejR0WGZyS0FYOTVwU3VpcmhlV2xIOGRnZnpLUmoyQTZNQXc?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T13:30+00:00",
+   "baslik": "Empery Digital Announces Update on Midwest Data Center Investment and Share Repurchase Program - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkMzcUlhRTdpenBLNHRQeF85Z3FGT0VfT3N6Y1pPRy16MUVSaU5tMDNBZzhOM2xQbVNLeEdnY3lZdmFZbHUwd3BzYm9va1ctQlc5YlFGZmxZMmU5Qnk1U0JkTGlSRkNneVNIU2Mtd0NISUZLR3c2aWtqSDNVSm53Q1JCR3MzWlNkYXo1c21id0luR0o3T0NRczE2YTNicUE0R2FoLWJB?oc=5"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T13:29+00:00",
+   "baslik": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+   "aciklama": "Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing.",
+   "link": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "Decrypt",
+   "tarih": "2026-11-09T13:24+00:00",
+   "baslik": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
+   "aciklama": "The Bitcoin treasury firm sold $284 million of MSTR stock to fund the moves, days before MSCI names companies facing index removal.",
+   "link": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc"
+  },
+  {
+   "kaynak": "WSJ",
+   "tarih": "2026-11-09T13:23+00:00",
+   "baslik": "Euro Could be Influenced by Risk Sentiment Amid Stock Market Volatility - WSJ",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZUVjSk42R0l4dmpQWTE4dEFNLWs3YzBrMlQ1am1iRTNuMVI2NnFWODVfR0NQR2dSYjZ3c3dVZk95V2s3OEw4YllDcWk3b1huVmc2OWZJRkRXa0xnVXBxMzFXaldwZzc2eEhLZTg1djkzWVY0VkppSlAyZ0lmTC1Mem9LVVVWT1NWUmg3VVY5QnhjREEtSk9lNVZZZGhxTUN5MU9DQ25BZUo3dw?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T13:21+00:00",
+   "baslik": "Emirates’ Clark Says Retirement Plans Derailed by Iran War - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWE1N0gyb1c0dmQzWVBtb0drRmZCb2ZkOFptSVNWT2poTTNmME9yM2pmRXZDWVl4WDRWVnByaGltZkpBY3lnYlhSZjZJMHhqUWpCUlA5Q0xfZ25ySzYxcXZLQS1tODdhM0pLLVJ3eXpIYllfSVJTUkk4X1gwaUVycTdaSS1ZWEl2ZFp2bURXZGV1UTFWazJ4UzJxTlh4TEhsVFlET3dYYXJKdE05?oc=5"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T13:10+00:00",
+   "baslik": "‘Connecting the dots’: Michael Saylor’s Strategy buys another 1,036 bitcoin for $82 million as holdings top 850,000 BTC",
+   "aciklama": "Strategy's total holdings account for more than 4% of bitcoin's supply cap, with $500 million in paper gains.",
+   "link": "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094"
+  },
+  {
+   "kaynak": "WSJ",
+   "tarih": "2026-11-09T13:05+00:00",
+   "baslik": "Exclusive | NYSE to Settle Tokenized Stocks on Avalanche Blockchain - WSJ",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2d1X0JZOHZQalUyeG1sS19PTzltLUpBTWt3cXoyTDF6QjAwdDVzY0tYZVBaUTFObzBKTGJBaC02UkxZLW9hWkJReS1CMmJCWm1ZUTBxRENVUFBVRExyT1RIajdlYU0yWmY5R1ZVVXdQVTdvMXhQanZVMy1wVUFjQVlhTHRLc3JHcEJoTmIxSTkwdVgzZE5WbVF6VGlKSmJDZnFmaENn?oc=5"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T13:04+00:00",
+   "baslik": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion",
+   "aciklama": "Bitcoin closed below its 50-week moving average as more than $1 billion in crypto long positions were liquidated.",
+   "link": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102"
+  },
+  {
+   "kaynak": "wsj.com",
+   "tarih": "2026-11-09T13:03+00:00",
+   "baslik": "EU Launches New Sanctions Office and Crypto Task Force - wsj.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFI1UTlMSnE2UDZRWEl2NXNMYWZFcXRnTWhuTEtNTDJ1YlU0aVE5VFhIdlB5ODROeHZBbUZRM253MFFVREQ1LXp2VThoX3BzRWtDS3gyLXRQSFdrV2dfNUlseUx5ZE9wQVduV2ptNlVIRVZxejJOLUN5RDNLQ3hiSzhMZVlmQ2hQaUhWUjVOYlowUHhSTWc?oc=5"
+  },
+  {
+   "kaynak": "Decrypt",
+   "tarih": "2026-11-09T13:01+00:00",
+   "baslik": "Microsoft-Backed Space and Time Launches Platform to Let AI Agents Verify Private Data",
+   "aciklama": "Space and Time Enterprise uses Proof of SQL to prove calculations on private business data without exposing the records to AI agents.",
+   "link": "https://decrypt.co/382697/microsoft-backed-space-and-time-launches-platform-to-let-ai-agents-verify-private-data"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T13:01+00:00",
+   "baslik": "How ‘Buy American’ Rules Are Slowing Affordable Housing Construction - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3RidjhYdmFkdWlyWk9ZTERLbjI3UXM1OE1uRmtJU21fbDR5cW52RXdlVU9WRjJJdWFMRUYxNDlsWmt4MF9ENzUySjRsUWI3N0RpbEhyNEVzV0tWSjFPbHBMOVk5ZlAxV3B0Q05vUXF5S2lIQ09JVU4tbXlSZTlBUjB6azZoVXFtRWtGYkkxV3BBN1Vqb1hhNV9xMEVOSUtJNlJPV0FfSjdJNUY0NGNBUzNnSQ?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T12:45+00:00",
+   "baslik": "Coincheck Reports Financial Results for Second Quarter of Year Ending March 31, 2027 – Company Announcement - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdklEVkR3aTNFU05UdTFpUW85UkZLVWNyakllMUw3U3Q0aGhac0VwekhWY2tKZ00yeEJXdDg1QndGaGV4ZlBLaXBNa0JEX0V2NThpTnQxcXo5bFJzYTViU2xYNTN0ZVV6bFQyVE5QR283N0hIaWRlU3lYc3dGYkxjaU1vc2gwRzQ3Wko2U2g1YW1vSkpLYlkzeXhQV25Kc2tFRkktSWRn?oc=5"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T12:41+00:00",
+   "baslik": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+   "aciklama": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading.",
+   "link": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T12:37+00:00",
+   "baslik": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
+   "aciklama": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens",
+   "link": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T12:31+00:00",
+   "baslik": "The Democrats’ partial return to tariff sanity - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa0lzWFdXYktkcGQ3eWRIdEI1MXpmMWpaM1hIYW53OTNWaFVlYmw5eTZmOURJRFJDNUJnem5OQjNmWDhIWmFsTURNSE0taFpzanQ2XzFjam5Qcjg4ZGw3RE9tVHctakxsSW0xVVhrXzM4X2FGQnVMZzdOZW5HOTE3SVlHY3k?oc=5"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T12:30+00:00",
+   "baslik": "Bitcoin bulls can't rely on ETF flows",
+   "aciklama": "Your day-ahead look for Nov. 9, 2026",
+   "link": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T12:30+00:00",
+   "baslik": "Formation notifies SEC to operate first tokenized securities venue on Solana",
+   "aciklama": "Launch is expected in early 2027, with tokenized shares of Exodus Movement, Forward Industries, and Galaxy Digital among initial offerings.",
+   "link": "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T12:27+00:00",
+   "baslik": "EU taps industry to set standards for tokenized securities",
+   "aciklama": "Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028.",
+   "link": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "Reuters",
+   "tarih": "2026-11-09T12:25+00:00",
+   "baslik": "FT Vest Bitcoin Strategy Floor15 ETF - January (BFJA.N) | Stock Price & Latest News - Reuters",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EWG0wVVVJSUp5N0NSQmpfb2JsazhQVUxycmJyOXMzQVRvQ0FfUnNFaHptejhtZENHT2tZUFBSS3k5WXFISXYtWmNsVEpGcHNZeXRxYW9OMF8?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T12:24+00:00",
+   "baslik": "Trump, Putin and the short war illusion - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0FlZzBvTm9mWlktSm5JZ0hSeEs0U3FaNzJlV1FJanl6bGtCYVF3eXp6YXg3cnN0U1c1R0tyNU0yLTl3MFBfVVBvQTlOaW9GSnNQcHd6MEZoWW9BWDVKa3FIdEkxRjlkSGlZYjFSVGJEVWFrd1dXOGFYbFllYmNEOUZUang?oc=5"
+  },
+  {
+   "kaynak": "Reuters",
+   "tarih": "2026-11-09T12:20+00:00",
+   "baslik": "Nvidia scandal risks AI 'domino effect' | Market Talk - Reuters",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qdG90QUloMDYtcVp3ejkyaVNGbDNtNkxwbUpPYkNpRGt1Vjl1M0RBWGhKdkZFY3daYW5SczJfOFYzXzhwbFp5RE9WeU1NS0UycG9YdjZGcjMzNnc3eVlTTGp6Ui1Idw?oc=5"
+  },
+  {
+   "kaynak": "WSJ",
+   "tarih": "2026-11-09T12:09+00:00",
+   "baslik": "The Morning Risk Report: Nvidia’s Board Probes Reports That CEO Was Spying Target - WSJ",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRllQV0lwSmhDWUU3YWlKaXBhalM0QXE3MFNldnd3TlV6SUlOT1dhdjQ4ZUhLZXpTbElaaUJvSjEwM1JoMTN3WV8zeF9TTjZ0UksxYVpCZ0JIdzlqYzlDb2JiZEVVNUlRV3hWUFBRRWMyRk5CeXBEdloyQXlhZk9VaENVNzRER2t1bUtHYjBLdlRtU3hUcUtaOThONlpOZW1GTkpOLVRQYkpvNGg4QnFMSmpoaXQ0YllxZlE0a0NZOGFNVUI3MHR0bUFtWnVWVUdvNmkyVFBYWU9QaHRINlhmbnJIUDJTZw?oc=5"
+  },
+  {
+   "kaynak": "Reuters",
+   "tarih": "2026-11-09T12:04+00:00",
+   "baslik": "COP31 summit kicks off with a desperate plea to act faster - Reuters",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XdFV3Z19SUnBfYVl6NzJWYmwxaXlnVGpCdTFCU3d5WXpsU2NQSklTcDV0UkhUMXprSW5FRUdrRkdMMzJPbUJ3cW1TSWtPVllIZW5uYmNLZThEUUxrRW1GR1dFU0t1TUIyaGtmelRjUlcwN01rT1hvM2UxTUtYUQ?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T12:00+00:00",
+   "baslik": "Are you into weird, esoteric financial history memorabilia? - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85c1A1X09EYUk3eE51ZTVxdnhpdGM3SkRBV20xcnFXeHlWcXZvakQyNUpqVExMMnliRkdwcnBPc2NJX1RpSS1KdVQzLTFuQzVGZEdVMWlkVEg3Zy1USGFhaW5lZXNzRkgtTXJGd29vSGo?oc=5"
+  },
+  {
+   "kaynak": "WSJ",
+   "tarih": "2026-11-09T11:55+00:00",
+   "baslik": "Markets & Finance - WSJ",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBLcXBCR0lVVEpyNElYSXM1Um5FZ1RyRDdjX3dWNWIydi1IOFJLYThiQXg5cEZnOXRKcGJBYXVZb3A?oc=5"
+  },
+  {
+   "kaynak": "Decrypt",
+   "tarih": "2026-11-09T11:50+00:00",
+   "baslik": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+   "aciklama": "The exchange will move its institutional crypto custody business under federal oversight, building on its 2018 New York trust charter.",
+   "link": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T11:42+00:00",
+   "baslik": "Nvidia-led tech selloff weighs on crypto majors",
+   "aciklama": "Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today.",
+   "link": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T11:38+00:00",
+   "baslik": "Coinbase’s US national trust bank charter takes effect",
+   "aciklama": "Coinbase plans to expand its institutional crypto custody business under the federal charter and is exploring digital asset payment products.",
+   "link": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T11:34+00:00",
+   "baslik": "And the FTAV chart quiz winner is . . . - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9laGZ5MzVjekZ1T2xlN29YWnRkdmxYLWVNVENVZzJySUJEMm1fVUg1S09MRUQ3dVVRMTJVNHkyTGNERlQ0Rm1RZkhKMERVSmsxMXRlU3VfSnVwNjNnVGVqNzIweVRXS1pFM3JWTEl5RU0?oc=5"
+  },
+  {
+   "kaynak": "Decrypt",
+   "tarih": "2026-11-09T11:26+00:00",
+   "baslik": "Trump Says He Knows 'Nothing' About World Liberty Financial as He Defends UAE Ties",
+   "aciklama": "Pressed on why he doesn't divest from the family's crypto venture, Trump said his sons run the business and every president faces conflicts.",
+   "link": "https://decrypt.co/382813/trump-says-he-knows-nothing-about-world-liberty-financial-as-he-defends-uae-ties"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T11:22+00:00",
+   "baslik": "Jensen Huang Puts $200 Billion Dent in Nvidia’s Stock Price - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcms4NmFRS0JiemF2SGRaMDczOXZ5LXRlTVFFanhvSEZxMlV0VVBXaDh6RWl5VXBTM1hWeXpNZHRuY2NmM25PNVM1eXE4NmF2VHdvWnJzREwtNXRXeUFBWGl6Y0lDWXdLdDF0VGRabXFwQ2RNZ3p2czY0TGY4aU9zbkt4ekZRd0dkZkVhdHJLZUd1dWFnZEdSdGRoMmFHMl9CWENDN0JFZUs1QldJSFR5SzFR?oc=5"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T11:14+00:00",
+   "baslik": "Robinhood opens access to US IPOs for UK retail investors",
+   "aciklama": "Robinhood’s UK customers can request shares in eligible US initial public offerings at the offer price before the stocks begin trading.",
+   "link": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "Reuters",
+   "tarih": "2026-11-09T11:04+00:00",
+   "baslik": "AI Weekly: a spy story at Nvidia, and a tech stock rout - Reuters",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YQkwzWEU1QXRyVVhyS3BCeHVVVmRnY0FmR2pRb3d5UWtHd3l4ZXpFRnVoak90THgwd1F1UG1MVGM0bGlya3BVTUlZRXJpVTJpUEdUMXNiNTR4elhLeGl1ekZfRlI4QQ?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T11:00+00:00",
+   "baslik": "The Affordability Crisis Isn’t About Inflation - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYkd1Y2JmdXo3V3F4a2FlN1AtM084OC1nd0pQOVA0TlJZdlpCNHhYUWswUzk1ekZRWXpaR0ZISkNReDB2OFpXSmV5X2pkSU5ISk9paTV1d1JkOVhDWGFzak9WX1dlcjBDSHdvbTdtZHdkTFRBbVBWeXlJakNqSzBPUUJYWjJCU29ZVVRNY1JUODZ6VHV6MnQtTnJlRmh0THhmdWc?oc=5"
+  },
+  {
+   "kaynak": "CNBC",
+   "tarih": "2026-11-09T11:00+00:00",
+   "baslik": "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda - CNBC",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2Q5YzlacFA4TG50aTZ2bHl5eWhPLXpIVHVGV3VxVHlycUFTYlFSOUlFU1MzbUJyZFdnYTgzWXhGUnNFZ3VVNDdHRFBtU3BNZmRiZWZOVHZyM2NWRHExVmJ1RFE5REZGQzdwX0I5dzdLMXlabUpRaXlZdFJSbnVBSmtZcW5lbEUzV1kza193?oc=5"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T10:52+00:00",
+   "baslik": "Zcash developers want 20-second blocks just days after major speed upgrade",
+   "aciklama": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction.",
+   "link": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T10:51+00:00",
+   "baslik": "Live news: Bitcoin narrows loss as Nasdaq surges more than 2%",
+   "aciklama": "The Nasdaq and S&P 500 are both sharply higher even as Nvidia declines following CEO Jensen Huang's issues.",
+   "link": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T10:48+00:00",
+   "baslik": "Crypto-friendly Robinhood brings US IPO access to UK retail investors",
+   "aciklama": "Robinhood has launched commission-free IPO Access in the UK, allowing retail investors to request shares in eligible U.S. listings",
+   "link": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089"
+  },
+  {
+   "kaynak": "CNBC",
+   "tarih": "2026-11-09T10:46+00:00",
+   "baslik": "Hugh Leask - CNBC",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9KOFkzLUpyaWhsZGhNbkQ3UzNXVm5vSy1uSjJrXzI3OXRzOWNnUVRfaFBqTGpsMWlKa2x2dEEzektsVTM1UjRZ?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T10:34+00:00",
+   "baslik": "Crédit Agricole pitches merger of Italian business with Banco BPM - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZU8ycGRmbHVVVEZ1VmNWSFhGZ0VwNVhYZWdFYy1XV0dHbmhqdE1WbXR4cHZFbEJ1RWxzZW15ZEN2ZWhxemtxLUE4YndDMWF0a2JsV1FuTXRHVjJ5NXp6cFBJTkx5bEN6eWZESzZEY3BzQ0JBX1A5YjllZEJuUjJPRno4alE?oc=5"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T10:33+00:00",
+   "baslik": "Trump says he knows ‘nothing’ about UAE-linked investment in his crypto firm",
+   "aciklama": "Trump said he \"knows nothing\" about the UAE-linked investment in the crypto firm he co-owns, and that his sons run the business.",
+   "link": "https://www.theblock.co/news/business/2026-11-09-trump-says-he-knows-nothing-about-uae-linked-investment-in-his-crypto-firm-436079"
+  },
+  {
+   "kaynak": "WSJ",
+   "tarih": "2026-11-09T10:30+00:00",
+   "baslik": "For Big Bank Stocks, Capitol Hill’s Bark Is Worse Than Its Bite - WSJ",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTNQRHFYWWpvQXV0RDRhTEplUkkzMFRNeUdsc2ZldXRycE55NGJkWmRaTjR2TjZfTzA5dHdlUy04N0phQ053aW84Mlc5Z3I1ZVlDZms3WEFDYjRPMjI4alZ6RkNrbnljVVo0RnBvUTM2cEhBZzZya0tocE1aNktJWWFoNE14V3dJWWNpcHowcVJHVGFGNV9JWEZNcWdyamo5S2ROYUg5Ym44QTBKNnc?oc=5"
+  },
+  {
+   "kaynak": "WSJ",
+   "tarih": "2026-11-09T10:30+00:00",
+   "baslik": "What to Know About Nvidia’s Investigation After CEO’s Affair - WSJ",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXRtcTJ0d2pQR3BqR2p6V2pSUk1BYldyZ1FjaG5Hb004YktMaDV0T1JKVTZhdlVXQ09EZ0FvNFJsMldneEZOTVpFVkJid2JyMW9MTHZnek5iMVpyZk5XcjJoZWxRYm5XclNveVNZTDduMF9zMTR6Q2J1cVQ0N01lNGpTN1hPOEFGeC1tOTZ2Wi1SYVF2bXBOR3hsMA?oc=5"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T10:03+00:00",
+   "baslik": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
+   "aciklama": "Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures.",
+   "link": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T10:02+00:00",
+   "baslik": "Treasury Rally Gets New Boost as Election Hammers the AI Trade - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPelZPY0tQazFGWWxNRjFac00xRWFpVE1vdVpHenVSMDNVS3c0WFpZMXk4Rkk5d2xFYU9wUVdtcGZIYWlvVU41eFZaV1RGdDU4bGE3Z1ppeVlMdTZleU13RVRRbDNVS0pDQzdQbjB5TkFjOWF0NDRxNXA3azY0UGRtM2M5SFU2cDFkUHhZMVVpSVpRM2JjeldzMzU1QnMxZDNCd1ZVcnV1eE5ROWtwZjF2Y1E1UQ?oc=5"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T10:00+00:00",
+   "baslik": "Coinbase gets full U.S. trust charter from federal banking regulator",
+   "aciklama": "The Office of the Comptroller of the Currency elevated the biggest U.S. exchange's trust status from conditional to a full-fledged charter, the company said.",
+   "link": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T10:00+00:00",
+   "baslik": "Coinbase Gets Final Regulatory Stamp For Trust-Bank Charter - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU1jWHZhTVJlRkJ5UXRQbzliNmRCc2VMSm9sZXNCVlJIVVdiOW1qOG9Ba0pSU3Rjb0RQekZBUnVSaDAtSU9sNnZaTUhJOWhWMVRsVzgxbUE3TUw3dldTeW9XZ0pPai0xR2ZKQWJaM0k1YlNrVnFmSUhXczUtcC1jNkRKVkdsSkZPcDYzaDlfREM4bC00YjdNM1JwRXBkektvQVp6ZFpZQ181ckZwbGtR?oc=5"
+  },
+  {
+   "kaynak": "Decrypt",
+   "tarih": "2026-11-09T09:50+00:00",
+   "baslik": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
+   "aciklama": "Huang told staff he had been \"unfaithful\" to his wife, as Nvidia shares fell nearly 5% in premarket trading on Monday.",
+   "link": "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort"
+  },
+  {
+   "kaynak": "CNBC",
+   "tarih": "2026-11-09T09:42+00:00",
+   "baslik": "Treasury yields are steady as investors await more economic data - CNBC",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVE44LUJheWlkSEJZWlBaUVRGUXR2aGVMbm9yZnNDUnR1alJLSDdlU3Y3RktFcmplWmViVjV1ME1UYU9qSDA1YTN2NUdJbTJvWmZGUU5FZ3VTMU1lV3ppbk10SXBWLWxTcHVWYjRFbw?oc=5"
+  },
+  {
+   "kaynak": "CoinDesk",
+   "tarih": "2026-11-09T09:33+00:00",
+   "baslik": "U.S. inflation, corporate earnings: Crypto Week Ahead",
+   "aciklama": "Your look at what’s coming in the week starting Nov. 9.",
+   "link": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T09:30+00:00",
+   "baslik": "Police reform plans are poor fit for Andy Burnham’s devolution agenda - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRllPWEtVem53VUpweHlYa0NCN2VjMXk1eFMxSjlMNkhlYTlpVUN2WUNIc2tLZXVTNGd4UGt6cWhSY0RmU2VJSzhBMmdwaUpSUEIzU3J0Z1A4RlYwYUhvZnFOcnhfZ3lsRjdpT0Ywc1N3aExNa2ZhMXNuWWlabTJfRG1fWnU?oc=5"
+  },
+  {
+   "kaynak": "Bloomberg.com",
+   "tarih": "2026-11-09T09:30+00:00",
+   "baslik": "Democratic Sweep Tests Trump-Linked Trades Across Latin America - Bloomberg.com",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYkoyYm5rTkJBNEFuY2FGRXNJUnVEVUl0cjVFUXA2R2RGT3lSV0RCd21YZHdlWGZOSTBOMHpBY2NRb0tZT1hnRDZiWVBQWC1pcWZaUUNIdlJld2NkOHVMczhuT1NaUW5Fckl4VjN3cWNyeHctNjBxT3J0c2JaQV9DbGVMaTEyMDhZZ09WZGcxN2ZjRzdMZnFreFZDbXdybTVfYndiY1VJUkh1b09Fa0pEc3NqOTA?oc=5"
+  },
+  {
+   "kaynak": "Financial Times",
+   "tarih": "2026-11-09T09:15+00:00",
+   "baslik": "Nvidia shares fall as it probes alleged Chinese spy scandal - Financial Times",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3VKdWJFVzFQMEtxRW5JaEhiOWpNVkEyd0tJTUhtdWRyS1lCR0lJaFFyN2hvc1ZDZklzSmdyZUwwMVVEV0V3Y2loOFgwSno1ZHlZYXB2bUpjaS1STmt3cTdBRjh3c1o2TFktRzdaVHBaSjVUeU9tLTdweGcxV0hKWmNlTzk?oc=5"
+  },
+  {
+   "kaynak": "The Block",
+   "tarih": "2026-11-09T09:05+00:00",
+   "baslik": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
+   "aciklama": "Raycash has launched its app on Ethereum, enabling private stablecoin payments and Morpho yield on idle balances.",
+   "link": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909"
+  },
+  {
+   "kaynak": "Cointelegraph",
+   "tarih": "2026-11-09T09:00+00:00",
+   "baslik": "Binance, Tether and Trump crypto firms face Senate records deadline",
+   "aciklama": "Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov. 30 and warned of further action if they miss the Jan. 4 deadline.",
+   "link": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+  },
+  {
+   "kaynak": "CNBC",
+   "tarih": "2026-11-09T08:19+00:00",
+   "baslik": "Goldman says 'the pieces are in place' for a shift in Treasury yields, global 10-years - CNBC",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tYTVYTm5XNDhfRVJRaE5pMW5IdTMwdk54eTVjYVZIb0VkTklrbW9QNmptbXp1ai1nQXJQendGNk5NVFFUV3ZKR3J1VFJYaXZkMXp0RTJGS240WXg0a21xTmJWRDk5Mk9uTDhxMUFSUjZma3dU?oc=5"
+  },
   {
    "kaynak": "Cointelegraph",
    "tarih": "2026-11-09T08:17+00:00",
@@ -10,25 +969,32 @@
    "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
   },
   {
+   "kaynak": "Reuters",
+   "tarih": "2026-11-09T08:09+00:00",
+   "baslik": "SoftBank to face scrutiny of AI strategy at second-quarter earnings after selloff - Reuters",
+   "aciklama": "",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZnVnMXhRbnJHdFlrTVpLZ1ZhTFR3VmJGeWx3MlFURk9aT1R5TXU2NEtacHY3U2JpUWpTYWJhRkZHdUJVLWFoNTNPMU51QWhxbVJ0RkxCRzY4MC1iU1VVTE9KclFXcGdSeE13SV9lM1hIemdLNFJuWXVLUkFBeDdUaTNqMEVFWUxzUHNKVmZzRG5sM2oyVmZwRl9xeVl5UDlReDQ1QWZZalJvV3piSVhiQVRqUlM5QXNWLXdtdWhDbU5zRGo2bE9QVzhGRQ?oc=5"
+  },
+  {
    "kaynak": "Financial Times",
-   "tarih": "2026-11-09T07:52+00:00",
+   "tarih": "2026-11-09T07:57+00:00",
    "baslik": "Palantir alumni launch plan to ‘wake sleeping giants’ of European defence - Financial Times",
    "aciklama": "",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkR2UmJRSjRGM3NIa2d3cHZUaC05ZC1PSjRxXzY2a2ZGdjRSZkFraWMwX1hFa1l4VDk3dG5sc1g5a0Z4Q3dtWWRxTjVXYXl5RS1OS2FpS1JjYTZOODZycW5zWEJDRDJQcUIzSkJkRmw0blVLZzc5VWp4VlVZbTVpQ0x0enk?oc=5"
   },
   {
    "kaynak": "Financial Times",
-   "tarih": "2026-11-09T07:38+00:00",
+   "tarih": "2026-11-09T07:32+00:00",
    "baslik": "UniCredit set to seal Commerzbank takeover this month - Financial Times",
    "aciklama": "",
    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmhvUm5CcW1VaFVfbGtpdjFsTEFmWlZHY1FXdC1jdFQzY2xIMFh1cmRzWUk3Skk5WVFXNGpCRVdpZUVTOXZONndqVnhveGgwR0NLc0dLb09henI1YmdCRS1RV0Jnd1BIVFc1VExaNDJzVmR4OVhEaDNVSEU5LTRXeExMRjE?oc=5"
   },
   {
    "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T07:31+00:00",
-   "baslik": "Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com",
+   "tarih": "2026-11-09T07:16+00:00",
+   "baslik": "Wall Street Races for Megadeals as Countdown Begins on Trump Era - Bloomberg.com",
    "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3o2UUtxWnBENkQtZkNqbC1hNHljZGRsYklfOHVhTXRYQjgzWnZqUWEzT1c0ZVJZektZVHBoelZkVHF3M3pxRDRSOXZpYjNieW44d216M0JMSXo4TWloSFZUXzZqWS1zY3hMd3o4THBQSFZfelRwdEZ3SnhOZVhWSnZwdTRwd3hveTc0Q3JEQmQ5Z2plNXpfSHJoSkI3MkR5anNVd1Z6VThlRTY3X3V6VFJCNEI1Zw?oc=5"
   },
   {
    "kaynak": "Bloomberg.com",
@@ -36,580 +1002,6 @@
    "baslik": "Market Vulnerability Has Been Exposed for Good - Bloomberg.com",
    "aciklama": "",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVBJaVUyUElvZ0cxMFhCaE5MdzFZZkJ3dTVQSDJfcnFlWXlQOW13TXhBOTFNVkpxRENQYURMcjdMVnE1UU4yMEt2WXpYSjVLdGxfR080MG1RUVJHRXBLZzJCME9MLW1BRWtpN0lZOUhvdm94VEtrN1c4YUNBMnBnZVBNeW04Q08xdzVkazhwTW9nSkY1YVRXTHQwTW9hU0diUXRUOW02Nmh6V0xIMnRF?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T07:12+00:00",
-   "baslik": "Gold Holds Decline as US Jobs Data Fan December Rate Hike Bets - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalBuZXBLSkx6bEJtdVU0djlRbHRwdlVRNWdTbWJDM2NrRmZVcGg4SV9mdEVONXVWeml3OFgxZWRKMEoxenRCLXVaSXhDdUdRNG55V3ZWS0drMzJwaUJYN3A5cFlpWEt5anBMMEtoa0R1LTIxa3BnS3luNUdPWFIweTY0NEJhS2thcnpqY0YyVEJwZHhxclFyQ3c0OTNETy1aQlFaeHN2R1A3dXg1T0NDU21ycw?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T07:12+00:00",
-   "baslik": "RBI Said to Query Bank Valuations of Some Bond Derivative Trades - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGUyUkVaSFluUGdJVU1iQTJTT1phQnhVN2RINnJ3M2NpVktYSkdrMTd0c2dOLXF4MlZTazJ4d2FtSTNOamE4S0lGalRuSG1VMURCYUNMQklWSmNpODI2RFU2N05zM29lUHVSX0Y0djBobGhSbTl5eWhvZ1owVE82SDlXUHJ3eVBObzVFRXp0U1pHWm8xaF90dnUzaXlNYmZCcW9yQXBGbXRhSUdQLWstcGdkb0N3dw?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T07:09+00:00",
-   "baslik": "China Starts Marketing Green Bonds For Debut Sales in Canada - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTFubzduQ0thNk0wVm4zeW00TFp3OFpneUlGQlN6R0ZQZnM2MGp1TUtIT29VYVZ6NTEtajg1d1k4cjIwbldRNDloMUV3aV9DVnBObXFKUlBCSVBrRVZ3elF5SGIydjlCWUpOZjFEdnRoc3ZCajRpdjBXZWtzdXV4RUd3WFBzVGg2eTJvOEpJOFNLa2ROYlpjbTN1OWZIMWFReVdtU011MVZVUzUwRF9IaQ?oc=5"
-  },
-  {
-   "kaynak": "CoinDesk",
-   "tarih": "2026-11-09T06:54+00:00",
-   "baslik": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
-   "aciklama": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.",
-   "link": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T06:39+00:00",
-   "baslik": "Asean: What's Next for the Association of Southeast Asian Nations - Bloomberg - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1xQmZ3ZzJxTkJkbGxrdjYwSWNiaXBhb3VaVUp2cmJqREdOUHZxVmlRQTc5MGdHMXRtSjEtdWtrb2N5Vl96cUE?oc=5"
-  },
-  {
-   "kaynak": "CoinDesk",
-   "tarih": "2026-11-09T06:36+00:00",
-   "baslik": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
-   "aciklama": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins.",
-   "link": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T06:36+00:00",
-   "baslik": "Mark Blyth: ‘I call it the barbell from hell’ - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMFZBWDUyV1ZpTjlhbzVqeGxwVUZjQzV4UUNudW1VcUE4Yll4amdPUjJMY1drM1FlNzQ0V2hZY1EyZ3QxLXZHNk1XSEJKZi1MVVJOME43T09VcWNOaWpKamVoWWVYTVoyd2tETzliVERsQ3FMR0p2UXBtTHFVc0RLZmYwd08?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T06:15+00:00",
-   "baslik": "Trump’s Weakness and Overtures to Russia Put Ukraine on Edge - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT1p1NVZEM2psX0E5Wm5CWi14eUFubnZHWnlSSmVhMDlqVDY4aE9QNENxM1UydTItMUgtc3o0QXcyNFQ3ajFlWUJwRmlnYWdJLVZwb1psTFduazUxRnJvUzNYdEp1QXZhT20yNmZpWllMV0tvYmFsbFBHck1WZmNLaFEzZUV1bk5ZbFJPY003c2I0SlhQSmJDZFdoZVlDTUoydTdwb1hSY3YzWmxzUks3Zg?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T06:04+00:00",
-   "baslik": "Taiwan Stocks Jump as Authorities Move to Stem Market Rout - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSVpxMUpXWUxmQ0NHb0xYc2tyS014ZnE4Q21KUm5ia210dVhRSTJoQXpoTG9qLXBReU9xUHhGSlFudzJIYlpra1VuLTE4VHl1SVM0YVFla2NqYkpiVnhiQWZGWnJGdzJsR3EyN1Q5UXdJM3J6SUppNFMtaEhnS29zVEJ1eWJWejVJNVZvUjJ5dUFvd1dFNmJzVTV6SWhTeG1OeC1WQ0pxaTBLekZ4SUE?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T06:01+00:00",
-   "baslik": "Markets - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pNktuQlgwVHhZeDU2dy1rU1VSOVhXNzlOZlJlbmxhTHJISGc4bW44c3p5elhUaG1iRnlMTFE1VXgtRmtGM0JlTA?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T06:00+00:00",
-   "baslik": "Europeans join Abu Dhabi talks in bid to thwart Russian security demands - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUVnaVMxYXoyeHNoQ3pDcWVYbjZpUDBjMERYMFIyVk1Zb3lFSnBucmx6ckpvMEhaSnhjUU9MYTdNaEpMTjUwZk8yeFc5WXBPaDd2V196b1NtVkNxM3dHNzVTTUREYjhYNE9OeFNBSXd2VTZHVGx1WG9yQXBQUDRmeFNZei0?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T05:57+00:00",
-   "baslik": "CNH/USD: Cross-Border Yuan Flows on China’s Network Head for Record Year - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZDB5NXM3LW9lQkhzYXpoU2FtVTZWUEUteVRfLWZZZ0dKR0c4MUpjbXo0ZzdOSDNDa1JUckNQUVg5ejctRERud1ZiQTVsR2F6QWtMTlFnSHQxUWhGclhxT3YwQlQyYXZfQ0ZsM19qNWVCb3BtdmxqR3dQVVFBZnN0dlRrd2F6aU81LV9Kak5GSWRTTjM4ZkRJM3doSi1oYTUxT3YwN1ZXSXd0bWp2WmlmYnlCYVM?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T05:53+00:00",
-   "baslik": "HSBC, Citi Turn Bullish as Indian Stocks Draw Record Inflows - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmtITWx5SWhBYk15Nk5QdTYyQk5fRXZIYlhjSGoxc0NjOFR4WEtHNnc0aXNFdldjeGlxeWZsQzd1Z0pqOEJUclcyLW1oMXREdjNNVWhTbU9ZN21hdkZsVTJJSk1kMHVibVItS0xzYlFuSTJ6TTQ5ejNMWk1sNVdTVjY2XzB4THlRdlM0c2lFZUdUaEs3S21JX3FtNnRxR1JoTXY4WWxwcFFfLTNRN3d3?oc=5"
-  },
-  {
-   "kaynak": "Cointelegraph",
-   "tarih": "2026-11-09T05:44+00:00",
-   "baslik": "Here’s what happened in crypto today",
-   "aciklama": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-   "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "kaynak": "Cointelegraph",
-   "tarih": "2026-11-09T05:36+00:00",
-   "baslik": "Zcash devs propose another block time cut days after NU7 upgrade",
-   "aciklama": "The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps.",
-   "link": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "kaynak": "WSJ",
-   "tarih": "2026-11-09T05:31+00:00",
-   "baslik": "After a Tech Rout, Stock Funds Hold a 9.9% Gain for 2026 - WSJ",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjBPZVBpM2UwQ2YySlY4MnFBbkc1WGRKQUZmMXFtd0pvQ1ZvUWl2SzY1UWtHQUR2aHpRQnhOY1dmNS1vWjlnV09xZzZWTGljQmJxaWU3R1EzVm05NXZUc1FWSE9pc2V0enNQU09DblJzSl9QbzJSelVJOHQ5bU4weTdYUFJMbks5V1ZfVEFzWWptYkNqeDBJWA?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T05:25+00:00",
-   "baslik": "Oil Extends Biggest Weekly Decline Since 2020 With Focus on Iran - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObUNGR2lBYkJramVOVjNteUMtWXNxZVBGWmEteFM5WG5Yb0pPYnpXTUZLM2ZVc280ampyejdfTkgzckNob1gzcUFyY293SnRVbWhlOHJmQ2Rzck05YVRwSlpKb0xXMVZKZUp5MVZjTmVWNjB5cjVSWWQxNmREUjNpTGdlY3FjcFhBY1VKLWhQdHBzaEFYaWNMeDRYUDE?oc=5"
-  },
-  {
-   "kaynak": "CoinDesk",
-   "tarih": "2026-11-09T05:16+00:00",
-   "baslik": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
-   "aciklama": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
-   "link": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T05:16+00:00",
-   "baslik": "Nvidia CEO’s Affair Admission Counters Past Statements on Ties - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1VUSUlRVEgtNnBFdnozNlJ6T2xkbXI2ZnFOWjZjV09sSWtTTVhLS1pRVHJRTWs5MUhKYmNrR1hwZENlVkUtZXl5UXdLOHJ2UFNCZHBGRDJaOUFXUElDem9kWFN0MHZhakFQRXN0Z0JEMUFUNlQ4dXlvYnFRUmJ3NHl3SlpZNzQ2eEkwYmIwYzRFMEZoOVlHb0JBMHZ5TGZrWjlMbVdzTWlvOXJRMHlNVTEzMA?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:04+00:00",
-   "baslik": "What Democrats must do now - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQnBxUTFQRGg3dG9UTzEwT3lXMG1NX1pvZXM2dDF5NVVONkVSTmZSbjZHeU5aM3F4MVV4cEl1SkdsQVlFXzFYWWh1UkpEaTNsOEczV3l4UTlsRUdZemJ2MzJJUU9IQ1ZyOU04d1RlbXhOeC1CZzBwd0FBZlFBWW92ckNpdkI?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:03+00:00",
-   "baslik": "EU sues IBM and partners over troubled border system - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGVuQnViM3dhbWZ5VkJ2c1pkNmxWMHpPZ0wtczQzbzhHMkctVndhdDhaSUFJMjJfZXlhQ19oUWhDUUE2WmZUVHZuWlQzbEVwUVRobnVXaXl0blRpN0llV2FLY0lPdTh4Y3BJWEw3bS03bndDcGpqbE5sLXk4Ml9UZ2F0RU0?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:02+00:00",
-   "baslik": "BA parent says onerous green charges will ‘kill’ Europe’s aviation industry - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUczemhJYTVzbWJqRlh6TG5TbUpsZFhDSUJ0b2NoQjJaQmpjVWptWWczeVdwcjYyNFFYcHNJd3Y1TzlzWjVzNkN4TF9NTjZZc1hxSGU2bFpINnV6VGJodk1iRHRJRzVxb1lnQ0xQV21VS3VCX2xfNWhlSDc1V3BGc3NiSko?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:02+00:00",
-   "baslik": "How a Chinese COP could make or break the climate fight - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFdRcU42QnFpYk9fU1RvMWQ0NTVrSkN0OXlsR1dROWtkWmpxM0dObm5zYzdaWUYtOEZmZWtnSzhBdEdQb1l3Vm1mXzNiX1ZtNG9KMHJjdVNjdTJqcmJBZUpWaGRxNWpRTnNycHJsREdaU3VGNEc1MjZTTGJVQmZkajVvU2k?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T05:00+00:00",
-   "baslik": "Beware the Influence of Financial Giants - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSkl0aU5NZ1B4R19sZFNqdzgtWngxUWFVV2hQUVlsVFVocFJfU1dOU1NLQ1ZSQnpJNGVKYmxES2UxakIxaVZ4VFRQdWE4TTZ1Q2xmRlZ3YnAwcHYtOWhXai00dFoyMUtFbFFPS042eHpmX3RpNHRNNEhacmFUMEI4Y05oQzY5X2ZNNFppN1loVDl3N0JSR0wzSXZZT2hTQ01Z?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:00+00:00",
-   "baslik": "What markets want from the Democrats - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkNfNV81OEYtSGYtMjAwZXVnalo0ODNCVzM5dmVaQ3FIcXo2NGl3ZzVNTm5zQ19IUWVwV1BMQmFyWHVRbUdNUmJIS1ZDSklaVXNNWEtFTWxlTHVOUGRkNDhsUllTU2VNQl85aVlLMlJuT1N5WTVaenZaMGg5eGR2akVCRHI?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:00+00:00",
-   "baslik": "Democrat triumph offers China ‘window to catch up’ on AI - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN3pjQmFySi0wZGtaT2x3Vk9ncjBYUGJwOGhiVFczWUVKNGJnaHRwMC0xQV9vZ3JKQklJeG1kLUhlc0VvanN1cGM5RjVwcUlYT1k0TWVBRFc0Vk5lemd3YmhqYVRnR3dITWxnMEVudndhR0dneXpVWDd5OUJTS1g1UGQ3UzY?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:00+00:00",
-   "baslik": "Tech’s teetering towers - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUFFZ2dBZVNKS19fWEVYclZkRHJyNmphRG9jclpJLVF6VzIxOUF0R3NnOVROeUZIZG85aFltVUlMU1U2MEdkb2x1ejhHY1ZJT2RSaWwzd0s3Rmd1Tlozd19CM2ZGYUFCS2RmZ3RodDAtWEk5bXNJQ0hxMVYwUFhEYUVVdlE?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:00+00:00",
-   "baslik": "Russian military turns to deepfake videos to claim battlefield success - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUFpZU1POGRUQU1OV0tUeS1SV05wSEdOXzVmeEYzQU5ZeGQ2ZlBsRm0zaEdpUDlDejJkbndYTE9OcmIyVDllVkhxaDVXOUhoOUhNSnVIZFc5VU9tajFpSmZ3alVWM1kwTGZSekR6NkdoNWV0NVBnSlA2cXpiLTFhV1lsUUk?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:00+00:00",
-   "baslik": "ECB contender Klaas Knot ‘won’t hesitate’ to act in a debt crisis - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdmprSmNXZTFPM2RvT0FXbjBBWFpXVHNUZm53SlVmcXZhcUVUWHBibXd6bXVSRWMtbk9EMW1EWHE5bnNlajRRTU40eFkwb01lMnBhenVwbklhem52OTRWd2tkMXM2c0g4QVU1M2pNQTJjanh2U2o5X1VvYUU4R2JGbE9uQUI?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:00+00:00",
-   "baslik": "The great British corporate sell-off - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckZjTVNneGotVllWZkZMbzhRbzFRUmhkS3VsTFBVY3RtejNwd3ZoX1NwR2N6M1E2NEMwZjkwMnVXZU53RUZyZV9ZQ3MzTFRHeGFQdGx0RVc1RHVpcU12ZTE1RWZXdFBTdlZhamR2M3Bjb3ZKQWo5TjdNbFRhTFdfYWkyV24?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:00+00:00",
-   "baslik": "Estonia accuses Russia of state-sponsored terrorism over hybrid attacks - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWWJ2a1dNdHphbHplcDVRWEg2TFNENENFb3hrcElva083ZGxhb0JJWWh3RFZDaGd3T0hyUlhoeTJpZUJWbUIxVHhpakhzX1JieVdPNXhGb0xyZkNBa2x1VVJUSk9MUDByYkJvb24wVE9nRWtEWUc2RTFMcjBKelFSMDN3Mzk?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:00+00:00",
-   "baslik": "How Brooklyn stole Polo - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UQTRrV3JFMUZJOGV6U3pvT3Y5LXIwdnZxY1hRV2ZQTm5yb2lzYlNGbi1UX3A5S1ZWTHZxQkNHY2hmTDlaMXZRYUZHeXNPSzVSaTZmNHJrR3k1S21yS2FwaU1NQlM5V0ZnbVhqblBhNkc?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T05:00+00:00",
-   "baslik": "Nvidia CEO admits to affair after allegations of relationship with Chinese spy - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3dOYm9ZRDk5WkxsTGFrb0MtWFMwMmd2SWRBdG1PX2NzdExkUDVjZ1YydXl0MGxNYlV4am9uc19hMDR3Wll5ZTBuY284OUk4ZnFudjBkMERLQldwVmZQVkNwQUhZZGFFOEtkM0NlWFVFbnBJZW5iZ0pOcTFRZ2RzVlYtM3o?oc=5"
-  },
-  {
-   "kaynak": "Reuters",
-   "tarih": "2026-11-09T05:00+00:00",
-   "baslik": "Breakingviews - COMMENTARY: How to stop \"securonomics\" from killing growth - Reuters",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVk5eXpCNG1CZFA3Q1ZocWlHMEJmdHpHN2ZueERRdFB0MWp4Szk5N09uRk40Skk5RWhMUHhmVy1mOGExMFg4UmNCNEJVc2lub2p4R0l2M1Y0VmtNLTBSS0g1WDh0ZXBjZVFyWHhRcWlEalpvVllwZ1FiUkV2R19KdjB1NFZKUzQ5dmNyeGtjR3RLU19VemJRalJlWHJpZw?oc=5"
-  },
-  {
-   "kaynak": "CoinDesk",
-   "tarih": "2026-11-09T04:54+00:00",
-   "baslik": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
-   "aciklama": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
-   "link": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T04:54+00:00",
-   "baslik": "Asian stocks rebound after AI rout - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHEzQjNVM0hCVHUxV3NxbWpTSDFrQzZ2MkwwWW13Q0Vubm82dW1IU0wyT2xfMWpCa1VpcFNKQ3lGS3FnYjZmMHcyZG1kQjQtaDczbVZCSGItak53QklrVVZqOEVfQzRMY1Y2ak0tQnFOcW15dGgxdlZaR1R4UXdocl9nbWE?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T04:46+00:00",
-   "baslik": "Nvidia Board to Probe Spying Case After CEO Admits Affair - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T04:36+00:00",
-   "baslik": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTkVXSkNKNzRBdXBNUlFmNVlEZ3gtUVhRbVVZcENiS3B6RXBlMDNvQ2lrU19fMXoyYkdSQWc5amg5OXlhcmtKX0JHZHR2amtKY2hzZllpQUhWS3lTNndnT2NDZFdYUHNCeG1MVHZmMWV5RjEwTXJqVmlLQTJDU0d3SHN2aHVOZ291bTNqNnprR3U2TndhUEs0ZHdDTVM2NlRsZW5VQUxKd25JLXV0MlJ6aXRR?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T04:04+00:00",
-   "baslik": "The Third Correction in Trump 2.0 Years - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDFXSXdKalFHcGhlZ1lrRXVUd3Y0VWVfTlpvbXhidl94RjdPMzBNODQ1NkQ4OGFJd3hDMWdKWmJSQ2ZhOVQ1bnhSNHEwOWx3MkZvZ0Y5cmoyRUVWY1hUSTVzVllpMmlBUnE0Ymtwek9IenJjREJIQk04QlA1LU9SODM5TENBdXl6VFE3OFk4cDlMX1BMUmwweVBxREllUzNn?oc=5"
-  },
-  {
-   "kaynak": "Cointelegraph",
-   "tarih": "2026-11-09T04:03+00:00",
-   "baslik": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
-   "aciklama": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers.",
-   "link": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-09T04:00+00:00",
-   "baslik": "Donald Tang: the Shein dealmaker denied his Hollywood ending - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVhlenlfN0JWNDZpTVRCeXlCOGlveERNSFI4T1N0SHZoa3VIQWg5OWdsLWRPVnNqblFZcTBVYUN3Vl91dFpqMUVNU3VFTUJ6TmR5S1BPWVcyZjM3UDZORjV6RF8ycE9oVDQ2YTNOVDJtRENuNmZXSjJ3ekhXRzlsQ3ZaTm8?oc=5"
-  },
-  {
-   "kaynak": "Reuters",
-   "tarih": "2026-11-09T03:57+00:00",
-   "baslik": "Trump says Nvidia's Huang is 'fine person' amid foreign spy probe - Reuters",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51THRzZ0kxUzRfNHRhVGFNcmt1RXBVZ2VOek1PZ3dTSW5jWEp2bURxMDlpNnd0V2FhdWNSYWZrRVVfekc2eGMxaTV1eHNuLWlSRUNkVGxyZmFSdWwwcHg3dmFZXzJiQmlSMTg4WG5RV0g3YkJvdUpDY2Rn?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T03:50+00:00",
-   "baslik": "Soybeans Rise as US Presses China to Boost Farm Goods Purchases - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVpOc2h1OEM0bkhEWVo2NE9SQTVtQlZ2MlFLdXRtVVQ0dk9YVWpYLVJBbGY2TGtDSGpES1FKdjBUdHdULXE4OXpabWxtX1J1X1R1eDZQd3djb1AtTlBFWTBGdmZaWU0wV19pd3JZNTgtdjhPMWNCY1lHUHBtVFp2d0xPU1lSSFFoM2V6a0JxdXhsa0lkU3VSOEVXRVdYd0ZDSWE0SnFRaGxMRHBfV2MydTI0dWM?oc=5"
-  },
-  {
-   "kaynak": "WSJ",
-   "tarih": "2026-11-09T03:38+00:00",
-   "baslik": "Jensen Huang Apologized to Nvidia for His Infidelity. His Kids Are On Staff. - WSJ",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjd6c29oaE8tRFBQX0VzcXN1MHJhdEdEd29raDk5dWRkQXdIZ2NhdG1qd3c1Y3FFanFXOFhTQ2M3Y2ZBMG92ZnJwRFJwb3lYYmlLZUdzcW5OTi0tZS1LazFxaVNyQ3NXbXVoS1pNM3VEZmV6Uk4zd2dHdzhkM0RXTm85eE9wTnlIT3dyeW9qbENnWmNDczVfdWMxUXhJSXZuZlJCYUdRSDA5dHZmTDFKeQ?oc=5"
-  },
-  {
-   "kaynak": "The Block",
-   "tarih": "2026-11-09T03:36+00:00",
-   "baslik": "Nvidia perps slide as market reacts to CEO Jensen Huang’s Chinese spy scandal",
-   "aciklama": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy.",
-   "link": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047"
-  },
-  {
-   "kaynak": "CoinDesk",
-   "tarih": "2026-11-09T03:21+00:00",
-   "baslik": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-   "aciklama": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
-   "link": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T03:20+00:00",
-   "baslik": "Philippine Economic Slump Worsens on Iran War, Bad Weather - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDIwYjBTLXNybWI4blZPcGZPRlVIdjNROU0zTDIxRUc4NUFfX2drMDJ4bXp6a3UxVC01a0NDWGJ4NlE5SHZSY3I5dFZ2VS1jbVkwa3B5eUVkTGlfZUt4YmhxNWdmaFlodmdXTnJjb3Q2d0I2a0dqMHhreHh4dWNlNFJUbnktRU85dTNVazlOMmZOelNvYzFfTk8wZHFVSUdRTnpOT0tRWGJndWJadTNKMlhB?oc=5"
-  },
-  {
-   "kaynak": "Reuters",
-   "tarih": "2026-11-09T02:48+00:00",
-   "baslik": "China extends suspensions of 24% tariff on US goods, port fees on US ships for two months - Reuters",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSTA2TElMOUVJb2VPUWp2RnhuNWtoOHhncWpKUW9Ob1lEQ19BVUluTWRvRkZTYWJTYlU5RlZNR2F6UmZOcW5GLXlrQVJuMzMxakd2V2M4d1dXRDBCU3FBN182RlFQTjVBbVpTbzQ2cXZzdkk4YUJxZkF4NUVoZXlXR1haVlZIY2lpMnJQeTdFWTFMQkR5QWxiaWtqZUJSSUI5bFpzdGNmUENfU2h4dWIxcg?oc=5"
-  },
-  {
-   "kaynak": "Reuters",
-   "tarih": "2026-11-09T02:44+00:00",
-   "baslik": "21Shares Bitcoin Cash ETP (ABCH.DE) | Stock Price & Latest News - Reuters",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80MER1M05XZkJtYzRobUgycng3TUkyellFVWtyVXlwRW9FT1FmWldLVEx1RUl0SXhNNUlkSFhiRDNwTElrc1pLX0h6OVNtWjJRMU5PLTc4UkxpNzh5ZnJxcWhiVXd2NFY3RUswNm05UQ?oc=5"
-  },
-  {
-   "kaynak": "The Block",
-   "tarih": "2026-11-09T02:36+00:00",
-   "baslik": "What is Zcash (ZEC)? How shielded transactions work",
-   "aciklama": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter — called “shielded transactions” on the network — make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the sender, recipient or amount. Zcash has eme",
-   "link": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T02:36+00:00",
-   "baslik": "Chinese Producer Inflation Hits 5.7% for Post-Covid Era High - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmtVSmRjR3dJWkJYWi1ROURuRTNuVXFmUFBDelZtUkFHQ0pwaWRmVzFJNXhiMEFoS0g0Mmx3UTJoTFpEcWFDVm4tNTZMSmV5NkhrRGs1SWhYMC1iNmpaMG92UlRweV9wTldzNHFLdE1qbUh1U0ltcWdNcDUwVHpaVkhidDlobUM3RTNGV0pIbkR2OUF3akRtamtaRi1iN3VuZXl5VkJlS1IzclV3ZFZNVWhyS2U?oc=5"
-  },
-  {
-   "kaynak": "WSJ",
-   "tarih": "2026-11-09T02:33+00:00",
-   "baslik": "Oil Falls Amid Hopes for Easing Mideast Tensions - WSJ",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ0FxM2lwUEV3Umg0REQ4SXRBZUNtdWRMRHJfeUQ3ajNEQ3JmSmNUS0h3VzVRSVdudUNlb0V6b1VzQndqYVViejFjLU9Cc25UYURPeTZ0VHdVVHk5Uzd0bzJkMG9QX21DT0RZN0FlTWFKUUhZR3E0LWE0X1Z2eG9XZ1J6RnpzM3UzSVJLcGZGNmc2VzBuSVpHUldyOUVUcjItYmRfcVpKa18?oc=5"
-  },
-  {
-   "kaynak": "CNBC",
-   "tarih": "2026-11-09T02:24+00:00",
-   "baslik": "CCTV Script 09/11/26 - CNBC",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JQW1vTTNaVVY1LWhhZGFVRkd3R0lteHVYRVRYZXZaeWFqdmNsNS1Qdmh5OVdHSkZuVlBOdXpkRUI4YkE5aS1lNDJXdE1kdEZ0TERXQXVIV3BrM2FuMklYQ3lVcGFSdw?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T02:16+00:00",
-   "baslik": "Japan’s Mitsui Chemicals, DBJ to Buy JSR for $12 Billion - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnVYazR4OE1Vc0x1dFYzZXA2bE0xdmZBZThJN1lYVTR4bHhKSjJTblJSS0luNVlVLVpycnd1cHY5SWF4MDViekszRENnamM2NWR3aV9iOGdBdU5rOVg1Smp0c0l5SGZsWFMxY2FqTTQtV1ctdEE0U2I3SWxyNkd5bnpZaGVocWw1c05uclVNSmwxM24yUlY3aXV2SGtpN2hOYlZZbWFMQkU?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T01:56+00:00",
-   "baslik": "Berkshire Plans First Japan Bond Offering Since April - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjg4SkFhMmdkTUtkSTdsY3hHbURQYUNHdlg0NWUtamdxNHVEZC1Ga3lWWWxBX3pwRE1ZazZpRFljWm1GRXM5MnpDN0hlWWNKVDRkdXFHNWcyOVQyN212NVdxWlZ2TFQ2TWh2d3MwdC0walJjMWlEN2p1OC1jV2JaWnpVZjRfYk4zWDNyb1FzNF9tb2xrVFFaYnRHZGZxRE80YkZlaURlOTdsbDdpYk9LbTZZTQ?oc=5"
-  },
-  {
-   "kaynak": "Reuters",
-   "tarih": "2026-11-09T01:46+00:00",
-   "baslik": "Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets - Reuters",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0oxRGlDMkl5NWVMcTZ3NjVxWU5RakhWT3BnZG1vc254T1RSXzg0SE5MelBYSTNsakduTFo5R0pJMkNWNXZKVW9SZEFOLWZfbWQwdG94bkpoeGw5V0I5bmtlRktsWmpqTGhwVzFNSkgyaDdEVUprbDNsMkI1WThjZ1cwQmpIRjN5VVFOVw?oc=5"
-  },
-  {
-   "kaynak": "Reuters",
-   "tarih": "2026-11-09T01:39+00:00",
-   "baslik": "China's factory-gate inflation at fastest in nearly 4-1/2 years in October, while CPI rise moderates - Reuters",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdHZHeWlBMm5ScUQ3Um9LTHZLdHpkZzNXNXF0NWlKUjlMaE54NnI2VUhSNktuS3BpWEtldEk4ZklwbDFaLUVGaXcxdVY3ZllyX1o5aFNNX1R0dC03Zzc3NFVkSVdTZDl5dTg0UUF4R1lLQXNlT3NmS29zVjhqQWZPVVU5OXlpLXpWdmpSeEJCVWhrY1FUcnc0REduM3VITEs0TXRvLXRtLUxXMUZYaWl5NmYxZml3MDQzUDMxU20wbWdHWWMzbERkeVZHTQ?oc=5"
-  },
-  {
-   "kaynak": "Reuters",
-   "tarih": "2026-11-09T01:34+00:00",
-   "baslik": "Indian rupee tracks AI volatility, oil; inflation data next test for bonds - Reuters",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUJncUFJYWZ3Z1JsUjB6SFJfakZ2SmVEVU1MbGpYVDNOQ3hTSTQ0c0QtUDRuUEQwdmFobUNpTjliaUhMZlEzTXBjZ20wb002Q2pDcWY1SjFIWUJEeHdmVDlLb1drV2NkRklMaWlkRjNnS3FmOG1SZ3Nza2dyWV9KcGJUMEhvVVZfLXN1QXVYRmtvYjh1Uk1yRXpZdVR4aEtxSFZfWmVHdTRibDNQU2RwVkdBMmZPWWM?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T01:32+00:00",
-   "baslik": "Trump Backs Nvidia CEO After Affair With Suspected China Spy - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGwxSGd5R0JaY3pOaG9xSkUtdU5iUnA0eHRNc0YycTliRm5SdmFoREZ5SlhMOHM5d3JsTEdCT1ZkNE82YjE3YWtieE91OXU5WjFSaDRHdjZHM1dBLWNqRGdDSXZ6cG5VbER1V1pzZmZGejZqdVpoUlhMaUJ4LVVBMXMyU2JjZDhuUkU0RDY4cHFoT2xENS1nSXFsUlUyMFljMlk2dWFPU3N6aE9iNUFsLQ?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T01:27+00:00",
-   "baslik": "Rubio Sees No Iran Breakthrough as Trump Downplays Strikes - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzA3VUJ1UWpnaXNfMkt1RFJGUWxuRG5EX3VsRWJBVngwNVJETXBfS1dUUGFZel9lMEJIdi10dFNlZWduc1ZSOU50bTBfbXVyLUpaQ2EzSmpXSWZGM2pNcFJJaFExVWhDTmxVSnc0TWozMTc5T1lhSHIwU2hTVU1XSzdYU3dDQldWZ2dRS012TUpsSFRBSmJjcEtRbkFIU09NMkFORGpxanpXaXhIVF81TzZoSTE?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T01:16+00:00",
-   "baslik": "Trump Says He Backs Energy Permitting Bill on Eve of Senate Vote - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNnZHdXNLSV93WUJjVmgydlp0YkhSNWFuNkZsZjFkYi00aDV0bzBsYXJpZ3kzQlloYW5ka3lnTm1DUGFnWUNDYVNHTHdRRGE4dVlTUXJ4R0lvY3pGY2p2UjZ1Z0c1dE9nMXRsVm5LenR3VmsyT0c1azlvX2MwWlpXdlVwNm44bjVNSDhkYmFPVURGNkxhNU1LRTZ6YTU2WkJRWHg1QVRhN0sxUmpaaHEwc3NiMlBZdw?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T01:00+00:00",
-   "baslik": "India’s Consumer-Facing Firms Eat Costs to Avoid Price Hikes - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSm5lMmlCVk41RjZ1cUdEbDhnUnpXQ3E3SHB6RlZ3WmNxM2FsRmlpV2I2eFV3VUV0RXVpMlFyMG5Kdi1NTURQaUhTMUNUOGxjcHFidjk4Z3pRcHEya2hmalhEQTVGUjRyQ1pyRW11ckRNc0w5Ql9fVVQ3YXR2SXE3REI5VnItZTM5OVBVQ1BDZzlkRUdLMENQeTZzaVR4UUcyb3VDcmJjbkNSdkpaRV9XS0x3?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T00:52+00:00",
-   "baslik": "Hegseth Impeachment Backed by Democratic Leader Jeffries - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSUh1QkpsemtEOHdRQWFZSDVDckJ4d0sxWS02Q2d4VGVHNkdHdHpyUElYUFE1ZWVXMDJPN0Z4UmpaV1ZpVDlnTXA2cURzR1ZLeVRBVFktdXlvMkxCZzM1el90bGNIYWdUT1cyVm5tNFdkclN2dHBjX1lhSGI1UTJkem05T3hCYjR1ZEV4Mkc3YUNYelZOOEhmLW5wMWJSQlRVd0hjMzZlekhqNy0yNW9BVGpjaw?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T00:48+00:00",
-   "baslik": "Japan Says Three-Day Yen Intervention Lifted Yen in Summer - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0hIS1pBbjdyM0tsMldxMjVocXRtMW5PV2RrSkE4SjYxeG9zVG9FTTJnNi1IUkFUeU4yazRJMHlUenJHeWJkb1c3Tl95TUs0d2pwTmFGS2tkMlBGNzVnYm52Mjhfc1RFYWNBLVlWUWk3and3aUNzMlNuT0QyZHgwZWdsdnZvQ05NSkZRdVl2aGdfQl80WEZSMDV0WU9hMUJsQzJYOHlKNUI0RlJONVE?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T00:34+00:00",
-   "baslik": "Trump Says Tough Deportation Policy Likely Hurt GOP in Midterms - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQlRKTE12UFNBajh5MG56WHdlTDVkMFRDUkJRbmNNWE5BWXB2Tk9RZHYtSk1seHctZnZfS215S0lSVVJYVTdmQm1PVGxLZ3dMcFA5eFplUlBmX3BFMmU1cXhENFN4dXZCRWtxVXlRM1ZMdEhTQ1hiMG1kVWlVVXdFLUkxNHpkNVNjSHdQTHFnQmpZdUZxYVp3N1RsZ0o5eW1ueUpUUTRuV0Q1MDJnUUVYNm8ycw?oc=5"
-  },
-  {
-   "kaynak": "WSJ",
-   "tarih": "2026-11-09T00:25+00:00",
-   "baslik": "Gold Edges Higher Amid Mixed Signals - WSJ",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRm5kNDdzUnNUa1J6RkFIN1J1TlFOeXlsR1lEQmNDclhjcEpZOTQtNzNrYXlLNUt3LW05MmZBdnFZaHNFdEF2Sk5zT2lFMWNId3FoQnlTaklkQ0J6cmRJd0VrNHYtODEwUnR2a09LMUVZUVRTVGRZQjdiYUZCSVV1czY3RzlvTDNqd3llNjBCU0pkZlBTSVY0dw?oc=5"
-  },
-  {
-   "kaynak": "WSJ",
-   "tarih": "2026-11-09T00:17+00:00",
-   "baslik": "A Missionary Pope Faces a Chain Saw-Wielding Populist in Argentina - WSJ",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMF9zWG9Bd3dIY3FRUl90dE5TNFI0bE9fZjl4VERCazM1TkhHTFNJN0tSRGx0c1ptdUV4RG0zN2NSSjk2RGJZN1d6R1dJV2VkZHJQdXpRTnltZzVfM091Q3ppUEJtVGhjQ0ItZFZWeXdycXo3eExqYXpaV3hjVVMtVXJ4U1ozdS1KS09Ra2VSM1dFYjU2Z1F2eE5aUkY4UVdLcnBoLXdQUFJzWWJZVUVR?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-09T00:03+00:00",
-   "baslik": "Biden Limits His Memoir Promotion With Hint at Health Struggles - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVUx0cGNaRzk3SjBnTkJtR1B4V0Q0cEtoa0p2VjllMEZvN3FfQlVtaFBXWnNtdmczYmZMNU80QVRzT1ZKQ2VjcTVsNWdYQUhoUHVDWnZJaTVuamwwdWpHQ2VxYVZoTjM0SWZRb1E3cHE5aFVzcXhqZzFXSmV2RGlfemJFQi10TjlVcTBQWEQ1dEViajB4dFN0alNGREMxWHdTZERiOHU3NHotbGF3Mk9fYWNqY0E?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-08T23:58+00:00",
-   "baslik": "UBS CEO Ermotti Says Midterms Create Uncertainty for AI Buildout - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGxnS0lucE5XdkY3QlRJdkNLVG00R09GX3czZ2dMRnZhNzNEblF2bElCbzdyeDNkdXFFdDNtVVJqSVNKVWxaeEI4ZUIydWM4ZlFfaTd4bHFWQTdFSE0zdG9MLWhZZDR1SXIxSjhnTlUyeFNfM3JWb1JrZnEwc0dLR1lxUGxNUWhGRmtqR1FySS1SUm9GNURlOXo4YW56UTBuLUV2dUpDTFU4TzRBQlMtOVpkWmRJQQ?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-08T23:56+00:00",
-   "baslik": "RBA’s Hunter Says AI Boom Will Put Near-Term Pressure on CPI - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQVAwU2QwNnU3R0dQVlFPcmhqODhXVVlfMXhJZ2l3QS0zVlZYNjVvZm1KYkhEVklBOWlIMEZNMkl2SkFrNFBGWURJR1MtejI4QjRZbGwyTHJMQkR5NGxXZEU0Z0VJZlBOS2pMamNFV3N1VW9OUXd0TUVFc1FqME8zNzVwU3ZTeFhQVmdTb0NBNW5JcGlURTN0MHRrZXl2c1VwVlFIeF9HWmVpdm9IWnZpWnNNSzk?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-08T23:52+00:00",
-   "baslik": "Sudden Distress at Top-Rated Firm Tests China’s Rating Crackdown - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaGNUVk83VE9LaWJUbFR4VmtHNDhvVmpVR1FqMFFMdHBPMG40b1JRY1NRSDA3cWUyV2YwN0VUcFFzN0RRZm9oMk5PaDFjVG5oNnlSeGZwdWMzbk0tOWplNGR6Nm1aRF96RmFVdTZSLUxCWjRiSnpFVG51MS16ZUN2MmR4TWMySEdKSEVReGxJRTYxYVdRV0RNeVpmdV9KQWdYUjQ4c2VZVTVJU3NBQm5tb2I2dy14UQ?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-08T23:52+00:00",
-   "baslik": "Trump Says He Was Joking About UFC’s Dana White as Spokesman - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQajlPbVFYdmhnOTB5dG5pbG1lRThUTzJBMTk4RHQzSFgxNXNkSGlXWkZ5YzFMZi1FLXZtcTdVWWkza1dpelpsX2VFY05nQkVEQkNOVGROUm4zTmQ4QW9zS2NiWDROQjh4NzlKUG1LazJrZld6QnJXTGZmN1ZvSjEyUW1vaDBzckdsR3ZiZ01TeEp0OGJmcXI1OTNHcnppN29NZ1otWG55akpUemtoeWNhOWV0S3ZqZw?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-08T23:30+00:00",
-   "baslik": "North Korea’s Weapons Tests Surge to Twice Trump First-Term Pace - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3RObUpHcmFXU1JZMWFBZTF6SU5yQzQ4NlhISjZBRXhBcHpMaGdwWU1VVlBHOVNTWFA2QllTYjJqeE4yc2R0N0NhT2N2SXA4WVhLb2xKQ2k1cThLLXIyOUlmVHE3NHF6Q1FIbTBZNzBVeWdxVG5aTnhwU3Nsb0xJQmRiMUJqNmktd0ZFYWRCV1V5YkxfSGM5RDl0bGswWHU5T3AtZFJ5M2pQV0xsVm5aNVJJYlgtQQ?oc=5"
-  },
-  {
-   "kaynak": "The Block",
-   "tarih": "2026-11-08T23:07+00:00",
-   "baslik": "Onchain data casts doubt on insider-trading theory in NYT’s ‘suspicious’ election betting story",
-   "aciklama": "The New York Times reported on 'suspicious' bets, but two experts who reviewed The Block's findings said the evidence doesn't strongly suggest foul play.",
-   "link": "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-08T23:07+00:00",
-   "baslik": "Digital Realty, Goodman Buy 9.9% of NEXTDC in Stock Market Raid - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRlQtUDc5SHBHZ2MwYS02b1prNUtZY3JBM09NeTd6TW9LYlJUZjlQXzkyMFpBRmFyalZYTGExRHY2RE5zdFZTNGZIa3hQQXUwLUFyMl9JcXVVQkt0bGVDY2NsOXhRb2g0TnREMDNiLU80amdkNEtBc3kzQmRKQ0c5S1RZRW82T3IxMGhRektVc2M1bXFsb21vLUxCOWcycUEtbktrNEJodWtnUW93RjcxRmNn?oc=5"
-  },
-  {
-   "kaynak": "Cointelegraph",
-   "tarih": "2026-11-08T22:59+00:00",
-   "baslik": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
-   "aciklama": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections.",
-   "link": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-  },
-  {
-   "kaynak": "Reuters",
-   "tarih": "2026-11-08T22:39+00:00",
-   "baslik": "Adobe Inc (ADBE.O) | Stock Price & Latest News - Reuters",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEYTFuelRJaFZlRThhY2IzUnNMSTVFUFVsa1FKNUF6MVBzYm5PSWpUMVowenZZSFhkbnpkb0s5dDNwSVhrQWFIbEs5MjZub2d5X3dGWklqc2xIdU51c2c?oc=5"
-  },
-  {
-   "kaynak": "Reuters",
-   "tarih": "2026-11-08T22:27+00:00",
-   "baslik": "Cryptocurrencies slide to two-month lows after US midterms - Reuters",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ19jb0ZtdjRvY1E4V0ltOHBXdkI0UXpfY3lNeFVhM0pxRUlUUmVhWVdRSW1Ec25SMnVvSXVxQ0hQcjJfamxSWWpRSVNoYnh4QUxaSHlHRExaWVBiNklkRUpvM1dMZENjS1RNRzJJUFNydjN2RVFpQkxfcGpSaGNUREEyX29scVBNTkoycjdRckk1ZFBIaTgybHh1NjU4eUxVUEE?oc=5"
-  },
-  {
-   "kaynak": "Financial Times",
-   "tarih": "2026-11-08T22:00+00:00",
-   "baslik": "FirstFT: Nvidia CEO admits to affair after allegations of relationship with Chinese spy - Financial Times",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbTZtaXlSVk5oLVJLM1QtLTRwUG9KMVlVNHBXT2lsT1htSzJqbENqeWhsN0wyZklTSFBQc1ZCcFZ1S3JwUjJYbV91Tm04VWRtRTdheHF3U3J5N1hPM3BBczhNMlNCdTh6WVFmZ1I1U1EtYUVpNFFGNlVLdzhFem9ZWlBvbjg?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-08T22:00+00:00",
-   "baslik": "China’s Bad-Debt Collectors Chase After 100 Million Defaulters - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjNuQXpCdjFjQXJqemxnQVRYV21id0VKSlBBWVpWOHJVclF2VHpwVU1KLXhiNGthX1hOTUdBYnc2cDlvMlp6NVp5a3IzY28ycWxHdU5CSnBzeE5IOUJxeE5USUExdWY5SWZuUkJsYkVyN0U3RHRhZ2ZoQUVUMEd5MjF1RDFCbjE2cjMtbXZBT21rVklCUGplYmd0OEpVcjZfd21ncGtaVHB0Nl9JNERrWjU5ZjlLaGdscTI1OU5QVjY?oc=5"
-  },
-  {
-   "kaynak": "Bloomberg.com",
-   "tarih": "2026-11-08T21:00+00:00",
-   "baslik": "Japan Works to Shield Takaichi From Any Xi Snub at China Summit - Bloomberg.com",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGl6X3V6LU55TkRZNHo0TW5VZFR0cnBCdkRQVnAyQU9hS3dkcnQ1ME1JVm9XTHBHWDdKUmpQX2Z3dGFjRFU0ZWVGU25rckozakpFNDNSZTRwc3dpdzBXZHl0ZEZMZkJ2ckh2MXpicmJsVVRfblJBT0gwMGhEanZGTHdOMVBJaTJUTzUtN1BLWlRZUFMwTDBGdkdLT2dPVTZVNTh2X3IwenFmTXZQZ2ZpS19fYVo?oc=5"
-  },
-  {
-   "kaynak": "WSJ",
-   "tarih": "2026-11-08T20:50+00:00",
-   "baslik": "The Shadowy Crypto Services Helping the Binance Hackers Launder Stolen Billions - WSJ",
-   "aciklama": "",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUlNYXNWSV9aeko2VWlLTUpldFVrQUNnQ0lBOFptOFdYRnM2N3RTUmUyNTFYQTZHTmF1UUhpYkxjTXBCU0t2Y2E2N21xVjFzakprcXRpeE5HcFBnR3o5MU1PS2xleVRfUWhMRnNXM1JPemsyeHFVdmFwU0tualVLTnhFa0EyelhqLUF0dXk0dExlZmtZOVpueF9ldTZGV21hYTBhWU5VWFRkdXkxZU5lZF9JajU2SEE1bkdHdlpJSzdKSElTSHc?oc=5"
   }
  ]
 }
